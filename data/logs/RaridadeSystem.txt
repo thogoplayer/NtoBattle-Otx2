@@ -1,0 +1,1193 @@
+
+[22/11/2020 02:30:17] The player Inosuke [472] won a [R]Dragon Boots
+[22/11/2020 10:09:44] The player Shazona [541] won a [R]Dragon Pants
+[22/11/2020 12:16:09] The player Dxs Pvp [160] won a [R]Sandaime Pants
+[01/12/2020 17:43:47] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:44:39] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:44:44] The player Adm [561] won a [E]Yondaime Tunic
+[01/12/2020 17:51:54] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:52:09] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:52:12] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:52:13] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:52:15] The player Adm [561] won a [R]Yondaime Tunic
+[01/12/2020 17:52:19] The player Adm [561] won a [R]Yondaime Tunic
+[08/12/2020 22:25:56] The player Ardemis [1] won a [L]Tobi Mask
+[08/12/2020 22:26:11] The player Ardemis [1] won a [R]Yondaime Pants
+[08/12/2020 22:26:11] The player Ardemis [1] won a [R]Yondaime Boots
+[08/12/2020 22:26:12] The player Ardemis [1] won a [R]Shodaime Pants
+[08/12/2020 22:26:13] The player Ardemis [1] won a [R]Madara Armor
+[08/12/2020 22:36:10] The player Pedin De Hiruzen [1] won a [R]Yondaime Pants
+[08/12/2020 22:36:10] The player Pedin De Hiruzen [1] won a [R]Madara Pants
+[08/12/2020 22:36:10] The player Pedin De Hiruzen [1] won a [R]Madara Boots
+[08/12/2020 22:36:23] The player Veio [11] won a [E]Hokage Hat
+[08/12/2020 22:36:24] The player Veio [11] won a [R]Shodaime Pants
+[08/12/2020 22:37:03] The player Pau Brasil [39] won a [R]Madara Boots
+[08/12/2020 22:37:34] The player Seu Madrugh [500] won a [R]Madara Armor
+[08/12/2020 22:37:34] The player Seu Madrugh [500] won a [R]Madara Boots
+[08/12/2020 22:37:36] The player Eutunois Fodeeles [1] won a [R]Madara Pants
+[08/12/2020 22:37:37] The player Eutunois Fodeeles [1] won a [R]Shodaime Boots
+[08/12/2020 22:37:39] The player Rian Itachi [1] won a [R]Yondaime Tunic
+[08/12/2020 22:37:53] The player Kiro [500] won a [R]Shodaime Pants
+[08/12/2020 22:44:12] The player Zika Obscurion [1] won a [R]Yondaime Tunic
+[08/12/2020 22:50:12] The player Senpai [500] won a [R]Tobi Mask
+[08/12/2020 22:50:14] The player Senpai [500] won a [R]Yondaime Pants
+[08/12/2020 22:50:38] The player Shisuizada [1] won a [R]Shodaime Boots
+[08/12/2020 22:52:37] The player Rei [500] won a [R]Madara Armor
+[08/12/2020 22:53:55] The player Paranga [1] won a [R]Shodaime Pants
+[08/12/2020 22:54:36] The player Pedin De Danzou [1] won a [R]Madara Armor
+[08/12/2020 22:54:36] The player Pedin De Danzou [1] won a [R]Madara Boots
+[08/12/2020 22:54:37] The player Naruto [500] won a [R]Shodaime Boots
+[08/12/2020 22:55:02] The player Mister [1] won a [E]Yondaime Boots
+[08/12/2020 22:56:34] The player Master [500] won a [R]Hokage Hat
+[08/12/2020 22:57:06] The player Mangekyou [1] won a [R]Madara Pants
+[08/12/2020 22:58:35] The player Guyzera [1] won a [R]Hokage Hat
+[08/12/2020 22:58:37] The player Guyzera [1] won a [L]Madara Pants
+[08/12/2020 22:59:26] The player Darkness [1] won a [R]Shodaime Boots
+[08/12/2020 22:59:27] The player Darkness [1] won a [R]Madara Boots
+[08/12/2020 22:59:36] The player Oppai [1] won a [E]Tobi Mask
+[08/12/2020 22:59:57] The player Dark [1] won a [R]Tobi Mask
+[08/12/2020 23:00:36] The player Arte [1] won a [R]Madara Pants
+[08/12/2020 23:00:36] The player Arte [1] won a [E]Tobi Mask
+[08/12/2020 23:00:37] The player Arte [1] won a [R]Yondaime Tunic
+[08/12/2020 23:00:38] The player Covid [1] won a [R]Shodaime Armor
+[08/12/2020 23:00:38] The player Covid [1] won a [R]Hokage Hat
+[08/12/2020 23:00:39] The player Covid [1] won a [R]Madara Armor
+[08/12/2020 23:01:06] The player Copiador [1] won a [E]Shodaime Pants
+[08/12/2020 23:01:42] The player Brabox [1] won a [R]Yondaime Pants
+[08/12/2020 23:01:43] The player Brabox [1] won a [R]Shodaime Boots
+[08/12/2020 23:02:17] The player Boss [1] won a [L]Madara Boots
+[08/12/2020 23:02:52] The player Boost [1] won a [E]Hokage Hat
+[08/12/2020 23:02:54] The player Boost [1] won a [R]Madara Boots
+[08/12/2020 23:03:23] The player Afobado [1] won a [E]Tobi Mask
+[08/12/2020 23:05:19] The player Uchiha Sasuke [500] won a [L]Madara Pants
+[08/12/2020 23:05:19] The player Uchiha Sasuke [500] won a [E]Tobi Mask
+[08/12/2020 23:07:09] The player Pedin De Orochimaru [1] won a [R]Shodaime Armor
+[08/12/2020 23:13:19] The player Pedin De Kakashi [500] won a [R]Shodaime Pants
+[08/12/2020 23:13:27] The player Orochi [32] won a [R]Yondaime Pants
+[08/12/2020 23:13:27] The player Orochi [32] won a [R]Hokage Hat
+[08/12/2020 23:13:30] The player Orochi [32] won a [R]Madara Pants
+[08/12/2020 23:13:39] The player Junin Lenda Isback [500] won a [R]Hokage Hat
+[08/12/2020 23:16:31] The player Uchiha Shisui [16] won a [R]Madara Armor
+[08/12/2020 23:16:31] The player Uchiha Shisui [16] won a [R]Madara Pants
+[08/12/2020 23:16:34] The player Uchiha Shisui [16] won a [R]Hokage Hat
+[08/12/2020 23:19:19] The player Pedin De Shisui [1] won a [R]Tobi Mask
+[08/12/2020 23:19:31] The player Imperador [500] won a [R]Madara Boots
+[08/12/2020 23:31:10] The player Deusa Coelho [500] won a [E]Tobi Mask
+[08/12/2020 23:31:11] The player Deusa Coelho [500] won a [R]Shodaime Boots
+[08/12/2020 23:33:58] The player Pedin De Shikamaru [500] won a [E]Shodaime Armor
+[08/12/2020 23:33:58] The player Pedin De Shikamaru [500] won a [R]Hokage Hat
+[08/12/2020 23:36:17] The player Caduzerah [500] won a [R]Madara Boots
+[08/12/2020 23:36:18] The player Caduzerah [500] won a [R]Shodaime Boots
+[08/12/2020 23:36:35] The player Junin Wukong [1] won a [R]Yondaime Pants
+[08/12/2020 23:36:35] The player Junin Wukong [1] won a [R]Hokage Hat
+[08/12/2020 23:43:28] The player The Blizzard [500] won a [L]Yondaime Tunic
+[08/12/2020 23:43:28] The player The Blizzard [500] won a [R]Yondaime Boots
+[08/12/2020 23:44:19] The player Onoki [1] won a [R]Madara Pants
+[08/12/2020 23:53:19] The player Maito Gai Maito [500] won a [R]Madara Boots
+[08/12/2020 23:53:20] The player Maito Gai Maito [500] won a [E]Shodaime Armor
+[08/12/2020 23:58:47] The player Cadeirante Andando [500] won a [E]Madara Boots
+[08/12/2020 23:58:47] The player Cadeirante Andando [500] won a [R]Tobi Mask
+[08/12/2020 23:59:45] The player Hidden Leaf [500] won a [E]Yondaime Pants
+[09/12/2020 00:03:44] The player Nara [500] won a [E]Hokage Hat
+[09/12/2020 00:14:02] The player Mil Olhos [500] won a [R]Shodaime Armor
+[09/12/2020 00:29:18] The player Hearts [1] won a [R]Hokage Hat
+[09/12/2020 00:37:35] The player Tekagami [500] won a [E]Shodaime Armor
+[09/12/2020 00:37:36] The player Tekagami [500] won a [R]Yondaime Tunic
+[09/12/2020 00:37:36] The player Tekagami [500] won a [R]Yondaime Pants
+[09/12/2020 00:37:36] The player Tekagami [500] won a [E]Hokage Hat
+[09/12/2020 00:43:01] The player Sapiencia [500] won a [R]Madara Armor
+[09/12/2020 00:43:01] The player Sapiencia [500] won a [R]Madara Pants
+[09/12/2020 00:43:02] The player Sapiencia [500] won a [R]Shodaime Pants
+[09/12/2020 00:43:02] The player Sapiencia [500] won a [R]Yondaime Tunic
+[09/12/2020 00:47:07] The player The Kakuzu [1] won a [R]Yondaime Tunic
+[09/12/2020 00:47:07] The player The Kakuzu [1] won a [R]Yondaime Boots
+[09/12/2020 00:50:21] The player Daumasugada [1] won a [R]Yondaime Tunic
+[09/12/2020 00:50:22] The player Daumasugada [1] won a [R]Shodaime Pants
+[09/12/2020 01:00:51] The player Dale [500] won a [R]Madara Armor
+[09/12/2020 01:00:53] The player Dale [500] won a [R]Yondaime Tunic
+[09/12/2020 01:00:53] The player Dale [500] won a [R]Hokage Hat
+[09/12/2020 01:09:04] The player Agnusbr [500] won a [R]Yondaime Pants
+[09/12/2020 01:09:07] The player Kaga Uia [500] won a [E]Yondaime Boots
+[09/12/2020 01:14:12] The player Danzoue [500] won a [R]Yondaime Boots
+[09/12/2020 01:15:10] The player Kiro Obito [500] won a [E]Shodaime Armor
+[09/12/2020 01:15:10] The player Kiro Obito [500] won a [R]Shodaime Pants
+[09/12/2020 05:10:16] The player Chico Bola [500] won a [R]Madara Armor
+[09/12/2020 05:10:18] The player Chico Bola [500] won a [R]Shodaime Boots
+[09/12/2020 05:52:39] The player Sheipada [500] won a [R]Madara Pants
+[09/12/2020 05:52:41] The player Sheipada [500] won a [R]Yondaime Tunic
+[09/12/2020 06:02:40] The player Muito Gay [500] won a [L]Shodaime Pants
+[09/12/2020 06:02:40] The player Muito Gay [500] won a [R]Shodaime Boots
+[09/12/2020 10:05:33] The player Sai Fora [500] won a [R]Hokage Hat
+[09/12/2020 10:05:33] The player Sai Fora [500] won a [L]Yondaime Pants
+[09/12/2020 10:15:05] The player Dexsa [16] won a [R]Yondaime Pants
+[09/12/2020 10:15:08] The player Dexsa [16] won a [R]Madara Pants
+[09/12/2020 11:02:41] The player Sask [500] won a [R]Yondaime Tunic
+[09/12/2020 11:02:56] The player Sask [500] won a [R]Madara Armor
+[09/12/2020 11:16:42] The player Pedin De Kankuro [500] won a [R]Shodaime Boots
+[09/12/2020 11:35:39] The player Hidanzada [1] won a [R]Hokage Hat
+[09/12/2020 11:46:10] The player Spark [500] won a [R]Tobi Mask
+[09/12/2020 11:46:12] The player Spark [500] won a [R]Shodaime Armor
+[09/12/2020 11:46:12] The player Spark [500] won a [R]Shodaime Pants
+[09/12/2020 11:46:12] The player Spark [500] won a [R]Yondaime Boots
+[09/12/2020 13:08:45] The player Sasorin [500] won a [R]Shodaime Boots
+[09/12/2020 13:08:46] The player Sasorin [500] won a [R]Yondaime Pants
+[09/12/2020 13:17:14] The player Angel [24] won a [R]Madara Pants
+[09/12/2020 13:17:14] The player Angel [24] won a [R]Tobi Mask
+[09/12/2020 13:28:02] The player Mush Is Henry [28] won a [R]Yondaime Pants
+[09/12/2020 13:28:52] The player Xandao [500] won a [R]Shodaime Boots
+[09/12/2020 14:05:35] The player Temtem [500] won a [R]Yondaime Pants
+[09/12/2020 14:09:36] The player Haku Fodelao [19] won a [R]Yondaime Boots
+[09/12/2020 14:19:56] The player Pedin De Naruto [500] won a [E]Madara Boots
+[09/12/2020 14:29:45] The player Asa Divino [35] won a [R]Shodaime Pants
+[09/12/2020 14:48:52] The player To Certo [500] won a [R]Madara Armor
+[09/12/2020 14:48:52] The player To Certo [500] won a [R]Madara Boots
+[09/12/2020 15:21:39] The player Akuna Sasori [23] won a [R]Shodaime Boots
+[09/12/2020 15:23:39] The player Sarutobi [500] won a [E]Tobi Mask
+[09/12/2020 15:23:41] The player Sarutobi [500] won a [R]Yondaime Tunic
+[09/12/2020 15:32:01] The player Pedin De Obito [500] won a [R]Shodaime Pants
+[09/12/2020 15:41:17] The player Sabio Tarado [500] won a [R]Tobi Mask
+[09/12/2020 15:46:04] The player Ruivinho [500] won a [R]Madara Boots
+[09/12/2020 15:46:04] The player Ruivinho [500] won a [R]Hokage Hat
+[09/12/2020 15:46:05] The player Ruivinho [500] won a [R]Yondaime Tunic
+[09/12/2020 15:48:03] The player Money [1] won a [R]Madara Boots
+[09/12/2020 15:49:29] The player Kira [500] won a [L]Shodaime Boots
+[09/12/2020 15:52:13] The player Narutin [500] won a [E]Yondaime Tunic
+[09/12/2020 16:11:52] The player Hidan [500] won a [R]Shodaime Boots
+[09/12/2020 16:11:53] The player Hidan [500] won a [R]Yondaime Tunic
+[09/12/2020 16:37:23] The player Soul Caolho [500] won a [R]Yondaime Tunic
+[09/12/2020 16:37:36] The player King Kakuzu [1] won a [R]Yondaime Tunic
+[09/12/2020 16:37:36] The player King Kakuzu [1] won a [E]Yondaime Boots
+[09/12/2020 16:37:36] The player King Kakuzu [1] won a [R]Shodaime Armor
+[09/12/2020 16:38:05] The player Mokuton Kidbengala [1] won a [E]Hokage Hat
+[09/12/2020 16:38:07] The player Mokuton Kidbengala [1] won a [R]Madara Boots
+[09/12/2020 16:54:40] The player King Guy [500] won a [R]Madara Pants
+[09/12/2020 16:54:41] The player King Guy [500] won a [R]Hokage Hat
+[09/12/2020 16:54:41] The player King Guy [500] won a [L]Yondaime Tunic
+[09/12/2020 17:31:30] The player Entendo [500] won a [L]Yondaime Boots
+[09/12/2020 17:32:25] The player King Itachi [500] won a [R]Shodaime Pants
+[09/12/2020 17:32:26] The player King Itachi [500] won a [R]Yondaime Tunic
+[09/12/2020 17:56:50] The player King Sasori [500] won a [R]Yondaime Tunic
+[09/12/2020 23:20:15] The player King Lee [1] won a [R]Yondaime Tunic
+[09/12/2020 23:20:16] The player King Lee [1] won a [R]Shodaime Pants
+[09/12/2020 23:20:16] The player King Lee [1] won a [R]Hokage Hat
+[09/12/2020 23:26:17] The player Red [500] won a [R]Hokage Hat
+[09/12/2020 23:49:03] The player Pedin De Gaara [500] won a [R]Yondaime Boots
+[09/12/2020 23:53:54] The player Monkey Dell Luffy [503] won a [L]Hebi LegRobe
+[09/12/2020 23:55:08] The player Pedin De Onoki [500] won a [R]Hokage Hat
+[09/12/2020 23:56:38] The player Kotoamatsukami [500] won a [R]Shodaime Pants
+[10/12/2020 00:00:32] The player King Susanoo [500] won a [L]Hokage Hat
+[10/12/2020 00:00:33] The player King Susanoo [500] won a [R]Yondaime Pants
+[10/12/2020 00:00:33] The player King Susanoo [500] won a [R]Yondaime Boots
+[10/12/2020 00:27:37] The player King Obito [500] won a [E]Madara Boots
+[10/12/2020 00:27:38] The player King Obito [500] won a [L]Shodaime Armor
+[10/12/2020 00:27:38] The player King Obito [500] won a [E]Yondaime Boots
+[10/12/2020 00:46:25] The player Teta Malhada [1] won a [R]Shodaime Boots
+[10/12/2020 01:48:01] The player Memento Senju [500] won a [R]Shodaime Armor
+[10/12/2020 01:48:01] The player Memento Senju [500] won a [L]Shodaime Pants
+[10/12/2020 01:53:36] The player Massaru [65] won a [R]Hokage Hat
+[10/12/2020 02:17:59] The player Dex [1] won a [E]Yondaime Boots
+[10/12/2020 02:18:00] The player Dex [1] won a [L]Shodaime Armor
+[10/12/2020 02:18:00] The player Dex [1] won a [R]Madara Pants
+[10/12/2020 08:22:05] The player Kingdom Taij [500] won a [L]Shodaime Armor
+[10/12/2020 09:11:35] The player Kingdom Obito [500] won a [R]Shodaime Boots
+[10/12/2020 10:55:10] The player Minats [500] won a [R]Shodaime Pants
+[10/12/2020 11:01:40] The player Pedin De Bee [500] won a [R]Madara Armor
+[10/12/2020 11:11:35] The player Itachi Trollmode [105] won a [R]Hokage Hat
+[10/12/2020 11:11:42] The player Itachi Trollmode [105] won a [R]Tobi Mask
+[10/12/2020 11:36:11] The player Depressivo [26] won a [E]Yondaime Pants
+[10/12/2020 12:39:28] The player Saratoba [1] won a [R]Yondaime Tunic
+[10/12/2020 13:52:20] The player Viper [1] won a [R]Yondaime Tunic
+[10/12/2020 13:52:21] The player Viper [1] won a [R]Madara Boots
+[10/12/2020 14:21:01] The player Onemadara [500] won a [R]Madara Pants
+[10/12/2020 15:29:40] The player Onedeidara [500] won a [R]Hokage Hat
+[10/12/2020 15:41:29] The player Onehinata [500] won a [R]Madara Armor
+[10/12/2020 15:41:29] The player Onehinata [500] won a [R]Shodaime Armor
+[10/12/2020 16:09:49] The player Mush Shikamaru [1] won a [R]Shodaime Pants
+[10/12/2020 16:12:11] The player Obts [500] won a [R]Shodaime Armor
+[10/12/2020 16:12:11] The player Obts [500] won a [R]Yondaime Pants
+[10/12/2020 16:17:34] The player Balao [1] won a [R]Madara Armor
+[10/12/2020 16:17:34] The player Balao [1] won a [R]Madara Pants
+[10/12/2020 16:17:39] The player Balao [500] won a [R]Yondaime Boots
+[10/12/2020 16:17:47] The player Onehiruzen [500] won a [R]Yondaime Tunic
+[10/12/2020 17:06:21] The player Wrath [38] won a [R]Madara Pants
+[10/12/2020 19:12:47] The player Liinked [26] won a [R]Yondaime Tunic
+[10/12/2020 19:12:48] The player Liinked [26] won a [R]Madara Pants
+[10/12/2020 19:31:09] The player Sugar Money [500] won a [R]Shodaime Boots
+[10/12/2020 19:41:14] The player Zoioos [500] won a [R]Madara Pants
+[10/12/2020 19:41:14] The player Zoioos [500] won a [R]Shodaime Armor
+[10/12/2020 19:49:08] The player Dran [500] won a [R]Yondaime Tunic
+[10/12/2020 19:49:48] The player Dran [500] won a [R]Madara Pants
+[10/12/2020 20:16:17] The player Teste [500] won a [R]Shodaime Boots
+[10/12/2020 21:03:22] The player Dread [500] won a [R]Shodaime Pants
+[10/12/2020 21:03:23] The player Dread [500] won a [E]Yondaime Pants
+[10/12/2020 21:05:25] The player Jardim Dos Amassos [500] won a [E]Shodaime Boots
+[10/12/2020 21:28:24] The player Hopii [1] won a [R]Madara Armor
+[10/12/2020 22:07:41] The player Tomamadeira [1] won a [R]Yondaime Pants
+[10/12/2020 23:09:13] The player Onehaku [500] won a [R]Tobi Mask
+[11/12/2020 01:50:30] The player Raikage Do Bom [500] won a [R]Yondaime Tunic
+[11/12/2020 02:48:00] The player Madarazin [503] won a [R]Uchiha Boots
+[11/12/2020 02:55:27] The player Comedor De Casadas [500] won a [R]Shodaime Pants
+[11/12/2020 09:02:29] The player King Sakura [500] won a [R]Hokage Hat
+[11/12/2020 10:28:40] The player Dreadjr [19] won a [R]Shodaime Pants
+[11/12/2020 10:28:45] The player Dreadjr [19] won a [R]Madara Armor
+[11/12/2020 10:29:33] The player Dfgdfgd [500] won a [E]Shodaime Boots
+[11/12/2020 10:34:25] The player Fghfgh [500] won a [E]Madara Armor
+[11/12/2020 10:35:21] The player Tert [500] won a [R]Shodaime Armor
+[11/12/2020 11:50:41] The player King Gaara [500] won a [R]Shodaime Armor
+[11/12/2020 11:51:56] The player King Hidan [1] won a [R]Yondaime Boots
+[11/12/2020 11:54:39] The player King Shikamaru [1] won a [R]Shodaime Boots
+[11/12/2020 11:55:27] The player Sasorii [500] won a [R]Shodaime Armor
+[11/12/2020 11:55:31] The player Kamui [500] won a [R]Shodaime Armor
+[11/12/2020 11:55:31] The player Kamui [500] won a [L]Shodaime Pants
+[11/12/2020 11:55:32] The player Kamui [500] won a [R]Hokage Hat
+[11/12/2020 11:55:33] The player Sasorii [500] won a [R]Yondaime Boots
+[11/12/2020 11:55:33] The player Sasorii [500] won a [R]Hokage Hat
+[11/12/2020 11:57:24] The player King Bee [1] won a [R]Shodaime Armor
+[11/12/2020 11:57:24] The player King Bee [1] won a [E]Yondaime Boots
+[11/12/2020 12:18:20] The player Kkashi [16] won a [R]Madara Boots
+[11/12/2020 12:18:22] The player Kkashi [16] won a [R]Shodaime Pants
+[11/12/2020 12:18:22] The player Kkashi [16] won a [R]Shodaime Boots
+[11/12/2020 12:25:16] The player King Kaguya [500] won a [R]Tobi Mask
+[11/12/2020 12:25:17] The player King Kaguya [500] won a [R]Yondaime Pants
+[11/12/2020 12:41:05] The player Liipe [500] won a [R]Madara Pants
+[11/12/2020 14:13:54] The player Ternura [1] won a [L]Yondaime Tunic
+[11/12/2020 14:38:04] The player Unknown Player [1] won a [R]Tobi Mask
+[11/12/2020 14:38:04] The player Unknown Player [1] won a [R]Shodaime Armor
+[11/12/2020 15:15:22] The player Kka [500] won a [R]Yondaime Boots
+[11/12/2020 15:39:07] The player Lenda Uchiha [500] won a [R]Tobi Mask
+[11/12/2020 15:39:09] The player Lenda Uchiha [500] won a [R]Yondaime Pants
+[11/12/2020 17:48:04] The player Minatozin [500] won a [R]Madara Pants
+[11/12/2020 19:42:35] The player Mcbee [1] won a [R]Hokage Hat
+[11/12/2020 19:59:05] The player Mario [1] won a [R]Yondaime Pants
+[11/12/2020 20:03:33] The player Onesakura [500] won a [R]Yondaime Pants
+[11/12/2020 20:41:33] The player Luis Forte [43] won a [R]Hokage Hat
+[11/12/2020 20:41:41] The player Luis Forte [43] won a [R]Madara Armor
+[11/12/2020 20:41:41] The player Luis Forte [43] won a [R]Madara Boots
+[11/12/2020 22:10:39] The player Tipo Orochi [500] won a [R]Madara Armor
+[11/12/2020 22:10:40] The player Tipo Orochi [500] won a [R]Hokage Hat
+[12/12/2020 01:34:58] The player Teleport [15] won a [R]Yondaime Pants
+[12/12/2020 01:34:59] The player Teleport [15] won a [E]Shodaime Armor
+[12/12/2020 01:35:00] The player Teleport [15] won a [R]Madara Boots
+[12/12/2020 03:52:36] The player Teta Malhada [500] won a [E]Madara Pants
+[12/12/2020 11:36:15] The player Deus Das Ideias [500] won a [R]Shodaime Boots
+[12/12/2020 11:36:24] The player Deus Das Ideias [500] won a [R]Hokage Hat
+[12/12/2020 14:09:28] The player The Good [34] won a [R]Yondaime Tunic
+[12/12/2020 14:09:28] The player The Good [34] won a [R]Hokage Hat
+[12/12/2020 14:09:29] The player The Good [34] won a [L]Madara Armor
+[12/12/2020 14:09:29] The player The Good [34] won a [E]Madara Pants
+[12/12/2020 14:09:29] The player The Good [34] won a [R]Madara Boots
+[12/12/2020 14:26:54] The player Hokage Sz [21] won a [R]Yondaime Pants
+[12/12/2020 14:26:54] The player Hokage Sz [21] won a [R]Shodaime Boots
+[12/12/2020 14:32:28] The player Juaozito [11] won a [R]Madara Pants
+[12/12/2020 15:26:45] The player Bielzin Pirocudo [500] won a [R]Shodaime Pants
+[12/12/2020 15:26:46] The player Bielzin Pirocudo [500] won a [R]Hokage Hat
+[15/12/2020 22:20:59] The player Sasukezin [152] won a [R]Sandaime Pants
+[15/12/2020 22:42:33] The player Fernandes Porta Nike [207] won a [R]Uchiha Tunic
+[15/12/2020 23:35:43] The player Betin Drogado [224] won a [R]Uchiha Boots
+[15/12/2020 23:35:43] The player Betin Drogado [224] won a [R]Uchiha Pants
+[15/12/2020 23:39:23] The player Shinra [188] won a [E]Sandaime Shirt
+[16/12/2020 00:06:21] The player Nike [207] won a [R]Sandaime Shirt
+[16/12/2020 00:06:23] The player Kakuzu Fodelao [218] won a [R]Sandaime Pants
+[16/12/2020 00:44:14] The player Fernandinho Beiramar [221] won a [R]Sandaime Boots
+[16/12/2020 01:00:42] The player Menoni Isback [235] won a [R]Uchiha ForeHead
+[16/12/2020 01:18:02] The player Betin Magebot [200] won a [R]Uchiha Boots
+[16/12/2020 01:25:29] The player Beppler [300] won a [E]Uchiha Pants
+[16/12/2020 08:54:24] The player Amassa Otario [202] won a [R]Uchiha Boots
+[16/12/2020 09:44:30] The player Kingdom Tigre [316] won a [R]Hebi Shirt
+[16/12/2020 09:44:31] The player King Player [321] won a [E]Hebi Boots
+[16/12/2020 10:20:55] The player King Player [323] won a [R]Dragon Boots
+[16/12/2020 11:32:44] The player Kingdom Tigre [315] won a [R]Dragon Armor
+[16/12/2020 11:32:44] The player Kingdom Tigre [315] won a [L]Dragon Boots
+[16/12/2020 12:03:22] The player Kakuzu Mvp [277] won a [R]Uchiha ForeHead
+[16/12/2020 12:16:59] The player Desenhista De Hentai [302] won a [R]Uchiha Boots
+[16/12/2020 13:05:11] The player Full Dano [284] won a [R]Uchiha Boots
+[16/12/2020 13:59:51] The player Zfallenz [118] won a [R]Sandaime Pants
+[16/12/2020 15:15:06] The player Shinra [387] won a [R]Dragon Pants
+[16/12/2020 16:55:20] The player Bagana [201] won a [R]Uchiha Boots
+[16/12/2020 17:37:53] The player Beppler [428] won a [R]Hebi LegRobe
+[16/12/2020 17:42:41] The player King Player [401] won a [R]Chyio Skirt
+[16/12/2020 17:42:42] The player Beppler [428] won a [R]Chyio Skirt
+[16/12/2020 18:49:30] The player Veyker [202] won a [E]Uchiha Tunic
+[16/12/2020 18:56:08] The player Balao [307] won a [R]Uchiha Boots
+[16/12/2020 19:14:22] The player Sumidao Do Hokage [213] won a [E]Uchiha Tunic
+[16/12/2020 19:14:22] The player Sumidao Do Hokage [213] won a [E]Uchiha ForeHead
+[16/12/2020 19:14:22] The player Sumidao Do Hokage [213] won a [L]Uchiha Pants
+[16/12/2020 20:00:05] The player Augusto Tanka Tudo [418] won a [R]Dragon Armor
+[16/12/2020 20:33:07] The player Kakuzu [406] won a [R]Dragon ForeHead
+[16/12/2020 20:33:07] The player Kakuzu [406] won a [E]Dragon Boots
+[16/12/2020 20:33:37] The player Betin Magebot [414] won a [E]Dragon Pants
+[16/12/2020 20:35:22] The player The Hidan [351] won a [R]Sandaime Boots
+[16/12/2020 20:35:25] The player Ryxz [104] won a [L]Sandaime Boots
+[16/12/2020 21:55:32] The player Shimenesa [318] won a [R]Dragon Armor
+[16/12/2020 22:33:54] The player Hiroshima [273] won a [R]Uchiha Tunic
+[16/12/2020 22:50:45] The player Junin Lenda Sama [402] won a [R]Hebi Boots
+[16/12/2020 23:01:17] The player Junin Lenda Sama [402] won a [R]Dragon ForeHead
+[16/12/2020 23:29:30] The player Zfallenz [337] won a [R]Dragon Boots
+[16/12/2020 23:29:30] The player Black Sand [400] won a [R]Dragon Armor
+[17/12/2020 00:14:33] The player Izumi Marin [50] won a [L]Sandaime Helmet
+[17/12/2020 07:58:17] The player Froid [341] won a [R]Uchiha Boots
+[17/12/2020 09:46:40] The player Balao [400] won a [L]Dragon Boots
+[17/12/2020 10:51:40] The player Kakuzu Mvp [411] won a [R]Dragon Pants
+[17/12/2020 10:57:20] The player Full Dano [419] won a [R]Dragon Pants
+[17/12/2020 11:50:07] The player Mulher Falsa [156] won a [L]Sandaime Shirt
+[17/12/2020 13:37:18] The player Nagasaki [251] won a [R]Uchiha Pants
+[17/12/2020 13:38:06] The player Huzz [353] won a [R]Dragon Boots
+[17/12/2020 15:21:43] The player Naniii [1] won a [R]Sandaime Shirt
+[17/12/2020 15:21:43] The player Naniii [1] won a [R]Sandaime Pants
+[17/12/2020 15:28:30] The player Hahaha [1] won a [R]Sandaime Helmet
+[17/12/2020 15:28:30] The player Hahaha [1] won a [L]Sandaime Boots
+[17/12/2020 15:41:27] The player Gostosa Da Cohab [212] won a [R]Uchiha ForeHead
+[17/12/2020 17:14:33] The player Cadu Maverick [233] won a [R]Uchiha Pants
+[17/12/2020 20:11:33] The player Unknown Scar [217] won a [R]Uchiha Boots
+[17/12/2020 20:20:24] The player Hatsu [214] won a [E]Uchiha ForeHead
+[17/12/2020 21:32:03] The player Surfa Na Paralyze [308] won a [R]Uchiha Boots
+[17/12/2020 22:15:16] The player Cura Piranha [401] won a [R]Sandaime Boots
+[17/12/2020 22:32:22] The player Chora Mais [214] won a [R]Uchiha Tunic
+[17/12/2020 23:32:27] The player Surgeon [131] won a [R]Sandaime Shirt
+[18/12/2020 01:17:28] The player Linked [225] won a [R]Uchiha Tunic
+[18/12/2020 01:36:40] The player Shinra [455] won a [R]Shodaime Armor
+[18/12/2020 02:04:08] The player Narutsu [135] won a [R]Sandaime Boots
+[18/12/2020 09:53:46] The player New Naruto [215] won a [L]Uchiha Boots
+[18/12/2020 09:56:10] The player Izumi Marin [233] won a [R]Uchiha Boots
+[18/12/2020 11:49:18] The player Sumidao Do Hokage [400] won a [R]Tobi Mask
+[18/12/2020 11:49:19] The player Froid [437] won a [R]Tobi Mask
+[18/12/2020 12:13:45] The player Sara [174] won a [R]Sandaime Shirt
+[18/12/2020 13:16:38] The player Surgeon [352] won a [R]Madara Pants
+[18/12/2020 13:55:35] The player Desintoxicado [446] won a [R]Sandaime Helmet
+[18/12/2020 14:43:54] The player Bagana [263] won a [R]Hebi Shirt
+[18/12/2020 14:45:50] The player Lord Supremo [400] won a [R]Dragon Armor
+[18/12/2020 16:48:10] The player Chupada Dimensional [113] won a [R]Sandaime Boots
+[18/12/2020 16:52:14] The player Tekagami [413] won a [R]Nidaime Pants
+[18/12/2020 16:52:27] The player Greg The Kraken [507] won a [R]Nidaime Pants
+[18/12/2020 16:52:35] The player Deus [484] won a [R]Nidaime Boots
+[18/12/2020 17:05:22] The player The Killer [119] won a [R]Sandaime Shirt
+[18/12/2020 17:16:59] The player Fogo Na Babilonia [432] won a [R]Dragon ForeHead
+[18/12/2020 17:34:44] The player Uchiha Obito [400] won a [R]Sandaime Boots
+[18/12/2020 17:34:45] The player Hinata Sexy Girl [109] won a [R]Sandaime Pants
+[18/12/2020 17:53:44] The player Betin Drogado [513] won a [R]Tobi Mask
+[18/12/2020 19:52:37] The player New Tenten [454] won a [R]Madara Boots
+[18/12/2020 19:53:31] The player Balao [458] won a [L]Madara Boots
+[18/12/2020 19:58:25] The player Balao [458] won a [R]Tobi Mask
+[18/12/2020 20:14:33] The player Cadu Maverick [420] won a [E]Dragon Boots
+[18/12/2020 20:43:33] The player Greg The Kraken [508] won a [R]Uchiha Boots
+[18/12/2020 23:43:35] The player Hatsu [407] won a [R]Dragon Boots
+[19/12/2020 07:10:57] The player Onoki Ytb [235] won a [R]Uchiha Tunic
+[19/12/2020 09:37:38] The player New Tenten [466] won a [R]Shodaime Pants
+[19/12/2020 09:38:25] The player Deus [509] won a [R]Shodaime Pants
+[19/12/2020 10:19:40] The player Microsoft [292] won a [R]Uchiha Boots
+[19/12/2020 11:06:36] The player Sem Hearths [201] won a [E]Uchiha ForeHead
+[19/12/2020 14:37:38] The player Saske [217] won a [E]Uchiha Pants
+[19/12/2020 17:17:28] The player Slayer_maru [458] won a [R]Hebi Shirt
+[19/12/2020 17:18:02] The player Morcegoh [204] won a [R]Uchiha Tunic
+[19/12/2020 18:03:34] The player Greg The Kraken [548] won a [R]Yondaime Tunic
+[19/12/2020 18:04:38] The player Beppler [501] won a [R]Yondaime Tunic
+[19/12/2020 22:23:14] The player Zoka Uryu [212] won a [R]Uchiha ForeHead
+[19/12/2020 22:38:13] The player Asuramaru [220] won a [R]Uchiha Boots
+[20/12/2020 00:41:53] The player Sasex [213] won a [R]Sandaime Shirt
+[20/12/2020 02:14:23] The player Chupada Dimensional [368] won a [R]Dragon Pants
+[20/12/2020 11:43:29] The player Fernandes Tudo Dois [426] won a [R]Dragon Pants
+[20/12/2020 12:26:17] The player Vilao [200] won a [R]Uchiha ForeHead
+[20/12/2020 12:42:43] The player Kakuzu Mvp [494] won a [R]Madara Boots
+[20/12/2020 12:42:51] The player Naoto [462] won a [R]Madara Boots
+[20/12/2020 12:57:33] The player Orochimaru [404] won a [R]Dragon Boots
+[20/12/2020 12:57:50] The player Falamt Lek Kkjk [428] won a [E]Dragon Armor
+[20/12/2020 15:06:39] The player Timbu [391] won a [R]Dragon Pants
+[20/12/2020 15:49:33] The player Buce Tinha [253] won a [E]Uchiha Tunic
+[20/12/2020 20:31:02] The player Kazuku Flexzone [201] won a [R]Uchiha Tunic
+[20/12/2020 20:34:39] The player Slayer_maru [493] won a [R]Nidaime ForeHead
+[20/12/2020 20:35:06] The player Chora Mais [460] won a [R]Nidaime Pants
+[20/12/2020 20:48:06] The player Kanba [200] won a [R]Uchiha ForeHead
+[20/12/2020 22:13:02] The player Swaggy [202] won a [R]Uchiha ForeHead
+[20/12/2020 22:19:07] The player Muu Idoso [251] won a [R]Dragon Boots
+[20/12/2020 22:34:59] The player Uchiha Sasuke [495] won a [E]Yondaime Tunic
+[20/12/2020 23:36:58] The player New Shisui [204] won a [R]Uchiha Tunic
+[21/12/2020 00:11:28] The player Milflows [169] won a [R]Sandaime Helmet
+[21/12/2020 02:13:24] The player Kamian [300] won a [R]Sandaime Boots
+[21/12/2020 02:24:03] The player Fourfun [201] won a [R]Uchiha Boots
+[21/12/2020 06:02:09] The player Drum Dead [216] won a [R]Uchiha Boots
+[21/12/2020 07:26:47] The player Sasuke Uchiha [201] won a [E]Uchiha Boots
+[21/12/2020 07:50:02] The player [GM] Erik [1] won a [E]Dragon Armor
+[21/12/2020 08:38:56] The player Drum Dead [241] won a [R]Sandaime Boots
+[21/12/2020 09:26:14] The player Asc Glocked [209] won a [R]Uchiha Boots
+[21/12/2020 11:11:05] The player Timbu [454] won a [R]Uchiha ForeHead
+[21/12/2020 13:23:57] The player Messideus [260] won a [R]Sandaime Helmet
+[21/12/2020 13:23:57] The player Messideus [260] won a [L]Sandaime Boots
+[21/12/2020 13:51:01] The player Mush [343] won a [R]Dragon Armor
+[21/12/2020 14:48:47] The player Lo Mas Inteligente [299] won a [R]Uchiha Tunic
+[21/12/2020 14:58:36] The player Linguinha Legalize [511] won a [R]Shodaime Pants
+[21/12/2020 15:50:13] The player New Shisui [303] won a [E]Dragon Pants
+[21/12/2020 15:50:13] The player New Shisui [303] won a [R]Dragon Boots
+[21/12/2020 15:50:19] The player Kakashi Cego [397] won a [R]Dragon Boots
+[21/12/2020 15:58:17] The player Arazaki [514] won a [R]Madara Armor
+[21/12/2020 16:48:53] The player Massaru [300] won a [L]Uchiha Tunic
+[21/12/2020 16:51:31] The player Yin [250] won a [R]Sandaime Shirt
+[21/12/2020 17:16:16] The player Salish [200] won a [R]Uchiha Tunic
+[21/12/2020 17:25:18] The player Balao [552] won a [R]Sandaime Shirt
+[21/12/2020 19:07:40] The player Frist Naruto [200] won a [R]Uchiha Pants
+[21/12/2020 19:50:14] The player Mandrake Revoada [457] won a [R]Dragon ForeHead
+[21/12/2020 20:17:54] The player Sosuske [401] won a [E]Dragon ForeHead
+[21/12/2020 20:17:54] The player Sosuske [401] won a [R]Dragon Boots
+[21/12/2020 20:50:02] The player Kazuku Flexzone [400] won a [R]Dragon ForeHead
+[21/12/2020 20:50:02] The player Kazuku Flexzone [400] won a [R]Dragon Boots
+[21/12/2020 21:47:22] The player Nova York [200] won a [R]Uchiha Boots
+[21/12/2020 21:47:22] The player Nova York [200] won a [R]Uchiha ForeHead
+[21/12/2020 21:53:04] The player Nova York [200] won a [R]Sandaime Boots
+[21/12/2020 22:29:21] The player Asc Glocked [354] won a [R]Dragon ForeHead
+[22/12/2020 01:24:13] The player Padre Satanico [200] won a [R]Uchiha Boots
+[22/12/2020 07:07:11] The player Hometwo [204] won a [R]Uchiha Boots
+[22/12/2020 07:24:02] The player Hometwo [207] won a [R]Sandaime Helmet
+[22/12/2020 07:24:02] The player Hometwo [207] won a [R]Sandaime Shirt
+[22/12/2020 07:24:02] The player Hometwo [207] won a [R]Sandaime Boots
+[22/12/2020 09:40:37] The player Izumi Marin [400] won a [R]Dragon Armor
+[22/12/2020 09:58:00] The player Falamt Lek Kkjk [500] won a [R]Sandaime Pants
+[22/12/2020 12:53:43] The player Uzumaki Cereal [306] won a [L]Dragon Boots
+[22/12/2020 13:15:37] The player Saixd [372] won a [R]Dragon Pants
+[22/12/2020 13:54:39] The player Indo Matar [456] won a [R]Dragon Pants
+[22/12/2020 17:53:16] The player _tubaraum_ [470] won a [L]Dragon Pants
+[22/12/2020 18:29:20] The player Protagonista [401] won a [R]Dragon ForeHead
+[22/12/2020 19:59:52] The player Corsinha Dashadao [405] won a [R]Dragon ForeHead
+[22/12/2020 19:59:52] The player Corsinha Dashadao [405] won a [R]Dragon Armor
+[22/12/2020 19:59:52] The player Corsinha Dashadao [405] won a [R]Dragon Pants
+[22/12/2020 19:59:58] The player Carrodemao Dashadao [402] won a [R]Dragon ForeHead
+[22/12/2020 21:41:39] The player Akinori [221] won a [R]Hebi Boots
+[22/12/2020 22:12:50] The player Orochimaru [520] won a [E]Hebi Boots
+[23/12/2020 01:08:37] The player Inku [205] won a [E]Uchiha Pants
+[23/12/2020 05:49:59] The player Voadora [200] won a [E]Uchiha ForeHead
+[23/12/2020 08:08:08] The player Kanba [368] won a [R]Sandaime Shirt
+[23/12/2020 09:53:08] The player Draak Come Puta [509] won a [R]Uchiha Tunic
+[23/12/2020 10:20:45] The player Psychosocial [430] won a [R]Dragon Pants
+[23/12/2020 10:49:25] The player Narutosinho [201] won a [R]Uchiha Tunic
+[23/12/2020 12:27:18] The player Shotto [201] won a [R]Uchiha Tunic
+[23/12/2020 13:33:34] The player Rei Da Revoada [451] won a [R]Tobi Mask
+[23/12/2020 15:57:11] The player Beppler [545] won a [R]Red Wind Pants
+[23/12/2020 20:29:29] The player Vitinhopnz [251] won a [R]Uchiha Boots
+[23/12/2020 21:49:25] The player Mark Desenhista [202] won a [R]Uchiha Tunic
+[23/12/2020 21:49:25] The player Mark Desenhista [202] won a [R]Uchiha ForeHead
+[23/12/2020 22:17:39] The player Orochimaru Mvp [329] won a [R]Uchiha Boots
+[23/12/2020 23:00:10] The player Haxixe [406] won a [R]Uchiha Boots
+[24/12/2020 00:13:29] The player [GM] Erik [3] won a [R]Sandaime Helmet
+[24/12/2020 01:32:46] The player Beppler [553] won a [L]Madara Armor
+[24/12/2020 04:17:33] The player Ambrose Spellman [562] won a [E]Yondaime Boots
+[24/12/2020 05:50:56] The player Froid [528] won a [R]Madara Boots
+[24/12/2020 05:51:08] The player Lucky [460] won a [L]Madara Armor
+[24/12/2020 05:51:20] The player Junin Lenda Sama [587] won a [R]Madara Pants
+[24/12/2020 06:21:55] The player Froid [528] won a [R]Shodaime Pants
+[24/12/2020 07:44:02] The player New Shisui [472] won a [R]Madara Pants
+[24/12/2020 09:29:58] The player Kakashi Otsutsuki [208] won a [R]Uchiha Tunic
+[24/12/2020 09:29:58] The player Kakashi Otsutsuki [208] won a [R]Uchiha ForeHead
+[24/12/2020 09:37:38] The player Kakashi Otsutsuki [208] won a [R]Sandaime Helmet
+[24/12/2020 10:10:41] The player Wifi [301] won a [R]Dragon Armor
+[24/12/2020 10:10:47] The player Pirimbi [238] won a [R]Dragon Armor
+[24/12/2020 10:11:03] The player Solamento [419] won a [R]Dragon Armor
+[24/12/2020 10:11:12] The player Meliodas [265] won a [E]Dragon Armor
+[24/12/2020 10:33:24] The player King Pingu [283] won a [R]Uchiha Tunic
+[24/12/2020 10:39:25] The player Laudo Tai [360] won a [E]Sandaime Helmet
+[24/12/2020 11:00:05] The player Laudo Tai [360] won a [R]Uchiha Pants
+[24/12/2020 11:10:58] The player Four Hearts [497] won a [R]Yondaime Tunic
+[24/12/2020 11:10:58] The player Kombe Dashadao [453] won a [R]Yondaime Pants
+[24/12/2020 11:36:08] The player Corsinha Dashadao [461] won a [R]Shodaime Pants
+[24/12/2020 12:07:44] The player Akinori [461] won a [R]Madara Armor
+[24/12/2020 12:09:58] The player Invicto [201] won a [E]Uchiha Pants
+[24/12/2020 13:22:49] The player Danzou Flexzone [452] won a [R]Uchiha ForeHead
+[24/12/2020 13:23:35] The player Bs Sasuke [314] won a [R]Sandaime Pants
+[24/12/2020 14:46:17] The player Krypt [521] won a [R]Hebi Boots
+[24/12/2020 19:06:07] The player Nana [200] won a [R]Uchiha ForeHead
+[24/12/2020 21:48:21] The player Hinata Sexy Girl [453] won a [R]Shodaime Armor
+[24/12/2020 21:48:52] The player Hinata Sexy Girl [453] won a [L]Hokage Hat
+[24/12/2020 21:49:05] The player Ambrose Spellman [562] won a [L]Shodaime Armor
+[24/12/2020 22:00:58] The player Slayer_maru [541] won a [R]Madara Pants
+[24/12/2020 22:01:00] The player Ambrose Spellman [562] won a [R]Madara Boots
+[25/12/2020 04:36:00] The player Derek [356] won a [R]Sandaime Boots
+[25/12/2020 09:37:12] The player Shotto [374] won a [L]Sandaime Pants
+[25/12/2020 10:14:50] The player Mainkisamegots [240] won a [E]Uchiha ForeHead
+[25/12/2020 10:34:28] The player Akashi [255] won a [L]Sandaime Shirt
+[25/12/2020 10:34:28] The player Akashi [255] won a [E]Sandaime Boots
+[25/12/2020 11:00:20] The player Vingador [237] won a [E]Uchiha Tunic
+[25/12/2020 11:59:32] The player Vitinhopnz [441] won a [E]Sandaime Shirt
+[25/12/2020 12:31:39] The player Corolla Dashadao [437] won a [R]Dragon Armor
+[25/12/2020 16:00:22] The player Yfg [201] won a [L]Uchiha Boots
+[25/12/2020 16:20:03] The player Kid Pingu [206] won a [R]Uchiha ForeHead
+[25/12/2020 16:30:48] The player Toino Masnaovolto [350] won a [R]Uchiha Tunic
+[25/12/2020 16:30:48] The player Toino Masnaovolto [350] won a [E]Uchiha Boots
+[25/12/2020 17:27:32] The player Bs Sasuke [351] won a [R]Uchiha Tunic
+[25/12/2020 18:25:57] The player Decave Dashadao [392] won a [R]Uchiha ForeHead
+[25/12/2020 18:25:57] The player Decave Dashadao [392] won a [R]Uchiha Pants
+[25/12/2020 19:10:10] The player Ojins [252] won a [R]Uchiha Boots
+[25/12/2020 19:10:10] The player Ojins [252] won a [R]Uchiha ForeHead
+[25/12/2020 20:01:03] The player Dzset Fmzk [255] won a [R]Uchiha Pants
+[25/12/2020 20:38:21] The player Ninja Hype [465] won a [R]Hokage Hat
+[25/12/2020 21:06:00] The player Eros Rosa [450] won a [E]Uchiha Tunic
+[25/12/2020 21:09:14] The player Kanba [464] won a [R]Madara Boots
+[25/12/2020 21:42:39] The player Suispiro [59] won a [E]Sandaime Shirt
+[25/12/2020 21:46:44] The player Garai Mano [452] won a [R]Uchiha Tunic
+[25/12/2020 22:21:04] The player Vulgo Ice Blue [58] won a [R]Sandaime Helmet
+[25/12/2020 22:21:04] The player Zona Norte [134] won a [R]Sandaime Boots
+[25/12/2020 22:21:09] The player Carrodemao Dashadao [452] won a [R]Sandaime Shirt
+[25/12/2020 22:21:09] The player Carrodemao Dashadao [452] won a [R]Sandaime Boots
+[25/12/2020 23:44:22] The player Dremodas [405] won a [R]Uchiha Boots
+[25/12/2020 23:45:39] The player Roll Back [365] won a [E]Uchiha ForeHead
+[26/12/2020 00:43:56] The player Psicopata [252] won a [R]Uchiha Tunic
+[26/12/2020 01:07:49] The player Aizen [393] won a [E]Dragon Boots
+[26/12/2020 01:54:55] The player Haku [205] won a [R]Uchiha Pants
+[26/12/2020 02:40:14] The player Duzao [187] won a [E]Dragon ForeHead
+[26/12/2020 02:44:30] The player Note [209] won a [R]Uchiha Tunic
+[26/12/2020 03:14:07] The player Bre Zika [454] won a [R]Shodaime Armor
+[26/12/2020 03:14:32] The player Sumidao Do Hokage [524] won a [R]Shodaime Boots
+[26/12/2020 03:14:47] The player Garai Mano [451] won a [E]Shodaime Boots
+[26/12/2020 07:53:57] The player Rei Da Revoada [470] won a [R]Madara Armor
+[26/12/2020 08:46:56] The player Dkz The Boss [202] won a [R]Uchiha Tunic
+[26/12/2020 09:18:40] The player Corolla Dashadao [477] won a [R]Madara Armor
+[26/12/2020 09:58:16] The player Jirayayagame [217] won a [L]Uchiha Pants
+[26/12/2020 10:48:55] The player Arranca Tripa [371] won a [R]Dragon Boots
+[26/12/2020 11:51:44] The player Apenas Hungry [228] won a [R]Uchiha Boots
+[26/12/2020 11:52:03] The player Winsz [258] won a [R]Uchiha Pants
+[26/12/2020 11:52:06] The player Politys [251] won a [R]Uchiha ForeHead
+[26/12/2020 12:38:22] The player Politys [258] won a [R]Hebi Shirt
+[26/12/2020 12:38:22] The player Politys [258] won a [R]Hebi Boots
+[26/12/2020 13:05:39] The player Apenas Hungry [252] won a [R]Hebi LegRobe
+[26/12/2020 13:05:47] The player Winsz [260] won a [E]Hebi Boots
+[26/12/2020 13:41:31] The player Kakashi Hatake [225] won a [E]Uchiha ForeHead
+[26/12/2020 13:41:31] The player Kakashi Hatake [225] won a [R]Uchiha Pants
+[26/12/2020 14:35:34] The player Sand Man [201] won a [E]Uchiha ForeHead
+[26/12/2020 15:20:48] The player Vitinho [382] won a [R]Sandaime Shirt
+[26/12/2020 15:36:24] The player Djxxt Fmzk [354] won a [R]Dragon Pants
+[26/12/2020 15:49:39] The player Djxxt Fmzk [355] won a [L]Hebi LegRobe
+[26/12/2020 16:06:59] The player King Pingua [372] won a [R]Uchiha ForeHead
+[26/12/2020 16:06:59] The player King Pingua [372] won a [R]Uchiha Pants
+[26/12/2020 16:52:20] The player Jarvas [254] won a [R]Uchiha Tunic
+[26/12/2020 19:23:51] The player Dark Fmzk [260] won a [R]Uchiha Tunic
+[26/12/2020 19:27:49] The player Adenosina Trifosfato [382] won a [R]Dragon ForeHead
+[26/12/2020 19:27:49] The player Apenas Hungry [357] won a [L]Dragon Boots
+[26/12/2020 19:51:49] The player Torment [203] won a [L]Uchiha Boots
+[26/12/2020 20:11:53] The player Draak Pau Brasil [263] won a [R]Dragon Boots
+[26/12/2020 20:26:11] The player Kakashii Male [215] won a [R]Uchiha Pants
+[26/12/2020 21:32:37] The player Soul [245] won a [R]Uchiha Tunic
+[26/12/2020 21:54:02] The player Eu Sou Viado [94] won a [R]Sandaime Helmet
+[26/12/2020 21:54:02] The player Eu Sou Viado [94] won a [R]Sandaime Pants
+[26/12/2020 23:18:10] The player Huzz [516] won a [R]Hokage Hat
+[26/12/2020 23:46:50] The player Charlie Harper [211] won a [R]Uchiha Tunic
+[26/12/2020 23:46:50] The player Charlie Harper [211] won a [R]Uchiha ForeHead
+[27/12/2020 12:29:00] The player Politys [435] won a [R]Nidaime Pants
+[27/12/2020 12:29:05] The player Xinaid [390] won a [L]Nidaime Boots
+[27/12/2020 16:01:18] The player Dfideliz [490] won a [E]Madara Boots
+[27/12/2020 16:01:20] The player Brasilia Dashadao [506] won a [R]Madara Armor
+[27/12/2020 16:01:39] The player Carrodemao Dashadao [456] won a [R]Madara Boots
+[27/12/2020 16:16:01] The player Ban [468] won a [R]Yondaime Tunic
+[27/12/2020 16:20:31] The player Dfideliz [490] won a [R]Tobi Mask
+[27/12/2020 16:20:40] The player Carrodemao Dashadao [456] won a [R]Tobi Mask
+[27/12/2020 17:12:42] The player Fiatfiorino Dashadao [491] won a [L]Hokage Hat
+[27/12/2020 18:00:58] The player Taijutsu Sem Fim [205] won a [R]Uchiha ForeHead
+[27/12/2020 19:20:35] The player Cz Zz [274] won a [R]Uchiha Tunic
+[27/12/2020 21:53:06] The player Carlosx [411] won a [R]Dragon ForeHead
+[27/12/2020 23:53:19] The player Sio [162] won a [R]Sandaime Shirt
+[28/12/2020 00:58:26] The player Ghalahad [285] won a [R]Uchiha Boots
+[28/12/2020 01:02:05] The player Eu Sou Viado [403] won a [R]Dragon ForeHead
+[28/12/2020 01:02:09] The player Tou De Enemy [152] won a [R]Dragon Armor
+[28/12/2020 01:05:53] The player High Damaige [291] won a [R]Uchiha Pants
+[28/12/2020 01:05:59] The player Sasuke Ameba [256] won a [R]Dragon ForeHead
+[28/12/2020 01:18:09] The player Soraka Fullad [216] won a [E]Uchiha Tunic
+[28/12/2020 01:56:43] The player Fusca Dashadao [504] won a [E]Yondaime Pants
+[28/12/2020 02:59:55] The player Fusca Dashadao [504] won a [R]Yondaime Tunic
+[28/12/2020 10:06:53] The player La Cura [500] won a [R]Madara Boots
+[28/12/2020 11:37:52] The player Matyas Frog [303] won a [R]Uchiha ForeHead
+[28/12/2020 14:38:07] The player Carlosx [450] won a [R]Tobi Mask
+[28/12/2020 15:40:30] The player Apenas Hungry [482] won a [R]Madara Armor
+[28/12/2020 15:44:36] The player Matheuszoly [453] won a [R]Tobi Mask
+[28/12/2020 18:54:50] The player Piranha [226] won a [R]Uchiha Boots
+[28/12/2020 19:01:12] The player Kakashi Hatake [401] won a [R]Dragon ForeHead
+[28/12/2020 19:01:12] The player Kakashi Hatake [401] won a [R]Dragon Boots
+[28/12/2020 19:12:15] The player Bee Sama [368] won a [R]Hebi Boots
+[28/12/2020 20:51:29] The player Entra [353] won a [R]Dragon ForeHead
+[28/12/2020 21:17:05] The player Black Noir [580] won a [R]Yondaime Boots
+[28/12/2020 21:33:38] The player Piroca [146] won a [R]Sandaime Pants
+[28/12/2020 23:48:40] The player Cadu Maverick [564] won a [R]Shodaime Boots
+[29/12/2020 00:38:03] The player Shazona [500] won a [R]Dragon ForeHead
+[29/12/2020 11:03:37] The player Return [381] won a [R]Uchiha Boots
+[29/12/2020 12:53:32] The player Sthepan [226] won a [L]Uchiha ForeHead
+[29/12/2020 13:12:39] The player Varen [256] won a [R]Uchiha Boots
+[29/12/2020 13:12:39] The player Varen [256] won a [R]Uchiha ForeHead
+[29/12/2020 13:57:49] The player Soulcatz [300] won a [R]Sandaime Shirt
+[29/12/2020 13:57:49] The player Mano Lee [401] won a [R]Sandaime Shirt
+[29/12/2020 15:11:58] The player Gringo Tsuchikage [268] won a [R]Uchiha ForeHead
+[29/12/2020 15:25:36] The player Egirl Banhada [225] won a [R]Uchiha Boots
+[29/12/2020 17:13:41] The player Winsz [391] won a [R]Dragon ForeHead
+[29/12/2020 17:43:08] The player Psychosocial [499] won a [R]Yondaime Pants
+[29/12/2020 18:13:22] The player Vibora [210] won a [R]Uchiha Boots
+[29/12/2020 18:34:07] The player Kacuzu [478] won a [R]Uchiha Tunic
+[29/12/2020 18:34:07] The player Kacuzu [478] won a [R]Uchiha Pants
+[29/12/2020 19:38:37] The player Janjao [251] won a [R]Uchiha ForeHead
+[29/12/2020 20:52:50] The player Jake [108] won a [E]Sandaime Shirt
+[29/12/2020 20:58:13] The player Corre Da Trap [208] won a [E]Uchiha Tunic
+[29/12/2020 20:58:13] The player Corre Da Trap [208] won a [R]Uchiha Pants
+[29/12/2020 21:47:33] The player Kankuro [202] won a [R]Uchiha ForeHead
+[29/12/2020 23:56:59] The player Petricor [458] won a [R]Dragon ForeHead
+[30/12/2020 06:02:57] The player Wiz Khalifa [219] won a [R]Uchiha ForeHead
+[30/12/2020 09:06:56] The player Sske [341] won a [R]Dragon Boots
+[30/12/2020 11:38:30] The player Zezin [311] won a [L]Dragon ForeHead
+[30/12/2020 13:26:48] The player Healando Cugeral [483] won a [R]Yondaime Boots
+[30/12/2020 15:11:16] The player Hidan Carioca [203] won a [R]Uchiha Pants
+[30/12/2020 15:20:24] The player Deedp [280] won a [R]Sandaime Shirt
+[30/12/2020 15:21:49] The player Orochi Blood [219] won a [R]Uchiha Tunic
+[30/12/2020 16:39:48] The player Parasita [311] won a [E]Uchiha Boots
+[30/12/2020 17:48:30] The player Anubis [492] won a [R]Nidaime ForeHead
+[30/12/2020 18:01:49] The player Tentencg [401] won a [R]Dragon Pants
+[30/12/2020 18:24:31] The player Sauron [208] won a [R]Sandaime Shirt
+[30/12/2020 19:05:45] The player Fusquinha [200] won a [E]Uchiha Tunic
+[30/12/2020 19:45:42] The player Sio [449] won a [R]Nidaime ForeHead
+[30/12/2020 19:57:16] The player Palio Dashadao [451] won a [R]Dragon ForeHead
+[30/12/2020 20:47:41] The player Hearth Breaker [504] won a [R]Madara Pants
+[30/12/2020 22:45:11] The player Gloxinia [463] won a [R]Yondaime Tunic
+[30/12/2020 22:52:41] The player Laudo Tai [360] won a [R]Dragon Boots
+[30/12/2020 23:14:25] The player Cempay [250] won a [R]Sandaime Shirt
+[30/12/2020 23:22:29] The player Edited [486] won a [R]Uchiha Boots
+[30/12/2020 23:47:25] The player Jumanji [287] won a [R]Uchiha Pants
+[31/12/2020 00:07:52] The player Jr Nana [350] won a [R]Uchiha Tunic
+[31/12/2020 03:54:05] The player Lee Apela [202] won a [R]Uchiha Tunic
+[31/12/2020 06:07:50] The player Absoluto [218] won a [R]Uchiha ForeHead
+[31/12/2020 11:18:21] The player Jukes [351] won a [E]Dragon Pants
+[31/12/2020 14:13:08] The player Hearts Infinitys [200] won a [R]Uchiha Tunic
+[31/12/2020 14:23:40] The player Palio Dashadao [460] won a [R]Madara Pants
+[31/12/2020 15:10:58] The player Vilao [483] won a [R]Hebi Shirt
+[31/12/2020 16:18:39] The player Sasuke Dxd [200] won a [R]Uchiha Boots
+[31/12/2020 17:25:21] The player Piclesuchiha [206] won a [R]Uchiha ForeHead
+[31/12/2020 20:27:21] The player Akuma [354] won a [R]Dragon Armor
+[31/12/2020 20:41:49] The player Mclaren Dashadao [200] won a [R]Uchiha Tunic
+[31/12/2020 20:52:55] The player Youkai [231] won a [E]Uchiha ForeHead
+[01/01/2021 03:33:48] The player Palio Dashadao [486] won a [E]Shodaime Armor
+[01/01/2021 11:22:11] The player Kanba [483] won a [R]Yondaime Pants
+[01/01/2021 11:23:38] The player Arazaki [512] won a [R]Yondaime Tunic
+[01/01/2021 13:57:21] The player Dremodas [495] won a [R]Tobi Mask
+[01/01/2021 14:41:08] The player Ghali [354] won a [E]Sandaime Shirt
+[01/01/2021 17:35:32] The player Kiiroi Senko [498] won a [R]Uchiha Tunic
+[01/01/2021 19:41:53] The player Yamikaze [356] won a [R]Dragon ForeHead
+[01/01/2021 20:00:22] The player You Are Dead [437] won a [E]Dragon Armor
+[01/01/2021 20:19:37] The player Blade Schade [205] won a [R]Uchiha Boots
+[01/01/2021 20:28:33] The player Rust In Peace [459] won a [R]Yondaime Tunic
+[01/01/2021 20:28:39] The player Nash [539] won a [R]Yondaime Tunic
+[01/01/2021 20:41:07] The player Fusquinha Dashadao [500] won a [R]Madara Boots
+[01/01/2021 20:41:49] The player Barao Renegado [356] won a [R]Dragon Pants
+[01/01/2021 22:14:48] The player New Secret [223] won a [R]Uchiha Pants
+[01/01/2021 22:17:54] The player Kakuzu Do Arroizal [303] won a [R]Uchiha Tunic
+[01/01/2021 23:03:38] The player Dolyze [153] won a [R]Sandaime Helmet
+[01/01/2021 23:03:39] The player Cronny [160] won a [R]Sandaime Boots
+[01/01/2021 23:35:09] The player Polits [203] won a [R]Uchiha Boots
+[01/01/2021 23:38:08] The player Testuda Tesuda [227] won a [L]Uchiha Tunic
+[02/01/2021 01:55:06] The player Bonnie [466] won a [R]Uchiha Tunic
+[02/01/2021 03:49:13] The player Joka [247] won a [R]Uchiha Tunic
+[02/01/2021 03:55:25] The player Goiaba Sx [419] won a [L]Dragon Boots
+[02/01/2021 07:16:15] The player Nescau [220] won a [R]Uchiha Tunic
+[02/01/2021 11:32:50] The player Rennega [407] won a [R]Dragon Boots
+[02/01/2021 11:45:14] The player Matyas Piton [490] won a [R]Dragon ForeHead
+[02/01/2021 12:46:13] The player Pagode Lee [450] won a [R]Yondaime Pants
+[02/01/2021 14:42:00] The player Jao Do Lure [555] won a [R]Yondaime Pants
+[02/01/2021 15:09:59] The player Apenas Hungry [547] won a [R]Shodaime Pants
+[02/01/2021 15:48:19] The player Nana [461] won a [R]Yondaime Boots
+[02/01/2021 17:12:26] The player Akuma [451] won a [R]Tobi Mask
+[02/01/2021 17:12:27] The player Nana [461] won a [R]Tobi Mask
+[02/01/2021 19:19:30] The player Snoopy [451] won a [R]Shodaime Armor
+[02/01/2021 19:20:00] The player Damassa [307] won a [R]Dragon ForeHead
+[02/01/2021 19:33:00] The player Narutoyagame [463] won a [R]Tobi Mask
+[02/01/2021 21:22:48] The player Sabrina Morningstar [558] won a [R]Dragon Pants
+[02/01/2021 22:01:11] The player Eu Sou Viado [525] won a [E]Madara Pants
+[02/01/2021 22:06:05] The player Heal By Storm [200] won a [R]Uchiha Boots
+[02/01/2021 23:05:57] The player Rust In Peace [499] won a [E]Madara Armor
+[02/01/2021 23:23:42] The player Severus Snape [564] won a [R]Sandaime Pants
+[02/01/2021 23:49:42] The player Capirotado [228] won a [R]Uchiha Boots
+[03/01/2021 00:23:03] The player Glacier [527] won a [R]Uchiha Tunic
+[03/01/2021 00:25:34] The player Darksaide [200] won a [E]Uchiha Tunic
+[03/01/2021 01:48:26] The player Uzumaki Loirin [200] won a [R]Uchiha ForeHead
+[03/01/2021 02:16:58] The player Ancient [465] won a [R]Hebi Shirt
+[03/01/2021 03:01:42] The player Pvp De Sheik [113] won a [R]Sandaime Boots
+[03/01/2021 05:35:15] The player Ronin [258] won a [R]Uchiha Pants
+[03/01/2021 09:56:11] The player Ze Grudento [273] won a [R]Uchiha ForeHead
+[03/01/2021 10:27:33] The player Kageyoshi [306] won a [R]Uchiha Pants
+[03/01/2021 12:44:35] The player Pampa Dashadao [415] won a [R]Dragon ForeHead
+[03/01/2021 12:44:35] The player Pampa Dashadao [415] won a [R]Dragon Boots
+[03/01/2021 13:18:40] The player Furia [495] won a [R]Hokage Hat
+[03/01/2021 14:06:33] The player Jiraya Safado [498] won a [E]Yondaime Pants
+[03/01/2021 14:54:28] The player Kakashi Safado [509] won a [R]Tobi Mask
+[03/01/2021 14:54:32] The player Czz [506] won a [L]Tobi Mask
+[03/01/2021 15:39:56] The player Stc Di Ford [283] won a [R]Uchiha Pants
+[03/01/2021 16:17:30] The player Slath [350] won a [E]Dragon ForeHead
+[03/01/2021 16:23:41] The player Cass Lad [208] won a [R]Uchiha Boots
+[03/01/2021 17:01:45] The player Sasuke Alka [212] won a [R]Uchiha Boots
+[03/01/2021 18:36:22] The player Haymura [214] won a [E]Uchiha Boots
+[03/01/2021 18:47:35] The player Haymura [214] won a [R]Sandaime Pants
+[03/01/2021 19:29:42] The player Safadaum [154] won a [R]Sandaime Shirt
+[03/01/2021 19:59:49] The player Rin Tohsaka [401] won a [R]Sandaime Pants
+[03/01/2021 19:59:51] The player Daiske [200] won a [R]Uchiha Tunic
+[03/01/2021 22:01:06] The player Ingrata [359] won a [R]Dragon Boots
+[03/01/2021 22:30:50] The player Rdn [450] won a [R]Dragon ForeHead
+[03/01/2021 22:50:06] The player Shikatwo [321] won a [L]Dragon Pants
+[03/01/2021 23:42:57] The player Parasita [518] won a [R]Shodaime Armor
+[03/01/2021 23:55:48] The player Vitinhohealer [552] won a [R]Tobi Mask
+[04/01/2021 00:24:56] The player Gloxinia [539] won a [L]Madara Pants
+[04/01/2021 00:29:38] The player Sasuke Apela [354] won a [R]Dragon Boots
+[04/01/2021 00:43:47] The player The Reaper [105] won a [R]Sandaime Shirt
+[04/01/2021 01:30:37] The player Ngc Deree [549] won a [R]Shodaime Armor
+[04/01/2021 01:54:35] The player Parasita [516] won a [R]Madara Boots
+[04/01/2021 03:41:25] The player Bak [213] won a [R]Sandaime Pants
+[04/01/2021 09:14:10] The player Galliard [262] won a [R]Uchiha ForeHead
+[04/01/2021 11:23:26] The player Cocaina [373] won a [R]Dragon Pants
+[04/01/2021 11:23:29] The player Orochinho Sennin [404] won a [R]Dragon Armor
+[04/01/2021 12:53:11] The player Skypl [210] won a [R]Uchiha Boots
+[04/01/2021 13:18:35] The player Dexsa [455] won a [R]Shodaime Pants
+[04/01/2021 13:23:50] The player Hick Lovexp [200] won a [R]Uchiha Boots
+[04/01/2021 13:41:31] The player Thorfin [201] won a [R]Uchiha ForeHead
+[04/01/2021 14:31:48] The player El Toretton [501] won a [L]Shodaime Armor
+[04/01/2021 15:38:17] The player Czz [504] won a [R]Hokage Hat
+[04/01/2021 15:43:33] The player Sske [474] won a [R]Shodaime Boots
+[04/01/2021 15:57:02] The player Eterno Genin [477] won a [R]Madara Pants
+[04/01/2021 15:57:16] The player Poseidon [472] won a [R]Madara Armor
+[04/01/2021 16:02:28] The player Shana Liza [206] won a [R]Uchiha Pants
+[04/01/2021 16:04:42] The player Vulgo Dano [217] won a [R]Uchiha Pants
+[04/01/2021 16:48:19] The player Tenten General [263] won a [R]Uchiha Pants
+[04/01/2021 18:55:11] The player Magayver [350] won a [R]Uchiha Tunic
+[04/01/2021 19:48:48] The player Neccro [459] won a [E]Nidaime ForeHead
+[04/01/2021 20:27:09] The player Liverpool [472] won a [R]Tobi Mask
+[04/01/2021 21:08:21] The player Dj Pedro [209] won a [R]Uchiha Tunic
+[04/01/2021 21:22:40] The player Tankysion [513] won a [R]Madara Boots
+[04/01/2021 21:34:33] The player Toino Masnaovolto [533] won a [R]Sandaime Helmet
+[04/01/2021 22:02:59] The player Maconha [452] won a [R]Yondaime Tunic
+[04/01/2021 22:05:15] The player Winsz [504] won a [R]Shodaime Pants
+[04/01/2021 22:24:39] The player Loira Do Tchan [304] won a [R]Dragon Armor
+[04/01/2021 23:05:49] The player Yume [190] won a [R]Sandaime Pants
+[04/01/2021 23:12:47] The player Good Nie [450] won a [R]Shodaime Boots
+[04/01/2021 23:42:16] The player Sio [454] won a [R]Shodaime Armor
+[04/01/2021 23:42:46] The player Trapadinho [273] won a [E]Uchiha Boots
+[05/01/2021 00:10:51] The player Yume [208] won a [R]Uchiha Tunic
+[05/01/2021 00:18:29] The player Ukakuzuu [207] won a [R]Uchiha Pants
+[05/01/2021 02:28:11] The player Undefined [202] won a [R]Uchiha ForeHead
+[05/01/2021 02:29:39] The player Uzumaki Loirin [315] won a [R]Dragon Pants
+[05/01/2021 07:07:25] The player Amassa Otario [452] won a [R]Madara Boots
+[05/01/2021 09:26:49] The player Aberama Gold [209] won a [R]Uchiha Tunic
+[05/01/2021 09:26:49] The player Aberama Gold [209] won a [R]Uchiha Boots
+[05/01/2021 10:08:47] The player Shikamaro Nara [524] won a [R]Madara Armor
+[05/01/2021 11:19:25] The player Sagat [250] won a [R]Uchiha Boots
+[05/01/2021 11:36:22] The player New Ma [460] won a [R]Tobi Mask
+[05/01/2021 12:44:12] The player Hashiramadastrevas [463] won a [R]Dragon ForeHead
+[05/01/2021 13:27:40] The player Petista [421] won a [R]Dragon Pants
+[05/01/2021 13:35:41] The player Chen [201] won a [R]Uchiha Boots
+[05/01/2021 13:47:40] The player Meu Jumento Equipado [343] won a [L]Dragon Pants
+[05/01/2021 14:06:57] The player Shana Liza [404] won a [L]Dragon Armor
+[05/01/2021 14:42:25] The player Bigateira [381] won a [R]Dragon ForeHead
+[05/01/2021 14:42:29] The player Antipetista [392] won a [L]Dragon Boots
+[05/01/2021 15:21:55] The player Microsoft [513] won a [R]Yondaime Tunic
+[05/01/2021 16:50:15] The player Melkor [568] won a [R]Hebi Shirt
+[05/01/2021 17:03:24] The player Big  Apple [201] won a [R]Uchiha Pants
+[05/01/2021 17:43:51] The player Chico The Monster [304] won a [R]Dragon ForeHead
+[05/01/2021 18:02:31] The player Sky Lord [316] won a [R]Uchiha Boots
+[05/01/2021 18:13:10] The player Kaguya Sama [418] won a [R]Dragon Boots
+[05/01/2021 18:15:26] The player Spartacus [200] won a [R]Uchiha ForeHead
+[05/01/2021 18:41:44] The player Pvp De Anaconda [388] won a [R]Dragon Pants
+[05/01/2021 20:03:04] The player Fodeleza [404] won a [E]Uchiha Pants
+[05/01/2021 20:29:35] The player Pororoca [501] won a [R]Yondaime Boots
+[05/01/2021 20:29:42] The player Neccro [491] won a [R]Yondaime Pants
+[05/01/2021 20:29:45] The player Sio [453] won a [R]Yondaime Boots
+[05/01/2021 20:29:50] The player Zartoos [505] won a [R]Yondaime Tunic
+[05/01/2021 21:18:18] The player Hina Hina [433] won a [R]Dragon Armor
+[05/01/2021 22:21:53] The player Neccro [492] won a [L]Yondaime Tunic
+[05/01/2021 22:48:38] The player Queumdoce [410] won a [R]Dragon Pants
+[05/01/2021 23:31:25] The player Pshycal Damage [480] won a [R]Dragon Boots
+[06/01/2021 01:33:10] The player Modo Pincel Rapido [454] won a [R]Madara Armor
+[06/01/2021 05:13:23] The player Lil Peep [269] won a [R]Uchiha Pants
+[06/01/2021 05:15:41] The player Quester [206] won a [R]Uchiha Pants
+[06/01/2021 10:27:33] The player Uzumaki [202] won a [R]Uchiha ForeHead
+[06/01/2021 13:49:24] The player Naturais De Mv [317] won a [R]Dragon Boots
+[06/01/2021 14:31:32] The player Haymura [455] won a [R]Yondaime Tunic
+[06/01/2021 15:13:32] The player Microsoft [528] won a [R]Madara Armor
+[06/01/2021 16:19:20] The player Vitinhoflash [534] won a [R]Uchiha Boots
+[06/01/2021 16:19:20] The player Vitinhoflash [534] won a [R]Uchiha ForeHead
+[06/01/2021 16:46:28] The player Nero [453] won a [R]Yondaime Pants
+[06/01/2021 17:05:09] The player Kobayashi [383] won a [R]Dragon ForeHead
+[06/01/2021 18:39:02] The player Kaguya Otsutsuki [310] won a [R]Dragon Pants
+[06/01/2021 19:54:12] The player Dudstheboy [495] won a [R]Nidaime Boots
+[06/01/2021 19:54:18] The player Thomas Shelby [522] won a [R]Nidaime ForeHead
+[06/01/2021 19:54:36] The player Teste Do Teste [489] won a [R]Nidaime Armor
+[06/01/2021 20:38:07] The player Ninjagv [505] won a [E]Yondaime Tunic
+[06/01/2021 21:07:13] The player Will [215] won a [R]Uchiha ForeHead
+[06/01/2021 21:20:18] The player King Healer [370] won a [R]Uchiha Boots
+[06/01/2021 21:33:52] The player Last Uchiha [245] won a [R]Uchiha Tunic
+[06/01/2021 22:32:03] The player Pagode Lee [450] won a [R]Tobi Mask
+[06/01/2021 23:05:56] The player Menino Sharingam [245] won a [R]Uchiha Pants
+[06/01/2021 23:31:16] The player Uchiha Emo [454] won a [R]Shodaime Boots
+[06/01/2021 23:37:20] The player Sylvanas [490] won a [R]Yondaime Boots
+[07/01/2021 00:17:55] The player Igorzinho Tanka Tudo [274] won a [R]Uchiha Boots
+[07/01/2021 00:32:00] The player Wiz Khalifa [453] won a [R]Dragon Pants
+[07/01/2021 01:04:35] The player Jujuzinha [515] won a [E]Shodaime Boots
+[07/01/2021 01:30:05] The player Gaara Mc [497] won a [R]Madara Pants
+[07/01/2021 01:54:45] The player Capitao Caverna [450] won a [R]Yondaime Boots
+[07/01/2021 03:40:42] The player Jastrzab [454] won a [R]Madara Pants
+[07/01/2021 09:23:03] The player Estrela Hatake [201] won a [R]Uchiha Boots
+[07/01/2021 10:19:00] The player Disgraca Imortal [359] won a [R]Uchiha ForeHead
+[07/01/2021 12:14:37] The player Tobirama Safado [452] won a [R]Madara Armor
+[07/01/2021 12:14:50] The player Tenten Sexy [451] won a [R]Madara Boots
+[07/01/2021 12:15:27] The player Hungry Eyes [450] won a [R]Madara Boots
+[07/01/2021 12:33:07] The player Obito Sexy [402] won a [R]Uchiha Boots
+[07/01/2021 12:38:38] The player Messideus Das Armas [232] won a [R]Uchiha Tunic
+[07/01/2021 12:56:10] The player Hasagi [379] won a [R]Dragon Pants
+[07/01/2021 12:56:10] The player Hasagi [379] won a [E]Dragon Boots
+[07/01/2021 13:02:13] The player Ino Revoltz [205] won a [R]Uchiha Tunic
+[07/01/2021 13:02:13] The player Ino Revoltz [205] won a [E]Uchiha ForeHead
+[07/01/2021 14:12:57] The player Koji Kashin [379] won a [R]Dragon Pants
+[07/01/2021 17:09:39] The player Mrkame [426] won a [R]Uchiha Pants
+[07/01/2021 17:11:50] The player Jastrzab [454] won a [R]Hokage Hat
+[07/01/2021 18:22:30] The player Killermaster [228] won a [R]Uchiha Tunic
+[07/01/2021 19:15:11] The player Sasuke Do Pastel [404] won a [R]Dragon ForeHead
+[07/01/2021 19:15:15] The player Blr Hikeshi [417] won a [R]Dragon ForeHead
+[08/01/2021 20:30:21] The player Carrarataxi Dashadao [481] won a [R]Madara Armor
+[08/01/2021 20:47:45] The player Reryson Traficante [537] won a [E]Hebi Shirt
+[08/01/2021 21:16:48] The player Last Mitsashi [405] won a [R]Sandaime Helmet
+[08/01/2021 21:44:17] The player Orochimaru Male [491] won a [R]Madara Boots
+[08/01/2021 22:24:45] The player Matheuz [205] won a [R]Uchiha Boots
+[08/01/2021 22:35:17] The player Obitodastrevas [506] won a [R]Nidaime ForeHead
+[08/01/2021 22:35:17] The player Hyejin [480] won a [R]Nidaime ForeHead
+[08/01/2021 23:07:12] The player Cacaxe Rataq [399] won a [E]Dragon Boots
+[08/01/2021 23:09:01] The player Daddy Icons [361] won a [R]Uchiha Pants
+[09/01/2021 00:13:41] The player Quester [459] won a [E]Dragon ForeHead
+[09/01/2021 00:26:38] The player Black Low [250] won a [E]Uchiha Pants
+[09/01/2021 00:40:31] The player Chora Mais [540] won a [R]Yondaime Pants
+[09/01/2021 00:45:46] The player Mr Pickles [353] won a [R]Dragon ForeHead
+[09/01/2021 00:56:02] The player Gringo Inmortal [501] won a [R]Madara Armor
+[09/01/2021 00:56:25] The player Mr Peabody [473] won a [R]Madara Boots
+[09/01/2021 01:37:10] The player Erykah Badu [201] won a [R]Uchiha Pants
+[09/01/2021 02:10:07] The player Sasuke Carreta [210] won a [R]Uchiha Boots
+[09/01/2021 02:11:41] The player Arthuruesslerr [301] won a [R]Dragon Armor
+[09/01/2021 02:41:50] The player Life Snake [315] won a [R]Dragon Armor
+[09/01/2021 06:15:33] The player Kaike [334] won a [R]Sandaime Helmet
+[09/01/2021 06:43:46] The player Dpunhoeltuero [359] won a [E]Uchiha ForeHead
+[09/01/2021 09:48:37] The player Mts Uchiha [273] won a [R]Uchiha ForeHead
+[09/01/2021 11:40:09] The player Karalho EoH Trevas [459] won a [R]Hebi LegRobe
+[09/01/2021 11:42:59] The player Sannin Dos Sapos [307] won a [R]Dragon Armor
+[09/01/2021 11:42:59] The player Sannin Dos Sapos [307] won a [R]Dragon Boots
+[09/01/2021 12:35:02] The player Matador De Senju [457] won a [R]Dragon Armor
+[09/01/2021 13:29:12] The player Kakashi Ratak [205] won a [R]Sandaime Shirt
+[09/01/2021 13:52:12] The player Redtk [301] won a [L]Uchiha Boots
+[09/01/2021 14:27:36] The player Tanguinha Sensual [208] won a [R]Sandaime Boots
+[09/01/2021 14:50:19] The player Matador De Senju [456] won a [R]Madara Armor
+[09/01/2021 15:28:36] The player Bentinho [367] won a [L]Uchiha ForeHead
+[09/01/2021 15:33:06] The player Sasuke Alka [480] won a [R]Yondaime Boots
+[09/01/2021 17:23:21] The player Lipero Puro Odio [200] won a [R]Uchiha ForeHead
+[09/01/2021 17:46:39] The player Koby Di Stc [201] won a [E]Uchiha Boots
+[09/01/2021 19:52:39] The player Rafazk [202] won a [R]Uchiha ForeHead
+[09/01/2021 19:56:52] The player Kakuzu Do Arroizal [561] won a [E]Tobi Mask
+[09/01/2021 21:05:07] The player Coisasloucas [450] won a [R]Nidaime ForeHead
+[09/01/2021 21:05:07] The player Coisasloucas [450] won a [R]Nidaime Armor
+[09/01/2021 21:05:10] The player Oro Chi [474] won a [L]Nidaime Boots
+[10/01/2021 00:32:22] The player Koby Di Stc [350] won a [R]Dragon Boots
+[10/01/2021 00:48:07] The player Gerubeba Revoltz [453] won a [L]Hokage Hat
+[10/01/2021 02:26:53] The player Surreal Diabluz [538] won a [L]Madara Armor
+[10/01/2021 03:28:20] The player Surreal Diabluz [537] won a [R]Yondaime Pants
+[10/01/2021 03:28:41] The player Rdn [544] won a [E]Yondaime Tunic
+[10/01/2021 04:29:23] The player Tk Zeros [235] won a [R]Hebi Shirt
+[10/01/2021 04:29:23] The player Tk Zeros [235] won a [R]Hebi Boots
+[10/01/2021 09:55:26] The player Akuma [544] won a [R]Shodaime Pants
+[10/01/2021 12:55:42] The player Szybka Smierc [505] won a [R]Shodaime Boots
+[10/01/2021 12:55:52] The player Fang [526] won a [R]Shodaime Boots
+[10/01/2021 12:56:22] The player Shazam [556] won a [E]Shodaime Boots
+[10/01/2021 13:40:37] The player Xavierzaodastrevas [481] won a [R]Tobi Mask
+[10/01/2021 14:20:15] The player Suigetsu Bolado [356] won a [E]Uchiha Pants
+[10/01/2021 16:36:58] The player Mr Sasuke [517] won a [R]Yondaime Tunic
+[10/01/2021 18:18:03] The player Luiz [201] won a [R]Uchiha Tunic
+[10/01/2021 19:03:56] The player Saii [401] won a [R]Hebi LegRobe
+[10/01/2021 19:15:49] The player Latinha [479] won a [R]Madara Pants
+[10/01/2021 20:08:22] The player Virus [503] won a [R]Shodaime Armor
+[10/01/2021 21:16:22] The player No Nick Name [473] won a [R]Shodaime Armor
+[10/01/2021 21:33:07] The player Zywice [213] won a [R]Uchiha Boots
+[10/01/2021 21:33:25] The player Jesus The Ama [451] won a [R]Madara Boots
+[10/01/2021 22:47:29] The player Psy Strong [520] won a [R]Nidaime ForeHead
+[10/01/2021 23:08:25] The player Boris Brejcha [405] won a [R]Uchiha Pants
+[10/01/2021 23:27:35] The player Sasuke Rosa [489] won a [R]Shodaime Boots
+[11/01/2021 00:24:05] The player Lhe Falta Ml [454] won a [R]Dragon Pants
+[11/01/2021 00:30:21] The player Mendingo [212] won a [R]Uchiha Tunic
+[11/01/2021 00:31:30] The player Kurowa Eve [219] won a [R]Uchiha Tunic
+[11/01/2021 00:45:00] The player Rdn [543] won a [R]Madara Boots
+[11/01/2021 01:03:26] The player Fodeleza [512] won a [R]Tobi Mask
+[11/01/2021 02:27:35] The player Chang De Bee [200] won a [R]Uchiha Boots
+[11/01/2021 06:53:35] The player Power Abuse [260] won a [R]Uchiha Pants
+[11/01/2021 08:14:48] The player Sparda [202] won a [R]Uchiha Tunic
+[11/01/2021 11:42:20] The player Xavierzaodastrevas [502] won a [R]Hebi Boots
+[11/01/2021 12:43:36] The player Velho Tarado [460] won a [R]Dragon Pants
+[11/01/2021 13:51:01] The player Xablou Meu Pauu [463] won a [R]Shodaime Armor
+[11/01/2021 13:52:07] The player Deadpool [466] won a [R]Uchiha ForeHead
+[11/01/2021 14:05:01] The player Haku Flexzone [450] won a [R]Uchiha Boots
+[11/01/2021 14:54:41] The player Kurowa Eve [306] won a [R]Dragon Pants
+[11/01/2021 15:28:36] The player Kyrie [334] won a [R]Dragon Boots
+[11/01/2021 22:45:03] The player Angelzin [451] won a [R]Madara Armor
+[12/01/2021 00:10:23] The player Minhoca [522] won a [E]Yondaime Boots
+[12/01/2021 00:10:50] The player Petista [542] won a [R]Yondaime Pants
+[12/01/2021 03:41:07] The player Loirinha [203] won a [R]Uchiha Pants
+[12/01/2021 04:08:41] The player Tapioca Paraiba [302] won a [R]Dragon Pants
+[12/01/2021 08:32:34] The player Sol Invicto [555] won a [E]Madara Boots
+[12/01/2021 11:01:52] The player Dio [436] won a [R]Dragon ForeHead
+[12/01/2021 11:01:58] The player Mkz Arz [352] won a [R]Dragon Armor
+[12/01/2021 11:16:31] The player Uorochi [509] won a [R]Tobi Mask
+[12/01/2021 14:22:06] The player Ajeita Coluna [302] won a [R]Uchiha Pants
+[12/01/2021 14:39:36] The player Mithrandir [314] won a [R]Dragon Boots
+[12/01/2021 15:18:43] The player Dio [438] won a [R]Uchiha ForeHead
+[12/01/2021 15:27:19] The player Mamba Negra [463] won a [R]Shodaime Armor
+[12/01/2021 16:33:02] The player Daniel [202] won a [R]Uchiha Boots
+[12/01/2021 17:31:45] The player Manu Bee [293] won a [R]Uchiha Tunic
+[12/01/2021 18:32:20] The player Draak Bola Dois [451] won a [E]Madara Pants
+[12/01/2021 18:40:53] The player Draak Ilusao [453] won a [R]Madara Boots
+[12/01/2021 18:49:11] The player Mande [450] won a [R]Chyio Skirt
+[12/01/2021 22:11:58] The player The One [504] won a [E]Tobi Mask
+[12/01/2021 22:13:00] The player Vitinho [516] won a [L]Shodaime Boots
+[12/01/2021 22:20:32] The player Naoto [557] won a [R]Madara Armor
+[12/01/2021 22:45:59] The player Haruno Sakura [251] won a [R]Uchiha Tunic
+[12/01/2021 22:45:59] The player Haruno Sakura [251] won a [R]Uchiha Boots
+[12/01/2021 22:52:12] The player Kika Pros Uchiihaa [529] won a [R]Nidaime Armor
+[12/01/2021 22:52:13] The player Amaterazu [418] won a [R]Nidaime Boots
+[12/01/2021 22:52:28] The player Mamba Negra [462] won a [R]Nidaime Boots
+[13/01/2021 00:48:24] The player Bonequiniha Cabeluda [305] won a [R]Dragon Boots
+[13/01/2021 01:11:31] The player Haku Rxd [455] won a [E]Yondaime Tunic
+[13/01/2021 03:38:18] The player Sakarika [523] won a [E]Madara Armor
+[13/01/2021 06:12:34] The player Brancodemais [191] won a [L]Sandaime Pants
+[13/01/2021 08:05:03] The player Kakashi Com Pai [204] won a [R]Uchiha Tunic
+[13/01/2021 10:17:06] The player Billy Boy [451] won a [R]Shodaime Armor
+[13/01/2021 10:51:08] The player Rafazk [311] won a [R]Dragon ForeHead
+[13/01/2021 11:21:35] The player King Healer [467] won a [E]Hokage Hat
+[13/01/2021 12:01:17] The player Orochi Is Back [351] won a [R]Dragon Armor
+[13/01/2021 12:10:41] The player Kaguya [131] won a [E]Sandaime Shirt
+[13/01/2021 13:04:53] The player Daniel [355] won a [R]Dragon Pants
+[13/01/2021 14:30:23] The player Power Abuse [432] won a [E]Dragon Boots
+[13/01/2021 14:53:31] The player Haku Flexzone [450] won a [E]Hokage Hat
+[13/01/2021 16:11:38] The player Yang Kai [202] won a [R]Uchiha Boots
+[13/01/2021 16:57:59] The player Divine Sean [201] won a [R]Uchiha Pants
+[13/01/2021 17:06:25] The player Seventh Hokage [351] won a [R]Dragon Pants
+[13/01/2021 17:10:00] The player Ossudo [527] won a [R]Shodaime Armor
+[13/01/2021 18:31:18] The player Kaizer [554] won a [R]Nidaime ForeHead
+[13/01/2021 19:44:54] The player Ossudo [526] won a [R]Sandaime Pants
+[13/01/2021 20:21:11] The player Eomendes Caralho [284] won a [R]Uchiha ForeHead
+[13/01/2021 20:35:26] The player Luskiz [200] won a [E]Uchiha Boots
+[13/01/2021 20:35:26] The player Luskiz [200] won a [R]Uchiha ForeHead
+[13/01/2021 20:35:26] The player Luskiz [200] won a [R]Uchiha Pants
+[13/01/2021 20:48:43] The player Saivazado Eomapa [250] won a [E]Uchiha ForeHead
+[13/01/2021 21:01:18] The player Ell Chapo [475] won a [R]Yondaime Tunic
+[13/01/2021 22:14:42] The player Gaara Of War [400] won a [R]Uchiha Boots
+[13/01/2021 22:50:11] The player Caralho Eomapa [490] won a [R]Yondaime Tunic
+[13/01/2021 23:33:00] The player Morty [10] won a [R]Sandaime Boots
+[14/01/2021 00:18:58] The player Rei Orochi [312] won a [R]Uchiha ForeHead
+[14/01/2021 00:25:54] The player Piquilis Verde [326] won a [R]Uchiha Pants
+[14/01/2021 00:44:24] The player Ozukak [430] won a [R]Dragon Boots
+[14/01/2021 00:48:00] The player Tobieama [304] won a [R]Yondaime Tunic
+[14/01/2021 01:02:27] The player Tobieama [304] won a [R]Sandaime Pants
+[14/01/2021 01:02:46] The player Lii [304] won a [R]Sandaime Helmet
+[14/01/2021 01:27:21] The player Fael [201] won a [R]Uchiha Pants
+[14/01/2021 02:02:54] The player Ozukak [430] won a [R]Uchiha Boots
+[14/01/2021 09:49:29] The player Draak Bola Dois [461] won a [R]Madara Boots
+[14/01/2021 11:12:53] The player Eo Aladin [202] won a [R]Hebi LegRobe
+[14/01/2021 11:12:57] The player Ino Mito [156] won a [R]Hebi LegRobe
+[14/01/2021 11:51:11] The player Kaizer [553] won a [R]Uchiha Boots
+[14/01/2021 14:05:45] The player Danzou Safado [503] won a [R]Madara Boots
+[14/01/2021 14:13:30] The player Ossudo [522] won a [R]Shodaime Boots
+[14/01/2021 15:33:45] The player Soul [575] won a [R]Madara Armor
+[14/01/2021 16:28:49] The player Morty Come Agua [503] won a [R]Shodaime Armor
+[14/01/2021 18:09:08] The player Ozai [201] won a [R]Uchiha ForeHead
+[14/01/2021 18:42:04] The player Sakurama [285] won a [R]Uchiha Boots
+[14/01/2021 19:27:41] The player Raridade [454] won a [R]Yondaime Pants
+[14/01/2021 19:55:36] The player Ketaah [320] won a [R]Dragon Boots
+[14/01/2021 20:10:37] The player Namikaze [377] won a [E]Dragon ForeHead
+[14/01/2021 21:03:21] The player Inuyasha [332] won a [R]Chyio Skirt
+[14/01/2021 21:12:31] The player Ijiraya Jr [273] won a [R]Uchiha Tunic
+[14/01/2021 22:40:04] The player Tiao Velhote [454] won a [R]Dragon Armor
+[14/01/2021 22:40:05] The player Nerd Dosharingan [425] won a [R]Dragon Boots
+[14/01/2021 23:06:04] The player Gaara Zka [215] won a [R]Uchiha Pants
+[14/01/2021 23:40:56] The player Okami Kyoshi [378] won a [R]Dragon ForeHead
+[15/01/2021 00:43:50] The player Dj Pedro [545] won a [R]Hebi Shirt
+[15/01/2021 02:44:10] The player Lmtz [475] won a [R]Madara Boots
+[15/01/2021 06:31:19] The player Rzab [451] won a [R]Shodaime Armor
+[15/01/2021 08:50:47] The player Arthuruesslerr [516] won a [R]Madara Pants
+[15/01/2021 10:18:40] The player Trapei Numa Boa [319] won a [E]Uchiha ForeHead
+[15/01/2021 10:20:51] The player Alkapone [448] won a [R]Uchiha Pants
+[15/01/2021 10:31:16] The player Tobieama [305] won a [R]Hokage Hat
+[15/01/2021 12:29:06] The player Super Rock Lee [242] won a [R]Uchiha ForeHead
+[15/01/2021 12:46:50] The player Tankysion [502] won a [R]Shodaime Boots
+[15/01/2021 13:30:42] The player Sem Zero [208] won a [R]Uchiha ForeHead
+[15/01/2021 13:52:01] The player Akame [487] won a [E]Hokage Hat
+[15/01/2021 13:59:41] The player Hokage Imortal [477] won a [R]Madara Pants
+[15/01/2021 14:09:07] The player Olhos Vermelhos [201] won a [R]Uchiha Tunic
+[15/01/2021 16:06:35] The player Ikakuzu Jr [211] won a [R]Uchiha Tunic
+[15/01/2021 16:06:35] The player Ikakuzu Jr [211] won a [R]Uchiha Boots
+[15/01/2021 16:06:35] The player Ikakuzu Jr [211] won a [R]Uchiha ForeHead
+[15/01/2021 16:31:48] The player Jason [514] won a [R]Sandaime Pants
+[15/01/2021 18:08:14] The player Tankysion [508] won a [R]Yondaime Tunic
+[15/01/2021 18:08:44] The player Chico Amaro [242] won a [R]Uchiha Tunic
+[15/01/2021 19:13:28] The player Thepro [207] won a [R]Uchiha ForeHead
+[15/01/2021 19:13:28] The player Thepro [207] won a [R]Uchiha Pants
+[15/01/2021 19:51:41] The player Cura Do Cancer [337] won a [R]Dragon Pants
+[15/01/2021 21:17:34] The player Droga Eopipidnv [483] won a [R]Hokage Hat
+[15/01/2021 21:33:16] The player Aids [269] won a [R]Uchiha ForeHead
+[15/01/2021 21:56:11] The player Jao Caolho [404] won a [E]Dragon ForeHead
+[15/01/2021 21:56:11] The player Jao Caolho [404] won a [R]Dragon Armor
+[15/01/2021 22:23:08] The player Seu Sacana [327] won a [E]Uchiha Boots
+[15/01/2021 22:54:15] The player Kuzuka [343] won a [R]Dragon Boots
+[15/01/2021 23:23:10] The player Bethesda [246] won a [R]Uchiha Boots
+[15/01/2021 23:39:42] The player Hokage Imortal [491] won a [R]Shodaime Armor
+[16/01/2021 00:23:36] The player Aids [301] won a [E]Dragon Boots
+[16/01/2021 00:45:58] The player Shazam [554] won a [R]Yondaime Tunic
+[16/01/2021 00:51:47] The player Emi Nem [523] won a [R]Hokage Hat
+[16/01/2021 01:03:36] The player Uchiha [498] won a [E]Dragon Pants
+[16/01/2021 03:22:35] The player Gloxinia [528] won a [E]Nidaime Armor
+[16/01/2021 03:22:46] The player StalarK [532] won a [R]Nidaime ForeHead
+[16/01/2021 08:00:05] The player Zona Pink [316] won a [R]Sandaime Boots
+[16/01/2021 09:07:47] The player Angelzin [491] won a [R]Chyio Skirt
+[16/01/2021 09:29:32] The player Healadora [512] won a [R]Madara Armor
+[16/01/2021 13:12:44] The player Kakashii Male [538] won a [R]Shodaime Boots
+[16/01/2021 14:02:15] The player Kage Of Shadows [380] won a [R]Dragon Pants
+[16/01/2021 16:21:21] The player Pedofilo [253] won a [R]Uchiha Pants
+[16/01/2021 17:13:14] The player Kakashi Ratak [468] won a [R]Madara Boots
+[16/01/2021 18:13:29] The player Lost Dead [407] won a [R]Uchiha Pants
+[16/01/2021 18:28:17] The player Sukunaa [450] won a [E]Madara Pants
+[16/01/2021 18:40:11] The player Dyhzinha Saliente [334] won a [E]Dragon Armor
+[16/01/2021 19:11:20] The player Jf City [455] won a [E]Hokage Hat
+[16/01/2021 21:28:01] The player Balaio Apenas [206] won a [R]Uchiha ForeHead
+[16/01/2021 21:30:58] The player He Is Gay [207] won a [R]Uchiha Pants
+[16/01/2021 22:45:43] The player Tanjiro [453] won a [R]Shodaime Boots
+[17/01/2021 02:52:51] The player Beelada [215] won a [R]Uchiha Pants
+[17/01/2021 03:08:43] The player Jao Caolho [433] won a [R]Sandaime Boots
+[17/01/2021 03:11:29] The player Gripito [261] won a [R]Uchiha Pants
+[17/01/2021 03:17:06] The player Clown [568] won a [R]Uchiha Boots
+[17/01/2021 03:21:00] The player Reaper [450] won a [E]Sandaime Boots
+[17/01/2021 03:28:49] The player Minato Namikaze [451] won a [R]Sandaime Helmet
+[17/01/2021 04:29:23] The player Tetis [501] won a [R]Dragon Boots
+[17/01/2021 05:38:13] The player Hollyword [482] won a [R]Madara Pants
+[17/01/2021 06:33:54] The player Jastrzab [454] won a [L]Sandaime Shirt
+[17/01/2021 06:38:45] The player Mirai Nikki [500] won a [R]Uchiha ForeHead
+[17/01/2021 06:44:36] The player Mirai Nikki [500] won a [R]Sandaime Shirt
+[17/01/2021 06:50:13] The player Ziek [452] won a [R]Dragon ForeHead
+[17/01/2021 07:55:17] The player El Letty [496] won a [R]Nidaime ForeHead
+[17/01/2021 08:54:19] The player Jastrzab [455] won a [E]Yondaime Tunic
+[17/01/2021 08:55:39] The player Ziek [452] won a [E]Yondaime Tunic
+[17/01/2021 09:28:10] The player Jastr [451] won a [R]Shodaime Boots
+[17/01/2021 09:29:32] The player Yamata No Orochi [530] won a [R]Shodaime Pants
+[17/01/2021 10:11:36] The player Imperador [552] won a [R]Red Wind Pants
+[17/01/2021 10:22:39] The player The Prodigy Kid [373] won a [R]Uchiha Pants
+[17/01/2021 10:33:25] The player Belattrix [555] won a [L]Dragon Pants
+[17/01/2021 10:38:46] The player Mc Kakashi [305] won a [R]Uchiha Tunic
+[17/01/2021 10:55:34] The player Ekuz [479] won a [E]Dragon ForeHead
+[17/01/2021 11:38:48] The player Polity Suporte [579] won a [R]Hebi Shirt
+[17/01/2021 11:56:12] The player Jackal [553] won a [R]Dragon Boots
+[17/01/2021 12:18:53] The player Kaizer [548] won a [R]Tobi Mask
+[17/01/2021 12:26:28] The player Kakashi Safado [512] won a [R]Dragon ForeHead
+[17/01/2021 12:26:30] The player Matyas Piton [492] won a [R]Dragon Armor
+[17/01/2021 13:17:52] The player Meu Cuu [568] won a [R]Madara Boots
+[17/01/2021 13:32:56] The player Kaizer [549] won a [R]Yondaime Pants
+[17/01/2021 13:42:05] The player Sad Player [519] won a [R]Nidaime ForeHead
+[17/01/2021 14:22:44] The player Light Hebi Orochi [496] won a [R]Chyio Skirt
+[17/01/2021 14:45:15] The player Sakura Zka [208] won a [R]Uchiha Pants
+[17/01/2021 15:35:22] The player Kaguya [477] won a [R]Sandaime Boots
+[17/01/2021 15:42:03] The player Imperador [553] won a [R]Hebi Boots
+[17/01/2021 15:48:38] The player Uchiha [496] won a [R]Dragon Boots
+[17/01/2021 15:52:31] The player Morty Come Agua [497] won a [R]Sandaime Helmet
+[17/01/2021 16:21:53] The player Ragnar Lothbrok [320] won a [R]Dragon Pants
+[17/01/2021 16:21:53] The player Ragnar Lothbrok [320] won a [R]Dragon Boots
+[17/01/2021 16:56:08] The player Raineken [425] won a [E]Uchiha Tunic
+[17/01/2021 16:59:48] The player Ava Gina Berta [204] won a [R]Uchiha ForeHead
+[17/01/2021 17:11:12] The player Polity Suporte [579] won a [R]Sandaime Helmet
+[17/01/2021 17:47:40] The player Lagertha Lothbrok [263] won a [R]Hebi Shirt
+[17/01/2021 17:51:37] The player Linked [517] won a [R]Sandaime Boots
+[17/01/2021 17:58:25] The player Royal Qizuparatudo [451] won a [E]Yondaime Tunic
+[17/01/2021 18:04:02] The player Gaara Of War [456] won a [R]Dragon Boots
+[17/01/2021 18:17:26] The player Ajeita Coluna [441] won a [R]Uchiha Pants
+[17/01/2021 19:03:43] The player Malaguenta Pimenta [450] won a [R]Yondaime Tunic
+[17/01/2021 19:08:55] The player Cool Zone [498] won a [R]Dragon Pants
+[17/01/2021 19:09:27] The player Wiser [500] won a [R]Uchiha Boots
+[17/01/2021 20:02:18] The player Nlkin [452] won a [R]Uchiha Pants
+[17/01/2021 20:44:31] The player Rush Jiraya [209] won a [R]Uchiha Pants
+[17/01/2021 20:53:34] The player Hideki [518] won a [R]Uchiha Tunic
+[17/01/2021 20:55:46] The player Itachi Mvp [609] won a [R]Sandaime Pants
+[17/01/2021 20:55:46] The player Itachi Mvp [609] won a [R]Sandaime Boots
+[17/01/2021 21:00:47] The player Hideki [518] won a [R]Hebi LegRobe
+[17/01/2021 21:00:47] The player Itachi Mvp [609] won a [R]Hebi Shirt
+[17/01/2021 21:11:07] The player Meu Cuu [567] won a [R]Nidaime Pants
+[17/01/2021 21:11:15] The player Noah [524] won a [R]Nidaime Armor
+[17/01/2021 21:12:23] The player Hideki [518] won a [R]Dragon Pants
+[17/01/2021 21:49:24] The player Malevous Zoldyck [579] won a [R]Madara Pants
+[17/01/2021 22:21:16] The player Charleszard [355] won a [R]Dragon Pants
+[17/01/2021 22:32:25] The player Hakael [554] won a [R]Yondaime Pants
+[17/01/2021 22:32:44] The player Ketaah [399] won a [R]Dragon ForeHead
+[17/01/2021 22:38:04] The player Vitinhoflash [567] won a [R]Uchiha ForeHead
+[17/01/2021 22:38:58] The player Sumigasumiga [401] won a [R]Dragon ForeHead
+[17/01/2021 22:44:37] The player Game Over [499] won a [R]Uchiha Pants
+[17/01/2021 22:55:54] The player Sasuke Rosa [500] won a [R]Tobi Mask
+[17/01/2021 23:04:52] The player Ceiifa [337] won a [R]Dragon Armor
+[17/01/2021 23:35:45] The player Sand Man [476] won a [R]Sandaime Shirt
+[17/01/2021 23:36:40] The player Ninja Slayer [408] won a [R]Uchiha Boots
+[18/01/2021 00:03:21] The player Don Hidan [399] won a [R]Uchiha ForeHead
+[18/01/2021 00:42:59] The player Kyusuke [512] won a [R]Yondaime Boots
+[18/01/2021 00:49:22] The player Hanna [583] won a [R]Shodaime Pants
+[18/01/2021 00:51:14] The player Sabrina Spellman [583] won a [R]Madara Pants
+[18/01/2021 02:30:44] The player Will Gb [469] won a [R]Dragon Armor
+[18/01/2021 03:26:57] The player Biboca Diagonal [495] won a [R]Hebi Boots
+[18/01/2021 03:26:57] The player Biboca Diagonal [495] won a [E]Hebi LegRobe
+[18/01/2021 03:27:09] The player Araris Larapium [489] won a [R]Hebi LegRobe
+[18/01/2021 03:35:44] The player Reaper [488] won a [R]Yondaime Pants
+[18/01/2021 03:59:38] The player Luizinha Amarela [533] won a [R]Madara Armor
+[18/01/2021 04:13:04] The player Tenten Das Ervas [506] won a [E]Hebi Shirt
+[18/01/2021 04:13:04] The player Tenten Das Ervas [506] won a [R]Hebi Boots
+[18/01/2021 05:04:29] The player Kaguya Otsutsuki [496] won a [R]Madara Pants
+[18/01/2021 05:04:46] The player Araris Larapium [489] won a [R]Madara Pants
+[18/01/2021 11:15:23] The player Good Nie [550] won a [R]Shodaime Pants
+[18/01/2021 11:15:26] The player Sand Man [477] won a [R]Shodaime Pants
+[18/01/2021 11:43:46] The player Yamikaze [531] won a [R]Uchiha ForeHead
+[18/01/2021 11:44:47] The player Xablou Meu Pauu [480] won a [L]Uchiha ForeHead
+[18/01/2021 11:47:42] The player Yamikaze [531] won a [R]Hebi Boots
+[18/01/2021 12:00:37] The player Kaizer [548] won a [R]Dragon Boots
+[18/01/2021 12:00:40] The player Yamikaze [531] won a [E]Dragon Boots
+[18/01/2021 12:17:11] The player Stoned [469] won a [R]Madara Pants
+[18/01/2021 13:32:54] The player Muuh Temtrapnasperna [550] won a [R]Yondaime Tunic
+[18/01/2021 13:42:54] The player Kyan [494] won a [R]Nidaime ForeHead
+[18/01/2021 14:44:04] The player Meriva Dashadao [510] won a [E]Tobi Mask
+[18/01/2021 15:03:29] The player Mits [216] won a [R]Uchiha ForeHead
+[18/01/2021 15:20:23] The player Ossudo [524] won a [E]Hebi Shirt
+[18/01/2021 17:22:12] The player Eo Cattchup Loko [500] won a [R]Tobi Mask
+[18/01/2021 17:41:23] The player Orochilenda [177] won a [R]Sandaime Helmet
+[18/01/2021 18:38:12] The player Rock Faio Lee [359] won a [R]Dragon Boots
+[18/01/2021 19:29:00] The player Bate Pra Ver [490] won a [R]Tobi Mask
+[08/01/2023 18:17:52] The player Raulzera [204] won a [R]Uchiha Tunic
+[08/01/2023 18:17:52] The player Raulzera [204] won a [R]Uchiha Boots
+[10/02/2023 01:04:06] The player Gsus Cura [120] won a [E]Sandaime Helmet
+[10/02/2023 01:04:08] The player Gsus Esfola [114] won a [R]Sandaime Shirt
+[10/02/2023 01:04:08] The player Gsus Esfola [114] won a [L]Sandaime Boots
+[10/02/2023 04:47:53] The player Gsus Esfola [204] won a [E]Uchiha Pants
+[11/02/2023 04:31:02] The player Gsus Esfola [326] won a [R]Chyio Skirt
+[12/02/2023 07:00:25] The player Svanna [200] won a [E]Uchiha ForeHead
+[12/02/2023 22:15:13] The player Killerbear [307] won a [R]Hebi LegRobe
+[15/02/2023 17:25:35] The player Amaldicoado [492] won a [R]Hebi Boots
+[19/02/2023 05:01:38] The player Amaldicoado [565] won a [E]Red Wind Pants
+[19/02/2023 07:38:23] The player Pisko Morreu [461] won a [R]Shodaime Boots
+[20/02/2023 18:42:30] The player Killerbear [451] won a [R]Shodaime Pants
+[22/02/2023 00:12:35] The player Amaldicoado [589] won a [R]Shodaime Pants
+[22/02/2023 03:43:59] The player Bea Killer [107] won a [L]Sandaime Shirt
+[23/02/2023 15:05:43] The player Moisesp [419] won a [R]Dragon ForeHead
+[24/02/2023 02:49:43] The player ADM [800] won a [R]Uchiha Pants
+[24/02/2023 13:11:19] The player Sub Zero [222] won a [R]Uchiha Tunic
+[24/02/2023 19:10:02] The player Groot [201] won a [R]Uchiha Pants
+[25/02/2023 17:50:42] The player Groot [361] won a [R]Dragon Pants
+[27/02/2023 00:38:53] The player In The End [333] won a [E]Dragon ForeHead
+[27/02/2023 13:24:56] The player Insane Kankuro [251] won a [R]Uchiha ForeHead
+[01/03/2023 12:53:29] The player Nybshang [334] won a [R]Dragon Armor
+[03/03/2023 00:16:42] The player Qqhouve [480] won a [R]Dragon ForeHead
+[03/03/2023 00:16:42] The player Qqhouve [480] won a [R]Dragon Pants
+[04/03/2023 02:43:48] The player Gabriel [280] won a [R]Uchiha Tunic
+[04/03/2023 02:43:48] The player Gabriel [280] won a [R]Uchiha Pants
+[04/03/2023 21:31:31] The player Hidan Renegado [415] won a [R]Hebi Shirt
+[05/03/2023 13:42:46] The player Moisesp [518] won a [E]Sandaime Shirt
+[05/03/2023 18:10:05] The player Gabriel [325] won a [R]Dragon ForeHead
+[06/03/2023 22:54:48] The player Moisesp [546] won a [E]Hokage Hat
+[07/03/2023 11:52:18] The player Hik [266] won a [R]Sandaime Pants
+[07/03/2023 11:52:18] The player Hik [266] won a [R]Sandaime Boots
+[07/03/2023 20:17:36] The player Hidan Renegado [483] won a [R]Sandaime Helmet
+[07/03/2023 20:53:22] The player Insane Onoki [556] won a [R]Madara Boots
+[07/03/2023 20:53:23] The player Insane Kankuro [587] won a [R]Madara Boots
+[10/03/2023 21:53:20] The player Lee Medonho [400] won a [R]Hebi LegRobe
+[15/03/2023 09:43:30] The player Kankuro Medonho [433] won a [R]Hebi Boots
+[18/03/2023 21:24:32] The player Who Is Me [502] won a [R]Dragon ForeHead
+[22/03/2023 23:16:35] The player Zoroaki [459] won a [R]Yondaime Pants
+[25/03/2023 01:43:33] The player Xithea [371] won a [R]Uchiha Tunic
+[25/03/2023 01:55:46] The player Xithea [371] won a [L]Dragon Armor
+[25/03/2023 04:40:03] The player Minato [131] won a [R]Sandaime Pants
+[25/03/2023 12:33:32] The player Kankuro Bro [251] won a [R]Uchiha ForeHead
+[25/03/2023 16:46:11] The player Mec Gaara [504] won a [R]Uchiha Pants
+[25/03/2023 16:46:17] The player Mec Bee [452] won a [R]Uchiha Tunic

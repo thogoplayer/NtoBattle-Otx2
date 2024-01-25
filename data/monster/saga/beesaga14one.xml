@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name=" Killer Bee" nameDescription="a killer bee" saga="14" missao="2" race="blood" experience="12600" speed="500" manacost="0">
+	<health now="3175000" max="3175000"/>
+	<look type="12" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+	    <script>
+	<event name="sagafourteenmtwos"/>
+    </script>
+	<attacks>
+		<attack name="melee" interval="1500" min="-4780" max="-5900"/>
+		<attack name="Raiton:Flash Sword" interval="4300" chance="100" radius="2" target="1" min="-22480" max="-24500">
+		</attack>
+		<attack name="Raiton:Hachibi Energy" interval="2300" chance="100" radius="2" target="1" min="-22480" max="-24500">
+		</attack>
+		<attack name="Raiton:fang" interval="1300" chance="100" radius="2" target="1" min="-11480" max="-12500">
+		</attack>
+		<attack name="Raiton:Chinbou" interval="3700" chance="100" radius="2" target="1" min="-22480" max="-24500">
+		</attack>
+	</attacks>
+
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		<immunity invisible="0"/>
+	</immunities>
+</monster>

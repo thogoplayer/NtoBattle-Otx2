@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>  
+<mod name="Trade Log" version="1.0" author="Vodkart" contact="none.com" enabled="yes">  
+<config name="TradeLog_func"><![CDATA[
+function natural(number)
+local n = number - math.floor(number)
+return n >= 0.5 and math.ceil(number) or math.floor(number)
+end
+function containerItemsToString(cont)
+   local s = ""
+   for _ = 0, getContainerSize(cont) - 1 do
+	  local item = getContainerItem(cont, _)
+	  s = s.." + ".. item.itemid
+	  if isContainer(item.uid) and getContainerSize(item.uid) > 0 then
+		 s = s.."("..getItemNameById(item.itemid)..") : 1"..containerItemsToString(item.uid)
+	  else
+		 s = s.."("..getItemNameById(item.itemid)..") : ".. natural(getItemWeight(item.uid)/getItemWeightById(item.itemid))
+	  end
+   end
+   return s
+end
+]]></config>
+<event type="login" name="TradeRegister" event="script"><![CDATA[
+function onLogin(cid)
+registerCreatureEvent(cid, "TradeLog")
+	return true
+	end]]></event>	  
+<event type="tradeaccept" name="TradeLog" event="script"><![CDATA[
+domodlib('TradeLog_func')
+function onTradeAccept(cid, target, item, targetItem)
+if (not isPlayer(cid)) or (not isPlayer(target)) then return false end
+local items1,items2 = ""..item.itemid,""..targetItem.itemid
+items1 = isContainer(item.uid) and getContainerSize(item.uid) > 0 and items1.."("..getItemNameById(item.itemid).."):1"..containerItemsToString(item.uid) or items1.."("..getItemNameById(item.itemid).."):".. natural(getItemWeight(item.uid)/getItemWeightById(item.itemid))
+items2 = isContainer(targetItem.uid) and getContainerSize(targetItem.uid) > 0 and  items2.."("..getItemNameById(targetItem.itemid).."):1"..containerItemsToString(targetItem.uid) or items2.."("..getItemNameById(targetItem.itemid).."):".. natural(getItemWeight(targetItem.uid)/getItemWeightById(targetItem.itemid))
+f = io.open("data/logs/Trades.txt", "a+")
+f:write("World: ".. getConfigValue("worldId") .." -  "..getPlayerName(cid).." Trocou: [".. items1 .."] por [".. items2 .."] com o Player "..getPlayerName(target)..". Em " .. os.date("%d %B %Y - %X.", os.time()) .."\n\n----------------------------------------------------------\n")
+f:close()
+doPlayerSave(cid)
+doPlayerSave(target)
+return true
+end
+]]></event>
+</mod>

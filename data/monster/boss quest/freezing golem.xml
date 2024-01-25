@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Freezing Golem" nameDescription="a Freezing Golem[BOSS]" race="blood" experience="44000" speed="450" manacost="0">
+	<health now="15255000" max="15255000"/>
+	<look type="1237" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="4"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-5770" max="-6780"/>
+		<attack name="dozabuzaarea" interval="1000" chance="100" radius="4" target="1" min="-12100" max="-19600">        
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="15000" chance="100" min="5000" max="5000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element hyotonPercent="50"/>
+		<element suitonPercent="10"/>
+		<element katonPercent="-30"/>
+		<element taijutsuPercent="-70"/>
+	</elements>
+</monster>

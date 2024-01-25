@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kentaro" nameDescription="Kentaro[Human]" race="blood" experience="17550" speed="550" manacost="0">
+	<health now="285600" max="285600"/>
+	<look type="1355" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-5899" max="-6544"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-0" max="-0">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="kentarotarget" interval="1500" chance="100" radius="3" target="1" min="-18440" max="-19440">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements> 
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		<immunity invisible="0"/>
+	</immunities>
+
+</monster>

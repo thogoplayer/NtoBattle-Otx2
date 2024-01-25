@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Kuchyose]Bisuke" nameDescription="Bisuke[Summon]" race="blood" experience="0" speed="700" manacost="0">
+	<health now="225000" max="225000"/>
+	<look type="596" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1700" chance="50" min="-3500" max="-4000"/>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+</monster>

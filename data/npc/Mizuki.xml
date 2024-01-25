@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mizuki" script="data/npc/scripts/saga/pergaminho.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="712" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola shinobi, ouvi dizer que nao esta muito bem na academia..queres alguma {ajuda} shinobi?" />
+  </parameters>
+</npc>

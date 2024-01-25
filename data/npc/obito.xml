@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tobi" script="data/npc/scripts/AkatsukiSystem.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="999999999" max="999999999"/>
+<look type="483" head="0" body="0" legs="0" feet="0" addons="0"/>
+<parameters>
+<parameter key="message_greet" value="Huum, então você quer se tornar um membro da {akatsuki}?"/>
+								<parameter key="message_farewell" value="Até mais!" />
+
+								<parameter key="message_walkaway" value="Até mais!" />
+</parameters>
+</npc>

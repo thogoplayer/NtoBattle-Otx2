@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ibuse" nameDescription="Ibuse[Monster]" race="blood" experience="13400" speed="450" manacost="0">
+	<health now="235000" max="235000"/>
+	<look type="558" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1500" min="-4180" max="-5300"/>
+		<attack name="Dark Snake" interval="1000" chance="100" radius="4" target="0" min="-5480" max="-6500">
+		</attack>
+	</attacks>
+		<loot>
+		<item id="12384" countmax="2" chance="6000"/><!-- red cloth -->
+		<item id="12381" countmax="1" chance="9000"/><!-- dust -->
+		<item id="10706" countmax="1" chance="9000"/><!-- Dreessing -->
+	</loot>
+</monster>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Examinador" script="data/npc/scripts/saga/examinador.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="1183" head="38" body="79" legs="107" feet="114"/>
+	<parameters>
+  <parameter key="message_greet" value="Ola |PLAYERNAME| deseja ir para a final do exame {Chunin}?. "/>
+    </parameters></npc>

@@ -1,0 +1,56 @@
+[27/09/2020 20:56:10] [ADM] Killua [501]: Comprou 1 Florest Backpack por 1133 Demon Flame Essences.
+[06/10/2020 20:52:30] Tenten [491]: Comprou 1 [E]Nidaime ForeHead por 1084 blue piece of cloths.
+[08/11/2020 16:44:24] Reryson Faz Kakashi [583]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[08/11/2020 19:49:16] Gambaiten [499]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[08/11/2020 19:50:01] Gambaiten [499]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[08/11/2020 21:08:06] Black Eye [466]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[08/11/2020 21:11:39] Senhor Jabiroca [497]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[08/11/2020 21:13:01] Mono Shaco [347]: Comprou 1 Kage Fire Shuriken por 928 Jp Ienes.
+[17/11/2020 18:36:26] Lost You [550]: Comprou 1 [N]Nidaime Boots por 804 Demon Flame Essences.
+[18/11/2020 10:39:21] Lost You [567]: Comprou 1 [N]Nidaime Boots por 804 Demon Flame Essences.
+[18/11/2020 10:39:26] Lost You [567]: Comprou 1 [N]Nidaime Boots por 804 Demon Flame Essences.
+[22/11/2020 12:00:24] Namikaze Minato [540]: Comprou 1 [L]Jiraya Shirt por 709 Demon Flame Essences.
+[16/12/2020 13:07:23] Leozao No Jutsu [429]: Comprou 1 [E]Shodaime Armor por 3817 Jp Ienes.
+[17/12/2020 11:49:37] Betin Drogado [499]: Comprou 1 [E]Shodaime Armor por 3817 Jp Ienes.
+[17/12/2020 11:53:25] Linguinha Legalize [474]: Comprou 1 [E]Shodaime Armor por 3817 Jp Ienes.
+[17/12/2020 19:03:08] Linguinha Legalize [495]: Comprou 1 [E]Shodaime Armor por 3817 Jp Ienes.
+[20/12/2020 12:03:35] Draak Come Puta [454]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:03:42] Hatsu [514]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:04:39] Hatsu [514]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:04:58] Draak Come Puta [454]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:06:58] Draak Come Puta [454]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:09:39] Deus [531]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:10:23] Deus [531]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[20/12/2020 12:12:08] Surgeon [472]: Comprou 1 [E]Madara Pants por 3062 Jp Ienes.
+[26/12/2020 21:58:02] [ADMIN] Wonsr [504]: Comprou 1 [N]Yondaime Pants por 26 Ryos.
+[27/12/2020 14:40:35] Slayer_maru [545]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:41:04] [Tutor] Draak [150]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:41:15] Fernandes Porta Nike [591]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:42:09] Surfa Na Paralyze [507]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:42:13] _tubaraum_ [501]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:44:09] Black Noir [587]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[27/12/2020 14:48:38] Uchiha Obito [524]: Comprou 1 [N]Madara Armor por 33 Ryos.
+[30/12/2020 12:01:03] Shinra [561]: Comprou 1 [N]Madara Pants por 39 Ryos.
+[03/01/2021 12:00:31] Fernandes Porta Nike [606]: Comprou 1 [R]Hokage Hat por 62 Ryos.
+[03/01/2021 12:00:40] Shinra [563]: Comprou 1 [R]Hokage Hat por 62 Ryos.
+[03/01/2021 12:00:41] Suispiro [576]: Comprou 1 [R]Hokage Hat por 62 Ryos.
+[03/01/2021 12:00:46] Itachi Mvp [600]: Comprou 1 [R]Hokage Hat por 62 Ryos.
+[06/01/2021 12:01:53] Matheuszoly [548]: Comprou 1 [N]Yondaime Pants por 78 Ryos.
+[08/01/2021 21:04:22] Czz [537]: Comprou 1 [N]Yondaime Pants por 78 Ryos.
+[08/01/2021 21:18:17] Edward Elric [469]: Comprou 1 [N]Yondaime Pants por 78 Ryos.
+[10/01/2021 12:01:54] Ngc Deree [580]: Comprou 1 [R]Madara Boots por 39 Ryos.
+[10/01/2021 12:02:13] Vitinhoflash [564]: Comprou 1 [R]Madara Boots por 39 Ryos.
+[10/01/2021 12:03:02] Shinra [580]: Comprou 1 [R]Madara Boots por 39 Ryos.
+[10/01/2021 12:06:20] Tonyzynnn [465]: Comprou 1 [R]Madara Boots por 39 Ryos.
+[13/01/2021 12:02:27] Koori Haku [532]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:02:49] Balao [600]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:04:33] Santana Dashadao [502]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:05:47] Vitinhosapo [548]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:06:02] Noah [532]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:07:30] Ngc Deree [583]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:08:52] The King [516]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[13/01/2021 12:09:27] Meriva Dashadao [551]: Comprou 1 [R]Shodaime Boots por 48 Ryos.
+[15/02/2023 12:15:40] ADM [800]: Comprou 1 [R]Hokage Hat por 72 Ryos.
+[15/02/2023 12:32:51] Gsus Castiga [525]: Comprou 1 [R]Hokage Hat por 72 Ryos.
+[08/03/2023 12:01:08] Tada [588]: Comprou 1 [R]Yondaime Boots por 63 Ryos.
+[09/03/2023 12:06:42] Koko [525]: Comprou 1 [R]Yondaime Boots por 63 Ryos.

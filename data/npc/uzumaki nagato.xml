@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Uzumaki Nagato" script="data/npc/scripts/quest nagato.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="689"/>
+<parameters>
+<parameter key="message_greet" value="Ola |PLAYERNAME|, Nos somos apenas simples pessoas movidas pela vingança em nome da justiça 
+ Mas se a vingança e chamada de justiça, entao dessa justiça ira nascer ainda mais 
+ vingança E entao se torna uma corrente de odio Viver com isso, ciente do passado, 
+ predizando o futuro, isso que significa conhecer a historia Nao podemos evitar, mas 
+ sim entender, que as pessoas nunca entenderao uma as outras e e Atraves da justiça eu trarei a paz, entao voce deseja {desafiar} ?." />
+</parameters>
+</npc>

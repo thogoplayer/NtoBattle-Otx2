@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gamabunta " nameDescription="a gamabunta" saga="15" missao="5" race="blood" experience="6600" speed="400" manacost="0">
+	<health now="1575000" max="1575000"/>
+	<look type="659" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+	    <script>
+	<event name="sagadeath"/>
+    </script>
+	<attacks>
+		<attack name="melee" interval="500" min="-5780" max="-6900"/>
+		<attack name="Gamayudan" interval="1100" chance="100" radius="2" target="1" min="-12480" max="-16500">
+		</attack>
+		<attack name="Katon Gamabunta Ryukaa" interval="2500" chance="100" radius="2" target="1" min="-12480" max="-16500">
+		</attack>
+	</attacks>
+</monster>

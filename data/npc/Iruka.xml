@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Iruka" script="data/npc/scripts/saga/irukaini.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="587" head="38" body="79" legs="107" feet="114"/>
+	<parameters>
+  <parameter key="message_greet" value="Ola, entao veio para a academia de shinobis e quer se tornar um {certo}?"/>
+    </parameters></npc>

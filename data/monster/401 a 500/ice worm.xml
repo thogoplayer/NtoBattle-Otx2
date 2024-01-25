@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ice Worm" nameDescription="Ice Worm[Monster]" race="blood" experience="13550" speed="450" manacost="0">
+	<health now="215000" max="215000"/>
+	<look type="685" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-110" max="-140"/>
+		<attack name="gelimdoboss" interval="2500" chance="100" radius="3" target="0" min="-15440" max="-16440">
+		</attack>
+		<attack name="SuitonBomba" interval="1000" chance="100" radius="3" target="0" min="-7440" max="-8440">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="12028" countmax="1" chance="1000"/><!-- kabutowari -->
+		<item id="5875" countmax="1" chance="2500"/><!-- magic essence -->
+	</loot>
+</monster>

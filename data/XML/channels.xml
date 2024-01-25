@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+	<channel id="1" name="Party"/>
+	<channel id="2" name="Administracao" access="3"/>
+	<channel id="3" name="Bug Reports" logged="yes"/>
+	<channel id="5" name="Trade" level="50" logged="yes" muted="30" conditionId="3" conditionMessage="Aguarde ( 30 )30 segundos para enviar uma nova msg."/>
+	<channel id="9" name="Help" level="1" logged="yes" conditionId="4" muted="480" conditionMessage="Aguarde(10)minutos para enviar uma nova msg, use o Global-Chat para conversas...."/>
+	<channel id="8" name="Global-Chat" level="50"/>
+	<channel id="21" name="Loot" active="0" level="5000"/>
+	<channel id="65535" name="Private-Chanel"/>
+</channels>

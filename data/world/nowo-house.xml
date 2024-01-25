@@ -1,0 +1,345 @@
+<?xml version="1.0"?>
+<houses>
+	<house name="Konoha Classic House #1" houseid="1" entryx="2026" entryy="2044" entryz="7" rent="0" townid="1" size="94" />
+	<house name="Konoha Simple House #6" houseid="6" entryx="1998" entryy="2077" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Konoha Simple House #7" houseid="7" entryx="2008" entryy="2073" entryz="7" rent="0" townid="1" size="35" />
+	<house name="Konoha Simple House #8" houseid="8" entryx="1994" entryy="2061" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Konoha Simple House #9" houseid="9" entryx="2000" entryy="2061" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Konoha Simple House #10" houseid="10" entryx="2005" entryy="2061" entryz="7" rent="0" townid="1" size="13" />
+	<house name="Konoha Long House #11" houseid="11" entryx="2000" entryy="2072" entryz="6" rent="0" townid="1" size="64" />
+	<house name="Konoha Simple House #12" houseid="12" entryx="1995" entryy="2061" entryz="6" rent="0" townid="1" size="25" />
+	<house name="Konoha Simple House #13" houseid="13" entryx="2003" entryy="2061" entryz="6" rent="0" townid="1" size="22" />
+	<house name="Konoha Classic House #14" houseid="14" entryx="1994" entryy="2061" entryz="5" rent="0" townid="1" size="54" />
+	<house name="Konoha Classic House #15" houseid="15" entryx="2006" entryy="2064" entryz="5" rent="0" townid="1" size="51" />
+	<house name="Konoha Simple House #16" houseid="16" entryx="1993" entryy="2062" entryz="4" rent="0" townid="1" size="30" />
+	<house name="Konoha Simple House #17" houseid="17" entryx="2000" entryy="2064" entryz="4" rent="0" townid="1" size="16" />
+	<house name="Konoha Simple House #18" houseid="18" entryx="2006" entryy="2064" entryz="4" rent="0" townid="1" size="26" />
+	<house name="Konoha Simple House #19" houseid="19" entryx="1995" entryy="2052" entryz="4" rent="0" townid="1" size="25" />
+	<house name="Konoha Simple House #20" houseid="20" entryx="2004" entryy="2056" entryz="4" rent="0" townid="1" size="28" />
+	<house name="Konoha Simple House #21" houseid="21" entryx="2002" entryy="2053" entryz="4" rent="0" townid="1" size="21" />
+	<house name="Konoha Simple House #22" houseid="22" entryx="2013" entryy="2052" entryz="4" rent="0" townid="1" size="12" />
+	<house name="Konoha Simple House #23" houseid="23" entryx="2015" entryy="2051" entryz="6" rent="0" townid="1" size="45" />
+	<house name="Konoha Simple House #24" houseid="24" entryx="2008" entryy="2080" entryz="7" rent="0" townid="1" size="52" />
+	<house name="Konoha Simple House #25" houseid="25" entryx="2017" entryy="2082" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Konoha Simple House #35" houseid="35" entryx="2097" entryy="2058" entryz="7" rent="0" townid="1" size="32" />
+	<house name="Konoha Simple House #36" houseid="36" entryx="2106" entryy="2012" entryz="7" rent="0" townid="1" size="22" />
+	<house name="Konoha Simple House #37" houseid="37" entryx="2116" entryy="2012" entryz="7" rent="0" townid="1" size="22" />
+	<house name="Konoha Great House #45" houseid="45" entryx="2120" entryy="2041" entryz="7" rent="0" townid="1" size="54" />
+	<house name="Konoha Great House #46" houseid="46" entryx="2085" entryy="2062" entryz="7" rent="0" townid="1" size="50" />
+	<house name="Konoha Small House #48" houseid="48" entryx="2062" entryy="2080" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Konoha Small House #49" houseid="49" entryx="2069" entryy="2080" entryz="7" rent="0" townid="1" size="21" />
+	<house name="Konoha Small House #50" houseid="50" entryx="2063" entryy="2078" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Konoha Small House #51" houseid="51" entryx="2066" entryy="2076" entryz="6" rent="0" townid="1" size="25" />
+	<house name="Konoha Small House #52" houseid="52" entryx="2067" entryy="2080" entryz="6" rent="0" townid="1" size="35" />
+	<house name="Konoha House #54" houseid="54" entryx="2083" entryy="2013" entryz="7" rent="0" townid="1" size="24" />
+	<house name="Konoha House #55" houseid="55" entryx="2091" entryy="2013" entryz="7" rent="0" townid="1" size="28" />
+	<house name="Konoha House #56" houseid="56" entryx="2083" entryy="2013" entryz="6" rent="0" townid="1" size="32" />
+	<house name="Konoha House #69" houseid="69" entryx="2109" entryy="2009" entryz="6" rent="0" townid="1" size="23" />
+	<house name="Konoha House #70" houseid="70" entryx="2086" entryy="2032" entryz="6" rent="0" townid="1" size="0" />
+	<house name="Konoha House #75" houseid="75" entryx="2085" entryy="2014" entryz="6" rent="0" townid="1" size="27" />
+	<house name="Konoha House #76" houseid="76" entryx="2090" entryy="2012" entryz="6" rent="0" townid="1" size="27" />
+	<house name="Konoha House #77" houseid="77" entryx="2087" entryy="2018" entryz="5" rent="0" townid="1" size="41" />
+	<house name="Konoha House #78" houseid="78" entryx="2082" entryy="2014" entryz="4" rent="0" townid="1" size="27" />
+	<house name="Konoha House #79" houseid="79" entryx="2084" entryy="2012" entryz="4" rent="0" townid="1" size="20" />
+	<house name="Konoha House #80" houseid="80" entryx="2087" entryy="2014" entryz="4" rent="0" townid="1" size="24" />
+	<house name="Konoha House #81" houseid="81" entryx="2089" entryy="2013" entryz="4" rent="0" townid="1" size="31" />
+	<house name="Konoha House #82" houseid="82" entryx="2084" entryy="2057" entryz="7" rent="0" townid="1" size="54" />
+	<house name="SunaGakure House #84" houseid="84" entryx="1314" entryy="2175" entryz="7" rent="0" townid="3" size="90" />
+	<house name="SunaGakure House #85" houseid="85" entryx="1309" entryy="2164" entryz="7" rent="0" townid="3" size="107" />
+	<house name="SunaGakure House #87" houseid="87" entryx="1316" entryy="2154" entryz="7" rent="0" townid="3" size="30" />
+	<house name="SunaGakure House #88" houseid="88" entryx="1325" entryy="2149" entryz="7" rent="0" townid="3" size="33" />
+	<house name="SunaGakure House #89" houseid="89" entryx="1336" entryy="2146" entryz="7" rent="0" townid="3" size="57" />
+	<house name="SunaGakure House #90" houseid="90" entryx="1336" entryy="2145" entryz="6" rent="0" townid="3" size="48" />
+	<house name="SunaGakure House #91" houseid="91" entryx="1322" entryy="2149" entryz="6" rent="0" townid="3" size="57" />
+	<house name="SunaGakure House #92" houseid="92" entryx="1333" entryy="2160" entryz="7" rent="0" townid="3" size="104" />
+	<house name="SunaGakure House #93" houseid="93" entryx="1360" entryy="2165" entryz="7" rent="0" townid="3" size="77" />
+	<house name="SunaGakure House #94" houseid="94" entryx="1365" entryy="2151" entryz="7" rent="0" townid="3" size="74" />
+	<house name="SunaGakure House #95" houseid="95" entryx="1372" entryy="2153" entryz="6" rent="0" townid="3" size="50" />
+	<house name="SunaGakure House #96" houseid="96" entryx="1387" entryy="2183" entryz="7" rent="0" townid="3" size="201" />
+	<house name="SunaGakure House #97" houseid="97" entryx="1358" entryy="2218" entryz="7" rent="0" townid="3" size="102" />
+	<house name="SunaGakure House #98" houseid="98" entryx="1358" entryy="2228" entryz="7" rent="0" townid="3" size="102" />
+	<house name="SunaGakure House #99" houseid="99" entryx="1358" entryy="2238" entryz="7" rent="0" townid="3" size="100" />
+	<house name="SunaGakure House #100" houseid="100" entryx="1363" entryy="2217" entryz="7" rent="0" townid="3" size="50" />
+	<house name="SunaGakure House #101" houseid="101" entryx="1363" entryy="2227" entryz="7" rent="0" townid="3" size="50" />
+	<house name="SunaGakure House #102" houseid="102" entryx="1363" entryy="2237" entryz="7" rent="0" townid="3" size="50" />
+	<house name="SunaGakure House #104" houseid="104" entryx="1333" entryy="2169" entryz="7" rent="0" townid="3" size="104" />
+	<house name="Getsu Gakure House #105" houseid="105" entryx="3114" entryy="1800" entryz="7" rent="0" townid="6" size="137" />
+	<house name="Getsu Gakure House #106" houseid="106" entryx="3102" entryy="1800" entryz="7" rent="0" townid="6" size="110" />
+	<house name="Getsu Gakure House #107" houseid="107" entryx="3111" entryy="1788" entryz="7" rent="0" townid="6" size="125" />
+	<house name="Getsu Gakure House #108" houseid="108" entryx="3085" entryy="1790" entryz="7" rent="0" townid="6" size="66" />
+	<house name="Getsu Gakure House #109" houseid="109" entryx="3083" entryy="1777" entryz="7" rent="0" townid="6" size="70" />
+	<house name="Getsu Gakure House #110" houseid="110" entryx="3083" entryy="1770" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Getsu Gakure House #111" houseid="111" entryx="3083" entryy="1762" entryz="7" rent="0" townid="6" size="68" />
+	<house name="Getsu Gakure House #112" houseid="112" entryx="3061" entryy="1798" entryz="7" rent="0" townid="6" size="62" />
+	<house name="Getsu Gakure House #113" houseid="113" entryx="3048" entryy="1811" entryz="7" rent="0" townid="6" size="85" />
+	<house name="Getsu Gakure House #114" houseid="114" entryx="3046" entryy="1808" entryz="7" rent="0" townid="6" size="40" />
+	<house name="Getsu Gakure House #115" houseid="115" entryx="3046" entryy="1800" entryz="7" rent="0" townid="6" size="28" />
+	<house name="Getsu Gakure House #116" houseid="116" entryx="3046" entryy="1787" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Getsu Gakure House #117" houseid="117" entryx="3046" entryy="1780" entryz="7" rent="0" townid="6" size="30" />
+	<house name="Getsu Gakure House #118" houseid="118" entryx="3061" entryy="1787" entryz="7" rent="0" townid="6" size="46" />
+	<house name="Getsu Gakure House #119" houseid="119" entryx="3049" entryy="1777" entryz="7" rent="0" townid="6" size="17" />
+	<house name="Getsu Gakure House #120" houseid="120" entryx="3045" entryy="1771" entryz="7" rent="0" townid="6" size="23" />
+	<house name="Getsu Gakure House #121" houseid="121" entryx="3045" entryy="1761" entryz="7" rent="0" townid="6" size="52" />
+	<house name="Getsu Gakure House #122" houseid="122" entryx="3049" entryy="1763" entryz="7" rent="0" townid="6" size="21" />
+	<house name="Getsu Gakure House #123" houseid="123" entryx="3049" entryy="1754" entryz="7" rent="0" townid="6" size="49" />
+	<house name="Getsu Gakure House #124" houseid="124" entryx="3045" entryy="1753" entryz="7" rent="0" townid="6" size="67" />
+	<house name="Getsu Gakure House #125" houseid="125" entryx="3049" entryy="1748" entryz="7" rent="0" townid="6" size="6" />
+	<house name="Getsu Gakure House #126" houseid="126" entryx="3048" entryy="1745" entryz="7" rent="0" townid="6" size="68" />
+	<house name="Getsu Gakure House #127" houseid="127" entryx="3063" entryy="1745" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Getsu Gakure House #128" houseid="128" entryx="3074" entryy="1743" entryz="7" rent="0" townid="6" size="21" />
+	<house name="Getsu Gakure House #129" houseid="129" entryx="3079" entryy="1755" entryz="7" rent="0" townid="6" size="50" />
+	<house name="Getsu Gakure House #130" houseid="130" entryx="3027" entryy="1810" entryz="7" rent="0" townid="6" size="58" />
+	<house name="Getsu Gakure House #131" houseid="131" entryx="3028" entryy="1808" entryz="7" rent="0" townid="6" size="10" />
+	<house name="Getsu Gakure House #132" houseid="132" entryx="3026" entryy="1807" entryz="7" rent="0" townid="6" size="28" />
+	<house name="Getsu Gakure House #133" houseid="133" entryx="3026" entryy="1799" entryz="7" rent="0" townid="6" size="21" />
+	<house name="Getsu Gakure House #134" houseid="134" entryx="3028" entryy="1800" entryz="7" rent="0" townid="6" size="104" />
+	<house name="Getsu Gakure House #135" houseid="135" entryx="3026" entryy="1788" entryz="7" rent="0" townid="6" size="50" />
+	<house name="Getsu Gakure House #136" houseid="136" entryx="3028" entryy="1786" entryz="7" rent="0" townid="6" size="21" />
+	<house name="Getsu Gakure House #137" houseid="137" entryx="3026" entryy="1779" entryz="7" rent="0" townid="6" size="16" />
+	<house name="Getsu Gakure House #138" houseid="138" entryx="3028" entryy="1776" entryz="7" rent="0" townid="6" size="47" />
+	<house name="Getsu Gakure House #140" houseid="140" entryx="3030" entryy="1765" entryz="7" rent="0" townid="6" size="56" />
+	<house name="Getsu Gakure House #141" houseid="141" entryx="3026" entryy="1760" entryz="7" rent="0" townid="6" size="27" />
+	<house name="Getsu Gakure House #142" houseid="142" entryx="3028" entryy="1756" entryz="7" rent="0" townid="6" size="46" />
+	<house name="Getsu Gakure House #143" houseid="143" entryx="3026" entryy="1750" entryz="7" rent="0" townid="6" size="22" />
+	<house name="Getsu Gakure House #144" houseid="144" entryx="3028" entryy="1748" entryz="7" rent="0" townid="6" size="52" />
+	<house name="Getsu Gakure House #145" houseid="145" entryx="3027" entryy="1745" entryz="7" rent="0" townid="6" size="60" />
+	<house name="Yu No Kuni House #148" houseid="148" entryx="2464" entryy="1798" entryz="7" rent="0" townid="4" size="126" />
+	<house name="Yu No Kuni House #149" houseid="149" entryx="2456" entryy="1800" entryz="6" rent="0" townid="4" size="98" />
+	<house name="Yu No Kuni House #150" houseid="150" entryx="2462" entryy="1815" entryz="7" rent="0" townid="4" size="125" />
+	<house name="Yu No Kuni House #151" houseid="151" entryx="2460" entryy="1832" entryz="7" rent="0" townid="4" size="126" />
+	<house name="Yu No Kuni House #152" houseid="152" entryx="2487" entryy="1796" entryz="7" rent="0" townid="4" size="98" />
+	<house name="Yu No Kuni House #153" houseid="153" entryx="2502" entryy="1798" entryz="7" rent="0" townid="4" size="51" />
+	<house name="Yu No Kuni House #154" houseid="154" entryx="2488" entryy="1814" entryz="7" rent="0" townid="4" size="190" />
+	<house name="Yu No Kuni House #155" houseid="155" entryx="2484" entryy="1814" entryz="6" rent="0" townid="4" size="79" />
+	<house name="Yu No Kuni House #156" houseid="156" entryx="2484" entryy="1814" entryz="5" rent="0" townid="4" size="72" />
+	<house name="Yu No Kuni House #157" houseid="157" entryx="2466" entryy="1832" entryz="7" rent="0" townid="4" size="59" />
+	<house name="Yu No Kuni House #158" houseid="158" entryx="2473" entryy="1839" entryz="7" rent="0" townid="4" size="57" />
+	<house name="Yu No Kuni House #159" houseid="159" entryx="2496" entryy="1825" entryz="7" rent="0" townid="4" size="102" />
+	<house name="Yu No Kuni House #160" houseid="160" entryx="2507" entryy="1839" entryz="7" rent="0" townid="4" size="79" />
+	<house name="Yu No Kuni House #161" houseid="161" entryx="2511" entryy="1834" entryz="7" rent="0" townid="4" size="43" />
+	<house name="Yu No Kuni House #162" houseid="162" entryx="2512" entryy="1815" entryz="7" rent="0" townid="4" size="48" />
+	<house name="Yu No Kuni House #163" houseid="163" entryx="2523" entryy="1815" entryz="7" rent="0" townid="4" size="48" />
+	<house name="Yu No Kuni House #164" houseid="164" entryx="2539" entryy="1819" entryz="7" rent="0" townid="4" size="43" />
+	<house name="Yu No Kuni House #165" houseid="165" entryx="2535" entryy="1808" entryz="7" rent="0" townid="4" size="87" />
+	<house name="Yu No Kuni House #166" houseid="166" entryx="2568" entryy="1805" entryz="7" rent="0" townid="4" size="147" />
+	<house name="Yu No Kuni House #167" houseid="167" entryx="2572" entryy="1797" entryz="7" rent="0" townid="4" size="107" />
+	<house name="Yu No Kuni House #168" houseid="168" entryx="2571" entryy="1786" entryz="7" rent="0" townid="4" size="41" />
+	<house name="Yu No Kuni House #169" houseid="169" entryx="2571" entryy="1777" entryz="7" rent="0" townid="4" size="58" />
+	<house name="Yu No Kuni House #170" houseid="170" entryx="2553" entryy="1788" entryz="7" rent="0" townid="4" size="208" />
+	<house name="Yu No Kuni House #171" houseid="171" entryx="2520" entryy="1786" entryz="7" rent="0" townid="4" size="40" />
+	<house name="Yu No Kuni House #172" houseid="172" entryx="2528" entryy="1786" entryz="7" rent="0" townid="4" size="52" />
+	<house name="Yu No Kuni House #173" houseid="173" entryx="2545" entryy="1789" entryz="7" rent="0" townid="4" size="120" />
+	<house name="Yu No Kuni House #174" houseid="174" entryx="2521" entryy="1783" entryz="6" rent="0" townid="4" size="52" />
+	<house name="Yu No Kuni House #175" houseid="175" entryx="2545" entryy="1782" entryz="6" rent="0" townid="4" size="92" />
+	<house name="Yu No Kuni House #176" houseid="176" entryx="2540" entryy="1782" entryz="5" rent="0" townid="4" size="74" />
+	<house name="Yu No Kuni House #177" houseid="177" entryx="2564" entryy="1810" entryz="6" rent="0" townid="4" size="88" />
+	<house name="SunaGakure House #178" houseid="178" entryx="1354" entryy="2170" entryz="6" rent="0" townid="3" size="67" />
+	<house name="KumoGakure House #179" houseid="179" entryx="2665" entryy="1626" entryz="7" rent="0" townid="5" size="53" />
+	<house name="KumoGakure House #180" houseid="180" entryx="2655" entryy="1604" entryz="7" rent="0" townid="5" size="10" />
+	<house name="KumoGakure House #181" houseid="181" entryx="2682" entryy="1592" entryz="7" rent="0" townid="5" size="46" />
+	<house name="KumoGakure House #182" houseid="182" entryx="2690" entryy="1623" entryz="7" rent="0" townid="5" size="182" />
+	<house name="KumoGakure House #183" houseid="183" entryx="2673" entryy="1566" entryz="7" rent="0" townid="5" size="38" />
+	<house name="KumoGakure House #184" houseid="184" entryx="2671" entryy="1585" entryz="5" rent="0" townid="5" size="6" />
+	<house name="KumoGakure House #185" houseid="185" entryx="2689" entryy="1582" entryz="5" rent="0" townid="5" size="12" />
+	<house name="KumoGakure House #186" houseid="186" entryx="2717" entryy="1598" entryz="5" rent="0" townid="5" size="12" />
+	<house name="KumoGakure House #187" houseid="187" entryx="2715" entryy="1613" entryz="5" rent="0" townid="5" size="22" />
+	<house name="KumoGakure House #188" houseid="188" entryx="2713" entryy="1611" entryz="4" rent="0" townid="5" size="14" />
+	<house name="KumoGakure House #189" houseid="189" entryx="2676" entryy="1579" entryz="4" rent="0" townid="5" size="13" />
+	<house name="KumoGakure House #190" houseid="190" entryx="2700" entryy="1576" entryz="4" rent="0" townid="5" size="36" />
+	<house name="KumoGakure House #191" houseid="191" entryx="2688" entryy="1596" entryz="4" rent="0" townid="5" size="17" />
+	<house name="KumoGakure House #192" houseid="192" entryx="2672" entryy="1597" entryz="4" rent="0" townid="5" size="15" />
+	<house name="KumoGakure House #193" houseid="193" entryx="2524" entryy="1591" entryz="7" rent="0" townid="5" size="56" />
+	<house name="KumoGakure House #194" houseid="194" entryx="2534" entryy="1591" entryz="7" rent="0" townid="5" size="72" />
+	<house name="AmeGakure House #220" houseid="220" entryx="1502" entryy="2112" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #221" houseid="221" entryx="1502" entryy="2104" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #222" houseid="222" entryx="1502" entryy="2096" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #223" houseid="223" entryx="1502" entryy="2088" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #224" houseid="224" entryx="1502" entryy="2080" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #225" houseid="225" entryx="1517" entryy="2082" entryz="7" rent="0" townid="7" size="102" />
+	<house name="AmeGakure House #226" houseid="226" entryx="1519" entryy="2095" entryz="7" rent="0" townid="7" size="99" />
+	<house name="AmeGakure House #227" houseid="227" entryx="1519" entryy="2109" entryz="7" rent="0" townid="7" size="99" />
+	<house name="AmeGakure House #228" houseid="228" entryx="1519" entryy="2123" entryz="7" rent="0" townid="7" size="148" />
+	<house name="AmeGakure House #229" houseid="229" entryx="1535" entryy="2123" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #230" houseid="230" entryx="1535" entryy="2115" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #231" houseid="231" entryx="1535" entryy="2107" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #232" houseid="232" entryx="1535" entryy="2099" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #233" houseid="233" entryx="1535" entryy="2091" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #234" houseid="234" entryx="1535" entryy="2083" entryz="7" rent="0" townid="7" size="53" />
+	<house name="AmeGakure House #235" houseid="235" entryx="1552" entryy="2083" entryz="7" rent="0" townid="7" size="52" />
+	<house name="AmeGakure House #236" houseid="236" entryx="1552" entryy="2091" entryz="7" rent="0" townid="7" size="54" />
+	<house name="AmeGakure House #237" houseid="237" entryx="1552" entryy="2105" entryz="7" rent="0" townid="7" size="74" />
+	<house name="AmeGakure House #238" houseid="238" entryx="1553" entryy="2119" entryz="7" rent="0" townid="7" size="138" />
+	<house name="AmeGakure House #239" houseid="239" entryx="1551" entryy="2136" entryz="7" rent="0" townid="7" size="133" />
+	<house name="AmeGakure House #240" houseid="240" entryx="1557" entryy="2071" entryz="7" rent="0" townid="7" size="116" />
+	<house name="AmeGakure House #241" houseid="241" entryx="1557" entryy="2085" entryz="7" rent="0" townid="7" size="115" />
+	<house name="AmeGakure House #242" houseid="242" entryx="1561" entryy="2112" entryz="7" rent="0" townid="7" size="113" />
+	<house name="AmeGakure House #243" houseid="243" entryx="1561" entryy="2127" entryz="7" rent="0" townid="7" size="109" />
+	<house name="Konoha House #245" houseid="245" entryx="2048" entryy="2003" entryz="7" rent="0" townid="1" size="40" />
+	<house name="Konoha House #246" houseid="246" entryx="2063" entryy="1995" entryz="7" rent="0" townid="1" size="17" />
+	<house name="Konoha House #247" houseid="247" entryx="2063" entryy="2003" entryz="7" rent="0" townid="1" size="22" />
+	<house name="Konoha House #248" houseid="248" entryx="2067" entryy="1995" entryz="7" rent="0" townid="1" size="11" />
+	<house name="Konoha House #249" houseid="249" entryx="2067" entryy="2001" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Konoha House #250" houseid="250" entryx="2067" entryy="2015" entryz="7" rent="0" townid="1" size="11" />
+	<house name="Konoha House #251" houseid="251" entryx="2067" entryy="2021" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Konoha House #252" houseid="252" entryx="2048" entryy="2014" entryz="7" rent="0" townid="1" size="37" />
+	<house name="Konoha House #253" houseid="253" entryx="2062" entryy="2002" entryz="6" rent="0" townid="1" size="34" />
+	<house name="Konoha House #254" houseid="254" entryx="2065" entryy="2000" entryz="6" rent="0" townid="1" size="30" />
+	<house name="Konoha House #255" houseid="255" entryx="2068" entryy="2002" entryz="6" rent="0" townid="1" size="27" />
+	<house name="Konoha House #256" houseid="256" entryx="2065" entryy="1997" entryz="5" rent="0" townid="1" size="66" />
+	<house name="Konoha House #257" houseid="257" entryx="2009" entryy="1998" entryz="7" rent="0" townid="1" size="59" />
+	<house name="Leader Guild House #258" houseid="258" entryx="2074" entryy="2079" entryz="7" rent="0" guildhall="true" townid="1" size="505" />
+	<house name="Village Guild House #259" houseid="259" entryx="2918" entryy="2124" entryz="7" rent="0" guildhall="true" townid="13" size="861" />
+	<house name="Village House #260" houseid="260" entryx="2879" entryy="2079" entryz="7" rent="0" townid="13" size="124" />
+	<house name="Village House #261" houseid="261" entryx="2890" entryy="2081" entryz="7" rent="0" townid="13" size="187" />
+	<house name="Village House #262" houseid="262" entryx="2914" entryy="2089" entryz="7" rent="0" townid="13" size="159" />
+	<house name="Village House #263" houseid="263" entryx="2890" entryy="2099" entryz="7" rent="0" townid="13" size="181" />
+	<house name="Village House #264" houseid="264" entryx="2878" entryy="2101" entryz="7" rent="0" townid="13" size="192" />
+	<house name="Village House #265" houseid="265" entryx="2860" entryy="2086" entryz="7" rent="0" townid="13" size="59" />
+	<house name="Village House #266" houseid="266" entryx="2839" entryy="2093" entryz="7" rent="0" townid="13" size="46" />
+	<house name="Village House #267" houseid="267" entryx="2852" entryy="2093" entryz="7" rent="0" townid="13" size="43" />
+	<house name="Village House #268" houseid="268" entryx="2840" entryy="2116" entryz="7" rent="0" townid="13" size="59" />
+	<house name="Village House #269" houseid="269" entryx="2851" entryy="2116" entryz="7" rent="0" townid="13" size="60" />
+	<house name="Village House #271" houseid="271" entryx="2868" entryy="2114" entryz="7" rent="0" townid="13" size="63" />
+	<house name="Village House #272" houseid="272" entryx="2882" entryy="2114" entryz="7" rent="0" townid="13" size="64" />
+	<house name="KiriGakure House #273" houseid="273" entryx="2256" entryy="2381" entryz="7" rent="0" townid="10" size="49" />
+	<house name="KiriGakure House #274" houseid="274" entryx="2264" entryy="2381" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #275" houseid="275" entryx="2272" entryy="2381" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #276" houseid="276" entryx="2256" entryy="2392" entryz="7" rent="0" townid="10" size="56" />
+	<house name="KiriGakure House #277" houseid="277" entryx="2264" entryy="2392" entryz="7" rent="0" townid="10" size="46" />
+	<house name="KiriGakure House #278" houseid="278" entryx="2272" entryy="2392" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #279" houseid="279" entryx="2293" entryy="2370" entryz="7" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #280" houseid="280" entryx="2297" entryy="2370" entryz="7" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #281" houseid="281" entryx="2293" entryy="2374" entryz="7" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #282" houseid="282" entryx="2297" entryy="2374" entryz="7" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #283" houseid="283" entryx="2297" entryy="2372" entryz="6" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #284" houseid="284" entryx="2291" entryy="2384" entryz="7" rent="0" townid="10" size="35" />
+	<house name="KiriGakure House #285" houseid="285" entryx="2299" entryy="2384" entryz="7" rent="0" townid="10" size="46" />
+	<house name="KiriGakure House #286" houseid="286" entryx="2306" entryy="2384" entryz="7" rent="0" townid="10" size="31" />
+	<house name="KiriGakure House #287" houseid="287" entryx="2292" entryy="2401" entryz="7" rent="0" townid="10" size="105" />
+	<house name="KiriGakure House #288" houseid="288" entryx="2299" entryy="2401" entryz="7" rent="0" townid="10" size="38" />
+	<house name="KiriGakure House #289" houseid="289" entryx="2307" entryy="2401" entryz="7" rent="0" townid="10" size="105" />
+	<house name="KiriGakure House #290" houseid="290" entryx="2273" entryy="2417" entryz="7" rent="0" townid="10" size="96" />
+	<house name="KiriGakure House #291" houseid="291" entryx="2282" entryy="2417" entryz="7" rent="0" townid="10" size="107" />
+	<house name="KiriGakure House #292" houseid="292" entryx="2281" entryy="2437" entryz="7" rent="0" townid="10" size="46" />
+	<house name="KiriGakure House #293" houseid="293" entryx="2277" entryy="2442" entryz="7" rent="0" townid="10" size="51" />
+	<house name="KiriGakure House #294" houseid="294" entryx="2273" entryy="2450" entryz="7" rent="0" townid="10" size="62" />
+	<house name="KiriGakure House #295" houseid="295" entryx="2274" entryy="2456" entryz="7" rent="0" townid="10" size="57" />
+	<house name="KiriGakure House #296" houseid="296" entryx="2289" entryy="2459" entryz="7" rent="0" townid="10" size="18" />
+	<house name="KiriGakure House #297" houseid="297" entryx="2285" entryy="2457" entryz="6" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #298" houseid="298" entryx="2279" entryy="2457" entryz="6" rent="0" townid="10" size="98" />
+	<house name="KiriGakure House #299" houseid="299" entryx="2275" entryy="2448" entryz="6" rent="0" townid="10" size="74" />
+	<house name="KiriGakure House #300" houseid="300" entryx="2277" entryy="2441" entryz="6" rent="0" townid="10" size="39" />
+	<house name="KiriGakure House #301" houseid="301" entryx="2281" entryy="2440" entryz="6" rent="0" townid="10" size="43" />
+	<house name="KiriGakure House #302" houseid="302" entryx="2299" entryy="2447" entryz="7" rent="0" townid="10" size="72" />
+	<house name="KiriGakure House #303" houseid="303" entryx="2308" entryy="2447" entryz="7" rent="0" townid="10" size="71" />
+	<house name="KiriGakure House #304" houseid="304" entryx="2317" entryy="2447" entryz="7" rent="0" townid="10" size="72" />
+	<house name="KiriGakure House #305" houseid="305" entryx="2326" entryy="2447" entryz="7" rent="0" townid="10" size="71" />
+	<house name="KiriGakure House #306" houseid="306" entryx="2303" entryy="2458" entryz="7" rent="0" townid="10" size="10" />
+	<house name="KiriGakure House #307" houseid="307" entryx="2309" entryy="2458" entryz="7" rent="0" townid="10" size="10" />
+	<house name="KiriGakure House #308" houseid="308" entryx="2314" entryy="2458" entryz="7" rent="0" townid="10" size="13" />
+	<house name="KiriGakure House #309" houseid="309" entryx="2303" entryy="2458" entryz="6" rent="0" townid="10" size="7" />
+	<house name="KiriGakure House #310" houseid="310" entryx="2307" entryy="2457" entryz="6" rent="0" townid="10" size="10" />
+	<house name="KiriGakure House #311" houseid="311" entryx="2346" entryy="2425" entryz="7" rent="0" townid="10" size="55" />
+	<house name="KiriGakure House #312" houseid="312" entryx="2346" entryy="2419" entryz="7" rent="0" townid="10" size="63" />
+	<house name="KiriGakure House #313" houseid="313" entryx="2328" entryy="2409" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #314" houseid="314" entryx="2336" entryy="2409" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #315" houseid="315" entryx="2344" entryy="2409" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #316" houseid="316" entryx="2362" entryy="2397" entryz="7" rent="0" townid="10" size="55" />
+	<house name="KiriGakure House #317" houseid="317" entryx="2362" entryy="2391" entryz="7" rent="0" townid="10" size="63" />
+	<house name="KiriGakure House #318" houseid="318" entryx="2366" entryy="2389" entryz="7" rent="0" townid="10" size="64" />
+	<house name="KiriGakure House #319" houseid="319" entryx="2366" entryy="2396" entryz="7" rent="0" townid="10" size="59" />
+	<house name="KiriGakure House #320" houseid="320" entryx="2326" entryy="2453" entryz="7" rent="0" townid="10" size="57" />
+	<house name="KiriGakure House #321" houseid="321" entryx="2242" entryy="2405" entryz="7" rent="0" townid="10" size="107" />
+	<house name="KiriGakure House #322" houseid="322" entryx="2328" entryy="2373" entryz="7" rent="0" townid="10" size="55" />
+	<house name="KiriGakure House #323" houseid="323" entryx="2336" entryy="2373" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #324" houseid="324" entryx="2344" entryy="2373" entryz="7" rent="0" townid="10" size="73" />
+	<house name="KiriGakure House #325" houseid="325" entryx="2344" entryy="2383" entryz="7" rent="0" townid="10" size="71" />
+	<house name="KiriGakure House #326" houseid="326" entryx="2336" entryy="2383" entryz="7" rent="0" townid="10" size="48" />
+	<house name="KiriGakure House #327" houseid="327" entryx="2328" entryy="2383" entryz="7" rent="0" townid="10" size="46" />
+	<house name="Unnamed House #329" houseid="329" entryx="2835" entryy="2121" entryz="7" rent="0" townid="13" size="139" />
+	<house name="Unnamed House #330" houseid="330" entryx="2840" entryy="2124" entryz="7" rent="0" townid="13" size="58" />
+	<house name="Unnamed House #331" houseid="331" entryx="2851" entryy="2124" entryz="7" rent="0" townid="13" size="55" />
+	<house name="Desert Guild House #334" houseid="334" entryx="1335" entryy="2216" entryz="7" rent="0" guildhall="true" townid="3" size="1219" />
+	<house name="Unnamed House #335" houseid="335" entryx="1018" entryy="1595" entryz="6" rent="0" townid="14" size="536" />
+	<house name="Unnamed House #336" houseid="336" entryx="1031" entryy="1592" entryz="6" rent="0" townid="14" size="61" />
+	<house name="Unnamed House #337" houseid="337" entryx="1045" entryy="1595" entryz="6" rent="0" townid="14" size="75" />
+	<house name="Unnamed House #338" houseid="338" entryx="1090" entryy="1596" entryz="6" rent="0" townid="14" size="60" />
+	<house name="Unnamed House #339" houseid="339" entryx="1103" entryy="1596" entryz="6" rent="0" townid="14" size="40" />
+	<house name="Unnamed House #340" houseid="340" entryx="1111" entryy="1596" entryz="6" rent="0" townid="14" size="29" />
+	<house name="Unnamed House #341" houseid="341" entryx="1090" entryy="1603" entryz="6" rent="0" townid="14" size="38" />
+	<house name="Unnamed House #342" houseid="342" entryx="1101" entryy="1603" entryz="6" rent="0" townid="14" size="17" />
+	<house name="Unnamed House #343" houseid="343" entryx="1109" entryy="1603" entryz="6" rent="0" townid="14" size="33" />
+	<house name="Unnamed House #344" houseid="344" entryx="1112" entryy="1616" entryz="6" rent="0" townid="14" size="25" />
+	<house name="Unnamed House #345" houseid="345" entryx="1101" entryy="1616" entryz="6" rent="0" townid="14" size="16" />
+	<house name="Unnamed House #346" houseid="346" entryx="1086" entryy="1616" entryz="6" rent="0" townid="14" size="28" />
+	<house name="Unnamed House #347" houseid="347" entryx="1074" entryy="1613" entryz="6" rent="0" townid="14" size="26" />
+	<house name="Unnamed House #348" houseid="348" entryx="1078" entryy="1631" entryz="6" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #349" houseid="349" entryx="1085" entryy="1631" entryz="6" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #350" houseid="350" entryx="1074" entryy="1641" entryz="6" rent="0" townid="14" size="34" />
+	<house name="Unnamed House #351" houseid="351" entryx="1066" entryy="1635" entryz="6" rent="0" townid="14" size="73" />
+	<house name="Unnamed House #352" houseid="352" entryx="1066" entryy="1644" entryz="6" rent="0" townid="14" size="119" />
+	<house name="Unnamed House #353" houseid="353" entryx="1074" entryy="1648" entryz="6" rent="0" townid="14" size="34" />
+	<house name="Unnamed House #354" houseid="354" entryx="1078" entryy="1631" entryz="5" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #355" houseid="355" entryx="1084" entryy="1631" entryz="5" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #356" houseid="356" entryx="1078" entryy="1631" entryz="4" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #357" houseid="357" entryx="1084" entryy="1631" entryz="4" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #358" houseid="358" entryx="1103" entryy="1630" entryz="6" rent="0" townid="14" size="21" />
+	<house name="Unnamed House #359" houseid="359" entryx="1031" entryy="1658" entryz="6" rent="0" townid="14" size="59" />
+	<house name="Unnamed House #360" houseid="360" entryx="1043" entryy="1658" entryz="6" rent="0" townid="14" size="59" />
+	<house name="Unnamed House #361" houseid="361" entryx="1061" entryy="1662" entryz="6" rent="0" townid="14" size="43" />
+	<house name="Unnamed House #362" houseid="362" entryx="1091" entryy="1658" entryz="6" rent="0" townid="14" size="65" />
+	<house name="Unnamed House #363" houseid="363" entryx="1102" entryy="1658" entryz="6" rent="0" townid="14" size="82" />
+	<house name="Unnamed House #364" houseid="364" entryx="1123" entryy="1658" entryz="6" rent="0" townid="14" size="101" />
+	<house name="Unnamed House #365" houseid="365" entryx="1126" entryy="1651" entryz="6" rent="0" townid="14" size="24" />
+	<house name="Unnamed House #366" houseid="366" entryx="1121" entryy="1646" entryz="6" rent="0" townid="14" size="38" />
+	<house name="Unnamed House #367" houseid="367" entryx="1126" entryy="1641" entryz="6" rent="0" townid="14" size="26" />
+	<house name="Unnamed House #368" houseid="368" entryx="1062" entryy="1612" entryz="5" rent="0" townid="14" size="87" />
+	<house name="Unnamed House #369" houseid="369" entryx="1024" entryy="1643" entryz="6" rent="0" townid="14" size="54" />
+	<house name="Unnamed House #370" houseid="370" entryx="1071" entryy="1578" entryz="5" rent="0" townid="14" size="166" />
+	<house name="Unnamed House #371" houseid="371" entryx="1065" entryy="1572" entryz="5" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #372" houseid="372" entryx="1073" entryy="1572" entryz="5" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #373" houseid="373" entryx="1081" entryy="1572" entryz="5" rent="0" townid="14" size="18" />
+	<house name="Unnamed House #374" houseid="374" entryx="1090" entryy="1572" entryz="5" rent="0" townid="14" size="28" />
+	<house name="Unnamed House #375" houseid="375" entryx="1101" entryy="1572" entryz="5" rent="0" townid="14" size="28" />
+	<house name="Unnamed House #376" houseid="376" entryx="1112" entryy="1572" entryz="5" rent="0" townid="14" size="28" />
+	<house name="Unnamed House #377" houseid="377" entryx="1131" entryy="1571" entryz="5" rent="0" townid="14" size="10" />
+	<house name="Unnamed House #378" houseid="378" entryx="1101" entryy="1578" entryz="5" rent="0" townid="14" size="30" />
+	<house name="Unnamed House #379" houseid="379" entryx="1085" entryy="1578" entryz="5" rent="0" townid="14" size="44" />
+	<house name="Unnamed House #380" houseid="380" entryx="1061" entryy="1662" entryz="5" rent="0" townid="14" size="43" />
+	<house name="Unnamed House #381" houseid="381" entryx="1061" entryy="1662" entryz="4" rent="0" townid="14" size="43" />
+	<house name="Konoha House #387" houseid="387" entryx="2044" entryy="2059" entryz="6" rent="0" townid="1" size="29" />
+	<house name="Konoha House #388" houseid="388" entryx="2120" entryy="2016" entryz="7" rent="0" townid="1" size="54" />
+	<house name="Konoha House #389" houseid="389" entryx="2102" entryy="2021" entryz="7" rent="0" townid="1" size="64" />
+	<house name="Konoha Simple House #390" houseid="390" entryx="2070" entryy="2068" entryz="7" rent="0" townid="1" size="32" />
+	<house name="Unnamed House #391" houseid="391" entryx="2057" entryy="2055" entryz="7" rent="0" townid="1" size="23" />
+	<house name="Unnamed House #392" houseid="392" entryx="2057" entryy="2062" entryz="7" rent="0" townid="1" size="26" />
+	<house name="Unnamed House #393" houseid="393" entryx="2047" entryy="2060" entryz="7" rent="0" townid="1" size="40" />
+	<house name="Unnamed House #394" houseid="394" entryx="2043" entryy="2066" entryz="7" rent="0" townid="1" size="16" />
+	<house name="Unnamed House #395" houseid="395" entryx="2025" entryy="2082" entryz="7" rent="0" townid="1" size="103" />
+	<house name="Unnamed House #396" houseid="396" entryx="2043" entryy="2083" entryz="6" rent="0" townid="1" size="18" />
+	<house name="Unnamed House #397" houseid="397" entryx="2043" entryy="2079" entryz="6" rent="0" townid="1" size="9" />
+	<house name="Unnamed House #398" houseid="398" entryx="2034" entryy="2071" entryz="7" rent="0" townid="1" size="116" />
+	<house name="Unnamed House #399" houseid="399" entryx="2031" entryy="2075" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Unnamed House #400" houseid="400" entryx="2032" entryy="2062" entryz="7" rent="0" townid="1" size="63" />
+	<house name="Unnamed House #401" houseid="401" entryx="2026" entryy="2039" entryz="7" rent="0" townid="1" size="71" />
+	<house name="Unnamed House #402" houseid="402" entryx="2037" entryy="2029" entryz="7" rent="0" townid="1" size="34" />
+	<house name="Unnamed House #403" houseid="403" entryx="2100" entryy="2064" entryz="7" rent="0" townid="1" size="30" />
+	<house name="Unnamed House #404" houseid="404" entryx="2083" entryy="2035" entryz="7" rent="0" townid="1" size="27" />
+	<house name="Unnamed House #405" houseid="405" entryx="2086" entryy="2038" entryz="7" rent="0" townid="1" size="18" />
+	<house name="Unnamed House #406" houseid="406" entryx="2083" entryy="2040" entryz="7" rent="0" townid="1" size="37" />
+	<house name="Unnamed House #407" houseid="407" entryx="2071" entryy="2034" entryz="7" rent="0" townid="1" size="20" />
+	<house name="Unnamed House #408" houseid="408" entryx="2086" entryy="2032" entryz="6" rent="0" townid="1" size="22" />
+	<house name="Unnamed House #409" houseid="409" entryx="2114" entryy="2034" entryz="7" rent="0" townid="1" size="91" />
+	<house name="Unnamed House #410" houseid="410" entryx="2096" entryy="2033" entryz="7" rent="0" townid="1" size="40" />
+	<house name="Unnamed House #411" houseid="411" entryx="2102" entryy="2046" entryz="7" rent="0" townid="1" size="85" />
+	<house name="Unnamed House #412" houseid="412" entryx="2029" entryy="2057" entryz="7" rent="0" townid="1" size="15" />
+	<house name="Unnamed House #413" houseid="413" entryx="2071" entryy="2041" entryz="7" rent="0" townid="1" size="19" />
+	<house name="Unnamed House #414" houseid="414" entryx="2109" entryy="2046" entryz="7" rent="0" townid="1" size="29" />
+	<house name="Unnamed House #416" houseid="416" entryx="2097" entryy="2064" entryz="6" rent="0" townid="1" size="30" />
+	<house name="Unnamed House #417" houseid="417" entryx="2097" entryy="2058" entryz="6" rent="0" townid="1" size="34" />
+	<house name="Unnamed House #418" houseid="418" entryx="2087" entryy="2064" entryz="6" rent="0" townid="1" size="40" />
+	<house name="Unnamed House #419" houseid="419" entryx="2061" entryy="2062" entryz="6" rent="0" townid="1" size="15" />
+	<house name="Unnamed House #420" houseid="420" entryx="2056" entryy="2056" entryz="6" rent="0" townid="1" size="22" />
+	<house name="Unnamed House #421" houseid="421" entryx="2055" entryy="2056" entryz="6" rent="0" townid="1" size="12" />
+	<house name="Unnamed House #422" houseid="422" entryx="2047" entryy="2067" entryz="6" rent="0" townid="1" size="36" />
+</houses>

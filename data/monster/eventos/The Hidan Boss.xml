@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="The Hidan Boss" nameDescription="a the hidan boss" race="blood" experience="105800" speed="700" manacost="0">
+	<health now="15056500" max="15056500"/>
+	<look type="1598" corpse="0"/>
+	<targetchange interval="15000" chance="15"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="0"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+  	<script>
+    		<event name="Bosses"/>
+  	</script>
+	<attacks>
+		<attack name="melee" interval="1900" min="-18880" max="-19000"/>
+	</attacks>
+	<voices interval="10000" chance="40">
+		<voice sentence="Ahahahaha!!" yell="1"/>
+		<voice sentence="You can't kill me, i'm immortal!!"/>
+	</voices>
+</monster>

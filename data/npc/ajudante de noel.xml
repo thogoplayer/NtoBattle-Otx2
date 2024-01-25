@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ajudante de Noel" script="data/npc/scripts/natal1.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1841" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola, alguns de nossos irmãos sairam de controle no natal e estao assustando muitas pessoas surgindo derrepende, eles possuem alguns santa doll caso consiga ele de volta eu lhe recompensarei com {items}." />
+  </parameters>
+</npc>

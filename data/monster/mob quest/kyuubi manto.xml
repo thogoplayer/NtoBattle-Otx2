@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kyuubi Manto" nameDescription="Kyuubi Manto[MONSTER]" race="blood" experience="0" speed="550" manacost="0">
+	<health now="321250" max="321250"/>
+	<look type="619" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-5110" max="-8140"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-1160" max="-1215">
+		<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="kyuubi Punch" interval="1000" chance="100" radius="4" target="0" min="-14340" max="-21500">
+		</attack>
+	</attacks>
+  <defenses armor="7" defense="12"/>
+	<elements>
+		 
+		 
+		 
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		 
+
+	</immunities>
+
+</monster>

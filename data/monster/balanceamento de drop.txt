@@ -1,0 +1,40 @@
+id item =========Items================Monstros=============================================================Ultilidade do item---------em loot----nivel de achar-----em npc-------
+===10690====Akatsuki Frag   ===>Akat Spy===                                                                /   para vender---------------ok----------baixo------------ok
+===12385====Blue Cloth      ===>Kaishan===Dash Kaishan===                                                  /   mercado negro-------------ok
+===17428====Blue Leaf       ===>Anbu===                                                                    /   mercado negro-------------ok
+===10558====Blue Sphere     ===>Water Snake===Dash Kaishan===Strong Anbu===                                /   para vender---------------ok----------muito alto-------ok
+===12267====Blue Sulphur    ===>Water Snake===Kaishan===Dash Kaishan===Gamakichi===                        /   vender ou mercador--------ok----------alto-------------ok
+===5467=====Canine Fang     ===>Gedou Skeleton===bull===bisuke===                                          /   para vender---------------ok----------medio------------ok
+===17427====Cyan Leaf       ===>demi===Ice renegade===                                                     /   vender ou mercador--------ok----------baixo------------ok
+===5527=====Demon Dust      ===>Salamander===Ibuse===Dragon Lord===                                        /   mercado negro-------------ok----------baixo-------
+===12266====Desert Sulphur  ===>Sand Storm===                                                              /   para vender---------------ok----------medio------------ok
+===14383====Demon Essence   ===>Dragon Lord                                                                /   mercado negro-------------ok----------muito baixo----
+===5930=====Freezing Star   ===>demi===Ryu Dragon===                                                       /   para trocar---------------ok----------muito baixo----
+===5468=====Fire Bug        ===>Fire Shinobi===Master Shinobi===Skeleton                                   /   para vender---------------ok----------alto-------------ok
+===9662=====Ghost Tear      ===>Gedou Skeleton===                                                          /   
+===12383====Green Cloth     ===>Renegade===sheele===                                                       /
+===11191====Giant Eye       ===>Giant Fear===                                                              /   para vender---------------ok----------baixo------------ok
+===17436====Golden Line     ===>Wyda                                                                       /   
+===17429====Lilac Leaf      ===>Scorpion===                                                                /
+===11155====Magic Essence   ===>Wyda===Akai===Kabutomushi                                                  /   vender--------------------ok----------facil------------ok
+===14382====Mistic Essence  ===>Shurata===Devil Skeleton===Demi===Frost Dragon===Ryu Dragon                /   mercado negro---
+===14381====Magic Flame     ===>                                                                           /
+===13926====Mummy Dust      ===>Mummy===                                                                   /
+===8305=====Monther Soil    ===>Gedou Dog===Baby Dragon                                                    /   para vender---------------ok----------facil------------ok
+===5904=====Magic Sulphur   ===>                                                                           /   
+===13925====Nukenin talisma ===>Nukenin===Advan Nukenin===                                                 /
+===12268====Pink Sulphur    ===>                                                                           /   
+===17425====Red Leaf        ===>Zetsu Negro===sheele===                                                    /   
+===12384====Red Cloth       ===>Devil===Baby Dragon                                                        /   para vender---------------ok----------facil------------ok
+===6500=====Renegad Essence ===>Renegade===                                                                /   para vender---------------ok----------facil------------ok
+===12388====Salamander Claw ===>                                                                           /   para vender
+===13923====Spider Trap     ===>Aracnideo                                                                  /   para vender
+===12380====Vampire Dust    ===>Vampire Mutated===                                                         /   
+===13927====Virus Sample    ===>Kabutomushi===Scorpion===Aracnideo===Hebi Shiro===zombie cidadã===venom sna/   para vender
+===11189====Vampire Wing    ===>Vampire Mutated===                                                         /   para vender
+===17435====White Line      ===>Posion Karasu===                                                           /
+===17437====Wing Of Ice     ===>                                                                           /
+===17438====Wing Of Fire    ===>                                                                           /
+===12382====White Cloth     ===>Skeleton===                                                                /
+===17426====Yellow leaf     ===>                                                                           /
+===12387====Yellow Cloth    ===>Mummy===                                                                   /

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Tsunade " script="data/npc/scripts/saga/tsunade.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="477" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Hellow! |PLAYERNAME| parace que o Jiraya o-mandou aqui ver como estou, estou {certa}?" />
+  </parameters>
+</npc>

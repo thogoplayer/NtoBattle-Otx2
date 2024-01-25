@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Especialist" script="data/npc/scripts/quest kurama.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1372"/>
+<parameters>
+<parameter key="message_greet" value="Olá fui informada que a nação estaria enviando shinobis para me {ajudar}." />
+</parameters>
+</npc>

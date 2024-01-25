@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mendigo Gian" script="data/npc/scripts/npcnormal/mendigo.lua" walkinterval="0" floorchange="0">
+	<health now="150" max="150"/>
+	<look type="101" head="79" body="118" legs="115" feet="114" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="3" />
+		<parameter key="shop_sellable" value="fish,2667,5;worm,3976,1" />
+		<parameter key="shop_buyable" value="fish,2667,5;worm,3976,1" />
+	</parameters>
+</npc>

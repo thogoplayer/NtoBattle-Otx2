@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ryotaro" script="data/npc/scripts/default.lua" walkinterval="2000" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="110" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello |PLAYERNAME|. I sell bows and amunations, just {trade}."/>
+		<parameter key="shop_sellable" value="senbow,2547,150;elite shuriken,2546,130;big shuriken,2399,100" />
+		<parameter key="shop_buyable" value="elite shuriken,2546,330;senbow,2547,200;big shuriken,2399,150;shuriken,2545,15;paperexplosive,2543,10;suna shuriken,2544,450" />
+	</parameters>
+</npc>

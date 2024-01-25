@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Iwan" walkinterval="2000" floorchange="0" script="taskdaily.lua">
+	<health now="100" max="100"/>
+	<look type="128" head="0" body="112" legs="107" feet="113" addons="0"/>
+</npc>

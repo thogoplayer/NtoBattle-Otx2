@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Max" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1336" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="hello sir, would you like to buy something? say {trade}."/>
+		<parameter key="shop_buyable" value="White Key,16129,15000000" />
+	</parameters>
+</npc>

@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Shiroi" nameDescription="a Shiroi[BOSS]" race="blood" experience="54220" speed="650" manacost="0">
+	<health now="17450000" max="17450000"/>
+	<look type="815" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-9410" max="-9890"/>
+		<attack name="shiroiarea1" interval="9000" chance="100" radius="4" target="0" min="-49440" max="-54440">        
+		</attack>
+		<attack name="shiroiarea2" interval="1000" chance="100" radius="4" target="0" min="-13440" max="-16600">        
+		</attack>
+		<attack name="shiroitarget1" interval="2700" chance="100" radius="2" target="1" min="-9440" max="-11600">        
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+		<elements>
+		<element poisonPercent="40"/>
+		<element firePercent="40"/>
+		<element suitonPercent="10"/>
+		<element fuutonPercent="10"/>
+		<element dotonPercent="0"/>
+		<element raitonPercent="30"/>
+		<element mokutonPercent="0"/>
+		<element shotonPercent="15"/>
+		<element sunaPercent="0"/>
+		<element entonPercent="-15"/>
+		<element hyotonPercent="60"/>
+		<element yotonPercent="-15"/>
+		<element rantonPercent="0"/>
+		<element bakutonPercent="-5"/>
+		<element shakutonPercent="0"/>
+		<element futtonPercent="-20"/>
+		<element jintonPercent="-10"/>
+		<element satetsuPercent="-15"/>
+		<element taijutsuPercent="-25"/>
+		<element yinPercent="0"/>
+		<element yangPercent="0"/>
+	</elements>
+		<loot>
+		<item id="15482" countmax="1" chance="1000"/><!-- jp ienes -->
+	</loot>
+</monster>

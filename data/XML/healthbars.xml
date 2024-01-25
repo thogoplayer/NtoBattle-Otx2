@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<healthbars>
+    <healthbar id="1" name="Unknown"/>
+	<healthbar id="2" name="Fire"/>
+	<healthbar id="3" name="Dark"/>
+	<healthbar id="4" name="Rainbow"/>
+	<healthbar id="5" name="Ghost"/>
+	<healthbar id="6" name="Bow"/>
+	<healthbar id="7" name="Akatsuki"/>
+	<healthbar id="8" name="Darkness"/>
+	<healthbar id="9" name="Party"/>
+	<healthbar id="10" name="Kazekage"/>
+	<healthbar id="11" name="Mizukage"/>
+	<healthbar id="12" name="Tsuchikage"/>
+	<healthbar id="13" name="Raikage"/>
+	<healthbar id="14" name="Hokage"/>
+	<healthbar id="15" name="Rikudou One"/>
+	<healthbar id="16" name="Kurama"/>
+	<healthbar id="17" name="Rikudou Two"/>
+	<healthbar id="18" name="Chidori"/>
+	
+</healthbars>

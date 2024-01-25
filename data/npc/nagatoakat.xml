@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Nagato [Leader]" script="data/npc/scripts/aktanbu/akat.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="858" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Hello |PLAYERNAME|, are you interested in joining {akatsuki}?" />
+  </parameters>
+</npc>

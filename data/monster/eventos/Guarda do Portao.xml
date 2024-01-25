@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Guarda do Portao" nameDescription="The Gardian[High-Monster]" race="blood" experience="0" speed="0" manacost="0">
+  <health now="9221250" max="9221250"/>
+  <look type="1201" head="114" body="114" legs="114" feet="114"  corpse="6080"/>
+  <targetchange interval="5000" chance="0"/>
+  <strategy attack="0" defense="﻿0"/>
+    <script>
+<event name="guardablood"/>
+</script>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>﻿﻿
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="1"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag passive="0" /> 
+	<flag runonhealth="100"/>
+  </flags>  ﻿
+  <defenses armor="1" defense="1"/>
+</monster>

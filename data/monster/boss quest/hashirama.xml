@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Hashirama" nameDescription="a Hashirama[Boss]" race="blood" experience="88790" speed="450" manacost="0">
+	<health now="21455870" max="21455870"/>
+	<look type="95" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-9800" max="-10990"/>
+		<attack name="Mokuton: Hijutsu Jubaku Eisou" interval="1000" chance="100" radius="4" target="1" min="-4440" max="-5760">        
+		</attack>
+		<attack name="Senpo Dragon Mokuton" interval="2900" chance="100" radius="4" target="1" min="-5440" max="-6960">        
+		</attack>	
+		<attack name="areadohashi" interval="3500" chance="100" radius="4" target="0" min="-14440" max="-15600">        
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="2000" chance="100" min="10000" max="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+		<elements>
+		<element poisonPercent="-10"/>
+		<element firePercent="-10"/>
+		<element suitonPercent="35"/>
+		<element fuutonPercent="25"/>
+		<element dotonPercent="40"/>
+		<element raitonPercent="15"/>
+		<element mokutonPercent="50"/>
+		<element shotonPercent="10"/>
+		<element sunaPercent="0"/>
+		<element entonPercent="0"/>
+		<element hyotonPercent="0"/>
+		<element yotonPercent="-25"/>
+		<element rantonPercent="0"/>
+		<element bakutonPercent="0"/>
+		<element shakutonPercent="0"/>
+		<element futtonPercent="-25"/>
+		<element jintonPercent="-15"/>
+		<element satetsuPercent="0"/>
+		<element taijutsuPercent="-10"/>
+		<element yinPercent="0"/>
+		<element yangPercent="0"/>
+	</elements>
+		<loot>
+		<item id="12329" countmax="1" chance="1000"/><!-- jp ienes -->
+	</loot>
+</monster>

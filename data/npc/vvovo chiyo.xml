@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Vovo Chiyo " script="data/npc/scripts/saga/vvovochiyo.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="746" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Preciso de sua ajuda |PLAYERNAME|,  o Gaara infelizmente morreu e preciso do seu chakra para {reviver}-lo, você pode ajudar?. {yes} or {no}" />
+  </parameters>
+</npc>

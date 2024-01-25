@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kiba Boss" nameDescription="Human" race="blood" experience="3590" speed="120" manacost="0">
+	<health now="91250" max="91250"/>
+	<look type="635" head="0" body="94" legs="79" feet="79" corpse="19260"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+ 	<attacks>
+		<attack name="melee" interval="1000" min="-1110" max="-1140"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-1160" max="-1215">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="Tsuuga Kiba" interval="3000" chance="100" radius="4" target="0" min="-2140" max="-3400">
+		</attack>
+	</attacks>
+  <defenses armor="7" defense="12"/>
+		<loot>
+		<item id="12446" countmax="1" chance="70000"/><!-- kiba shirt -->
+		<item id="2148" countmax="87" chance="90000"/><!-- coin shirt -->
+		<item id="2152" countmax="77" chance="70000"/><!-- coin shirt -->
+		<item id="19185" countmax="1" chance="10000"/><!-- Dungeon Bronze Key -->
+	</loot>
+
+</monster>

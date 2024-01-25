@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sakura " nameDescription="a sakura" race="blood" experience="600" speed="400" manacost="0">
+	<health now="750000" max="750000"/>
+	<look type="350" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="1500" min="-780" max="-900"/>
+		<attack name="manadrain" interval="500" chance="10" range="7" min="-40" max="-85">
+			<attribute key="areaEffect" value="redshimmer"/>
+
+		</attack>
+		<attack name="Oukashou" interval="3000" chance="100" radius="4" target="0" min="-1480" max="-1500">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	
+</monster>

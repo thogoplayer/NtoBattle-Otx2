@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Laxus" script="Presente.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="1344" head="17" body="54" legs="114" feet="0" addons="3"/>
+	<parameters>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|,Veio receber seu {vip} hoje?."/>
+	</parameters>
+</npc>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Cidadao Ezaquiel" script="data/npc/scripts/npcquest/ezaquiel.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="545" head="88" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Hello shinobi, please, can you {help} me on one thing?." />
+  </parameters>
+</npc>

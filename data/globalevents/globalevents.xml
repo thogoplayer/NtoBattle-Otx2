@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<globalevents>
+	<!-- Buy House Interval Global Events -->
+	<globalevent name="HouseUpdateQuery" interval="1000" event="script" value="house_query.lua"/>
+	<!-- Fim -->
+
+	<globalevent name="save" interval="3000000" event="script" value="save.lua"/>
+	<globalevent name="serverstart" type="start" event="script" value="start.lua"/>
+	<globalevent name="clean" interval="14400000" event="script" value="clean.lua"/>
+	<globalevent name="AutoBroadcast" interval="1000000" script="autobroadcast.lua"/>
+	<globalevent name="AutoBroadcast2" interval="1107000" script="autobroadcast2.lua"/>
+	<globalevent name="texto" interval="2000" script="texto.lua" />
+	<globalevent name="tedxto" interval="20000" script="walk.lua" />
+	<globalevent name="JinSystem" interval="3600000" script="jincheck.lua"/>
+	<globalevent name="EloRank" interval="3600000" script="elorank.lua"/>
+	<globalevent name="VocationDay" time="23:58" script="vocationdodia.lua"/>
+	<globalevent name="MercadoNegro" time="12:00" script="mercadonegro.lua"/>
+	<globalevent name="MercadoNegroSpawn" type="start" event="script" value="mercadonegro.lua"/>
+	<globalevent name="playersrecord" type="record" event="script" value="record.lua"/>
+	<globalevent name="GGN" time="17:50" event="script" value="GGN.lua"/>
+	<globalevent name="invasao" time="08:30" event="script" value="invasion1.lua"/>
+	<globalevent name="invasao1" time="16:30" event="script" value="invasion1.lua"/>
+	<globalevent name="invasao2" time="23:30" event="script" value="invasion1.lua"/>
+	<!-- <globalevent name="invasaobunny" interval="60000" event="script" value="invasionRandom.lua"/> -->
+	<!-- <globalevent name="invasaonoel" interval="60000" event="script" value="invasao noel.lua"/> -->
+	<globalevent name="boss" time="21:00" event="script" value="bosses.lua"/>
+	<globalevent name="BloodCastle" time="19:29" event="script" value="BloodGlobalEvent.lua"/>
+	<globalevent name="killevento" time="22:30" event="script" value="monster hunter.lua"/>
+	<!-- <globalevent name="CTFCheck" time="12:30" event="script" value="CTFMax.lua"/> -->
+	<!-- <globalevent name="rain" interval="2000" event="script" value="rain.lua"/> -->
+</globalevents>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ino" script="data/npc/scripts/cortina.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1659"/>
+<parameters>
+<parameter key="message_greet" value="Ola Sr. Tenho cortinas para negociar por Barras de ouro.{trade}." />
+</parameters>
+</npc>

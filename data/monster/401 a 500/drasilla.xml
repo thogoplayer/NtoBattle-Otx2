@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Drasilla" nameDescription="Drasilla[Monster]" race="blood" experience="24000" speed="850" manacost="0">
+	<health now="375000" max="375000"/>
+	<look type="1967" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-0" max="-0"/>
+		<attack name="katon rosenka no jutsu" interval="1000" chance="100" radius="4" min="-8440" max="-9500">
+		</attack>
+		<attack name="Katon Kairyudan no jutsu" interval="2000" chance="100" radius="4" min="-14440" max="-15500">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="15783" countmax="1" chance="5000"/><!-- hanzo mask -->
+		<item id="17425" countmax="1" chance="9000"/><!-- RED LEAF -->
+	</loot>
+</monster>

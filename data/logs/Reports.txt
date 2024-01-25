@@ -1,0 +1,27 @@
+
+[27/10/2020 08:51:09] {x= 2049, y= 2042, z= 7 } [ADM] Killua: eu
+[11/11/2020 20:23:23] {x= 3225, y= 2043, z= 9 } Rejeitado: ,shibuki falhando de mais usando em players , sou mr sasuke sou treinado
+[12/11/2020 20:39:37] {x= 2624, y= 2251, z= 7 } Sangue Nu Zoii: densetsu n ta pegando no autoloot
+[16/11/2020 23:05:38] {x= 2232, y= 2901, z= 7 } Mr Sasuke: GOTOOOOOOOOO
+[21/12/2020 20:19:56] {x= 1018, y= 1483, z= 7 } Rei Da Revoada: o target do mobile n ta fucnionado fica aparecendo um monte de palavra vermelha
+[26/12/2020 00:12:36] {x= 2059, y= 2326, z= 7 } Eros Rosa: o personagem  Orochimaru ele está matando o carro de aizen para obter frag
+[28/12/2020 02:55:12] {x= 1111, y= 1606, z= 6 } Rei Da Revoada: o trainer da house #343 de iwagakure n ta funcionado
+[29/12/2020 12:33:06] {x= 1110, y= 1606, z= 6 } Rei Da Revoada: o trainer da house 343 de iwagakure n ta funcionando ainda
+[02/01/2021 18:02:15] {x= 2532, y= 2288, z= 7 } Zfire: meu pc roda a 120fps sem nem um problema de lag, mas somente em west desert esta tendo um problema q eu tomo debug quando um players expecifico aparece na tela (ja aconteceu com amigos meus tbm)
+[03/01/2021 17:47:24] {x= 3000, y= 2497, z= 7 } Necromantys: esto preso em um local ao qual tem como dar jump (usei por acidente) e não há como sair '-'
+[03/01/2021 19:49:10] {x= 2045, y= 2037, z= 7 } Zfire: ja sou jounin e estou na missao do resgate do gaara, nao sou akatsuki, porem quero virar anbu mas nao consigo ele sempre fala q nao aceita renegados, precisa de mais algo pra virar anbu???
+[04/01/2021 18:53:43] {x= 2337, y= 1855, z= 5 } Hakuhetero Flex: magia de area da haku ta com cudown absurdo
+[09/01/2021 18:46:24] {x= 1992, y= 2055, z= 5 } Matador De Senju: ADM quando logar me chama pfv urgente
+[09/01/2021 18:49:29] {x= 1992, y= 2055, z= 5 } Matador De Senju: ADM quando logar me chama pfv urgente
+[09/01/2021 18:49:55] {x= 2209, y= 2149, z= 7 } Arthuruesslerr: autoloot ta bugado
+[10/01/2021 02:00:10] {x= 1754, y= 2344, z= 8 } Arthur Kakashi: " auto loot bugou nao ta pegando
+[10/01/2021 15:20:30] {x= 2126, y= 2071, z= 7 } Arthuruesslerr: "toda vez que fico pegando itens no chao meu personagem buga o bot para de pegar eo personagem fica muito lento
+[10/01/2021 17:25:41] {x= 2477, y= 2081, z= 5 } Goiaba Sx: "eu nao estou conseguindo fazer as sagas, fica aparecendo saga system
+[11/01/2021 16:01:46] {x= 2391, y= 3046, z= 7 } Fodeleza: A Skill de Ninjutsu a mais da vocation day dura só por alguns segundos quando você loga e depois some.
+[11/01/2021 20:00:28] {x= 2029, y= 2301, z= 7 } Arthuruesslerr: "o npc minouro ta bugado nao consigo dar tp pra south forest nem pra west forest
+[13/01/2021 14:01:30] {x= 2558, y= 1756, z= 7 } Cesinha Akatsuki: meu ml tá diminuindo toda hr
+[17/01/2021 11:05:34] {x= 2465, y= 2199, z= 12 } Vou Cobrar: "nao to conseguindo usar golpes de target em player
+[17/01/2021 11:18:56] {x= 2401, y= 1480, z= 7 } Arthuruesslerr: "meu gaara nao ta pegando os golpe target em player
+[18/01/2021 06:29:07] {x= 1156, y= 2064, z= 7 } Vou Cobrar: as pontion do bot da bugado os 2 pontio tanto o de cura quanto de chakra so ta vendo pela vida
+[18/01/2021 06:31:39] {x= 1009, y= 2384, z= 7 } Vou Cobrar: "na verdade tudo ta pelo hp
+[18/01/2021 06:33:19] {x= 1035, y= 2447, z= 7 } Vou Cobrar: " na verdd errei so o comado dos potion ta errado msm o chakra potion ta indo pelo hp e nao pelo mp

@@ -1,0 +1,7 @@
+locais das bijuu
+
+bijuu------cidade----- local
+kurama 9    konoha      {x= 1915, y=2224, z= 5}
+gyuiki 8    kumo        {x = 2824, y = 1630, z = 6}
+isobu  3    kiri        {x = 2124, y = 2430, z = 7}
+shukaku 1   suna        {x = 1111, y = 1960, z = 5}

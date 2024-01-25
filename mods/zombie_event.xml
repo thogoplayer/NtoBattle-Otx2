@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mod name="Perfect Zombie System" version="8.6" author="Vodkart" contact="tibiaking.com" enabled="yes">
+<config name="zombie_config"><![CDATA[
+zombie_config = {
+	storages = {172100, 172101, 172102}, -- n edite
+	players = {min = 5, max = 20}, -- min, max players no evento
+	rewards = {items ={{18320,1},{18442,1}}},
+	timeToStartEvent = 30, -- segundos para começar o evento
+	CheckTime = 5, -- tempo que o TP fica aberto para os jogadores adrentarem o evento
+	teleport = {{x= 2412, y=3166, z= 7}, {x = 1029, y = 1288, z = 7}}, -- position do tp onde aparece, position para onde o jogador vai ao entrar no tp
+	arena = {{x = 1003, y = 1274, z = 7},{x = 1059, y = 1307, z = 7}}, -- area positions
+	monster_name = "Zombie Event",
+	timeBetweenSpawns = 20,
+	min_Level = 150
+}
+zombie_days = {
+	["Monday"] = {"09:00","22:00"},
+	["Tuesday"] = {"09:00","22:00"},
+	["Wednesday"] = {"09:00","22:00"},
+	["Thursday"] = {"09:00","22:00"},
+	["Friday"] = {"09:00","22:00"},
+	["Saturday"] = {"09:00","22:00"},
+	["Sunday"] = {"09:00","22:00"}
+}
+function removeZombieTp()
+	local t = getTileItemById(zombie_config.teleport[1], 1387).uid
+	return t > 0 and doRemoveItem(t) and doSendMagicEffect(zombie_config.teleport[1], CONST_ME_POFF)
+end
+function ZerarStoragesZombie()
+	for _, stor in pairs(zombie_config.storages) do
+		setGlobalStorageValue(stor, 0)
+	end
+end
+function getPlayersInZombieEvent()
+	local t = {}
+	for _, pid in pairs(getPlayersOnline()) do
+		if isInRange(getPlayerPosition(pid), zombie_config.arena[1], zombie_config.arena[2]) and getPlayerAccess(pid) < 3 then 
+			t[#t+1] = pid
+		end
+	end
+	return t
+end
+function getZombieRewards(cid, items)
+
+	local backpack = doPlayerAddItem(cid, 1999, 1) -- backpackID
+	for _, i_i in ipairs(items) do
+		local item, amount = i_i[1],i_i[2]
+		if isItemStackable(item) or amount == 1 then
+			doAddContainerItem(backpack, item, amount)
+		else
+			for i = 1, amount do
+				doAddContainerItem(backpack, item, 1)
+			end
+		end
+	end
+end
+function HaveCreatureZombie(area, remove)
+	for x = area[1].x - 1, area[2].x + 1 do
+		for y = area[1].y - 1, area[2].y + 1 do
+			local pos = {x=x, y=y, z=area[1].z}
+			local m = getTopCreature(pos).uid
+			if remove ~= false and m ~= 0 and isMonster(m) then doRemoveCreature(m) end
+		end
+	end
+end
+function spawnZombie()
+   if #getPlayersInZombieEvent() > 1 then
+      local pos = {x=math.random(zombie_config.arena[1].x, zombie_config.arena[2].x), y=math.random(zombie_config.arena[1].y,zombie_config.arena[2].y), z=zombie_config.arena[1].z}
+         doSendDistanceShoot({x = pos.x - math.random(4, 6), y = pos.y - 5, z = pos.z}, pos, CONST_ANI_FIRE)
+         addEvent(doSendMagicEffect, 150, pos, CONST_ME_HITBYFIRE)
+         addEvent(doSendMagicEffect, 150, pos, CONST_ME_FIREAREA)
+         doSendMagicEffect(pos, CONST_ME_MORTAREA)
+         doSummonCreature(zombie_config.monster_name, pos, false)
+         setGlobalStorageValue(zombie_config.storages[2], getGlobalStorageValue(zombie_config.storages[2]) <= 0 and 1 or getGlobalStorageValue(zombie_config.storages[2])+1)
+         doBroadcastMessage("Um zumbi apareceu! Há atualmente " .. getGlobalStorageValue(zombie_config.storages[2]) .. " zumbis no evento zumbi!", MESSAGE_STATUS_CONSOLE_RED)
+         addEvent(spawnZombie, zombie_config.timeBetweenSpawns *1000)
+   end
+end
+function CheckZombieEvent(delay)
+	if getGlobalStorageValue(zombie_config.storages[1]) ~= (zombie_config.players.max+1) then
+		if delay > 0 and getGlobalStorageValue(zombie_config.storages[1]) < zombie_config.players.max then
+			doBroadcastMessage("Evento de zumbis começando em " .. delay .. " minutos! O portal esta aberto na area pvp localizado em todas as cidades e será fechado quando o evento começar!", MESSAGE_STATUS_WARNING)
+		elseif delay == 0 and getGlobalStorageValue(zombie_config.storages[1]) < zombie_config.players.min then
+			for _, cid in pairs(getPlayersInZombieEvent()) do
+				doTeleportThing(cid, getTownTemplePosition(getPlayerTown(cid)))
+				doSendMagicEffect(getPlayerPosition(cid), CONST_ME_TELEPORT)
+			end
+			removeZombieTp()
+			doBroadcastMessage("O evento Zombie não pôde começar devido a poucos jogadores participantes.\n At least " .. zombie_config.players.min .. " players is needed!", MESSAGE_STATUS_WARNING)
+			ZerarStoragesZombie()
+		elseif delay == 0 and getGlobalStorageValue(zombie_config.storages[1]) >= zombie_config.players.min then
+			removeZombieTp()
+			doBroadcastMessage("O evento Zombie agora está cheio [" .. getGlobalStorageValue(zombie_config.storages[1]) .. " players]! O evento vai começar em breve.")
+			for _, var in pairs(getPlayersInZombieEvent()) do
+				doPlayerSendTextMessage(var, MESSAGE_EVENT_ADVANCE, "The first zombie will spawn in " .. zombie_config.timeToStartEvent .. " seconds! Good luck!")
+			end
+			addEvent(spawnZombie, zombie_config.timeToStartEvent*1000)
+		end
+		addEvent(CheckZombieEvent, 60000, delay-1)
+	end
+end]]></config>
+<event type="statschange" name="ZombieStats" event="script"><![CDATA[
+domodlib('zombie_config')
+if isPlayer(cid) and isMonster(attacker) and getCreatureName(attacker) == zombie_config.monster_name then
+	if isInRange(getPlayerPosition(cid), zombie_config.arena[1], zombie_config.arena[2]) then
+		if #getPlayersInZombieEvent() > 1 then
+			doBroadcastMessage(getPlayerName(cid) .. " foi comidos por zumbis!", MESSAGE_STATUS_CONSOLE_RED)
+			local corpse = doCreateItem(getPlayerSex(cid) == 1 and 3058 or 6081, 1, getPlayerPosition(cid))
+			doItemSetAttribute(corpse, "description", "You recognize " .. getCreatureName(cid) .. ". He was killed by "..(isMonster(attacker) and "a "..string.lower(getCreatureName(attacker)) or isCreature(attacker) and getCreatureName(attacker) or "a field item")..".")
+			doSendMagicEffect(getPlayerPosition(cid), CONST_ME_POFF)
+			doTeleportThing(cid, getTownTemplePosition(getPlayerTown(cid)), false)
+			doSendMagicEffect(getPlayerPosition(cid), CONST_ME_TELEPORT)
+			doPlayerAddEventPoints(cid, 15)
+			if #getPlayersInZombieEvent() == 1 then
+				local winner = getPlayersInZombieEvent()[1]
+				doPlayerAddEventPoints(winner, 25)
+				doBroadcastMessage(getCreatureName(winner)..' sobreviveu no evento zumbi!')
+				getZombieRewards(winner, zombie_config.rewards.items)
+				doTeleportThing(winner, getTownTemplePosition(getPlayerTown(winner)), false)
+				doSendMagicEffect(getPlayerPosition(winner), CONST_ME_TELEPORT)
+				doBroadcastMessage(getPlayerName(winner).." venceu o evento Zombie! Parabéns!")
+				HaveCreatureZombie(zombie_config.arena, true)
+				ZerarStoragesZombie()
+			end
+		else
+			doBroadcastMessage("Ninguém sobreviveu no Evento Zumbi.", MESSAGE_EVENT_ADVANCE)
+			HaveCreatureZombie(zombie_config.arena, true)
+			ZerarStoragesZombie()
+		end
+		return false
+	end
+end
+return true]]></event>
+<globalevent name="Zombie_Start" interval="60000" event="script"><![CDATA[
+domodlib('zombie_config')
+local function getPlayersInArea(fromPos, toPos)
+local players = {}
+    for _, pid in ipairs(getPlayersOnline()) do
+        if isInRange(getPlayerPosition(pid), fromPos, toPos) then
+            table.insert(players, pid)
+        end
+    end
+   
+	return players
+end
+
+function onThink(interval, lastExecution)
+	if zombie_days[os.date("%A")] then
+		local hrs = tostring(os.date("%X")):sub(1, 5)
+		if isInArray(zombie_days[os.date("%A")], hrs) and getGlobalStorageValue(zombie_config.storages[3]) <= 0 then
+			local players_tp = getPlayersInArea({x=284,y=105,z=8}, {x=284,y=105,z=8})
+			if players_tp then
+				for _, v in next, players_tp do
+					doTeleportThing(v, getTownTemplePosition(1))
+					doPlayerSendTextMessage(v, MESSAGE_STATUS_CONSOLE_BLUE, "Não pode ficar no local onde o TP abriu. Você foi teleportado para o templo.")
+				end
+			end
+			
+			local tp = doCreateItem(1387, 1, zombie_config.teleport[1])
+			doItemSetAttribute(tp, "aid", 45110)
+			CheckZombieEvent(zombie_config.CheckTime)
+			setGlobalStorageValue(zombie_config.storages[1], 0)
+			setGlobalStorageValue(zombie_config.storages[2], 0)
+			HaveCreatureZombie(zombie_config.arena, true) 
+		end
+	end
+	return true
+end]]></globalevent>
+<event type="login" name="Zombie_Login" event="script"><![CDATA[
+domodlib('zombie_config')
+function onLogin(cid)
+	registerCreatureEvent(cid, "ZombieBattle")
+	registerCreatureEvent(cid, "ZombieStats")
+	if isInRange(getPlayerPosition(cid), zombie_config.arena[1], zombie_config.arena[2]) then
+		doTeleportThing(cid, getTownTemplePosition(getPlayerTown(cid)))
+	end
+	return true
+end]]></event>
+<event type="combat" name="ZombieBattle" event="script"><![CDATA[
+domodlib('zombie_config')
+if isPlayer(cid) and isPlayer(target) and isInRange(getPlayerPosition(cid), zombie_config.arena[1], zombie_config.arena[2]) then
+	doPlayerSendCancel(cid, "You may not attack this player.") return false
+end
+return true
+]]></event>
+<movevent type="StepIn" actionid ="45110" event="script"><![CDATA[
+domodlib('zombie_config')
+function onStepIn(cid, item, position, fromPosition)
+	if not isPlayer(cid) then return true end
+	if getPlayerAccess(cid) > 3 then return doTeleportThing(cid, zombie_config.teleport[2]) end
+	if getPlayerLevel(cid) < zombie_config.min_Level then
+		doTeleportThing(cid, fromPosition, true)
+		doPlayerSendCancel(cid, "You need to be at least level " .. zombie_config.min_Level .. ".")
+		doSendMagicEffect(getThingPos(cid), CONST_ME_MAGIC_BLUE)
+		return true
+	end
+	if getGlobalStorageValue(zombie_config.storages[1]) <= zombie_config.players.max then
+		doTeleportThing(cid, zombie_config.teleport[2])
+		setGlobalStorageValue(zombie_config.storages[1], getGlobalStorageValue(zombie_config.storages[1])+1)
+		doBroadcastMessage(getPlayerName(cid) .. " entrou no evento Zombie! Atualmente " .. getGlobalStorageValue(zombie_config.storages[1]) .. " players have joined!", MESSAGE_STATUS_CONSOLE_RED)
+		if getGlobalStorageValue(zombie_config.storages[1]) == zombie_config.players.max then
+			setGlobalStorageValue(zombie_config.storages[1], getGlobalStorageValue(zombie_config.storages[1])+1)
+			removeZombieTp()
+			doBroadcastMessage("O evento Zombie agora está cheio [" .. getGlobalStorageValue(zombie_config.storages[1])-1 .. " players]! O evento vai começar em breve.")
+			for _, var in pairs(getPlayersInZombieEvent()) do
+				doPlayerSendTextMessage(var, MESSAGE_EVENT_ADVANCE, "O primeiro zumbi vai nascer em " .. zombie_config.timeToStartEvent .. " segundos! Boa sorte!")
+			end
+			addEvent(spawnZombie, zombie_config.timeToStartEvent*1000)
+		end 
+	end
+	return true
+end]]></movevent>
+<talkaction words="/zombiestart;!zombiestart" access="5" event="buffer"><![CDATA[
+domodlib('zombie_config')
+	if getGlobalStorageValue(zombie_config.storages[3]) > 0 then
+		doPlayerSendCancel(cid, "The event is already starting.") return true
+	elseif not param or not tonumber(param) then 
+		doPlayerSendCancel(cid, "Use only numbers.") return true 
+	end
+	local param = tonumber(param) <= 0 and 1 or tonumber(param)
+	local tp = doCreateItem(1387, 1, zombie_config.teleport[1])
+		doItemSetAttribute(tp, "aid", 45110)
+		CheckZombieEvent(tonumber(param))
+		ZerarStoragesZombie()
+		setGlobalStorageValue(zombie_config.storages[3], 1)
+		HaveCreatureZombie(zombie_config.arena, true)
+]]></talkaction>
+<globalevent name="ZombieDebug-Start" type="start" event="buffer"><![CDATA[
+domodlib('zombie_config')
+ZerarStoragesZombie()
+return true]]></globalevent>
+</mod>

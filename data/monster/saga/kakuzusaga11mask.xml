@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kakuzu  " nameDescription="a kakuzu" saga="11" missao="3" race="blood" experience="600" speed="600" manacost="0">
+	<health now="3500000" max="3500000"/>
+	<look type="178" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+	<script>
+	<event name="sagadeath"/>
+    </script>
+	    
+	<attacks>
+		<attack name="melee" interval="1500" min="-4780" max="-5900"/>
+		<attack name="areadokakuzu" interval="2000" chance="100" radius="4" target="1" min="-12480" max="-19500">
+		</attack>
+		<attack name="targetkakuzu" interval="1000" chance="100" radius="4" target="1" min="-8480" max="-9500">
+		</attack>
+		<attack name="targetkakuzu1" interval="1500" chance="100" radius="4" target="1" min="-8480" max="-12500">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	
+</monster>

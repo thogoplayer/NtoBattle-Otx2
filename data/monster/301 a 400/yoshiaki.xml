@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Yoshiaki" nameDescription="a Yoshiaki[Human]" race="blood" experience="8900" speed="450" manacost="0">
+	<health now="146150" max="146150"/>
+	<look type="1771" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-4110" max="-5140"/>
+		<attack name="sabaku sousou" interval="2500" chance="100" radius="3" target="1" min="-5400" max="-6400">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="2389" countmax="5" chance="11000"/><!-- demonic Shuriken -->
+		<item id="2160" countmax="2" chance="3000"/><!-- gold -->
+		<item id="12293" countmax="1" chance="8000"/><!-- kunai staff -->
+	</loot>
+</monster>

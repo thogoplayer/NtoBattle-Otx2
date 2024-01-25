@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="[Akatsuki]" script="data/npc/scripts/npcquest/graduakat.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="483" head="38" body="79" legs="107" feet="114"/>
+	<parameters>
+  <parameter key="message_greet" value="Ola.. Bravo Sannin gostaria de se tornar um membro {akatsuki}?. "/>
+    </parameters></npc>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Noel Event" nameDescription="a Noel Event[Evento-Natal-2020]" race="blood" experience="9000" speed="300" manacost="0">
+	<health now="35500" max="35500"/>
+	<look type="560" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="5000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="0"/>
+		<flag staticattack="65"/>
+		<flag passive="1" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	 <script>
+    <event name="noel"/>
+  </script>
+	<loot>
+		<item id="11044" countmax="1" chance="5000"/><!-- gold -->
+		<item id="11237" countmax="1" chance="5000"/><!-- dollar -->
+		<item id="11032" countmax="1" chance="5000"/><!-- coins -->
+		<item id="14372" countmax="1" chance="500"/><!-- devil boots -->
+		<item id="14259" countmax="100" chance="7000"/><!-- speed boots -->
+		<item id="14258" countmax="100" chance="7000"/><!-- speed boots -->
+		<item id="2688" countmax="6" chance="45000"/><!-- beach bag -->
+		<item id="12254" countmax="1" chance="6000"/><!-- beach bag -->
+		<item id="12316" countmax="1" chance="6000"/><!-- beach bag -->
+		<item id="1228" countmax="1" chance="6000"/><!-- beach bag -->
+	</loot>
+</monster>
+

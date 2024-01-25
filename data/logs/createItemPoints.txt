@@ -1,0 +1,7 @@
+[26/02/2023 20:29:23] ADM(9600) Criou um item(ID: 12) de troca no valor de 150 Premium Points.
+[02/03/2023 02:47:31] ADM(9600) Criou um item(ID: 13) de troca no valor de 40 Premium Points.
+[02/03/2023 15:21:46] ADM(9600) Criou um item(ID: 14) de troca no valor de 30 Premium Points.
+[06/03/2023 17:26:56] ADM(9600) Criou um item(ID: 15) de troca no valor de 50 Premium Points.
+[19/03/2023 19:44:52] Obliterador De Almas(9888) Criou um item(ID: 16) de troca no valor de 10 Premium Points.
+[21/03/2023 00:11:15] ADM(9600) Criou um item(ID: 17) de troca no valor de 57 Premium Points.
+[23/03/2023 14:19:44] ADM(9600) Criou um item(ID: 18) de troca no valor de 30 Premium Points.

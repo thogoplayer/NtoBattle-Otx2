@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Daichi" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="624" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, I'm Dachi, I have some items for sale if you are interested ok? {Trade}."/>
+		<parameter key="shop_buyable" value="Icy Pants,12300,223000;Orochimaru LagRobe,2654,190000;Chakra Pants,12301,250000;Hooligan Pants,3983,144500;Kunoichi skirt,10708,270000;Hooligan Fight Pants,2452,270000;" />
+		<parameter key="shop_sellable" value="Icy Pants,12300,12300;Orochimaru LagRobe,2654,10000;Chakra Pants,12301,15000;Hooligan Pants,3983,9450;Kunoichi skirt,10708,15000;Hooligan Fight Pants,2452,16000;" />
+	</parameters>
+</npc>

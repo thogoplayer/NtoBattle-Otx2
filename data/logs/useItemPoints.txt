@@ -1,0 +1,510 @@
+[26/12/2020 14:52:56] [ADMIN] Wonsr(1931) usou o item(ID: 14) de troca.
+[26/12/2020 14:52:59] [ADMIN] Wonsr(1931) usou o item(ID: 13) de troca.
+[26/12/2020 14:54:45] [ADMIN] Wonsr(1931) usou o item(ID: 19) de troca.
+[26/12/2020 14:54:45] [ADMIN] Wonsr(1931) usou o item(ID: 18) de troca.
+[26/12/2020 14:54:46] [ADMIN] Wonsr(1931) usou o item(ID: 17) de troca.
+[26/12/2020 14:54:46] [ADMIN] Wonsr(1931) usou o item(ID: 16) de troca.
+[26/12/2020 14:54:47] [ADMIN] Wonsr(1931) usou o item(ID: 15) de troca.
+[26/12/2020 14:55:18] [ADMIN] Wonsr(1931) usou o item(ID: 22) de troca.
+[26/12/2020 14:55:19] [ADMIN] Wonsr(1931) usou o item(ID: 21) de troca.
+[26/12/2020 14:55:30] [ADM] Killua(1930) usou o item(ID: 5) de troca.
+[26/12/2020 14:55:32] [ADM] Killua(1930) usou o item(ID: 20) de troca.
+[26/12/2020 14:58:07] [ADM] Killua(1930) usou o item(ID: 23) de troca.
+[26/12/2020 16:23:36] Carrodemao Dashadao(2408) usou o item(ID: 24) de troca.
+[27/12/2020 21:27:29] Suispiro(2820) usou o item(ID: 25) de troca.
+[28/12/2020 10:11:28] Asmodeus(2717) usou o item(ID: 26) de troca.
+[28/12/2020 10:17:01] Asmodeus(2717) usou o item(ID: 27) de troca.
+[28/12/2020 13:27:55] Dracule(2169) usou o item(ID: 30) de troca.
+[28/12/2020 14:59:10] Imperador(2777) usou o item(ID: 31) de troca.
+[28/12/2020 14:59:35] Fusca Dashadao(2404) usou o item(ID: 32) de troca.
+[28/12/2020 15:00:14] Imperador(2777) usou o item(ID: 35) de troca.
+[28/12/2020 17:25:34] Cadu Maverick(1944) usou o item(ID: 28) de troca.
+[28/12/2020 21:48:46] Fusca Dashadao(2404) usou o item(ID: 36) de troca.
+[29/12/2020 21:18:03] El Toretton(3062) usou o item(ID: 38) de troca.
+[30/12/2020 11:49:10] Draak Estupra Noob(2638) usou o item(ID: 39) de troca.
+[30/12/2020 12:40:59] Shimura Danzou(3309) usou o item(ID: 40) de troca.
+[30/12/2020 16:20:51] Eu Sou Viado(2949) usou o item(ID: 37) de troca.
+[30/12/2020 23:39:14] Hinata Sexy Girl(2225) usou o item(ID: 41) de troca.
+[30/12/2020 23:39:15] Hinata Sexy Girl(2225) usou o item(ID: 42) de troca.
+[31/12/2020 00:47:27] Vitinhopnz(2516) usou o item(ID: 45) de troca.
+[31/12/2020 12:27:21] Four Hearts(2146) usou o item(ID: 33) de troca.
+[31/12/2020 12:27:22] Four Hearts(2146) usou o item(ID: 34) de troca.
+[31/12/2020 12:29:08] Four Hearts(2146) usou o item(ID: 46) de troca.
+[31/12/2020 13:27:31] Zartoos(3495) usou o item(ID: 49) de troca.
+[31/12/2020 13:31:49] Eu Sou Viado(2949) usou o item(ID: 50) de troca.
+[31/12/2020 13:33:23] Eu Sou Viado(2949) usou o item(ID: 51) de troca.
+[01/01/2021 12:06:51] Vitinhopnz(2516) usou o item(ID: 52) de troca.
+[01/01/2021 22:45:32] Boya(3240) usou o item(ID: 53) de troca.
+[02/01/2021 15:23:19] Dumal(3453) usou o item(ID: 54) de troca.
+[02/01/2021 15:45:36] Apenas Hungry(2827) usou o item(ID: 55) de troca.
+[03/01/2021 13:21:22] Wander(2304) usou o item(ID: 29) de troca.
+[03/01/2021 13:21:24] Wander(2304) usou o item(ID: 47) de troca.
+[03/01/2021 13:21:26] Wander(2304) usou o item(ID: 48) de troca.
+[04/01/2021 11:19:20] Vitinhopnz(2516) usou o item(ID: 56) de troca.
+[04/01/2021 14:42:23] Sem Pai(2210) usou o item(ID: 57) de troca.
+[04/01/2021 20:26:22] Teste Do Teste(4320) usou o item(ID: 58) de troca.
+[04/01/2021 21:42:24] Invicto(2713) usou o item(ID: 59) de troca.
+[04/01/2021 23:29:08] Uchiha Tst(3483) usou o item(ID: 60) de troca.
+[04/01/2021 23:35:50] Fogo Na Babilonia(2075) usou o item(ID: 61) de troca.
+[05/01/2021 00:13:33] Severus Snape(3093) usou o item(ID: 62) de troca.
+[05/01/2021 00:26:16] Politys(2841) usou o item(ID: 64) de troca.
+[05/01/2021 01:05:44] Teste(2245) usou o item(ID: 65) de troca.
+[05/01/2021 01:06:13] Teste(2245) usou o item(ID: 66) de troca.
+[05/01/2021 13:55:01] Invicto(2713) usou o item(ID: 67) de troca.
+[05/01/2021 21:43:01] Sos Trapstar(4506) usou o item(ID: 68) de troca.
+[05/01/2021 22:48:36] Vitinhopnz(2516) usou o item(ID: 70) de troca.
+[05/01/2021 22:48:58] Thomas Shelby(3544) usou o item(ID: 72) de troca.
+[05/01/2021 22:48:58] Tem Tem(4331) usou o item(ID: 71) de troca.
+[05/01/2021 22:53:48] Matyas Atomico(3291) usou o item(ID: 73) de troca.
+[05/01/2021 23:03:35] Drum Dead(2502) usou o item(ID: 69) de troca.
+[05/01/2021 23:20:18] Uchiha Obito(2069) usou o item(ID: 74) de troca.
+[06/01/2021 11:10:10] Naturais De Mv(4511) usou o item(ID: 76) de troca.
+[06/01/2021 11:12:59] Ossudo(4471) usou o item(ID: 75) de troca.
+[06/01/2021 13:56:47] Matyas Atomico(3291) usou o item(ID: 77) de troca.
+[06/01/2021 13:56:48] Cesinha Akatsuki(4502) usou o item(ID: 78) de troca.
+[06/01/2021 13:58:50] Uchiha Obito(2069) usou o item(ID: 79) de troca.
+[06/01/2021 14:46:51] Uchiha Tst(3483) usou o item(ID: 80) de troca.
+[06/01/2021 15:23:00] Kageyoshi(3900) usou o item(ID: 81) de troca.
+[06/01/2021 15:23:58] Furia(2048) usou o item(ID: 82) de troca.
+[06/01/2021 15:47:25] Ossudo(4471) usou o item(ID: 83) de troca.
+[06/01/2021 15:48:39] The King(4513) usou o item(ID: 84) de troca.
+[06/01/2021 17:31:50] Matyas Atomico(3291) usou o item(ID: 86) de troca.
+[06/01/2021 17:48:15] Kaguya Sama(4209) usou o item(ID: 87) de troca.
+[06/01/2021 19:10:52] Matador De Uchiha(4541) usou o item(ID: 88) de troca.
+[06/01/2021 19:48:43] Kika Pros Uchiihaa(4374) usou o item(ID: 89) de troca.
+[06/01/2021 21:03:53] Kaguya Sama(4209) usou o item(ID: 90) de troca.
+[06/01/2021 21:54:14] Kaguya Sama(4209) usou o item(ID: 91) de troca.
+[06/01/2021 22:00:01] Kaguya Sama(4209) usou o item(ID: 92) de troca.
+[06/01/2021 22:22:47] Kaguya Sama(4209) usou o item(ID: 93) de troca.
+[06/01/2021 22:24:46] Yamikaze(3523) usou o item(ID: 94) de troca.
+[06/01/2021 22:55:07] Ninjagv(3891) usou o item(ID: 95) de troca.
+[06/01/2021 23:16:11] New Tenten(1919) usou o item(ID: 96) de troca.
+[07/01/2021 00:00:42] New Tenten(1919) usou o item(ID: 97) de troca.
+[07/01/2021 00:00:57] Hakael(2633) usou o item(ID: 98) de troca.
+[07/01/2021 00:22:59] Surreal Diabluz(3147) usou o item(ID: 99) de troca.
+[07/01/2021 12:45:35] Tenten Baluda(2964) usou o item(ID: 100) de troca.
+[07/01/2021 13:03:25] Full Dano(1978) usou o item(ID: 101) de troca.
+[07/01/2021 14:02:26] Spartacus(3737) usou o item(ID: 102) de troca.
+[07/01/2021 14:04:48] Spartacus(3737) usou o item(ID: 103) de troca.
+[07/01/2021 14:07:36] Spartacus(3737) usou o item(ID: 105) de troca.
+[07/01/2021 14:07:42] Spartacus(3737) usou o item(ID: 106) de troca.
+[07/01/2021 14:44:42] Donwist(4845) usou o item(ID: 107) de troca.
+[07/01/2021 14:44:42] Donwist(4845) usou o item(ID: 104) de troca.
+[07/01/2021 14:51:12] Donwist(4845) usou o item(ID: 108) de troca.
+[07/01/2021 15:42:29] Obito Sexy(4720) usou o item(ID: 109) de troca.
+[07/01/2021 17:46:31] Linked(1953) usou o item(ID: 110) de troca.
+[07/01/2021 19:12:00] Pandolfo(4389) usou o item(ID: 111) de troca.
+[07/01/2021 19:50:01] Jujuzinha(3513) usou o item(ID: 112) de troca.
+[07/01/2021 20:15:50] Sem Pai(2210) usou o item(ID: 113) de troca.
+[07/01/2021 20:18:16] Czz(2882) usou o item(ID: 114) de troca.
+[08/01/2021 20:16:26] Life Snake(5048) usou o item(ID: 143) de troca.
+[08/01/2021 20:48:34] Matyas Masked(4715) usou o item(ID: 145) de troca.
+[08/01/2021 20:49:06] Feminista(4183) usou o item(ID: 144) de troca.
+[08/01/2021 22:51:09] Matyas Masked(4715) usou o item(ID: 145) de troca.
+[08/01/2021 23:03:28] Sem Pai(2210) usou o item(ID: 145) de troca.
+[08/01/2021 23:06:07] Hakael(2633) usou o item(ID: 143) de troca.
+[08/01/2021 23:07:12] Meu Cufroxo(3363) usou o item(ID: 144) de troca.
+[09/01/2021 00:13:47] Matyas Masked(4715) usou o item(ID: 145) de troca.
+[09/01/2021 00:30:26] Healando Cugeral(2036) usou o item(ID: 146) de troca.
+[09/01/2021 00:49:21] Kankuro Safado(3959) usou o item(ID: 147) de troca.
+[09/01/2021 00:50:31] Vitinhopnz(2516) usou o item(ID: 148) de troca.
+[09/01/2021 01:03:05] Espanca Miliante(4376) usou o item(ID: 150) de troca.
+[09/01/2021 01:04:26] Matyas Masked(4715) usou o item(ID: 151) de troca.
+[09/01/2021 01:12:14] Meu Cufroxo(3363) usou o item(ID: 149) de troca.
+[09/01/2021 01:19:09] Ngc Deree(2601) usou o item(ID: 152) de troca.
+[09/01/2021 01:38:05] Kakuzu Sayori(4402) usou o item(ID: 153) de troca.
+[09/01/2021 01:46:53] Drum Dead(2502) usou o item(ID: 154) de troca.
+[09/01/2021 02:27:31] Vitinhopnz(2516) usou o item(ID: 155) de troca.
+[09/01/2021 11:00:42] Fang(4069) usou o item(ID: 156) de troca.
+[09/01/2021 11:05:19] Circuit Breakers(4558) usou o item(ID: 157) de troca.
+[09/01/2021 11:09:53] Circuit Breakers(4558) usou o item(ID: 158) de troca.
+[09/01/2021 11:10:22] Circuit Breakers(4558) usou o item(ID: 159) de troca.
+[09/01/2021 11:43:15] Ngc Deree(2601) usou o item(ID: 161) de troca.
+[09/01/2021 11:43:37] Matyas Masked(4715) usou o item(ID: 162) de troca.
+[09/01/2021 12:38:27] Cura Piranha(2076) usou o item(ID: 160) de troca.
+[09/01/2021 12:46:20] Healando Cugeral(2036) usou o item(ID: 163) de troca.
+[09/01/2021 12:57:19] Matyas Masked(4715) usou o item(ID: 164) de troca.
+[09/01/2021 13:53:57] La Cura(2173) usou o item(ID: 165) de troca.
+[09/01/2021 14:46:04] Matyas Masked(4715) usou o item(ID: 166) de troca.
+[09/01/2021 15:16:25] Matyas Masked(4715) usou o item(ID: 167) de troca.
+[09/01/2021 16:07:24] Matyas Masked(4715) usou o item(ID: 168) de troca.
+[09/01/2021 16:37:30] Ninjagv(3891) usou o item(ID: 169) de troca.
+[09/01/2021 17:42:46] Healando Cugeral(2036) usou o item(ID: 171) de troca.
+[09/01/2021 17:43:57] Healando Cugeral(2036) usou o item(ID: 172) de troca.
+[09/01/2021 17:45:52] Draak Chapado(2107) usou o item(ID: 173) de troca.
+[09/01/2021 18:00:58] Hakai(4641) usou o item(ID: 174) de troca.
+[09/01/2021 18:05:14] Matyas Masked(4715) usou o item(ID: 175) de troca.
+[09/01/2021 18:25:31] Matyas Masked(4715) usou o item(ID: 176) de troca.
+[09/01/2021 19:06:42] Healando Cugeral(2036) usou o item(ID: 177) de troca.
+[09/01/2021 19:08:00] Matyas Piton(3084) usou o item(ID: 179) de troca.
+[09/01/2021 19:08:07] Matyas Masked(4715) usou o item(ID: 178) de troca.
+[09/01/2021 19:08:23] Matyas Piton(3084) usou o item(ID: 180) de troca.
+[09/01/2021 19:08:50] Matyas Masked(4715) usou o item(ID: 181) de troca.
+[09/01/2021 19:08:51] Matyas Masked(4715) usou o item(ID: 182) de troca.
+[09/01/2021 20:04:38] Kakuzu Do Arroizal(3696) usou o item(ID: 183) de troca.
+[09/01/2021 20:19:39] Draak Estupra Noob(2638) usou o item(ID: 184) de troca.
+[09/01/2021 20:25:52] Linked(1953) usou o item(ID: 185) de troca.
+[09/01/2021 20:27:19] Linked(1953) usou o item(ID: 186) de troca.
+[09/01/2021 20:39:56] Drum Dead(2502) usou o item(ID: 188) de troca.
+[09/01/2021 20:44:41] Jason(4827) usou o item(ID: 189) de troca.
+[09/01/2021 20:48:43] Parasita(3267) usou o item(ID: 190) de troca.
+[09/01/2021 20:48:44] Parasita(3267) usou o item(ID: 119) de troca.
+[09/01/2021 20:56:53] Monster Green(5197) usou o item(ID: 192) de troca.
+[09/01/2021 20:56:53] Kika Pros Uchiihaa(4374) usou o item(ID: 193) de troca.
+[09/01/2021 22:00:10] Gloxinia(2968) usou o item(ID: 195) de troca.
+[09/01/2021 22:02:21] Healando Cugeral(2036) usou o item(ID: 194) de troca.
+[09/01/2021 22:10:56] Ninjagv(3891) usou o item(ID: 187) de troca.
+[09/01/2021 22:13:45] Queiroz Monstrao(5022) usou o item(ID: 196) de troca.
+[09/01/2021 22:53:24] Ultragas(3870) usou o item(ID: 198) de troca.
+[09/01/2021 22:54:01] Parasita(3267) usou o item(ID: 199) de troca.
+[09/01/2021 22:54:02] Parasita(3267) usou o item(ID: 191) de troca.
+[09/01/2021 23:11:06] Nash The Cura(4425) usou o item(ID: 200) de troca.
+[09/01/2021 23:20:05] Matyas Piton(3084) usou o item(ID: 201) de troca.
+[09/01/2021 23:22:30] Matyas Masked(4715) usou o item(ID: 202) de troca.
+[09/01/2021 23:56:02] Usuario De Nike(4957) usou o item(ID: 203) de troca.
+[10/01/2021 00:02:09] Nash The Cura(4425) usou o item(ID: 204) de troca.
+[10/01/2021 00:57:51] Balao(1949) usou o item(ID: 205) de troca.
+[10/01/2021 01:06:49] Tenten Sexy(4616) usou o item(ID: 206) de troca.
+[10/01/2021 07:24:25] Shuplamen(2393) usou o item(ID: 207) de troca.
+[10/01/2021 08:03:13] Vingador(2397) usou o item(ID: 197) de troca.
+[10/01/2021 10:12:56] Kakashii Male(2910) usou o item(ID: 208) de troca.
+[10/01/2021 12:27:17] New Ma(3830) usou o item(ID: 209) de troca.
+[10/01/2021 12:27:36] Balao(1949) usou o item(ID: 210) de troca.
+[10/01/2021 14:07:43] Matyas Masked(4715) usou o item(ID: 213) de troca.
+[10/01/2021 14:07:52] Matyas Masked(4715) usou o item(ID: 214) de troca.
+[10/01/2021 14:09:25] Czz(2882) usou o item(ID: 212) de troca.
+[10/01/2021 14:13:51] Tesouro Do Ceu(2784) usou o item(ID: 215) de troca.
+[10/01/2021 14:25:29] Divine Akira(4479) usou o item(ID: 216) de troca.
+[10/01/2021 14:39:35] Shazona(2035) usou o item(ID: 217) de troca.
+[10/01/2021 15:31:45] Shazam(2024) usou o item(ID: 218) de troca.
+[10/01/2021 15:52:29] Czz(2882) usou o item(ID: 220) de troca.
+[10/01/2021 15:52:46] Healando Cugeral(2036) usou o item(ID: 219) de troca.
+[10/01/2021 15:54:51] New Ma(3830) usou o item(ID: 222) de troca.
+[10/01/2021 15:55:01] New Ma(3830) usou o item(ID: 223) de troca.
+[10/01/2021 15:55:17] New Ma(3830) usou o item(ID: 224) de troca.
+[10/01/2021 15:59:04] New Ma(3830) usou o item(ID: 225) de troca.
+[10/01/2021 15:59:09] New Ma(3830) usou o item(ID: 226) de troca.
+[10/01/2021 16:00:12] Sabrina Na(5345) usou o item(ID: 227) de troca.
+[10/01/2021 16:00:18] Vitinhoflash(2954) usou o item(ID: 228) de troca.
+[10/01/2021 16:08:26] Arthur Kakashi(5258) usou o item(ID: 230) de troca.
+[10/01/2021 16:08:32] Arthur Kakashi(5258) usou o item(ID: 229) de troca.
+[10/01/2021 16:23:18] Healando Cugeral(2036) usou o item(ID: 231) de troca.
+[10/01/2021 16:36:16] Healando Cugeral(2036) usou o item(ID: 232) de troca.
+[10/01/2021 16:49:03] Dracarys(5238) usou o item(ID: 233) de troca.
+[10/01/2021 16:51:34] Vitinhoflash(2954) usou o item(ID: 234) de troca.
+[10/01/2021 17:20:46] Jackal(3111) usou o item(ID: 221) de troca.
+[10/01/2021 17:45:55] Linked(1953) usou o item(ID: 235) de troca.
+[10/01/2021 17:47:27] Yamikaze(3523) usou o item(ID: 236) de troca.
+[10/01/2021 19:18:06] Another World(4974) usou o item(ID: 237) de troca.
+[10/01/2021 19:54:22] Another World(4974) usou o item(ID: 238) de troca.
+[10/01/2021 20:33:02] Matyas Masked(4715) usou o item(ID: 239) de troca.
+[10/01/2021 20:58:47] Matyas Masked(4715) usou o item(ID: 240) de troca.
+[10/01/2021 21:38:25] Matyas Masked(4715) usou o item(ID: 241) de troca.
+[10/01/2021 21:56:00] Mimir(4390) usou o item(ID: 242) de troca.
+[10/01/2021 22:31:28] Oro Chi(4988) usou o item(ID: 244) de troca.
+[10/01/2021 23:21:41] Clown(3118) usou o item(ID: 245) de troca.
+[10/01/2021 23:31:17] Daiske(3736) usou o item(ID: 247) de troca.
+[10/01/2021 23:57:39] Yukari(4744) usou o item(ID: 246) de troca.
+[11/01/2021 00:07:15] Yukari(4744) usou o item(ID: 248) de troca.
+[11/01/2021 00:10:53] Yukari(4744) usou o item(ID: 249) de troca.
+[11/01/2021 00:18:10] Matyas Masked(4715) usou o item(ID: 250) de troca.
+[11/01/2021 01:14:48] Paraiso(5264) usou o item(ID: 251) de troca.
+[11/01/2021 02:01:41] Matheuszoly(2871) usou o item(ID: 252) de troca.
+[11/01/2021 02:25:32] Matheuszoly(2871) usou o item(ID: 253) de troca.
+[11/01/2021 09:05:31] Another World(4974) usou o item(ID: 254) de troca.
+[11/01/2021 09:08:14] Uchiha Tst(3483) usou o item(ID: 243) de troca.
+[11/01/2021 12:18:54] Yamikaze(3523) usou o item(ID: 255) de troca.
+[11/01/2021 12:26:05] Titanoboa(2044) usou o item(ID: 256) de troca.
+[11/01/2021 12:45:18] New Secret(3339) usou o item(ID: 257) de troca.
+[11/01/2021 13:32:59] Another World(4974) usou o item(ID: 258) de troca.
+[11/01/2021 14:09:22] Kyan(2573) usou o item(ID: 259) de troca.
+[11/01/2021 16:50:42] Draak Pau Brasil(2885) usou o item(ID: 260) de troca.
+[11/01/2021 17:04:32] Vitinhoflash(2954) usou o item(ID: 261) de troca.
+[11/01/2021 17:32:33] Sasque(5398) usou o item(ID: 262) de troca.
+[11/01/2021 18:58:31] Szybka Smierc(3499) usou o item(ID: 263) de troca.
+[11/01/2021 19:28:35] Draak Chapado(2107) usou o item(ID: 264) de troca.
+[11/01/2021 20:41:21] Escort  Dashadao(3284) usou o item(ID: 266) de troca.
+[11/01/2021 21:44:24] Safadinho(3152) usou o item(ID: 269) de troca.
+[11/01/2021 21:46:24] Matheuszoly(2871) usou o item(ID: 270) de troca.
+[11/01/2021 21:48:53] Drum Dead(2502) usou o item(ID: 268) de troca.
+[11/01/2021 21:59:12] Pene Cruel(5534) usou o item(ID: 271) de troca.
+[11/01/2021 22:18:23] Matheuszoly(2871) usou o item(ID: 272) de troca.
+[11/01/2021 22:18:35] Kaizer(4736) usou o item(ID: 273) de troca.
+[11/01/2021 23:30:14] Czz(2882) usou o item(ID: 274) de troca.
+[11/01/2021 23:37:42] Caralho Eomapa(5541) usou o item(ID: 275) de troca.
+[11/01/2021 23:40:44] Czz(2882) usou o item(ID: 276) de troca.
+[11/01/2021 23:45:11] Czz(2882) usou o item(ID: 277) de troca.
+[12/01/2021 00:52:34] Matyas Masked(4715) usou o item(ID: 278) de troca.
+[12/01/2021 01:05:33] Matyas Masked(4715) usou o item(ID: 279) de troca.
+[12/01/2021 08:29:24] Obito Sexy(4720) usou o item(ID: 281) de troca.
+[12/01/2021 08:29:25] Obito Sexy(4720) usou o item(ID: 280) de troca.
+[12/01/2021 08:32:13] Kaizer(4736) usou o item(ID: 282) de troca.
+[12/01/2021 08:37:32] Biel Pro Gracz(5184) usou o item(ID: 283) de troca.
+[12/01/2021 09:55:25] Vitinhoflash(2954) usou o item(ID: 284) de troca.
+[12/01/2021 09:57:00] Sol Invicto(4638) usou o item(ID: 285) de troca.
+[12/01/2021 11:24:51] Dj Pedro(4300) usou o item(ID: 286) de troca.
+[12/01/2021 11:50:45] Bradock(2219) usou o item(ID: 265) de troca.
+[12/01/2021 11:51:26] Itachi Mvp(2009) usou o item(ID: 287) de troca.
+[12/01/2021 12:45:19] Temaki(2698) usou o item(ID: 289) de troca.
+[12/01/2021 12:45:56] Healando Cugeral(2036) usou o item(ID: 288) de troca.
+[12/01/2021 13:29:11] Draak Chapado(2107) usou o item(ID: 267) de troca.
+[12/01/2021 14:53:29] Biel Pro Gracz(5184) usou o item(ID: 290) de troca.
+[12/01/2021 17:20:36] Czz(2882) usou o item(ID: 291) de troca.
+[12/01/2021 18:51:02] Matyas Masked(4715) usou o item(ID: 293) de troca.
+[12/01/2021 18:51:54] Matyas Masked(4715) usou o item(ID: 294) de troca.
+[12/01/2021 19:45:20] Sol Invicto(4638) usou o item(ID: 295) de troca.
+[12/01/2021 20:15:05] Eyeofdeath(5219) usou o item(ID: 297) de troca.
+[12/01/2021 20:45:13] Sol Invicto(4638) usou o item(ID: 296) de troca.
+[12/01/2021 21:41:18] Kush_(3391) usou o item(ID: 292) de troca.
+[12/01/2021 22:23:37] Jesus The Ama(4323) usou o item(ID: 298) de troca.
+[12/01/2021 22:37:40] So Madeirada(4433) usou o item(ID: 142) de troca.
+[12/01/2021 22:48:07] Droga Eo Rm(5493) usou o item(ID: 299) de troca.
+[12/01/2021 22:59:17] Jason(4827) usou o item(ID: 301) de troca.
+[12/01/2021 23:01:47] Lannister(5646) usou o item(ID: 300) de troca.
+[12/01/2021 23:25:06] Eyeofdeath(5219) usou o item(ID: 302) de troca.
+[13/01/2021 00:15:15] Full Counter(4918) usou o item(ID: 303) de troca.
+[13/01/2021 08:42:45] Obito Sexy(4720) usou o item(ID: 304) de troca.
+[13/01/2021 08:46:39] Obito Sexy(4720) usou o item(ID: 305) de troca.
+[13/01/2021 09:31:11] Obito Sexy(4720) usou o item(ID: 306) de troca.
+[13/01/2021 12:14:13] Big Bang(5672) usou o item(ID: 211) de troca.
+[13/01/2021 12:23:04] Sol Invicto(4638) usou o item(ID: 307) de troca.
+[13/01/2021 13:32:02] Petista(4152) usou o item(ID: 308) de troca.
+[13/01/2021 13:43:29] Larissa Colt(5702) usou o item(ID: 309) de troca.
+[13/01/2021 14:01:43] Petista(4152) usou o item(ID: 311) de troca.
+[13/01/2021 14:35:56] Sol Invicto(4638) usou o item(ID: 313) de troca.
+[13/01/2021 14:38:39] Druid(5626) usou o item(ID: 312) de troca.
+[13/01/2021 15:17:27] Matyas Piton(3084) usou o item(ID: 315) de troca.
+[13/01/2021 15:26:00] Haku Flexzone(4395) usou o item(ID: 314) de troca.
+[13/01/2021 15:37:37] Capirotado(3940) usou o item(ID: 316) de troca.
+[13/01/2021 15:49:18] Vitinhoflash(2954) usou o item(ID: 310) de troca.
+[13/01/2021 16:14:06] Czz(2882) usou o item(ID: 317) de troca.
+[13/01/2021 16:15:11] Czz(2882) usou o item(ID: 318) de troca.
+[13/01/2021 16:23:45] Rdn(3585) usou o item(ID: 319) de troca.
+[13/01/2021 20:03:56] Jarvas(2853) usou o item(ID: 320) de troca.
+[13/01/2021 20:11:40] Clown(3118) usou o item(ID: 321) de troca.
+[13/01/2021 20:36:21] Lupus(3233) usou o item(ID: 322) de troca.
+[13/01/2021 21:44:32] Jason(4827) usou o item(ID: 325) de troca.
+[13/01/2021 21:46:02] Healando Cugeral(2036) usou o item(ID: 323) de troca.
+[13/01/2021 21:46:25] Healando Cugeral(2036) usou o item(ID: 326) de troca.
+[13/01/2021 21:46:26] Healando Cugeral(2036) usou o item(ID: 324) de troca.
+[13/01/2021 21:54:27] Lee Sexy(5787) usou o item(ID: 328) de troca.
+[13/01/2021 21:55:48] Zeca Pau Gordinho(5762) usou o item(ID: 329) de troca.
+[13/01/2021 21:56:38] Golpe(2752) usou o item(ID: 330) de troca.
+[13/01/2021 21:57:44] Zeca Pau Gordinho(5762) usou o item(ID: 332) de troca.
+[13/01/2021 21:58:22] Diabluz(5824) usou o item(ID: 331) de troca.
+[13/01/2021 21:58:52] Diabluz(5824) usou o item(ID: 334) de troca.
+[13/01/2021 22:01:43] Zeca Pau Gordinho(5762) usou o item(ID: 335) de troca.
+[13/01/2021 22:01:46] Zeca Pau Gordinho(5762) usou o item(ID: 336) de troca.
+[13/01/2021 22:02:01] Diabluz(5824) usou o item(ID: 337) de troca.
+[13/01/2021 22:02:38] Diabluz(5824) usou o item(ID: 338) de troca.
+[13/01/2021 22:03:32] Zeca Pau Gordinho(5762) usou o item(ID: 339) de troca.
+[13/01/2021 22:04:08] Zeca Pau Gordinho(5762) usou o item(ID: 340) de troca.
+[13/01/2021 22:11:34] Czz(2882) usou o item(ID: 327) de troca.
+[13/01/2021 22:12:31] Diabluz(5824) usou o item(ID: 341) de troca.
+[13/01/2021 22:39:36] Vitinho(2814) usou o item(ID: 344) de troca.
+[13/01/2021 22:44:26] Paraiso(5264) usou o item(ID: 342) de troca.
+[13/01/2021 22:47:15] Shazam(2024) usou o item(ID: 343) de troca.
+[13/01/2021 22:47:32] Branquin Cv(3524) usou o item(ID: 345) de troca.
+[13/01/2021 22:51:59] Tanjiro(2930) usou o item(ID: 346) de troca.
+[13/01/2021 23:22:32] New Secret(3339) usou o item(ID: 347) de troca.
+[13/01/2021 23:58:55] Matyas Piton(3084) usou o item(ID: 349) de troca.
+[13/01/2021 23:59:56] Matyas Piton(3084) usou o item(ID: 350) de troca.
+[14/01/2021 00:00:25] Matyas Piton(3084) usou o item(ID: 351) de troca.
+[14/01/2021 00:00:34] Matyas Piton(3084) usou o item(ID: 352) de troca.
+[14/01/2021 00:10:45] Adaboros(2364) usou o item(ID: 353) de troca.
+[14/01/2021 08:17:35] Balao(1949) usou o item(ID: 355) de troca.
+[14/01/2021 08:22:15] Vimpegarrank(5630) usou o item(ID: 356) de troca.
+[14/01/2021 08:24:48] Vimpegarrank(5630) usou o item(ID: 357) de troca.
+[14/01/2021 10:08:06] Kaizer(4736) usou o item(ID: 359) de troca.
+[14/01/2021 10:25:18] Zeca Pau Gordinho(5762) usou o item(ID: 361) de troca.
+[14/01/2021 10:25:19] Zeca Pau Gordinho(5762) usou o item(ID: 360) de troca.
+[14/01/2021 10:25:25] Zeca Pau Gordinho(5762) usou o item(ID: 363) de troca.
+[14/01/2021 10:25:26] Zeca Pau Gordinho(5762) usou o item(ID: 362) de troca.
+[14/01/2021 10:28:55] Orochi Schulz(3820) usou o item(ID: 358) de troca.
+[14/01/2021 10:31:19] Zeca Pau Gordinho(5762) usou o item(ID: 364) de troca.
+[14/01/2021 10:31:19] Zeca Pau Gordinho(5762) usou o item(ID: 365) de troca.
+[14/01/2021 10:38:17] Hakael(2633) usou o item(ID: 366) de troca.
+[14/01/2021 10:51:02] Hakael(2633) usou o item(ID: 367) de troca.
+[14/01/2021 11:02:31] Kush_(3391) usou o item(ID: 368) de troca.
+[14/01/2021 12:49:33] Lee Sexy(5787) usou o item(ID: 370) de troca.
+[14/01/2021 13:26:35] Lee Sexy(5787) usou o item(ID: 348) de troca.
+[14/01/2021 15:54:55] Rust In Peace(3327) usou o item(ID: 371) de troca.
+[14/01/2021 17:20:59] Vimpegarrank(5630) usou o item(ID: 372) de troca.
+[14/01/2021 20:31:48] Matyas Piton(3084) usou o item(ID: 373) de troca.
+[14/01/2021 20:47:31] Vimpegarrank(5630) usou o item(ID: 374) de troca.
+[14/01/2021 20:47:31] Matyas Piton(3084) usou o item(ID: 375) de troca.
+[14/01/2021 21:44:40] Wiser(3250) usou o item(ID: 376) de troca.
+[14/01/2021 22:22:34] Vimpegarrank(5630) usou o item(ID: 378) de troca.
+[14/01/2021 22:23:42] Adaboros(2364) usou o item(ID: 377) de troca.
+[14/01/2021 22:23:42] Adaboros(2364) usou o item(ID: 354) de troca.
+[14/01/2021 22:24:43] Adaboros(2364) usou o item(ID: 379) de troca.
+[14/01/2021 22:28:35] Haku Rxd(5372) usou o item(ID: 381) de troca.
+[14/01/2021 22:32:25] Haku Rxd(5372) usou o item(ID: 382) de troca.
+[14/01/2021 22:39:26] Tenten Sexy(4616) usou o item(ID: 383) de troca.
+[14/01/2021 23:19:26] Gerubeba Revoltz(3563) usou o item(ID: 384) de troca.
+[14/01/2021 23:45:17] Tenten Sexy(4616) usou o item(ID: 385) de troca.
+[15/01/2021 00:06:41] Matyas Piton(3084) usou o item(ID: 386) de troca.
+[15/01/2021 09:38:37] Arthur Kakashi(5258) usou o item(ID: 387) de troca.
+[15/01/2021 11:41:24] Matyas Masked(4715) usou o item(ID: 388) de troca.
+[15/01/2021 11:42:08] Kush_(3391) usou o item(ID: 389) de troca.
+[15/01/2021 19:10:28] Belattrix(4176) usou o item(ID: 390) de troca.
+[15/01/2021 20:04:25] Vimpegarrank(5630) usou o item(ID: 391) de troca.
+[15/01/2021 20:50:29] Caralho Eomapa(5541) usou o item(ID: 392) de troca.
+[15/01/2021 21:00:52] [ADM] Killua(1930) usou o item(ID: 395) de troca.
+[15/01/2021 21:00:52] [ADM] Killua(1930) usou o item(ID: 394) de troca.
+[15/01/2021 21:00:52] [ADM] Killua(1930) usou o item(ID: 393) de troca.
+[15/01/2021 21:42:31] Zeca Pau Gordinho(5762) usou o item(ID: 397) de troca.
+[15/01/2021 21:43:39] Zeca Pau Gordinho(5762) usou o item(ID: 398) de troca.
+[15/01/2021 21:44:19] Zeca Pau Gordinho(5762) usou o item(ID: 399) de troca.
+[15/01/2021 22:33:07] Black Mirror(2591) usou o item(ID: 400) de troca.
+[15/01/2021 23:33:59] Sem Pai(2210) usou o item(ID: 401) de troca.
+[16/01/2021 00:07:25] Vitinnn(3175) usou o item(ID: 403) de troca.
+[16/01/2021 00:41:30] Meu Cufroxo(3363) usou o item(ID: 402) de troca.
+[16/01/2021 07:26:53] Healando Cugeral(2036) usou o item(ID: 404) de troca.
+[16/01/2021 07:29:12] Healando Cugeral(2036) usou o item(ID: 405) de troca.
+[16/01/2021 08:55:04] Uchiha Tst(3483) usou o item(ID: 406) de troca.
+[16/01/2021 08:55:31] Healando Cugeral(2036) usou o item(ID: 407) de troca.
+[16/01/2021 09:11:23] Ta Iludido(4367) usou o item(ID: 408) de troca.
+[16/01/2021 10:53:03] Vitinnn(3175) usou o item(ID: 410) de troca.
+[16/01/2021 10:53:26] Hokage Imortal(5656) usou o item(ID: 411) de troca.
+[16/01/2021 11:12:47] Balao(1949) usou o item(ID: 409) de troca.
+[16/01/2021 11:16:40] Flash(4725) usou o item(ID: 412) de troca.
+[16/01/2021 12:52:48] Dio(5360) usou o item(ID: 413) de troca.
+[16/01/2021 13:33:01] Minato Sexy(5630) usou o item(ID: 415) de troca.
+[16/01/2021 13:33:10] Minato Sexy(5630) usou o item(ID: 416) de troca.
+[16/01/2021 13:41:33] Sumidao(2210) usou o item(ID: 417) de troca.
+[16/01/2021 13:56:54] Sumidao(2210) usou o item(ID: 418) de troca.
+[16/01/2021 13:59:40] Sumidao(2210) usou o item(ID: 419) de troca.
+[16/01/2021 14:14:15] Melkor(3216) usou o item(ID: 420) de troca.
+[16/01/2021 15:02:48] Matyas Piton(3084) usou o item(ID: 421) de troca.
+[16/01/2021 15:05:35] Sumidao(2210) usou o item(ID: 422) de troca.
+[16/01/2021 15:39:10] Sumidao(2210) usou o item(ID: 423) de troca.
+[16/01/2021 15:44:54] Sumidao(2210) usou o item(ID: 424) de troca.
+[16/01/2021 16:20:50] Sad Player(4246) usou o item(ID: 425) de troca.
+[16/01/2021 16:21:36] Everlast(3916) usou o item(ID: 426) de troca.
+[16/01/2021 16:43:02] Temaki(2698) usou o item(ID: 428) de troca.
+[16/01/2021 17:00:59] StalarK(2044) usou o item(ID: 429) de troca.
+[16/01/2021 17:17:42] Ninjagv(3891) usou o item(ID: 430) de troca.
+[16/01/2021 17:23:52] Draak Estupra Noob(2638) usou o item(ID: 431) de troca.
+[16/01/2021 17:40:12] Everlast(3916) usou o item(ID: 432) de troca.
+[16/01/2021 17:59:28] Limoes(6213) usou o item(ID: 433) de troca.
+[16/01/2021 18:13:03] Linked(1953) usou o item(ID: 434) de troca.
+[16/01/2021 19:02:28] New Ma Hard(4199) usou o item(ID: 427) de troca.
+[16/01/2021 19:12:27] Clown(3118) usou o item(ID: 435) de troca.
+[16/01/2021 20:31:44] Falamt Lek Kkjk(2241) usou o item(ID: 436) de troca.
+[16/01/2021 20:39:37] Jason(4827) usou o item(ID: 437) de troca.
+[16/01/2021 20:57:20] Hokage Imortal(5656) usou o item(ID: 438) de troca.
+[16/01/2021 21:25:00] Gaara Of War(5496) usou o item(ID: 414) de troca.
+[16/01/2021 22:03:12] Politix(1978) usou o item(ID: 63) de troca.
+[16/01/2021 22:30:16] Good Nie(2955) usou o item(ID: 443) de troca.
+[16/01/2021 22:32:35] Petista(4152) usou o item(ID: 442) de troca.
+[16/01/2021 22:47:47] Healando Cugeral(2036) usou o item(ID: 444) de troca.
+[17/01/2021 02:42:39] Sad Player(4246) usou o item(ID: 446) de troca.
+[17/01/2021 02:51:16] Sad Player(4246) usou o item(ID: 447) de troca.
+[17/01/2021 08:18:16] Mostarda Azeda(5945) usou o item(ID: 448) de troca.
+[17/01/2021 08:50:11] Gaara Of War(5496) usou o item(ID: 439) de troca.
+[17/01/2021 08:50:12] Gaara Of War(5496) usou o item(ID: 441) de troca.
+[17/01/2021 08:50:15] Gaara Of War(5496) usou o item(ID: 440) de troca.
+[17/01/2021 08:56:38] Hentai Da Hinata(4149) usou o item(ID: 450) de troca.
+[17/01/2021 10:17:18] Arthuruesslerr(4867) usou o item(ID: 451) de troca.
+[17/01/2021 10:27:34] Jastrzab(4261) usou o item(ID: 453) de troca.
+[17/01/2021 10:34:00] Reaper(5153) usou o item(ID: 454) de troca.
+[17/01/2021 11:10:48] Naruto Uzocrack(3015) usou o item(ID: 456) de troca.
+[17/01/2021 11:18:36] Naruto Uzocrack(3015) usou o item(ID: 457) de troca.
+[17/01/2021 11:29:00] Tanjiro(2930) usou o item(ID: 455) de troca.
+[17/01/2021 11:34:45] Petista Do Deserto(4046) usou o item(ID: 458) de troca.
+[17/01/2021 12:27:49] Sad Player(4246) usou o item(ID: 459) de troca.
+[17/01/2021 12:35:18] Tankando Tudo(4388) usou o item(ID: 460) de troca.
+[17/01/2021 12:35:36] Tankando Tudo(4388) usou o item(ID: 461) de troca.
+[17/01/2021 12:37:08] Tankando Tudo(4388) usou o item(ID: 462) de troca.
+[17/01/2021 12:50:20] Tankando Tudo(4388) usou o item(ID: 464) de troca.
+[17/01/2021 12:56:04] Orochimaru Male(2912) usou o item(ID: 466) de troca.
+[17/01/2021 13:00:30] Dinizzz(6243) usou o item(ID: 467) de troca.
+[17/01/2021 13:58:32] Tanjiro(2930) usou o item(ID: 468) de troca.
+[17/01/2021 14:22:00] Themapa(5588) usou o item(ID: 469) de troca.
+[17/01/2021 14:26:39] Themapa(5588) usou o item(ID: 470) de troca.
+[17/01/2021 15:14:48] EoMascarado(2693) usou o item(ID: 471) de troca.
+[17/01/2021 15:50:20] Tankando Tudo(4388) usou o item(ID: 472) de troca.
+[17/01/2021 15:50:21] Tankando Tudo(4388) usou o item(ID: 473) de troca.
+[17/01/2021 15:54:18] Tankando Tudo(4388) usou o item(ID: 474) de troca.
+[17/01/2021 16:16:12] Ztk Zeros(5696) usou o item(ID: 475) de troca.
+[17/01/2021 20:29:32] Tankando Tudo(4388) usou o item(ID: 477) de troca.
+[17/01/2021 20:35:46] Tankando Tudo(4388) usou o item(ID: 476) de troca.
+[17/01/2021 20:40:32] Drum Dead(2502) usou o item(ID: 478) de troca.
+[17/01/2021 21:34:03] Sad Player(4246) usou o item(ID: 480) de troca.
+[17/01/2021 21:34:03] Sad Player(4246) usou o item(ID: 479) de troca.
+[17/01/2021 21:45:35] Sabrina Na(5345) usou o item(ID: 481) de troca.
+[17/01/2021 21:47:19] Sabrina Na(5345) usou o item(ID: 484) de troca.
+[17/01/2021 21:47:19] Sabrina Na(5345) usou o item(ID: 485) de troca.
+[17/01/2021 21:47:20] Sabrina Na(5345) usou o item(ID: 486) de troca.
+[17/01/2021 21:47:23] Sabrina Na(5345) usou o item(ID: 483) de troca.
+[17/01/2021 21:47:29] Sabrina Na(5345) usou o item(ID: 482) de troca.
+[17/01/2021 21:54:14] Sabrina Na(5345) usou o item(ID: 487) de troca.
+[17/01/2021 21:54:53] Drum Dead(2502) usou o item(ID: 489) de troca.
+[17/01/2021 21:56:44] Sukunaa(5773) usou o item(ID: 490) de troca.
+[17/01/2021 22:37:15] Sad Player(4246) usou o item(ID: 495) de troca.
+[17/01/2021 22:37:15] Sad Player(4246) usou o item(ID: 494) de troca.
+[17/01/2021 22:44:40] Sad Player(4246) usou o item(ID: 493) de troca.
+[17/01/2021 22:56:26] Sad Player(4246) usou o item(ID: 496) de troca.
+[17/01/2021 23:18:23] Ban(2710) usou o item(ID: 498) de troca.
+[17/01/2021 23:18:43] Mr Peabody(3446) usou o item(ID: 499) de troca.
+[17/01/2021 23:19:06] Mr Peabody(3446) usou o item(ID: 500) de troca.
+[17/01/2021 23:39:04] Ban(2710) usou o item(ID: 501) de troca.
+[17/01/2021 23:39:44] Ban(2710) usou o item(ID: 503) de troca.
+[17/01/2021 23:39:45] Ban(2710) usou o item(ID: 502) de troca.
+[17/01/2021 23:41:42] Wiz Khalifa(3434) usou o item(ID: 504) de troca.
+[17/01/2021 23:41:53] Wiz Khalifa(3434) usou o item(ID: 505) de troca.
+[18/01/2021 00:13:45] Antipetista(4347) usou o item(ID: 506) de troca.
+[18/01/2021 01:06:12] [ADMIN] Wonsr(1931) usou o item(ID: 507) de troca.
+[18/01/2021 06:05:48] Belattrix(4176) usou o item(ID: 452) de troca.
+[18/01/2021 09:15:35] Minato Sexy(5630) usou o item(ID: 463) de troca.
+[18/01/2021 09:37:46] Sukunaa(5773) usou o item(ID: 511) de troca.
+[18/01/2021 09:37:48] Sukunaa(5773) usou o item(ID: 512) de troca.
+[18/01/2021 11:04:00] Big Bang(5672) usou o item(ID: 515) de troca.
+[18/01/2021 11:19:07] Jao Do Lure(3099) usou o item(ID: 514) de troca.
+[18/01/2021 11:56:37] Tlstv(6245) usou o item(ID: 445) de troca.
+[18/01/2021 11:56:41] Tlstv(6245) usou o item(ID: 497) de troca.
+[18/01/2021 13:12:47] Jackal(3111) usou o item(ID: 516) de troca.
+[18/01/2021 14:10:25] Dog Kazekage(5376) usou o item(ID: 517) de troca.
+[18/01/2021 14:13:05] Dog Kazekage(5376) usou o item(ID: 518) de troca.
+[18/01/2021 15:14:15] [TUTOR] Pedin(2580) usou o item(ID: 519) de troca.
+[18/01/2021 15:15:31] Zenitsu(5811) usou o item(ID: 520) de troca.
+[18/01/2021 15:22:06] Healando Cugeral(2036) usou o item(ID: 521) de troca.
+[18/01/2021 16:16:57] Yukari(4744) usou o item(ID: 523) de troca.
+[18/01/2021 16:19:30] Minato Namikaze(2071) usou o item(ID: 524) de troca.
+[18/01/2021 16:20:41] Dinizzz(6243) usou o item(ID: 522) de troca.
+[18/01/2021 16:32:41] Ceiifa(6341) usou o item(ID: 525) de troca.
+[18/01/2021 17:52:29] Jao Do Lure(3099) usou o item(ID: 513) de troca.
+[18/01/2021 18:16:57] Vtr(6195) usou o item(ID: 526) de troca.
+[18/01/2021 18:17:06] Vtr(6195) usou o item(ID: 527) de troca.
+[18/01/2021 18:18:24] Sai Corno(5820) usou o item(ID: 528) de troca.
+[18/01/2021 19:21:09] Combe Dashadao(1920) usou o item(ID: 531) de troca.
+[18/01/2021 19:32:49] Vtr(6195) usou o item(ID: 530) de troca.
+[18/01/2021 19:43:00] Gaara Of War(5496) usou o item(ID: 449) de troca.
+[18/01/2021 19:43:02] Gaara Of War(5496) usou o item(ID: 532) de troca.
+[18/01/2021 20:19:39] Gaara Of War(5496) usou o item(ID: 533) de troca.
+[18/01/2021 20:53:24] Koji Kashin(4422) usou o item(ID: 537) de troca.
+[18/01/2021 20:53:25] Koji Kashin(4422) usou o item(ID: 535) de troca.
+[18/01/2021 20:55:22] Oroxiyagame(3740) usou o item(ID: 536) de troca.
+[18/01/2021 20:57:18] Drum Dead(2502) usou o item(ID: 538) de troca.
+[18/01/2021 21:06:49] StalarK(2044) usou o item(ID: 539) de troca.
+[18/01/2021 21:08:26] Gaara Of War(5496) usou o item(ID: 541) de troca.
+[18/01/2021 21:08:32] EKUZ AK TROVAO(5342) usou o item(ID: 540) de troca.
+[18/01/2021 21:15:10] GlOcKaDa(5496) usou o item(ID: 534) de troca.
+[13/02/2023 17:41:22] Raikage Bicho(9891) usou o item(ID: 1) de troca.
+[14/02/2023 16:37:54] Mova Mafu(9914) usou o item(ID: 2) de troca.
+[15/02/2023 00:43:38] Yusuki(9940) usou o item(ID: 3) de troca.
+[16/02/2023 18:32:42] Killerbear(9876) usou o item(ID: 4) de troca.
+[17/02/2023 17:16:32] ADM(9600) usou o item(ID: 6) de troca.
+[17/02/2023 17:17:17] Killerbear(9876) usou o item(ID: 7) de troca.
+[17/02/2023 17:17:29] ADM(9600) usou o item(ID: 8) de troca.
+[18/02/2023 11:16:11] Porteiro(9980) usou o item(ID: 9) de troca.
+[20/02/2023 17:38:36] Tada(9960) usou o item(ID: 10) de troca.
+[25/02/2023 18:28:11] Vulgo Espanca Noob(10019) usou o item(ID: 11) de troca.
+[26/02/2023 20:30:41] Saci De Patinete(10044) usou o item(ID: 12) de troca.
+[02/03/2023 02:48:32] Amaldicoado(9939) usou o item(ID: 13) de troca.
+[02/03/2023 15:22:05] Moisesp(9933) usou o item(ID: 14) de troca.
+[06/03/2023 17:29:01] Moisesp(9933) usou o item(ID: 15) de troca.
+[19/03/2023 19:45:33] Amaldicoado(9939) usou o item(ID: 16) de troca.
+[21/03/2023 00:11:37] Jhow(9877) usou o item(ID: 17) de troca.
+[23/03/2023 14:20:06] ADM(9600) usou o item(ID: 18) de troca.

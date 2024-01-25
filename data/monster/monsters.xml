@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monsters>
+             <!-- dungeon -->
+		<monster name="[DUNGEON] Mizuki" file="dungeon/[dungeon]mizuki.xml"/>
+		<monster name="Zabuza Enfraquecido" file="dungeon/zabuzaenfraquecido.xml"/>
+		
+		<!-- dungeon Summons -->
+		<monster name="Bunshin Mizuki" file="dungeonm/bunshinmizuki.xml"/>
+		<monster name="Bunshin Zabuza" file="dungeonm/bunshinzabuza.xml"/>
+		<monster name="Bunshin Haku" file="dungeonm/bunshinhaku.xml"/>
+		<monster name="[DUNGEON] Haku" file="dungeonm/[dungeon]haku.xml"/>
+		<monster name="[DUNGEON] Zabuza" file="dungeonm/[dungeon]zabuza.xml"/>
+		<monster name="Kankuro Gennin" file="dungeonm/kankuroc.xml"/>
+		<monster name="Sasuke Gennin" file="dungeonm/sasukec.xml"/>
+		<monster name="Shino Gennin" file="dungeonm/shinoc.xml"/>
+		<monster name="Sakura Gennin" file="dungeonm/sakurac.xml"/>
+		<monster name="Ino Gennin" file="dungeonm/inoc.xml"/>
+		<monster name="Temari Gennin" file="dungeonm/temaric.xml"/>
+		<monster name="Tenten Gennin" file="dungeonm/tentenc.xml"/>
+		<monster name="Shikamaru Gennin" file="dungeonm/shikamaruc.xml"/>
+		<monster name="Naruto Gennin" file="dungeonm/narutoc.xml"/>
+		<monster name="Kiba Gennin" file="dungeonm/kibac.xml"/>
+		<monster name="Hinata Gennin" file="dungeonm/hinatac.xml"/>
+		<monster name="Neji Gennin" file="dungeonm/nejic.xml"/>
+		<monster name="Rock Lee Gennin" file="dungeonm/rockleec.xml"/>
+		<monster name="Choji Gennin" file="dungeonm/chojic.xml"/>
+		<monster name="Gaara Gennin" file="dungeonm/gaarac.xml"/>
+		
+			 
+             <!-- saga -->
+	    <monster name="Mizuki " file="saga/mizukii.xml"/>
+		<monster name="Kakashi Sensei " file="saga/kakashitreino.xml"/>
+		<monster name="Kakashi Sensei  " file="saga/kakashitreino2.xml"/>
+		<monster name="Haku " file="saga/hakusaga.xml"/>
+		<monster name="Zabuza Momochi " file="saga/zabuzasaga.xml"/>
+		<monster name="Orochimaru " file="saga/orochimarusaga4.xml"/>
+		<monster name="Gaara " file="saga/gaaragenin.xml"/>
+		<monster name="Kankuro " file="saga/kankurogenin.xml"/>
+		<monster name="Temari " file="saga/temarigenin.xml"/>
+		<monster name="Neji " file="saga/nejigenin.xml"/>
+		<monster name="Rock Lee " file="saga/rockleegenin.xml"/>
+		<monster name="Tenten " file="saga/tentengenin.xml"/>
+		<monster name="gaarademonchunin" file="saga/gaarademonchunin.xml"/>
+		<monster name="Gaara  " file="saga/gaarachunin.xml"/>
+		<monster name="Kankuro  " file="saga/kankurochunin.xml"/>
+		<monster name="Temari  " file="saga/temarichunin.xml"/>
+		<monster name="Kabuto  " file="saga/kabutosaga6.xml"/>
+		<monster name="Orochimaru  " file="saga/orochimarusaga6.xml"/>
+		<monster name="Sasuke  " file="saga/sasukesaga7.xml"/>
+		<monster name="Jiroubou " file="saga/jiroubousaga8.xml"/>
+		<monster name="Kidomaru " file="saga/kidomarusaga8.xml"/>
+		<monster name="Sakon " file="saga/sakonsaga8.xml"/>
+		<monster name="Tayuya " file="saga/tayuyasaga8.xml"/>
+		<monster name="Kimimaro " file="saga/kimimarosaga8.xml"/>
+		<monster name="Uchiha Sasuke " file="saga/sasukesaga8.xml"/>
+		<monster name="Sasori " file="saga/sasorisaga9.xml"/>
+		<monster name="Deidara " file="saga/deidarasaga9.xml"/>
+		<monster name="Sai" file="saga/saisaga10.xml"/>
+		<monster name="Orochimaru     " file="saga/orochimarusaga10.xml"/>
+		<monster name="Sasuke     " file="saga/sasukesaga10.xml"/>
+		<monster name="Kakuzu " file="saga/kakuzusaga11.xml"/>
+		<monster name="Kakuzu  " file="saga/kakuzusaga11mask.xml"/>
+		<monster name="Hidan " file="saga/hidansaga11.xml"/>
+		<monster name="Orochimaru      " file="saga/orochimarusaga12.xml"/>
+		<monster name="Deidara     " file="saga/deidarasaga13m1.xml"/>
+		<monster name="   Itachi" file="saga/itachisaga13g.xml"/>
+		<monster name="    Itachi" file="saga/itachisaga13one.xml"/>
+		<monster name="    Itachi " file="saga/itachisaga13two.xml"/>
+		<monster name=" Killer Bee" file="saga/beesaga14one.xml"/>
+		<monster name="Killer Bee " file="saga/beesaga14two.xml"/>
+		<monster name="Hachibi " file="saga/hachibisaga14.xml"/>
+		<monster name="Gamabunta " file="saga/gamabuntasaga15.xml"/>
+		<monster name="Pain " file="saga/painsaga15.xml"/>
+		<!-- Saga -->
+		<monster name="Sasukee" file="saga/sasukee.xml"/>
+		<monster name="Sakuraa" file="saga/sakuraa.xml"/>
+		<monster name="Mizukii" file="saga/mizukii.xml"/>
+		<monster name="Kakashitreino" file="saga/kakashitreino.xml"/>
+		<monster name="Kakashitreino2" file="saga/kakashitreino2.xml"/>
+		<monster name="Hakusaga3" file="saga/hakusaga.xml"/>
+		<monster name="Zabuzasaga3" file="saga/zabuzasaga.xml"/>
+		<monster name="Orochimarusaga4" file="saga/orochimarusaga4.xml"/>
+		<monster name="Gaarasaga4" file="saga/gaaragenin.xml"/>
+		<monster name="Kankurosaga4" file="saga/kankurogenin.xml"/>
+		<monster name="Temarisaga4" file="saga/temarigenin.xml"/>
+		<monster name="Nejisaga4" file="saga/nejigenin.xml"/>
+		<monster name="Leesaga4" file="saga/rockleegenin.xml"/>
+		<monster name="Tentensaga4" file="saga/tentengenin.xml"/>
+		<monster name="gaarademonchuninsaga5" file="saga/gaarademonchunin.xml"/>
+		<monster name="Gaarasaga5" file="saga/gaarachunin.xml"/>
+		<monster name="Kankurosaga5" file="saga/kankurochunin.xml"/>
+		<monster name="Temarisaga5" file="saga/temarichunin.xml"/>
+		<monster name="Kabutosaga6" file="saga/kabutosaga6.xml"/>
+		<monster name="Orochimarusaga6" file="saga/orochimarusaga6.xml"/>
+		<monster name="Sasukesaga7" file="saga/sasukesaga7.xml"/>
+		<monster name="Jiroubousaga8" file="saga/jiroubousaga8.xml"/>
+		<monster name="Kidomarusaga8" file="saga/kidomarusaga8.xml"/>
+		<monster name="Sakonsaga8" file="saga/sakonsaga8.xml"/>
+		<monster name="Tayuyasaga8" file="saga/tayuyasaga8.xml"/>
+		<monster name="Kimimarosaga8" file="saga/kimimarosaga8.xml"/>
+		<monster name="Sasukesaga8" file="saga/sasukesaga8.xml"/>
+		<monster name="Sasorisaga9" file="saga/sasorisaga9.xml"/>
+		<monster name="Deidarasaga9" file="saga/deidarasaga9.xml"/>
+		<monster name="Orochimarusaga10" file="saga/orochimarusaga10.xml"/>
+		<monster name="Sasukesaga10" file="saga/sasukesaga10.xml"/>
+		<monster name="Kakuzusaga11" file="saga/kakuzusaga11.xml"/>
+		<monster name="Kakuzusaga11mask" file="saga/kakuzusaga11mask.xml"/>
+		<monster name="Hidansaga11" file="saga/hidansaga11.xml"/>
+		<monster name="Orochimarusaga12" file="saga/orochimarusaga12.xml"/>
+		<monster name="deidarasaga13" file="saga/deidarasaga13m1.xml"/>
+		<monster name="Itachigen" file="saga/itachisaga13g.xml"/>
+		<monster name="itachisaga13one" file="saga/itachisaga13one.xml"/>
+		<monster name="itachisaga13two" file="saga/itachisaga13two.xml"/>
+		<monster name="beesaga14one" file="saga/beesaga14one.xml"/>
+		<monster name="beesaga14two" file="saga/beesaga14two.xml"/>
+		<monster name="hachibisaga14" file="saga/hachibisaga14.xml"/>
+		<monster name="ninja" file="saga/ninja.xml"/>	
+		<monster name="Gamabuntasaga15" file="saga/gamabuntasaga15.xml"/>
+		<monster name="Painsaga15" file="saga/painsaga15.xml"/>
+
+	 	   
+	  <monster name="kiba" file="examechunin/kiba.xml"/>
+	  <monster name="neji" file="examechunin/neji.xml"/>
+	  <monster name="temari" file="examechunin/temari.xml"/>
+	  <monster name="gaara" file="examechunin/gaara.xml"/>
+	  <monster name="sasukeee" file="examechunin/sasuke.xml"/>
+	  <monster name="shikamaru" file="examechunin/shikamaru.xml"/>
+	  
+	  	<!-- eventos -->
+	<monster name="Gerador Azul I" file="eventos/Gerador Azul I.xml"/>
+	<monster name="Gerador Azul II" file="eventos/Gerador Azul II.xml"/>
+	<monster name="Gerador Azul III" file="eventos/Gerador Azul III.xml"/>
+    <monster name="Gerador Vermelho I" file="eventos/Gerador Vermelho I.xml"/>
+	<monster name="Gerador Vermelho II" file="eventos/Gerador Vermelho II.xml"/>
+	<monster name="Gerador Vermelho III" file="eventos/Gerador Vermelho III.xml"/>
+	<monster name="The Juubi Boss" file="eventos/The Juubi Boss.xml"/>
+	<monster name="The Kurama Boss" file="eventos/The Kurama Boss.xml"/>
+	<monster name="The Hidan Boss" file="eventos/The Hidan Boss.xml"/>    
+	<monster name="Arcanjo" file="eventos/Arcanjo.xml"/>    
+	<monster name="zombie event" file="eventos/zombie event.xml"/>    
+	<monster name="grade" file="eventos/grade.xml"/>    
+	<!-- <monster name="duende" file="eventos/duende.xml"/>     -->
+	<!-- <monster name="giant yoth" file="eventos/giant yoth.xml"/>     -->
+	<monster name="Guarda do Portao" file="eventos/Guarda do Portao.xml"/>   
+	<monster name="trainer" file="eventos/trainer.xml"/>
+    <monster name="bunny" file="eventos/bunny.xml"/>                       		 <!-- nivel:100_________life:17000 ________exp:500  -->
+	<monster name="d-bunny" file="eventos/d-bunny.xml"/>                        	 <!-- nivel:100_________life:17000 ________exp:500  -->
+	
+	
+	<monster name="clone" file="clone.xml"/>  
+    <monster name="limbo" file="limbo.xml"/>        
+	<monster name="croni" file="croni.xml"/>      
+	<monster name="crone" file="crone.xml"/>  
+	<monster name="clone das sombras" file="clone das sombras.xml"/>
+	
+	                                            <!-- edo tensei -->
+	 <monster name="edo Uzumaki Naruto" file="edotensei/edonaruto.xml"/>
+	 <monster name="edo Uchiha Sasuke" file="edotensei/edosasuke.xml"/>
+	 <monster name="edo Rock Lee" file="edotensei/edolee.xml"/>
+	 <monster name="Edo Sakura Haruno" file="edotensei/edosakura.xml"/>
+	 <monster name="edo Uchiha Obito" file="edotensei/edoobito.xml"/>
+	 <monster name="edo Senju Tobirama" file="edotensei/edotobirama.xml"/>
+	 <monster name="edo Uchiha Itachi" file="edotensei/edoitachi.xml"/>
+	 <monster name="edo Senju Hashirama" file="edotensei/edohashirama.xml"/>
+	 <monster name="edo Hinata Hyuga" file="edotensei/edohinata.xml"/>
+	 <monster name="edo Jiraya" file="edotensei/edojiraya.xml"/>
+	 <monster name="edo Gaara" file="edotensei/edogaara.xml"/>
+	 <monster name="edo Shikamaru Nara" file="edotensei/edoshikamaru.xml"/>
+	 <monster name="edo Hatake Kakashi" file="edotensei/edokakashi.xml"/>
+	 <monster name="edo Killer Bee" file="edotensei/edobee.xml"/>
+	 <monster name="edo Senju Tsunade" file="edotensei/edotsunade.xml"/>
+	 <monster name="edo Koori Haku" file="edotensei/edohaku.xml"/>
+	 <monster name="edo Guren" file="edotensei/edoguren.xml"/>
+	 <monster name="edo Otsutsuki Kaguya" file="edotensei/edokaguya.xml"/>
+	 <monster name="edo Kankuro" file="edotensei/edokankuro.xml"/>
+	 <monster name="edo Namikaze Minato" file="edotensei/edominato.xml"/>
+	 <monster name="edo Orochimaru" file="edotensei/edoorochimaru.xml"/>
+	 <monster name="edo Uchiha Shisui" file="edotensei/edoshisui.xml"/>
+	 <monster name="edo Sai" file="edotensei/edosai.xml"/>
+	 <monster name="edo Ay" file="edotensei/edoraikage.xml"/>
+	 <monster name="edo Uchiha Madara" file="edotensei/edomadara.xml"/>
+	 <monster name="edo Akasuna Sasori" file="edotensei/edosasori.xml"/>
+	 <monster name="edo Onoki" file="edotensei/edoonoki.xml"/>
+	 <monster name="edo Suigetsu Hozuki" file="edotensei/edosuigetsu.xml"/>
+	 <monster name="edo Mitsashi Tenten" file="edotensei/edotenten.xml"/>
+	 <monster name="edo Ino Yamanaka" file="edotensei/edoino.xml"/>
+	 <monster name="edo Uzumaki Nagato" file="edotensei/edonagato.xml"/>
+	 <monster name="edo Yakushi Kabuto" file="edotensei/edokabuto.xml"/>
+	 <monster name="edo Konan" file="edotensei/edokonan.xml"/>
+	 <monster name="edo Kakuzu" file="edotensei/edokakuzu.xml"/>
+	 <monster name="edo Hiruzen Sarutobi" file="edotensei/edohiruzen.xml"/>
+	 <monster name="edo Might Guy" file="edotensei/edoguy.xml"/>
+	 <monster name="edo Danzou Shimura" file="edotensei/edodanzou.xml"/>
+	 <monster name="edo Hidan" file="edotensei/edohidan.xml"/>
+	 
+	                                                  <!--kuchyoses-->
+	<monster name="explosivespider" file="kuchyose/kuchyose spider.xml"/>
+	<monster name="explosiveowl" file="kuchyose/kuchyose owl.xml"/>
+	<monster name="explosivebird" file="kuchyose/kuchyose bird.xml"/>												  
+	<monster name="kuchyose gamabunta" file="kuchyose/kuchyose gamabunta.xml"/>  
+	<monster name="kuchyose sanshuuo" file="kuchyose/kuchyose sanshuuo.xml"/>  
+	<monster name="kuchyose karasu" file="kuchyose/kuchyose karasu.xml"/>  
+	<monster name="kuchyose kuroari" file="kuchyose/kuchyose kuroari.xml"/>  
+	<monster name="kuchyose corvo" file="kuchyose/kuchyose corvo.xml"/>
+	<monster name="kuchyose sasori" file="kuchyose/kuchyose sasori.xml"/> 
+	<monster name="kuchyose kazekage" file="kuchyose/kuchyose kazekage.xml"/>  
+	<monster name="kuchyose hawk" file="kuchyose/kuchyose hawk.xml"/>  
+	<monster name="kuchyose manda" file="kuchyose/kuchyose manda.xml"/>  
+	<monster name="kuchyose bull" file="kuchyose/kuchyose bull.xml"/>  
+	<monster name="kuchyose bisuke" file="kuchyose/kuchyose bisuke.xml"/>  
+	<monster name="kuchyose gedou" file="kuchyose/kuchyose gedou.xml"/>  
+	<monster name="kuchyose juubi" file="kuchyose/kuchyose juubi.xml"/>  
+	<monster name="kuchyose jya" file="kuchyose/kuchyose jya.xml"/>  
+	<monster name="kuchyose katsuyu" file="kuchyose/kuchyose katsuyu.xml"/>  
+	<monster name="kuchyose nezumi" file="kuchyose/kuchyose nezumi.xml"/>  
+	<monster name="kuchyose mokujin" file="kuchyose/kuchyose mokujin.xml"/>  
+	<monster name="kuchyose goremu" file="kuchyose/kuchyose goremu.xml"/>  
+	<monster name="kuchyose gedou mazou" file="kuchyose/kuchyose gedou mazou.xml"/>  
+	<monster name="kuchyose choujuu giga" file="kuchyose/kuchyose choujuu giga.xml"/>  
+	<monster name="pain ningendo" file="kuchyose/pain ningendo.xml"/>  
+	<monster name="pain gakido" file="kuchyose/pain gakido.xml"/>  
+	<monster name="pain chikushodo" file="kuchyose/pain chikushodo.xml"/>  
+	<monster name="pain jigokudo" file="kuchyose/pain jigokudo.xml"/>  
+	<monster name="pain shurato" file="kuchyose/pain shurato.xml"/>  
+	<monster name="pain deva" file="kuchyose/pain deva.xml"/>  
+	<monster name="heart1" file="kuchyose/heart1.xml"/>  
+	<monster name="heart2" file="kuchyose/heart2.xml"/>  
+	<monster name="heart3" file="kuchyose/heart3.xml"/>  
+	<monster name="heart4" file="kuchyose/heart4.xml"/>  
+	<monster name="kuchyose enma" file="kuchyose/kuchyose enma.xml"/>  
+	 
+	
+	                                        <!--- bijuus -->
+	<monster name="shukaku" file="bijuu/shukaku.xml"/>       <!--localizado em suna -->
+	<monster name="choumei" file="bijuu/choumei.xml"/>       <!-- localizado em suna -->
+	<monster name="gyuki" file="bijuu/gyuki.xml"/>           <!--localizado em kumogakure -->
+	<monster name="isobu" file="bijuu/isobu.xml"/>           <!--localizado em kirigakure -->
+	<monster name="kokuou" file="bijuu/kokuou.xml"/> 
+	<monster name="kurama" file="bijuu/kurama.xml"/>         <!--localizado em konoha -->
+	<monster name="matatabi" file="bijuu/matatabi.xml"/>
+	<monster name="saiken" file="bijuu/saiken.xml"/>
+	<monster name="son goku" file="bijuu/son goku.xml"/>     <!--localizado no covil akat-->
+	
+	<monster name="cursed tayuya" file="castle/cursed tayuya.xml"/> 
+	<monster name="sheele" file="castle/sheele.xml"/> 
+	<monster name="guren" file="castle/guren.xml"/> 
+	<monster name="fuyuki" file="castle/fuyuki.xml"/> 
+	<monster name="kentaro" file="castle/kentaro.xml"/> 
+	<monster name="renegade anbu" file="castle/renegade anbu.xml"/> 
+	<monster name="king" file="castle/king.xml"/> 
+	
+	<!-- 1 a 100--> 
+	<monster name="beezer" file="1 a 100/beezer.xml"/>                      <!--life:450 __________exp:5   --> 
+	<monster name="mouse" file="1 a 100/mouse.xml"/>                        <!--life:450 __________exp:10  -->
+    <monster name="snake" file="1 a 100/snake.xml"/>                        <!--life:450 __________exp:15  -->
+    <monster name="mind bat" file="1 a 100/mind bat.xml"/>                  <!--life:450 __________exp:15  -->
+    <monster name="wolf" file="1 a 100/wolf.xml"/>                          <!--life:450 __________exp:15  -->
+	<monster name="spider" file="1 a 100/spider.xml"/>                      <!--life:550 __________exp:19  -->
+	<monster name="sand bug" file="1 a 100/sand bug.xml"/>        		    <!--life:950 __________exp:25  -->
+	<monster name="black wolf" file="1 a 100/black wolf.xml"/>              <!--life:1650 _________exp:25  -->
+    <monster name="boxer" file="1 a 100/boxer.xml"/>                        <!--life:1650 _________exp:25  -->
+    <monster name="ice wolf" file="1 a 100/ice wolf.xml"/>        		    <!--life:1650 _________exp:25  -->
+    <monster name="bandit sword" file="1 a 100/bandit sword.xml"/>          <!--life:1950 _________exp:35  -->
+    <monster name="sand cros" file="1 a 100/sand cros.xml"/>     		    <!--life:1950 _________exp:35  -->
+    <monster name="suna bunshin" file="1 a 100/suna bunshin.xml"/>          <!--life:1950 _________exp:35  -->
+	<monster name="samurai" file="1 a 100/samurai.xml"/>                    <!--life:4250 _________exp:150 -->
+	<monster name="farmer" file="1 a 100/farmer.xml"/>                      <!--life:4250 _________exp:180 -->
+	<monster name="fire shinobi" file="1 a 100/fire shinobi.xml"/>          <!--life:6250 _________exp:200 -->
+	<monster name="human" file="1 a 100/human.xml"/>    				    <!--life:6250 _________exp:200 -->
+	<monster name="assassin fuuton" file="1 a 100/assassin fuuton.xml"/>    <!--life:9250 _________exp:300 -->
+	<monster name="sound shinobi" file="1 a 100/sound shinobi.xml"/>        <!--life:9250 _________exp:300 -->  
+	
+	<!-- 100 a 200 -->
+	<monster name="tiger" file="101 a 200/tiger.xml"/>                               <!--life:32250 _________exp:810  -->
+	<monster name="bear" file="101 a 200/bear.xml"/>                                 <!--life:41250 _________exp:700  -->
+    <monster name="sanshuuo" file="101 a 200/sanshuuo.xml"/>                         <!--life:59250 _________exp:800  -->
+    <monster name="karasu" file="101 a 200/karasu.xml"/>                             <!--life:39250 _________exp:720  -->
+    <monster name="kuroari" file="101 a 200/kuroari.xml"/>                           <!--life:59250 _________exp:900  -->  
+    <monster name="master shinobi" file="101 a 200/master shinobi.xml"/>             <!--life:26250 _________exp:790  -->  
+	<monster name="human mutated" file="101 a 200/human mutated.xml"/>               <!--life:39250 _________exp:900  -->
+	<monster name="rukongai" file="101 a 200/rukongai.xml"/>                         <!--life:39250 _________exp:900  -->
+	<monster name="renegade" file="101 a 200/renegade.xml"/>                         <!--life:41250 _________exp:950  -->
+	<monster name="sand storm" file="101 a 200/sand storm.xml"/>                     <!--life:41250 _________exp:950  -->
+	<monster name="akai" file="101 a 200/akai.xml"/>                                 <!--life:43250 _________exp:1010 -->       
+	<monster name="gedou dog" file="101 a 200/gedou dog.xml"/>                       <!--life:39250 _________exp:980  --> 
+	<monster name="dosu" file="101 a 200/dosu.xml"/>                                 <!--life:39250 _________exp:1150 -->
+	<monster name="bandit" file="101 a 200/bandit.xml"/>                 	         <!--life:35250 _________exp:1050 -->
+	<monster name="traveller" file="101 a 200/traveller.xml"/>           	         <!--life:35250 _________exp:980  -->
+	<monster name="insect" file="101 a 200/insect.xml"/>                  	         <!--life:28250 _________exp:1135 -->
+	<monster name="dark snake" file="101 a 200/dark snake.xml"/>          	         <!--life:38250 _________exp:1135 -->
+	<monster name="nukenin" file="101 a 200/nukenin.xml"/>                 		     <!--life:38250 _________exp:1350 --> 
+	<monster name="dog fear" file="101 a 200/dog fear.xml"/>               	         <!--life:38250 _________exp:1150 -->
+	<monster name="giant fear" file="101 a 200/giant fear.xml"/>            	     <!--life:38250 _________exp:1450 -->
+	<monster name="shinobi skys" file="101 a 200/shinobi skys.xml"/>       		     <!--life:38250 _________exp:1150 -->
+	<monster name="kabutomushi" file="101 a 200/kabutomushi.xml"/>         	      	 <!--life:42000 _________exp:1230 -->
+	<monster name="snake najin" file="101 a 200/snake najin.xml"/>         		     <!--life:39760 _________exp:1230 -->
+	<monster name="desert shaolin" file="101 a 200/desert shaolin.xml"/>      		 <!--life:41760 _________exp:1325 --> 
+	<monster name="venom snake" file="101 a 200/venom snake.xml"/>         	         <!--life:41760 _________exp:1325 -->
+	<monster name="yoth" file="101 a 200/yoth.xml"/>                              	 <!--life:39760 _________exp:1425 -->
+	<monster name="yoth furie" file="101 a 200/yoth furie.xml"/>           		     <!--life:45760 _________exp:1425 -->
+	<monster name="shinobi" file="101 a 200/shinobi.xml"/>                	         <!--life:39760 _________exp:1225 -->
+	<monster name="tutor" file="101 a 200/tutor.xml"/>                     		     <!--life:43760 _________exp:1395 -->
+	<monster name="jounin renegade" file="101 a 200/jounin renegade.xml"/> 	      	 <!--life:35760 _________exp:1495 --> 
+	<monster name="corrupted" file="101 a 200/corrupted.xml"/>                    	 <!--life:35760 _________exp:1495 --> 
+	<monster name="posion karasu" file="101 a 200/posion karasu.xml"/>        		 <!--life:35760 _________exp:1495 -->
+	<monster name="shinobi getsugakure" file="101 a 200/shinobi getsugakure.xml"/>   <!--life:35760 _________exp:1495  -->
+	<monster name="assassin sword" file="101 a 200/assassin sword.xml"/>       	     <!--life:35760 _________exp:1495 -->  
+	
+	<!-- 201 a 300 -->
+	<monster name="sword farmer" file="201 a 300/sword farmer.xml"/>    		 <!--life:54200 _________exp:2050 -->
+	<monster name="zombie cidada" file="201 a 300/zombie cidada.xml"/>     		 <!--life:61200 _________exp:2150 -->
+	<monster name="hebi" file="201 a 300/hebi.xml"/>                       		 <!--life:54200 _________exp:2050 -->
+	<monster name="ningen hebi" file="201 a 300/ningen hebi.xml"/>   		     <!--life:59200 _________exp:2350 -->
+	<monster name="huntsman" file="201 a 300/huntsman.xml"/>        			 <!--life:52200 _________exp:2350 -->
+	<monster name="anbu" file="201 a 300/anbu.xml"/>                       		 <!--life:53200 _________exp:2350 -->
+	<monster name="mitsuri" file="201 a 300/mitsuri.xml"/>                       <!--life:53200 _________exp:2050 --> 
+	<monster name="sword man" file="201 a 300/sword man.xml"/>                   <!--life:31250 _________exp:1950 -->
+	<monster name="black shinobi" file="201 a 300/black shinobi.xml"/>           <!--life:53200 _________exp:2250 -->
+	<monster name="salamander" file="201 a 300/salamandra.xml"/>                 <!--life:63200 _________exp:2650 --> 
+	<monster name="elite jounin" file="201 a 300/elite jounin.xml"/>             <!--life:66420 _________exp:2650 -->	
+	<monster name="gen zetsu" file="201 a 300/gen zetsu.xml"/>                   <!--life:66420 _________exp:3650 -->	
+	<monster name="gamakichi" file="201 a 300/gamakichi.xml"/>                   <!--life:76540 _________exp:4200 -->	
+	<monster name="baby dragon" file="201 a 300/baby dragon.xml"/>               <!--life:76540 _________exp:4200 -->	
+	<monster name="spy akatsuki" file="201 a 300/spy akatsuki.xml"/>             <!--life:76540 _________exp:4200 -->	
+	<monster name="kamon" file="201 a 300/kamon.xml"/>                           <!--life:82540 _________exp:4600 -->
+	<monster name="ice renegade" file="201 a 300/ice renegade.xml"/>             <!--life:82540 _________exp:4600 -->
+	<monster name="skeleton" file="201 a 300/skeleton.xml"/>                     <!--life:62540 _________exp:4600 -->
+	<monster name="advanced nukenin" file="201 a 300/advanced nukenin.xml"/>     <!--life:67245 _________exp:4600 --> 	
+	<monster name="giant furie" file="201 a 300/giant furie.xml"/>               <!--life:67245 _________exp:4600 -->
+	<monster name="bat" file="201 a 300/bat.xml"/>                               <!--life:67245 _________exp:4700 -->
+	<monster name="gedou skeleton" file="201 a 300/gedou skeleton.xml"/>         <!--life:69245 _________exp:5200 -->	
+	<monster name="tayuya" file="201 a 300/tayuya.xml"/>                         <!--life:78245 _________exp:5900 -->
+	<monster name="kimimaro" file="201 a 300/kimimaro.xml"/>                     <!--life:78245 _________exp:6200 -->
+	<monster name="jiroubou" file="201 a 300/jiroubou.xml"/>                     <!--life:78245 _________exp:5700 -->
+	<monster name="sakon" file="201 a 300/sakon.xml"/>                           <!--life:78245 _________exp:5700 -->
+	<monster name="xiang" file="201 a 300/xiang.xml"/>              	         <!--life:69245 _________exp:5900 -->
+	<monster name="tofu" file="201 a 300/tofu.xml"/>                 		     <!--life:62245 _________exp:5000 -->
+	<monster name="ribaiasan" file="201 a 300/ribaiasan.xml"/>        		     <!--life:69245 _________exp:5300 -->
+	<monster name="bikaku" file="201 a 300/bikaku.xml"/>               		     <!--life:69245 _________exp:5300 -->
+	
+	<!-- 301 a 400 -->
+	<monster name="fish" file="301 a 400/fish.xml"/>                                    <!--life:115000 ________exp:7300-->
+	<monster name="water snake" file="301 a 400/water snake.xml"/>                      <!--life:135000 ________exp:7700 -->
+	<monster name="senjuu kyodaijya" file="301 a 400/senjuu kyodaijya.xml"/>            <!--life:135000 ________exp:7700 -->
+	<monster name="bisuke" file="301 a 400/bisuke.xml"/>                                <!--life:145800 ________exp:8100 --> 
+	<monster name="bull" file="301 a 400/bull.xml"/>                                    <!--life:165800 ________exp:8300 --> 
+	<monster name="devil" file="301 a 400/devil.xml"/>                                  <!--life:135000 ________exp:7700 -->	
+	<monster name="gerotora" file="301 a 400/gerotora.xml"/>                            <!--life:135000 ________exp:7700 -->	
+	<monster name="vampire mutated" file="301 a 400/vampire mutated.xml"/>              <!--life:115000 ________exp:8100 -->	
+	<monster name="kyodaijya" file="301 a 400/kyodaijya.xml"/>                          <!--life:105000 ________exp:7300 -->	
+	<monster name="spectro" file="301 a 400/spectro.xml"/>                              <!--life:145800 ________exp:8500 -->
+	<monster name="warrior wolf" file="301 a 400/warrior wolf.xml"/>          		    <!--life:145800 ________exp:8000  -->
+	<monster name="dino" file="301 a 400/dino.xml"/>                                    <!--life:136150 ________exp:8120 -->	
+	<monster name="demi" file="301 a 400/demi.xml"/>                                    <!--life:136150 ________exp:8120  -->
+	<monster name="especialist huntsman" file="301 a 400/especialist huntsman.xml"/>  	<!--life:136150 ________exp:8120  -->
+	<monster name="vampire" file="301 a 400/vampire.xml"/>                              <!--life:156150 ________exp:8320 -->
+	<monster name="human lizard" file="301 a 400/human lizard.xml"/>                    <!--life:156150 ________exp:8320 -->
+	<monster name="sword killer" file="301 a 400/sword killer.xml"/>                    <!--life:156150 ________exp:8320 -->
+	<monster name="human icy" file="301 a 400/human icy.xml"/>                          <!--life:156150 ________exp:8920 -->
+	<monster name="raiton assassin" file="301 a 400/raiton assassin.xml"/>				<!--life:186150 ________exp:9320 -->
+	<monster name="magic lizard" file="301 a 400/magic lizard.xml"/>					<!--life:146150 ________exp:8920 -->
+	<monster name="konchu" file="301 a 400/konchu.xml"/>                                <!--life:146150 ________exp:8920 --> 
+	<monster name="yoshiaki" file="301 a 400/yoshiaki.xml"/>                            <!--life:146150 ________exp:8900 --> 
+	<monster name="ootsuka" file="301 a 400/ootsuka.xml"/>                              <!--life:146150 ________exp:9200 --> 
+	<monster name="sakurai" file="301 a 400/sakurai.xml"/>                              <!--life:181550 ________exp:9200 --> 
+
+	
+	<!-- 401 a 500 -->
+	<monster name="kaishan" file="401 a 500/kaishan.xml"/>                              <!--life:221550 ________exp:10000 --> 
+    <monster name="dashou kaishan" file="401 a 500/dashou kaishan.xml"/>     		    <!--life:195000 ________exp:12100 --> 	
+	<monster name="akimichi" file="401 a 500/akimichi.xml"/>                            <!--life:221550 ________exp:10100 --> 	
+	<monster name="dark kikai" file="401 a 500/dark kikai.xml"/>				        <!--life:175760 ________exp:9900 --> 	 
+	<monster name="golem" file="401 a 500/golem.xml"/>								    <!--life:195000 ________exp:11200 --> 
+	<monster name="shaman" file="401 a 500/shaman.xml"/>							    <!--life:225000 ________exp:15100 --> 
+	<monster name="rattlesnake" file="401 a 500/rattlesnake.xml"/>						<!--life:235000 ________exp:12100 --> 
+	<monster name="ibuse" file="401 a 500/ibuse.xml"/>                          	    <!--life:235000 ________exp:13400 -->  	
+	<monster name="dragon lord" file="401 a 500/dragon lord.xml"/>                      <!--life:225000 ________exp:15200 --> 
+	<monster name="shurata" file="401 a 500/shurata.xml"/>                              <!--life:165000 ________exp:11200 --> 
+	<monster name="devil skeleton" file="401 a 500/devil skeleton.xml"/>                <!--life:178920 ________exp:14800 -->         
+	<monster name="scorpion" file="401 a 500/scorpion.xml"/>                            <!--life:185000 ________exp:12900 -->	
+	<monster name="wyda" file="401 a 500/wyda.xml"/>                                    <!--life:175000 ________exp:12100 -->	
+	<monster name="zetsu negro" file="401 a 500/zetsu negro.xml"/>                      <!--life:195000 ________exp:16200 -->	
+	<monster name="aracnideo" file="401 a 500/aracnideo.xml"/>                          <!--life:265000 ________exp:16550 -->	
+	<monster name="serious anbu" file="401 a 500/serious anbu.xml"/>                    <!--life:178920 ________exp:13900 -->	
+	<monster name="hebi shiro" file="401 a 500/hebi shiro.xml"/>                        <!--life:195210 ________exp:12900 -->	
+	<monster name="unknow" file="401 a 500/unknow.xml"/>                                <!--life:245200 ________exp:16200 -->	
+	<monster name="shiro kyodaijya" file="401 a 500/shiro kyodaijya.xml"/>              <!--life:285000 ________exp:16900 -->	
+	<monster name="orochi howaito" file="401 a 500/orochi howaito.xml"/>                <!--life:295000 ________exp:17800 -->
+	<monster name="ice worm" file="401 a 500/ice worm.xml"/>                   	        <!--life:215000 ________exp:13550 -->
+	<monster name="frost dragon" file="401 a 500/frost dragon.xml"/>                    <!--life:215000 ________exp:23200 -->
+	<monster name="ryu dragon" file="401 a 500/ryu dragon.xml"/>                        <!--life:245200 ________exp:17200 -->
+	<monster name="storm" file="401 a 500/storm.xml"/>              			        <!--life:245200 ________exp:14200 -->
+	<monster name="alado" file="401 a 500/alado.xml"/>               			        <!--life:265000 ________exp:14200 -->
+	<monster name="master samurai" file="401 a 500/master samurai.xml"/>                <!--life:195000 ________exp:11700  -->
+	<monster name="strong anbu" file="401 a 500/strong anbu.xml"/>                      <!--life:197600 ________exp:12100  -->
+	<monster name="shinobi spy" file="401 a 500/shinobi spy.xml"/>                      <!--life:185000 ________exp:11600  -->
+	<monster name="quimera" file="401 a 500/quimera.xml"/>                              <!--life:195000 ________exp:11920  -->
+	<monster name="tsuyoi kyojin" file="401 a 500/tsuyoi kyojin.xml"/>                  <!--life:185000 ________exp:14200  -->
+	<monster name="okami" file="401 a 500/okami.xml"/>                                  <!--life:175000 ________exp:13600  -->
+	<monster name="drasilla" file="401 a 500/drasilla.xml"/>                            <!--life:375000 ________exp:24000  -->
+	<monster name="purple kyodaijya" file="401 a 500/purple kyodaijya.xml"/>            <!--life:205200 ________exp:17500  -->
+	<monster name="corruped" file="401 a 500/corruped.xml"/>                            <!--life:205200 ________exp:16200  -->
+	<monster name="susumo" file="401 a 500/susumo.xml"/>                           	    <!--life:205200 ________exp:16200  -->
+	<monster name="genetic shin" file="401 a 500/genetic shin.xml"/>                    <!--life:205200 ________exp:16200  -->
+	<monster name="diablo" file="401 a 500/diablo.xml"/>                                <!--life:245200 ________exp:17200  -->
+	<monster name="gaiko" file="401 a 500/gaiko.xml"/>  							    <!--life:269560 ________exp:17940 -->
+	<monster name="fenix" file="401 a 500/fenix.xml"/>                  			    <!--life:475000 ________exp:17200 -->
+	<monster name="iori" file="401 a 500/fenix.xml"/>                  			    <!--life:475000 ________exp:17200 -->
+	
+	
+	
+	
+    <!-- boss hunts-->
+	<monster name="kiba boss" file="boss hunts/kiba boss.xml"/>
+	<monster name="demon" file="boss hunts/demon.xml"/>
+	<monster name="kioji" file="boss hunts/kioji.xml"/>
+	<monster name="riki" file="boss hunts/riki.xml"/>
+	<monster name="ichiro" file="boss hunts/ichiro.xml"/>
+	<monster name="raiden" file="boss hunts/raiden.xml"/>
+		
+	<!-- akatsuki e anbu -->
+	<monster name="itachi akatsuki" file="akatsuki/itachi akatsuki.xml"/> 
+	<monster name="sasuke akatsuki" file="akatsuki/sasuke akatsuki.xml"/> 
+	<monster name="killer bee akatsuki" file="akatsuki/killer bee akatsuki.xml"/> 
+	<monster name="kakuzu akatsuki" file="akatsuki/kakuzu akatsuki.xml"/> 
+	<monster name="hinata akatsuki" file="akatsuki/hinata akatsuki.xml"/> 
+	<monster name="raikage akatsuki" file="akatsuki/raikage akatsuki.xml"/> 
+	<monster name="sai akatsuki" file="akatsuki/sai akatsuki.xml"/> 
+	<monster name="deidara akatsuki" file="akatsuki/deidara akatsuki.xml"/> 
+	<monster name="lee akatsuki" file="akatsuki/lee akatsuki.xml"/> 
+	<monster name="minato akatsuki" file="akatsuki/minato akatsuki.xml"/> 
+	<monster name="flame boos" file="akatsuki/flame boos.xml"/> 
+	<monster name="Wall1" file="akatsuki/wall1.xml"/> 
+	<monster name="Wall2" file="akatsuki/wall2.xml"/> 
+	<monster name="anbu trainer" file="akatsuki/anbu trainer.xml"/> 
+	<monster name="tutor anbu" file="akatsuki/tutor anbu.xml"/> 
+	<monster name="capitao anbu" file="akatsuki/capitao anbu.xml"/> 
+		
+		
+	<!-- boss quest -->												
+	<monster name="puppet sasori" file="boss quest/puppet sasori.xml"/>                     <!-- easy white skull    chyio tunic -->
+	<monster name="kisame" file="boss quest/kisame.xml"/>                                   <!-- easy white skull    samehada-->
+	<monster name="kakashi" file="boss quest/kakashi.xml"/>                                 <!-- easy white skull    chidori katana-->
+	<monster name="red renegade" file="boss quest/red renegade.xml"/>                       <!-- easy white skull    red pants-->
+	<monster name="enma" file="boss quest/enma.xml"/>                                       <!-- easy white skull    sarutobi set-->
+	<monster name="sarutobi" file="boss quest/sarutobi.xml"/>                               <!-- easy white skull    sarutobi set-->
+
+	<monster name="aoi tako" file="boss quest/aoi tako.xml"/>                               <!-- medium red skull    kurama amulet--> 
+	<monster name="midori no tako" file="boss quest/midori no tako.xml"/>                   <!-- medium red skull    kurama amulet--> 
+	<monster name="utsukushi tako" file="boss quest/utsukushi tako.xml"/>                   <!-- medium red skull    kurama amulet--> 
+	<monster name="demon zabuza" file="boss quest/demon zabuza.xml"/>                       <!-- medium red skull    zabuza sword--> 
+	<monster name="demon dragon lord" file="boss quest/demon dragon lord.xml"/>             <!-- medium red skull    set dragon, eexplosive kunai--> 
+	<monster name="tako na kami" file="boss quest/tako na kami.xml"/>                       <!-- medium red skull    kurama amulet--> 
+	<monster name="hidan" file="boss quest/hidan.xml"/>                                     <!-- medium red skull    foice hidan--> 
+	<monster name="orochimaru" file="boss quest/orochimaru.xml"/>                           <!-- medium red skull    slayer,kage,raijin--> 	
+	<monster name="sasuke" file="boss quest/sasuke.xml"/>                                   <!-- medium red skull    sasuke legrobe--> 
+	<monster name="freezing golem" file="boss quest/freezing golem.xml"/>                   <!-- medium red skull    kage boots--> 
+	<monster name="demon slayer" file="boss quest/demon slayer.xml"/>                       <!-- medium red skull    kage glover/kote --> 
+	<monster name="iwasaki" file="boss quest/iwasaki.xml"/>             	                <!-- medium red skull    kage glover/kote --> 
+	<monster name="kimura" file="boss quest/kimura.xml"/>             	                <!-- medium red skull    kage glover/kote --> 
+	<monster name="indra" file="boss quest/indra.xml"/>             	                <!-- medium red skull    kage glover/kote --> 
+	<monster name="infernus iori" file="boss quest/infernus iori.xml"/>             	                <!-- medium red skull    kage glover/kote --> 
+	
+	<monster name="desert temari" file="boss quest/desert temari.xml"/>                     <!-- hard black skull    densetsu temari-->
+	<monster name="uchiha itachi" file="boss quest/uchiha itachi.xml"/>                     <!-- hard black skull    yata no kagami-->
+	<monster name="itachi susanoo" file="boss quest/itachi susanoo.xml"/>                   <!-- hard black skull    yata no kagami-->
+	<monster name="masked men" file="boss quest/masked men.xml"/>                           <!-- hard black skull    tobi mask-->
+	<monster name="madara" file="boss quest/madara.xml"/>                                   <!-- hard black skull    madara set-->    
+	<monster name="shiroi" file="boss quest/shiroi.xml"/>                                   <!-- hard black skull    demon glover--> 	
+	<monster name="demon skeleton" file="boss quest/demon skeleton.xml"/>                   <!-- hard black skull    kage fire -->
+	<monster name="rikudou sennin" file="boss quest/rikudou sennin.xml"/>                   <!-- hard black skull    selo bijuu -->
+	<monster name="nidaime" file="boss quest/nidaime.xml"/>                                 <!-- hard black skull    nidaime set-->
+	<monster name="hashirama" file="boss quest/hashirama.xml"/>                             <!-- hard black skull    hashirama set-->
+	<monster name="jinpachi munashi" file="boss quest/jinpachi munashi.xml"/>               <!-- hard black skull    shibuki-->
+	<monster name="kinkaku" file="boss quest/kinkaku.xml"/>                                 <!-- hard black skull    bashosen --> 
+	<monster name="kyuubi" file="boss quest/kyuubi.xml"/>                                   <!-- hard black skull    kurama set --> 
+	<monster name="danzou" file="boss quest/danzou.xml"/>                                   <!-- hard black skull    kurama set --> 
+	<monster name="zetsu" file="boss quest/zetsu.xml"/>                                   <!-- hard black skull    kurama set --> 
+	<monster name="uchiha tobi" file="boss quest/uchiha tobi.xml"/>                                   <!-- hard black skull    kurama set --> 
+	
+	
+	<monster name="takafumi" file="boss quest/takafumi.xml"/>                                   <!-- hard black skull    kurama set --> 
+	
+	
+	
+	                           <!-- desativados -->
+	<monster name="yondaime hokage" file="boss quest/yondaime hokage.xml"/>                 <!-- hard black skull    sennin legs-->
+	<monster name="midori kurage" file="boss quest/midori kurage.xml"/>                     <!-- medium red skull--> 
+	<monster name="kakuzu" file="boss quest/kakuzu.xml"/>                                   <!-- hard black skull -->
+	<monster name="sambi" file="boss quest/sambi.xml"/>                                     <!-- medium red skull--> 
+	<monster name="killer bee" file="boss quest/killer bee.xml"/>                           <!-- easy white skull    bee sword-->
+		
+	                                                      <!-- mobs quest -->
+	<monster name="icy wyda" file="mob quest/icy wyda.xml"/>
+	<monster name="anbu edo" file="mob quest/anbu edo.xml"/>
+	<monster name="bunshin demon slayer" file="mob quest/bunshin demon slayer.xml"/>
+	<monster name="bunshin nidaime" file="mob quest/bunshin nidaime.xml"/>
+	<monster name="icy bat" file="mob quest/icy bat.xml"/>
+	<monster name="mutation creature" file="mob quest/mutation creature.xml"/>
+	<monster name="bunshin temari" file="mob quest/bunshin temari.xml"/>
+	<monster name="water bunshin" file="mob quest/water bunshin.xml"/>
+	<monster name="black spider" file="mob quest/black spider.xml"/>
+	<monster name="kaibutsu" file="mob quest/kaibutsu.xml"/>
+	<monster name="sansara" file="mob quest/sansara.xml"/>
+	<monster name="margus" file="mob quest/margus.xml"/>
+	<monster name="manda" file="mob quest/manda.xml"/>
+	<monster name="wamu" file="mob quest/wamu.xml"/>
+	<monster name="mummy" file="mob quest/mummy.xml"/>
+	<monster name="jinpachi" file="mob quest/jinpachi.xml"/>
+	<monster name="kyuubi manto" file="mob quest/kyuubi manto.xml"/>   <!-- quest kurama set nivel 300 -->
+	<monster name="suna renegade" file="mob quest/suna renegade.xml"/>
+	<monster name="suna renegado" file="mob quest/suna renegado.xml"/>
+	<monster name="bunshin yondaime" file="mob quest/bunshin yondaime.xml"/>
+	<monster name="sandaime bunshin" file="mob quest/sandaime bunshin.xml"/>
+	<monster name="supreme skeleton" file="mob quest/supreme skeleton.xml"/>
+	<monster name="statue of dragon" file="mob quest/statue of dragon.xml"/>
+	<monster name="bunshin masked men" file="mob quest/bunshin masked men.xml"/>
+	<monster name="chakra" file="mob quest/chakra.xml"/>
+	<monster name="mutated zetsu" file="mob quest/mutated zetsu.xml"/>
+	<monster name="bunshin danzou" file="mob quest/bunshin danzou.xml"/>
+	<monster name="rikudou" file="mob quest/rikudou.xml"/>
+	<monster name="shimizu" file="mob quest/shimizu.xml"/>
+	<monster name="yamaguchi" file="mob quest/yamaguchi.xml"/>
+	
+</monsters>

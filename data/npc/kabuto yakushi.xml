@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kabuto Yakushi" script="data/npc/scripts/saga/kabutoy.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="159" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola Sasori, enfim nos encontramos , agora temos que {resolver} alguns assuntos pendentes." />
+  </parameters>
+</npc>

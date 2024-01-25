@@ -1,0 +1,35 @@
+-----Armor's(Peitoral)
+armor = Proteção para reduzir danos
+healthGain = Regeneração de vida por segundo
+manaGain = Regeneração de mana por segundo
+Skills = Adiciona Sword, Distance e/ou Glover
+
+----Head's(Cabeça)
+maxmanapoints = Adiciona chakra ao personagem
+magiclevelpoints = Adiciona Ninjutsu
+healthGain = Regeneração de vida por segundo
+
+----Leg's(Pernas)
+magiclevelpoints = Adiciona Ninjutsu
+healthGain = Regeneração de vida por segundo
+manaGain = Regeneração de mana por segundo
+
+----Boot's (Pés)
+maxHitPoints = Adiciona life ao personagem
+maxmanapoints = Adiciona chakra ao personagem
+speed = Aumento de speed
+
+----Shield's (Escudo)
+defense = Reduz o danos, se a defesa for maior que o danos ele e anulado
+skillShield = Adiciona skill shield
+
+---Ring's (Anel)
+Magiclevelpercent = Multiplica seu ninjutsu
+Skills = Adiciona Sword, Distance e/ou Glover
+
+----Amuletos (Cordões)
+MaxHealthPercent = Multiplica sua vida   
+MaxManaPercent = Multiplica sua mana
+Skills = <attribute key="skillDist" value="11" />
+		<attribute key="skillSword" value="11" />
+		<attribute key="skillClub" value="11" />     Adiciona Sword, Distance e/ou Glover

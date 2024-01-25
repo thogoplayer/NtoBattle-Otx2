@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="portao" nameDescription="o portao" race="undead" experience="12000" speed="0" manacost="0">
+  <health now="150000" max="150000"/>
+  <look typeex="9485" corpse="2256"/>
+  <targetchange interval="5000" chance="0"/>
+  <strategy attack="100" defense="0"/>
+  <flags>
+    <flag summonable="0"/>
+    <flag attackable="1"/>
+    <flag hostile="1"/>
+    <flag illusionable="0"/>
+    <flag convinceable="0"/>
+    <flag pushable="0"/>
+    <flag canpushitems="0"/>
+    <flag canpushcreatures="0"/>
+    <flag targetdistance="1"/>
+    <flag staticattack="90"/>
+    <flag runonhealth="100"/>
+  </flags>
+  <attacks>
+    <attack name="fire" interval="200000" chance="100" range="1" min="-10" max="-20">
+      <attribute key="shootEffect" value="fire"/>
+    </attack>
+  </attacks>
+  <defenses armor="1" defense="1"/>
+  <immunities>
+    <immunity invisible="1"/>
+  </immunities>
+  <loot>
+    <item id="2148" countmax="20" chance1="100000" chancemax="0"/>
+  </loot>
+</monster>

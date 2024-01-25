@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Corvo" nameDescription="corvo" race="blood" experience="0" speed="2700" manacost="0">
+	<health now="12345" max="12345"/>
+	<look type="961" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="0"/>
+		<flag hostile="1"/>
+		<flag passive="1"/>	
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="4"/>
+		<flag staticattack="65"/>
+		<flag runonhealth="0"/>
+	</flags>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="350">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+</monster>

@@ -1,0 +1,77 @@
+-------------/-------------------/-----------   BASE PARA FREE  ---------------------/---------------------- ---/
+=============================================Ataque===========Defesa============Cura============Equilibrio    |
+Nivel===Exausted===Storage===Cooldown===Minimo===Maximo===Minimo===Maximo===Minimo===Maximo== Minimo===Maximo |
+050   ~    700   ~ 665778  ~  0.9     ~    10  ~  15          5  ~  6           7  ~  8          10  ~  15    |
+100   ~    700   ~ 899123  ~  0.9     ~    15  ~  20          8  ~  12          9  ~  12         15  ~  20    |
+170   ~    700   ~ 665778  ~  1.5     ~    35  ~  40         28  ~  30         20  ~  25         30  ~  35    |
+200   ~    500   ~ 899123  ~  1.0     ~    25  ~  30         18  ~  20         15  ~  20         20  ~  25    |
+250   ~    500   ~ 774372  ~  2.0     ~    45  ~  50         38  ~  40         25  ~  30         40  ~  45    |
+300   ~    500   ~ 774372  ~  2.0     ~    55  ~  60         48  ~  50         35  ~  40         50  ~  55    |
+350   ~    700   ~ 963563  ~  4.0     ~    65  ~  70         58  ~  60         45  ~  50         60  ~  65    |--------------
+400   ~    700   ~ 663563  ~  5.5     ~    75  ~  80         68  ~  70         60  ~  65         70  ~  75    |--------------
+-----------------------/-----------------------------------/---------------------------------------------------
+-------Bijuu---------------------------------------------------------------------------------------------------
+170   ~    700   ~ 665778  ~  1.5     ~  38~43  
+200   ~    700   ~ 899123  ~  4.0     ~  53~55
+300   ~    700   ~ 774372  ~  1.0     ~  55~60
+350   ~    700   ~ 663563  ~  2.5     ~  62~68
+400   ~    700   ~ 263563  ~  5.0     ~  72~80
+--------------------------------------------------------------------------------------------------
+------------------------/---------------------------/----------------------/--------------------/-
+  Personagens de ataque ~ Personagens de equilibrio ~ Personagem de defesa ~ Personagem de cura ~    
+Sasuke (ok) (raiton e katon)      |   Killer bee             		 |   Naruto (ok) (fuuton)    |   Hinata           |
+Lee    (ok) (sem elemento)        |   Minato               		     |   Kankuro          	 	 |   Ino              |
+Shikamaru (ok) (doton e katon)    |   Raikage                        |   Gaara             		 |   Hashirama        |
+Itachi                 			  |   Tibirama                       |   Jiraya            		 |   Tsunade          |
+Kakashi               			  |   Sai                            |   Hidan          	     |   Sakura           |
+Madara                 			  |   Shisui                         |   Obito             		 |                    |
+Orochimaru 					      |   Suigetsu                       |                    	     |                    |
+Haku                  			  |   Guy                            |                           |                    |
+Guren                  			  |   onoki                          |                           |                    |
+Kaguya                 			  |                                  |                           |                    |
+Sasori                 			  |                                  |                           |                    |
+Danzou                 			  |                                  |                           |                    |
+------------------------/---------------------------/----------------------/--------------------/--
+
+curas para personagens de cura
+Saikan Chuushutsu No Jutsu  
+Chiyute No Jutsu
+Shousen No Jutsu
+Saikan Bakurei Chingutsu
+Dai Chiyute No Jutsu
+
+---defesa nivel 400
+---defesa nivel 350
+---defesa nivel 300
+---defesa nivel 250
+---defesa nivel 200
+---defesa nivel 170
+---defesa nivel 100
+---defesa nivel 50
+
+---ataque nivel 400
+---ataque nivel 350
+---ataque nivel 300
+---ataque nivel 250
+---ataque nivel 200
+---ataque nivel 170
+---ataque nivel 100
+---ataque nivel 50
+
+---cura nivel 400
+---cura nivel 350
+---cura nivel 300
+---cura nivel 250
+---cura nivel 200
+---cura nivel 170
+---cura nivel 100
+---cura nivel 50
+
+---balanço nivel 400
+---balanço nivel 350
+---balanço nivel 300
+---balanço nivel 250
+---balanço nivel 200
+---balanço nivel 170
+---balanço nivel 100
+---balanço nivel 50

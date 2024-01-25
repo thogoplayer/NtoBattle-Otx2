@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Demon Slayer" nameDescription="a Demon Slayer[BOSS]" race="blood" experience="45000" speed="500" manacost="0">
+	<health now="19455000" max="19455000"/>
+	<look type="753" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-12310" max="-14000"/>
+		<attack name="areadoslayer" interval="1900" chance="100" radius="4" target="0" min="-19440" max="-22600">        
+		</attack>
+		<attack name="retadoslayer" interval="3200" chance="100" radius="4" target="0" min="-35440" max="-42600">        
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="100" min="4000" max="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element poisonPercent="-10"/>
+		<element firePercent="-10"/>
+		<element suitonPercent="0"/>
+		<element fuutonPercent="10"/>
+		<element dotonPercent="10"/>
+		<element raitonPercent="-5"/>
+		<element mokutonPercent="10"/>
+		<element shotonPercent="-15"/>
+		<element sunaPercent="10"/>
+		<element entonPercent="-10"/>
+		<element hyotonPercent="-10"/>
+		<element yotonPercent="-10"/>
+		<element rantonPercent="-10"/>
+		<element bakutonPercent="-10"/>
+		<element shakutonPercent="20"/>
+		<element futtonPercent="-20"/>
+		<element jintonPercent="30"/>
+		<element satetsuPercent="25"/>
+		<element taijutsuPercent="10"/>
+		<element yinPercent="10"/>
+		<element yangPercent="10"/>
+	</elements>
+	<loot>
+		<item id="15484" countmax="1" chance="1000"/><!-- jp ienes -->
+	</loot>
+</monster>

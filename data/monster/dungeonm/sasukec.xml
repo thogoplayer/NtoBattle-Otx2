@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sasuke Gennin" nameDescription="Sasuke [Gennin]" race="blood" experience="150000" speed="410" manacost="0">
+	<health now="1500000" max="1500000"/>
+	<look type="391" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+		<script> 
+            <event name="DeathDungeon"/>
+        </script>
+	<attacks>
+		<attack name="melee" interval="5000" min="-7380" max="-10500"/>
+		<attack name="manadrain" interval="1500" chance="100" range="7" min="-2000" max="-5015">
+			<attribute key="areaEffect" value="redshimmer"/>
+
+		</attack>
+		<attack name="Chidori" interval="3500" chance="70" radius="4" target="0" min="-10040" max="-25060">
+		</attack>
+		<attack name="Fogofogo" interval="500" chance="70" radius="4" target="0" min="-8000" max="-16060">		
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="100" min="3000" max="3000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="100" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		 
+		 
+		 
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		<immunity paralyze="1"/>
+		 
+		 
+		 
+		<immunity invisible="0"/>
+	</immunities>
+</monster>

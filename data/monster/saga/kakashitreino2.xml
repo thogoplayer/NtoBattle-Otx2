@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Kakashi Sensei  " nameDescription="kakashi" saga="2" missao="4" race="blood" experience="8166" speed="650" manacost="0">
+	<health now="20000" max="20000"/>
+	<look type="164" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="5000" chance="10"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+	<script> <event name="sagatwomfourd"/></script>
+	<attacks>
+		<attack name="melee" interval="5000" min="-380" max="-500"/>
+		<attack name="manadrain" interval="1500" chance="10" range="7" min="-80" max="-515">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="3000" chance="100" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		
+		
+		
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		
+		
+		
+		<immunity paralyze="1"/>
+		<immunity invisible="0"/>
+	</immunities>
+	<voices interval="5000" chance="5">
+		<voice sentence="Vamos la, agora mostre que tens dignidade para se tornar um jounin!" yell="1"/>
+	</voices>
+</monster>

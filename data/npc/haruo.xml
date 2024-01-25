@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Haruo" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="636" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola, estou comprando alguns items caso tenha interesse em me vender algo diga {trade}."/>
+		<parameter key="shop_buyable" value="Devil Boots,11162,225000;Chakra boots,12442,215000;Speed Boots,12317,200000;Jounin Boots,10380,228000;Orochimaru Boots,15481,313000" />
+		<parameter key="shop_sellable" value="Devil Boots,11162,25000;Chakra boots,12442,15000;Speed Boots,12317,10000;Zabuza Boots,12315,83000;Jounin Boots,10380,28000;Orochimaru Boots,15481,13000;Jiraya Boots,10414,33000" />
+		</parameters>
+</npc>

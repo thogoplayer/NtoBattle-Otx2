@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Uchiha Sasuke " nameDescription="a uchiha sasuke" saga="8" missao="8" race="blood" experience="14600" speed="650" manacost="0">
+	<health now="1400000" max="1400000"/>
+	<look type="393" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>
+	<script>
+	<event name="sagadeath"/>
+    </script>
+	    
+	<attacks>
+		<attack name="chidori" interval="1000" chance="100" radius="4" target="1" min="-6780" max="-8500">
+		</attack>
+		<attack name="Corrupt Chidori" interval="3500" chance="100" radius="4" target="1" min="-9780" max="-10100">
+		</attack>
+	</attacks>
+</monster>

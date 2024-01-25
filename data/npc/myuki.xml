@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Myuki" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1805" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola Sr(a). seja bem vindo(a), tenho alguns amuletos do clan Inuzuka para vender esta interessado(a)? {trade}."/>
+		<parameter key="shop_buyable" value="Inukuza Necklace,15782,1500000" />
+	</parameters>
+</npc>

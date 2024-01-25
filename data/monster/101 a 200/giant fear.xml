@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Giant Fear" nameDescription="a Giant Fear[Monster]" race="blood" experience="1450" speed="250" manacost="0">
+	<health now="38250" max="38250"/>
+	<look type="637" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-1880" max="-2100"/>
+		<attack name="Great Ball" interval="3000" chance="100" radius="4" target="0" min="-1440" max="-2600">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="2666" countmax="5" chance="20000"/><!-- meat -->
+		<item id="11191" countmax="2" chance="10000"/><!-- giant eye -->
+		<item id="12257" countmax="1" chance="10000"/><!-- dual slayer -->
+	</loot>
+</monster>

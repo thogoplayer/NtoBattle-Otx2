@@ -1,0 +1,1782 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<spells>
+    <!--- All spell -->
+<instant name="Kai" words="kai" lvl="40" mana="0" prem="0" aggressive="1" exhaustion="1000" needlearn="0" blockwalls="1" enabled="1" event="script" value="kai.lua">
+</instant>
+<instant name="Kekkei Genkai" words="Kekkei Genkai" aggressive="1" prem="1" selftarget="1" lvl="250" mana="1000" exhaustion="0" event="script" value="kekkeigenkai.lua">
+</instant>
+<instant name="Chakra regen" words="Chakra regen" lvl="45" mana="0" aggressive="1" exhaustion="0" blockwalls="1" enabled="1" event="script" value="chakra rest.lua">
+</instant>
+<instant name="Levitate" words="Jump" lvl="5" mana="50" prem="0" aggressive="1" exhaustion="500" params="1" event="function" value="Levitate">
+</instant>
+<instant name="Chakra Down" words="Chakra Down" lvl="25" mana="100" prem="0" aggressive="1" exhaustion="500" needlearn="0" blockwalls="1" enabled="1" event="script" value="powerdown.lua">
+</instant>
+<instant name="Chakra Rope" words="Skip" lvl="1" mana="10" prem="0" exhaustion="500" needlearn="0" blockwalls="1" enabled="1" event="script" value="rope.lua">
+</instant>
+<instant name="Find Person" words="Sense" lvl="200" mana="20" aggressive="1" params="1" desc="Jutsu de sensoriamento" exhaustion="500" event="function" value="searchPlayer">
+</instant>
+<instant name="BigSpeed Up" words="Concentrate Chakra Feet" lvl="35" mana="80" prem="0" aggressive="0" exhaustion="500" needlearn="0" blockwalls="1" enabled="1" event="script" value="bighaste.lua">
+</instant>
+<instant name="Chakra no Hikari" words="Chakra no Hikari" lvl="15" mana="180" prem="0" exhaustion="300" desc="Luz de chakra" needlearn="0" blockwalls="1" enabled="1" event="script" value="full light.lua">
+</instant>
+<instant name="Kawarimi No Jutsu" words="kawarimi" lvl="250" mana="500" prem="0" exhaustion="0" needlearn="0" needtarget="1" blockwalls="1" enabled="1" event="script" value="kawarimi.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Bunshin No Jutsu" words="bunshin No Jutsu" lvl="10" mana="300" prem="0" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="naruto/bunshin.lua">
+</instant>
+<instant name="Kageyose No Jutsu" words="Kageyose No Jutsu" lvl="14" mana="7200"  needtarget="1" exhaustion="1000" prem="0" event="script" value="shikamaru/kageyosenojutsu.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Regeneration" words="Regeneration" lvl="1" mana="180" prem="0" selftarget="1" aggressive="0"  cooldownID="50" cooldownValue = "1000" needlearn="0" blockwalls="1" enabled="1" event="script" value="heal.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Big Regeneration" words="Big Regeneration" lvl="50" mana="200" prem="0" cooldownID="50" cooldownValue = "1000" selftarget="1" aggressive="0" needlearn="0" blockwalls="1" enabled="1" event="script" value="bigheal.lua">
+</instant>
+<instant name="Throw Kunai No Jutsu" words="throw kunai" lvl="2" mana="20" prem="0" range="3" casterTargetOrDirection="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="throwkunai.lua">
+</instant>
+<instant name="Throw Shuriken No Jutsu" words="throw shuriken" lvl="5" mana="50" prem="0" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="shuriken.lua">
+</instant>
+<instant name="Kunai Explosion No Jutsu" words="kunai explosion No Jutsu" lvl="125" mana="1500" aggressive="1" exhaustion="500" event="script" value="kunai explosion.lua">
+</instant>
+<instant name="Explosion Kunai" words="explosion kunai" lvl="30" mana="300" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="explosionkunai.lua">
+</instant>
+<instant name="Explosive Paper No Jutsu" words="explosive paper" lvl="70" mana="1100" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="explosivepaper.lua">
+</instant>
+
+<!-- <conjure name="Conjure Food" words="Shokuji No Jutsu" lvl="55" mana="20"  conjureId="2666" conjureCount="10" aggressive="1" exhaustion="1000" needlearn="0" event="function" value="conjureItem"> -->
+<!-- </conjure> -->
+<instant name="Akatsuki Mode" words="!akatsuki" lvl="1" mana="0" prem="0" aggressive="1" selftarget="1" exhaustion="0" needlearn="1" event="script" value="akatsaga.lua">
+</instant>
+<instant name="Speed Up" words="Chakra Feet" lvl="25" mana="80" prem="0" aggressive="0" exhaustion="500" needlearn="0" blockwalls="1" enabled="1" event="script" value="haste.lua">
+<vocation id="0"/>
+</instant>
+
+
+<!--Jinchuuriki -->
+<instant name="Ultimatee Bijuu Dama" words="ultiamte bijuu dama" lvl="300" mana="1100" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="1" event="script" value="bijuu/ultimate bijuu dama.lua">
+</instant>
+<instant name="Kekkei Genkai Shiki Fuujin" words="kekkei genkai shiki fuujin" lvl="1" manapercent="80" prem="0" exhaustion="1000" enabled="1" needlearn="1" needtarget="1" event="script" value="bijuu/selojin.lua">
+</instant>
+<instant name="Bijuu Furie" words="Bijuu Furie" lvl="1" mana="0" selftarget="1" needlearn="1" exhaustion="500" enabled="1" event="script" value="bijuu/buffjin2.lua">
+</instant>
+<instant name="Bijuu Dama" words="Bijuu Dama" lvl="400" mana="5200" exhaustion="600" blockwalls="1" needlearn="1" direction="1" event="script" value="bijuu/bijuudama.lua">
+</instant>
+<instant name="Juubi Bijuu Dama" words="Juubi Bijuu Dama" lvl="400" mana="5200" exhaustion="600" blockwalls="1" needlearn="1" direction="1" event="script" value="bijuu/juubi dama.lua">
+</instant>
+
+<!--shukaku 1 cauda -->
+<instant name="Fuuton Renkuudan" words="Fuuton Renkuudan" lvl="170" mana="2500" aggressive="1" range="5" blockwalls="1" desc="Maos de areia do shukaku causando danos ao seu alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/shukaku170.lua">
+</instant>
+<instant name="Demonic Ichibi" words="Demonic Ichibi" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" desc="Grande poder devastador da areia, alem de causar um danos em area todos ao seu redor ficara paralizado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/shukaku200.lua">
+</instant>
+<instant name="Suna Mihui" words="Suna Mihui" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" desc="Maos de areia do shukaku causando danos ao seu alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/shukaku300.lua">
+</instant>
+<instant name="Fuuton Sasandan" words="Fuuton Sasandan" lvl="350" mana="5000" aggressive="1" range="5" blockwalls="1" desc="Maos de areia do shukaku causando danos ao seu alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/shukaku350.lua">
+</instant>
+<!--matatabi 2 cauda-->
+<instant name="Tsume Sakusei" words="Tsume Sakusei" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" desc="Golpes de garras causando danos ao alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/matatabi170.lua">
+</instant>
+<instant name="Katon Hono no Batsu" words="Katon Hono no Batsu" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="Grande poder de devastaçao em area ao alvo targetado necessario estar transformado para o uso deste poder" exhaustion="600" needlearn="1" event="script" value="bijuu/matatabi200.lua">
+</instant>
+<instant name="Daira Ayatsuri Yatai Hibashiri" words="Daira Ayatsuri Yatai Hibashiri" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" desc="Controle de calor atmosferico, grande danos ao alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/matatabi300.lua">
+</instant>
+<instant name="Ten en Byoka" words="Ten en Byoka" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" desc="Pequeno veu de fogo causando danos alto ao alvo targetado" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/matatabi350.lua">
+</instant>
+<!-- isobu 3 cauda-->
+<instant name="Suiton Mizudama" words="Suiton Mizudama" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/isobu170.lua">
+</instant>
+<instant name="Araumi Shibuki" words="Araumi Shibuki" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="600" needlearn="1" event="script" value="bijuu/isobu200.lua">
+</instant>
+<instant name="Gensou Kiri" words="Gensou Kiri" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/isobu300.lua">
+</instant>
+<instant name="Sango Renshou" words="Sango Renshou" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/isobu350.lua">
+</instant>
+<!-- yonbi 4 cauda-->
+<instant name="Youton Shakukaryuuhougan" words="Youton Shakukaryuuhougan" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/yonbi170.lua">
+</instant>
+<instant name="Kakazan" words="Kakazan" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="600" needlearn="1" event="script" value="bijuu/yonbi200.lua">
+</instant>
+<instant name="Youton Shakuka Taihou" words="Youton Shakuka Taihou" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/yonbi300.lua">
+</instant>
+<instant name="Shakuka Daifunka" words="Shakuka Daifunka" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/yonbi350.lua">
+</instant>
+<!-- kokuo 5 cauda-->
+<instant name="Yuugeton Jimem no Kanetsu" words="Yuugeton Jimem no Kanetsu" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/kokuo170.lua">
+</instant>
+<instant name="Gozan Tobi" words="Gozan Tobi" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="600" needlearn="1" event="script" value="bijuu/kokuo200.lua">
+</instant>
+<instant name="Gobi no Nami" words="Gobi no Nami" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/kokuo300.lua">
+</instant>
+<instant name="Tsunoori" words="Tsunoori" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/kokuo350.lua">
+</instant>
+<!-- saiken 6 cauda -->
+<instant name="Sansan" words="Sansan" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/saiken170.lua">
+</instant>
+<instant name="Dai Doku Chiri" words="Dai Doku Chiri" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="600" needlearn="1" event="script" value="bijuu/saiken200.lua">
+</instant>
+<instant name="San Toppuu" words="San Toppuu" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/saiken300.lua">
+</instant>
+<instant name="Firudorimujinsutikki" words="Firudorimujinsutikki" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/saiken350.lua">
+</instant>
+<!-- choumei 7 caudas -->
+<instant name="Hanetsumuji" words="Hanetsumuji" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/choumei170.lua">
+</instant>
+<instant name="Hanegiri" words="Hanegiri" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="600" needlearn="1" event="script" value="bijuu/choumei200.lua">
+</instant>
+<instant name="Mushikui" words="Mushikui" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/choumei300.lua">
+</instant>
+<instant name="Rinpun Bakusai" words="Rinpun Bakusai" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/choumei350.lua">
+</instant>
+<!-- gyuki 8 caudas -->
+<instant name="Sumi Sakusei" words="Sumi Sakusei" lvl="170" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/gyuki170.lua">
+</instant>
+<instant name="Lightning Hack" words="Lightning Hack" lvl="200" mana="6400" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/gyuki200.lua">
+</instant>
+<instant name="Bijuu Hachimaki" words="Bijuu Hachimaki" lvl="300" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/gyuki300.lua">
+</instant>
+<instant name="Dai Sumi Sakusei" words="Dai Sumi Sakusei" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/gyuki350.lua">
+</instant>
+<!-- kurama 9 caudas -->
+<instant name="Kyuubi no Chakra Ne" words="Kyuubi no Chakra Ne" lvl="170" mana="8100" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/kurama170.lua">
+</instant>
+<instant name="Kyuubi Chakra no Senpuu" words="Kyuubi Chakra no Senpuu" lvl="300" mana="8100" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="600" needlearn="1" event="script" value="bijuu/kurama300.lua">
+</instant>
+
+<instant name="hiraishin dash" words="hiraishin dash" lvl="300" mana="1100" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="0" needlearn="0" event="script" value="hiraishin dash.lua">
+<vocation id="0"/>
+</instant>
+<!--- =======================================NOVOS================================== -->
+<!-- Ashura Jutsus -->
+<instant name="buff ashura" words="buff ashura" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="ashura/buff.lua">
+<vocation id="480"/>	</instant>
+
+<!-- Choji Jutsus -->
+<instant name="buff choji" words="buff choji" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="choji/buff.lua">
+<vocation id="490"/>	</instant>
+
+<!-- Indra Jutsus -->
+<instant name="buff indra" words="buff indra" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="indra/buff.lua">
+<vocation id="500"/>	</instant>
+
+<!-- Karin Jutsus -->
+<instant name="buff karin" words="buff karin" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="karin/buff.lua">
+<vocation id="510"/>	</instant>
+
+<!-- Kimimaro Jutsus -->
+<instant name="buff kimimaro" words="buff kimimaro" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="kimimaro/buff.lua">
+<vocation id="520"/>	</instant>
+<instant name="tsubaki no mai" words="tsubaki no mai" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kimimaro/tsubaki no mai.lua">
+<vocation id="520"/>	</instant>
+<instant name="transkimi" words="transkimi" lvl="50" mana="500" selftarget="1" exhaustion="500" desc="buff" blockwalls="1" script="kimimaro/transkimi.lua">
+<vocation id="520"/>	</instant>
+<instant name="tenshi" words="tenshi" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kimimaro/tenshi.lua">
+<vocation id="520"/>	</instant>
+<instant name="sawarabi" words="sawarabi" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kimimaro/sawarabi.lua">
+<vocation id="520"/>	</instant>
+<instant name="sawarabi no mai" words="sawarabi no mai" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kimimaro/sawarabi no mai.lua">
+<vocation id="520"/>	</instant>
+<instant name="maihana" words="maihana" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kimimaro/maihana.lua">
+<vocation id="520"/>	</instant>
+
+<!-- Neji Jutsus --> 
+<instant name="Juukenhou Hakkeshou Hyaku" words="Juukenhou Hakkeshou hyaku" lvl="450" mana="5000" aggressive="1" range="4" desc="Jutsu de ficar ivulneravel" blockwalls="1" needtarget="0" exhaustion="800" event="script" value="neji/invuneravel.lua">
+<vocation id="50"/>		</instant>  
+
+
+
+<!-- Kurenai Jutsus -->
+<instant name="buff kurenai" words="buff kurenai" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="kurenai/buff.lua">
+<vocation id="400"/>	</instant>
+<instant name="Sansai" words="Sansai" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Sansai.lua">
+<vocation id="400"/>	</instant>
+<instant name="kuge okuri" words="kuge okuri" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/kuge okuri.lua">
+<vocation id="400"/>	</instant>
+<instant name="Kashosai" words="Kashosai" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Kashosai.lua">
+<vocation id="400"/>	</instant>
+<instant name="Jubaku Satsu" words="Jubaku Satsu" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Jubaku Satsu.lua">
+<vocation id="400"/>	</instant>
+<instant name="Hanagasumi" words="Hanagasumi" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Hanagasumi.lua">
+<vocation id="400"/>	</instant>
+<instant name="Fuja Hoin" words="Fuja Hoin" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Fuja Hoin.lua">
+<vocation id="400"/>	</instant>
+<instant name="Botanyuki" words="Botanyuki" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Botanyuki.lua">
+<vocation id="400"/>	</instant>
+<instant name="Anshosui Kashosai" words="Anshosui Kashosai" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="kurenai/Anshosui Kashosai.lua">
+<vocation id="400"/>	</instant>
+
+<!--- =======================================NOVOS================================== -->
+
+<!-- Naruto Jutsus -->
+<instant name="Rasengan" words="Rasengan" lvl="50" mana="500" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="naruto/50.lua">
+<vocation id="1"/>	<vocation id="190"/>	</instant>
+<instant name="Oodama Rasengan" words="Oodama Rasengan" lvl="100" mana="1000" needtarget="1" range="2" desc="Jutsu de danos ao alvo targetado" exhaustion="500" blockwalls="1" script="naruto/100.lua">
+<vocation id="1"/>	<vocation id="190"/>	</instant>
+<instant name="kyuubi Punch" words="Kyuubi Punch" lvl="170" mana="1000" range="4" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="naruto/170.lua">
+<vocation id="1"/>	<vocation id="180"/>	</instant>
+<instant name="Rasengan Shuriken" words="Rasenshuriken" lvl="200" mana="2000" range="2" needtarget="1" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="naruto/200.lua">
+<vocation id="1"/>	</instant>
+<instant name="Choodama Rasen Tarengan" words="Choodama Rasen Tarengan" lvl="200" mana="2000" casterTargetOrDirection="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de target/area" script="naruto/200area.lua">
+<vocation id="1"/>	</instant>
+<instant name="Biju Rasengan" words="Biju Rasengan" lvl="250" mana="3000" range="2" needtarget="1" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="naruto/250.lua">
+<vocation id="1"/>	</instant>
+<instant name="Fuuton RasenShuriken" words="Fuuton Rasenshuriken" lvl="300" mana="4000" range="4" needtarget="1"  desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="naruto/300.lua">
+<vocation id="1"/>	</instant>
+<instant name="Wakusei Rasengan" words="Wakusei Rasengan" lvl="300" mana="4000" needtarget="0" direction="1" desc="Jutsu de danos frontal" blockwalls="1" exhaustion="500" event="script" value="naruto/wakusei rasengan.lua">
+<vocation id="1"/>	</instant>
+<instant name="kyuubi rasengan" words="Kyuubi Rasengan" lvl="350" mana="5000" range="2" needtarget="1"  desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="naruto/350.lua">
+<vocation id="1"/>	</instant>
+<instant name="Senpou Youton Rasenshuriken" words="Senpou Youton Rasenshuriken" lvl="400" mana="6000" range="4" needtarget="1" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="naruto/400.lua">
+<vocation id="1"/>	</instant>
+
+<instant name="Kyuubi Furie" words="Kyuubi Furie" aggressive="1" selftarget="1" lvl="100" desc="BUFF" exhaustion="0" mana="1500" script="naruto/buff.lua">
+<vocation id="1"/>	</instant>
+<instant name="Taju Kage Bunshin No Jutsu" words="Taju Kage Bunshin No Jutsu" lvl="175" mana="2250" blockwalls="1" exhaustion="800" event="script" value="naruto/tajukagebunshin.lua">
+<vocation id="1"/>	</instant>
+<instant name="Kuchyose Gamabunta" words="Kuchyose Gamabunta" lvl="375" mana="7750" blockwalls="1" exhaustion="1000" event="script" value="naruto/kuchyose gamabunta.lua">
+<vocation id="1"/>	<vocation id="180"/>	<vocation id="190"/>	</instant>
+<instant name="Kyuubi Chakra Mode" words="Kyuubi Chakra Mode" aggressive="1"  selftarget="1" lvl="475" desc="Transformacao Parcial" mana="11500" exhaustion="0" script="naruto/buff2.lua">
+<vocation id="1"/>	</instant>
+<instant name="Kage Bunshin No Jutsu" words="Kage Bunshin No Jutsu" lvl="90" mana="1900" blockwalls="1" needtarget="0" exhaustion="800" event="script" value="naruto/kagebunshin.lua">
+<vocation id="1"/>	<vocation id="180"/>	<vocation id="190"/>	</instant>
+
+ <!-- desabilitados -->
+
+<instant name="Spiral Rasengan" words="Spiral Rasengan" lvl="300" mana="4500" range="3" needtarget="1" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="naruto/kurama spiral rasengan.lua">
+<vocation id="0"/>
+</instant>
+
+
+  <!-- Kankuro jutsus -->
+<instant name="Kurohigi Kiki Ippatsu" words="Kurohigi Kiki Ippatsu" lvl="50" mana="500" needtarget="1" range="2" desc="Jutsu de danos ao alvo targetado" aggressive="1" exhaustion="500" blockwalls="1" enabled="1" event="script" value="kankuro/50.lua">
+<vocation id="170"/>	</instant>
+<instant name="Hitokugutsu no Tate" words="Hitokugutsu no Tate" lvl="100" selftarget="1" aggressive="1" mana="1500" desc="BUFF" exhaustion="0" event="script" value="kankuro/buff.lua">
+<vocation id="170"/>	</instant> 
+<instant name="ippatsu kuroari explosion" words="ippatsu Kuroari Explosion" lvl="170" mana="1500" desc="Jutsu de danos ao alvo targetado" aggressive="1" exhaustion="500" needtarget="1" range="4" event="script" value="kankuro/170.lua">
+<vocation id="170"/>	</instant>
+<instant name="Dokukiri Jigoku Attack" words="Dokukiri Jigoku" lvl="200" mana="2000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" aggressive="1" exhaustion="500" needlearn="0" blockwalls="1" enabled="1" event="script" value="kankuro/200.lua">
+<vocation id="170"/>	</instant>
+<instant name="Dokukiri Jigoku Bomb" words="Dokukiri Jigoku Bomb" lvl="250" mana="3000" desc="Jutsu de danos em area" range="4" aggressive="1" exhaustion="500" blockwalls="1" enabled="1" event="script" value="kankuro/250.lua">
+<vocation id="170"/>	</instant>
+<instant name="kuroari Hokaku" words="Kuroari Hokaku" lvl="300" mana="4000" range="4" aggressive="1" desc="Jutsu de danos e paralizia ao alvo targetado" exhaustion="500" needtarget="1" event="script" enabled="1" value="kankuro/300.lua">
+<vocation id="170"/>	</instant>	
+<instant name="Kuroari attack" words="Kuroari Attack" lvl="350" mana="5000" aggressive="1" desc="Jutsu de danos em area" exhaustion="500" blockwalls="1" enabled="1" event="script" value="kankuro/350.lua">
+<vocation id="170"/>	</instant>
+<instant name="Dokukiri kuroari" words="Dokukiri Kuroari" lvl="400" mana="6000" range="4" aggressive="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needtarget="1" needlearn="0" event="script" enabled="1" value="kankuro/400.lua">
+<vocation id="170"/>	</instant>	
+
+<instant name="Kugutsu Shunshin" words="Kugutsu Shunshin" lvl="450" mana="7000" aggressive="1"  desc="Substituiçao de corpo, em momento de risco podera por sua marionete" exhaustion="1000" needlearn="0" blockwalls="1" enabled="1" event="script" value="kankuro/kugutsu shushin.lua">
+<vocation id="170"/>	<vocation id="320"/>	</instant>
+<conjure name="Puppet Control" words="Puppet Control" conjureId="18292"  conjureCount="1" desc="Utilizado para controler as marionetes" aggressive="1" lvl="300" manapercent="30" enabled="1" function="conjureItem">
+<vocation id="170"/>	<vocation id="320"/>	</conjure>
+<instant name="Kugutsu No Jutsu" words="Kugutsu No Jutsu" lvl="180" mana="7000" aggressive="1"  desc="Invocaçao de Marionetes" exhaustion="1000" blockwalls="1" enabled="1" event="script" value="kankuro/kugutsu no jutsu.lua">
+<vocation id="170"/>	</instant>
+
+<instant name="Aka Higi:Kiki Sankaku" words="Kiki Sankaku" lvl="300" mana="2000" needtarget="0" range="4" direction="1" desc="Jutsu de danos frontal" aggressive="1" exhaustion="500" blockwalls="1" enabled="1" event="script" value="kankuro/300reta.lua">
+<vocation id="170"/>	</instant>
+<instant name="Sasori Puppet" words="Sasori Puppet" lvl="425" mana="7750" blockwalls="1" exhaustion="1000"  desc="Invocação do corpo marionete do sasori" event="script" value="kankuro/kuchyose sasori.lua">
+<vocation id="170"/>	</instant>
+
+<!-- desativados -->
+<instant name="Dokukiri Jigoku Antidote" words="Dokukiri Jigoku Antidote" lvl="270" mana="3000" desc="Jutsu de remoçao de veneno"  prem="0" aggressive="1" range="1" needtarget="1" params="1" exhaustion="500" needlearn="0" event="script" enabled="1" value="kankuro/dokukiri jigoku antidote.lua">
+<vocation id="0"/>
+</instant>
+
+
+<!--- Sasuke Jutsus -->
+<instant name="Chidori" words="Chidori" lvl="50" mana="500" exhaustion="500" aggressive="1" range="2" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/50.lua">
+<vocation id="10"/>		</instant>
+<instant name="Chidori Nagashi" words="Chidori Nagashi" lvl="100" mana="1000" exhaustion="500" aggressive="1" blockwalls="1" desc="Jutsu de danos em area" event="script" value="sasuke/100.lua">
+<vocation id="10"/>		</instant>
+<instant name="Susanoo" words="Susanoo" selftarget="1" lvl="100" mana="1000" exhaustion="0" aggressive="1" desc="Buff" event="script" value="susanoall.lua">
+<vocation id="10"/> <vocation id="100"/> <vocation id="140"/> <vocation id="260"/>	</instant>
+<instant name="Kirin" words="Kirin" lvl="170" mana="1500" exhaustion="500" aggressive="1" blockwalls="1" range="4" needtarget="1" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/170.lua">
+<vocation id="10"/>		</instant>
+<instant name="Amaterasu" words="Amaterasu" lvl="200" mana="2000" exhaustion="500" aggressive="1" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/200.lua">
+<vocation id="10"/> <vocation id="100"/>	</instant>
+<instant name="Susano Atack" words="Susano Atack" lvl="250" mana="3000" exhaustion="500" needtarget="1" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/250.lua">
+<vocation id="10"/>		</instant>
+<instant name="Kagutsuchi Amaterasu" words="Kagutsuchi Amaterasu" lvl="250" mana="4500" exhaustion="1500" aggressive="1" blockwalls="1" desc="Proteção em area[causa danos a quem se aproxima]" event="script" value="sasuke/auraspell.lua">
+<vocation id="10"/>		</instant>
+<instant name="Susanoo Kagutsuchi" words="Susanoo Kagutsuchi" lvl="300" mana="4000" exhaustion="500" blockwalls="1" needtarget="1" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/300.lua">
+<vocation id="10"/>		</instant>
+<instant name="Katon Ryuka No Jutsu Max" words="Katon Ryuka No Jutsu Max" lvl="300" needtarget="1" mana="4000" aggressive="1" range="5" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="sasuke/300extra.lua">
+<vocation id="10"/>		<vocation id="100"/>	</instant>
+<instant name="Kuchyose No Jutsu:Manda" words="Kuchyose No Jutsu:Manda" lvl="325" mana="6000" blockwalls="1" exhaustion="1000" event="script" value="sasuke/kuchyosemanda.lua">
+<vocation id="10"/>	<vocation id="210"/>	</instant>
+<instant name="Chidori Hawk Attack" words="Chidori Hawk Attack" lvl="350" mana="5000" exhaustion="500" blockwalls="1" needtarget="1" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/350.lua">
+<vocation id="10"/>		</instant>
+<instant name="Kusanagi" words="Kusanagi" lvl="375" mana="4500" exhaustion="1000" blockwalls="1" desc="Invocação da espada kusanagi" event="script" value="sasuke/createkatana.lua">
+<vocation id="10"/>	  </instant>
+<instant name="Big Susano Atack" words="Big Susano Atack" lvl="400" mana="6000" exhaustion="500" blockwalls="1" needtarget="1" needlearn="0" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" event="script" value="sasuke/400.lua">
+<vocation id="10"/>		</instant>
+<instant name="Kuchyose No Jutsu:Hawk" words="Kuchyose No Jutsu:Hawk" lvl="425" mana="8000" blockwalls="1" exhaustion="1000" event="script" value="sasuke/kuchyosehawk.lua">
+<vocation id="10"/>		</instant>
+<instant name="Kawarimi Kusanagi" words="Kawarimi Kusanagi" lvl="450" mana="8500"  desc="Teleportar para onde a kusanagi foi fixada" blockwalls="1" exhaustion="0" needlearn="0" event="script" value="sasuke/sasukekatana.lua">
+<vocation id="10"/>	    </instant>
+
+     <!-- desativados -->
+<instant name="Fire Ball" words="Fire Ball" lvl="170" mana="1500" exhaustion="500" aggressive="1" blockwalls="1" range="4" direction="1" needtarget="0" desc="Jutsu de danos frontal" event="script" value="sasuke/170reta.lua">
+<vocation id="10"/>		<vocation id="0"/>	</instant>
+<instant name="Sharingan" words="Sharingan" selftarget="1" lvl="100" mana="1500" exhaustion="0" aggressive="1" desc="Liberaçao do poder ocular do clan Uchiha BUFF" event="script" value="sasuke/sharingan.lua">
+<vocation id="10"/> 	<vocation id="120"/>	<vocation id="100"/> 	<vocation id="140"/> 	<vocation id="260"/>	</instant>
+<instant name="Corrupt Chidori" words="Corrupt Chidori" lvl="170" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="sasuke/corruptchidori.lua">
+<vocation id="10"/>		</instant>
+<instant name="Katon Ryuka No Jutsu" words="Katon Ryuka No Jutsu" lvl="30" needtarget="1" mana="1400" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="sasuke/katonryuka.lua">
+<vocation id="10"/>
+</instant>
+<instant name="Katon Gokakyu No Jutsu" words="Katon Gokakyu No Jutsu" lvl="25" needtarget="1" mana="1200" aggressive="1"  exhaustion="0" needlearn="0" event="script" value="sasuke/katongokakyu.lua">
+<vocation id="10"/>
+</instant>
+<instant name="Chidori Raimei" words="Chidori raimei" lvl="170" mana="1700" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="sasuke/chidoriraimei.lua">
+<vocation id="10"/>
+</instant>
+<instant name="Katon No Jutsu!" words="Katon No Jutsu" lvl="40" mana="1400" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="sasuke/katonnojutsu.lua">
+<vocation id="10"/>
+</instant>
+	
+
+<!-- Rock Lee Jutsus -->
+<instant name="Konoha Senpu" words="Konoha senpu" lvl="50" mana="500" aggressive="1" range="2" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="lee/50.lua">
+<vocation id="20"/>		<vocation id="380"/>	</instant>
+<instant name="Omote Renge" words="Omote Renge" lvl="100" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="lee/100.lua">
+<vocation id="20"/>		<vocation id="380"/>	</instant>
+<instant name="Konoha Daisenpu" words="Konoha Daisenpu" lvl="170" mana="1000" aggressive="1"  exhaustion="500" needlearn="0" desc="Jutsu de danos em area" event="script" value="lee/170.lua">
+<vocation id="20"/>		</instant>
+<instant name="Konoha Renge" words="Konoha Renge" lvl="200" mana="1500" aggressive="1" needtarget="1" range="2" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" event="script" value="lee/200.lua">
+<vocation id="20"/>		</instant>
+<instant name="Asa Kujaku" words="Asa Kujaku" lvl="250" mana="2000" aggressive="1" exhaustion="500" desc="Jutsu de danos em area" needlearn="0" event="script" value="lee/250.lua">
+<vocation id="20"/>		<vocation id="380"/>	</instant>
+<instant name="Ura Renge" words="Ura Renge" lvl="300" mana="3000" aggressive="1" range="2" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" needlearn="0" event="script" value="lee/300.lua">
+<vocation id="20"/>		</instant>
+<instant name="Kage Buyo" words="Kage Buyo" lvl="350" mana="4000" aggressive="1" range="3" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="lee/350.lua">
+<vocation id="20"/>		</instant>
+<instant name="Daigouken Shofu" words="Daigouken Shofu" lvl="400" mana="5000" aggressive="1" range="2" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" needlearn="0" event="script" value="lee/400.lua">
+<vocation id="20"/>		</instant>
+<instant name="Tomon Kai" words="Tomon Kai" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="lee/opengates.lua">
+<vocation id="20"/>		</instant>
+<instant name="Keimon Kai" words="Keimon Kai" aggressive="1" selftarget="1" lvl="450" mana="1500" desc="BUFF" exhaustion="0" event="script" value="lee/opensixgate.lua">
+<vocation id="20"/>		</instant>
+<!-- <instant name="Kuchyose No Jutsu:Ninkame" words="Kuchyose No Jutsu:Ninkame" lvl="425" mana="9750"   blockwalls="1" exhaustion="1000" event="script" value="sasuke/kuchyosehawk.lua"> -->
+<!-- <vocation id="10"/>		</instant> -->
+	
+	<!-- guy Jutsus -->
+<instant name="Koyubi Kougeki" words="Koyubi Kougeki" lvl="170" mana="1000" desc="Jutsu de danos em area" range="3" needtarget="1" blockwalls="1" exhaustion="500" event="script" value="guy/170.lua">
+<vocation id="380"/>	</instant>
+<instant name="Hirudora" words="Hirudora" lvl="200" mana="1500" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="guy/200.lua">
+<vocation id="380"/>	</instant>
+<instant name="Sekizo" words="Sekizo" lvl="300" mana="3000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="4" needtarget="1" exhaustion="500" event="script" value="guy/300.lua">
+<vocation id="380"/>	</instant>
+<instant name="Yagai" words="Yagai" lvl="350" mana="4000" aggressive="1" needtarget="1" exhaustion="500" range="3" desc="Jutsu de danos ao alvo targetado" event="script" value="guy/350.lua">
+<vocation id="380"/>	</instant>
+<instant name="Senpo Yagai" words="Senpo Yagai" lvl="400" mana="5000" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado"  needtarget="1" exhaustion="500" event="script" value="guy/400.lua">
+<vocation id="380"/>	</instant>
+<instant name="Hachimon" words="Hachimon" lvl="100" mana="1500" selftarget="1" desc="BUFF" exhaustion="0" event="script" value="guy/buff.lua">
+<vocation id="380"/>	</instant>
+<instant name="Hachimon Tonkou :Kai" words="Hachimon Tonkou" aggressive="1"   selftarget="1" lvl="475" desc="Liberaçao dos 8 portoesBUFF" mana="6500" exhaustion="1000" event="script" value="guy/hachimon tonkou.lua">
+<vocation id="380"/>	</instant>
+<instant name="Konoha Daisenko" words="Konoha Daisenko" lvl="425" mana="4000" aggressive="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="guy/speed.lua">
+<vocation id="380"/>	<vocation id="20"/>		</instant>
+<instant name="hachimonn" words="hachimonn" lvl="425" mana="4000" aggressive="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="guy/hachimon.lua">
+<vocation id="0"/>		</instant>
+<instant name="hirudora1" words="hirudora1" lvl="425" mana="4000" aggressive="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="guy/hirudora.lua">
+<vocation id="0"/>		</instant>
+<instant name="konoha gouriki senpuu" words="konoha gouriki senpuu" lvl="425" mana="4000" aggressive="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="guy/konoha gouriki senpuu.lua">
+<vocation id="0"/>	</instant>
+
+<!--- SakUra Jutsus -->
+<instant name="Shanaro" words="Shanaro" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="sakura/buff.lua">
+<vocation id="30"/>		</instant>
+<instant name="Shanaro Mesu" words="Shanaro Mesu" lvl="100" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sakura/100.lua">
+<vocation id="30"/>		</instant>
+<instant name="Fubuki Katsugami" words="Fubuki Katsugami" lvl="200" mana="2000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sakura/200.lua">
+<vocation id="30"/>		</instant>
+<instant name="Shanaro Punch" words="Shanaro Punch" lvl="300" mana="4000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sakura/300.lua">
+<vocation id="30"/>		</instant>
+<instant name="Chuusuusei kyaku Taihou" words="Chuusuusei kyaku Taihou" lvl="400" mana="6000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sakura/400.lua">
+<vocation id="30"/>		</instant>
+<instant name="Kuchyose No Jutsu:Katsuyu" words="Kuchyose No Jutsu:Katsuyu" aggressive="1"  lvl="325" mana="7750" blockwalls="1" exhaustion="1000" event="script" value="tsunade/katsuyu.lua">
+<vocation id="30"/>	<vocation id="330"/>		</instant>
+
+<!-- tsunade jutsu -->
+<instant name="Fubuki No Jutsu" words="Fubuki No Jutsu" lvl="50" mana="500" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="tsunade/50.lua">
+<vocation id="330"/>	<vocation id="30"/>		</instant>
+<instant name="Oukashou" words="Oukashou" lvl="100" mana="800" aggressive="1" exhaustion="500" desc="Jutsu de danos em area" event="script" value="tsunade/100.lua">
+<vocation id="330"/>	</instant>
+<instant name="Taihou Kyaku No Jutsu" words="Taihou Kyaku No Jutsu" lvl="170" mana="1500" aggressive="1" range="2" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="tsunade/170.lua">
+<vocation id="330"/>	<vocation id="30"/>		</instant>
+<instant name="Ranshinsho" words="Ranshinsho" lvl="200" mana="2000" aggressive="1" range="2" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="tsunade/200.lua">
+<vocation id="330"/>		</instant>
+<instant name="Ground Fubuki Katsugami" words="Ground Fubuki Katsugami" lvl="250" mana="3000" desc="Jutsu de danos ao alvo targetado" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="tsunade/250.lua">
+<vocation id="330"/>	<vocation id="30"/>		</instant>
+<instant name="Chuusuusei No Mesu Kyaku" words="Chuusuusei No Mesu kyaku" lvl="300" mana="4000" desc="Jutsu de danos ao alvo targetado" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="tsunade/300.lua">
+<vocation id="330"/>	</instant>
+<instant name="Taihou Mass Punch" words="Taihou Mass Punch" lvl="350" mana="5000" aggressive="1" range="3" blockwalls="1" desc="Jutsu de danos em area" needtarget="0" exhaustion="500" needlearn="0" event="script" value="tsunade/350.lua">
+<vocation id="330"/>	<vocation id="30"/>		</instant>
+<instant name="Tsuutenkyaku" words="Tsuutenkyaku" lvl="400" mana="6000" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="tsunade/400.lua">
+<vocation id="330"/>	</instant>
+<instant name="Saikan Chuushutsu No Jutsu" words="Saikan Chuushutsu No Jutsu" lvl="175" mana="2000" desc="Habilidade de cura em area" prem="0" aggressive="1" exhaustion="500" event="script" value="tsunade/cura area.lua">
+<vocation id="330"/>	<vocation id="340"/>	<vocation id="30"/>		</instant>
+<instant name="Chiyute No Jutsu" words="Chiyute No Jutsu" lvl="225" mana="3140" aggressive="1" param="1" selftarget="1" desc="Habilidade que permite lhe curar ou curar um amigo, para fucionar basta por chiyute No Jutsu+nick" exhaustion="500" event="script" value="tsunade/healfriend.lua">
+<vocation id="330"/>	<vocation id="340"/>		<vocation id="280"/>	<vocation id="30"/>		</instant>
+<instant name="Ground Barrier" words="Ground Barrier" allowfaruse="1" lvl="250" mana="2500" direction="1" exhaustion="1000" blocktype="all" script="tsunade/groundbarrier.lua">
+<vocation id="330"/>	<vocation id="30"/>		</instant>
+<instant name="Shousen No Jutsu" words="Shousen No Jutsu" lvl="370" mana="2000" exhaustion="0" desc="Jutsu de cura, pode substituir o big regeneration" aggressive="0" selftarget="1" blockwalls="1" enabled="1" event="script" value="tsunade/bigheal.lua">
+<vocation id="330"/>	<vocation id="340"/>		<vocation id="280"/>	<vocation id="30"/>		</instant>
+<instant name="Byakugo No Jutsu" words="Byakugo No Jutsu" aggressive="1" selftarget="1" lvl="500" mana="9000" desc="Liberaçao do selo yin, aumento de status e grande aumento de cura" exhaustion="1000" event="script" value="tsunade/byakugo no jutsu.lua">
+<vocation id="330"/>	<vocation id="280"/>	<vocation id="30"/>		</instant>
+
+<instant name="Dai Chiyute No Jutsu" words="Dai chiyute No Jutsu" lvl="475" mana="5140" aggressive="1" selftarget="1" desc="Habilidade que permite lhe curar ou curar um companheiro" exhaustion="0" event="script" value="tsunade/healfriend2.lua">
+<vocation id="330"/>	 </instant>
+<instant name="Saikan Bakurei Chingutsu" words="Saikan Bakurei Chingutsu" lvl="425" mana="7150" desc="Jutsu de cura em area apenas para membros da mesma party" prem="0" aggressive="1" exhaustion="500" event="script" value="tsunade/healparty.lua">
+<vocation id="330"/>	</instant>
+
+<!-- Jiraya Jutsus -->
+<instant name="Senpo Genki Jinkudan" words="Senpo Genki Jinkudan" aggressive="1" selftarget="1" desc="BUFF" lvl="100" mana="1500" exhaustion="0" script="jiraya/buff.lua">
+<vocation id="190"/>	</instant>
+<instant name="Kebari Senbon" words="Kebari Senbon" lvl="170" mana="1500" needtarget="1" range="5" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="jiraya/170.lua">
+<vocation id="190"/>	</instant>
+<instant name="Katon Gamayu Endan" words="Katon Gamayu Endan" lvl="200" mana="2000" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="3" blockwalls="1" exhaustion="500" event="script" value="jiraya/200.lua">
+<vocation id="190"/>	</instant>
+<instant name="Gamayudan" words="Gamayudan" lvl="250" mana="4000" needtarget="0" range="3" direction="1" desc="Jutsu de danos frontal{Reta}" blockwalls="1" exhaustion="500" event="script" value="jiraya/250.lua">
+<vocation id="190"/>	</instant>
+<instant name="Tsuin Rasengan" words="Tsuin Rasengan" lvl="300" mana="4000" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="jiraya/300.lua">
+<vocation id="190"/>	</instant>
+<instant name="Choodama Tarenrasengan" words="Choodama Tarenrasengan" lvl="350" mana="5000" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="3" blockwalls="1" exhaustion="500" event="script" value="jiraya/350.lua">
+<vocation id="190"/>	</instant>
+<instant name="Cho Odama Rasengan" words="Cho Odama Rasengan" lvl="400" mana="6000" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="jiraya/400.lua">
+<vocation id="190"/>	</instant>
+<instant name="Gamaguchi Shibari" words="Gamaguchi Shibari" lvl="425"   mana="7100" aggressive="1" desc="Invocaçao do gama bunta engolindo todos proximo a ele" exhaustion="1000" needtarget="0" event="script" value="jiraya/gamaguchi shibari.lua">
+<vocation id="190"/>	</instant>
+<instant name="Kaeru Kaeru no Jutsu" words="Kaeru Kaeru no Jutsu" lvl="425"  mana="7000" needtarget="1" range="5" desc="Transformar seu alvo target em gamatatsu deixando paralizado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="jiraya/kuchyose gamatatsu.lua">
+<vocation id="190"/>	</instant>
+
+  <!-- iNo Jutsus -->
+<instant name="Shingetsu No Mai Turei" words="Shingetsu No Mai Turei" lvl="50" mana="500" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos em area" needtarget="0" exhaustion="500" event="script" value="ino/50.lua">
+<vocation id="340"/>	</instant>
+<instant name="Kibaku Hana" words="Kibaku Hana" lvl="100" mana="1000" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="ino/100.lua">
+<vocation id="340"/>	</instant>
+<instant name="Iryo No Jutsu" words="Iryo No Jutsu" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="ino/buff.lua">
+<vocation id="340"/>	</instant>
+<instant name="Ninpo Hyouka Ryoran" words="Ninpo Hyouka Ryoran" lvl="170" mana="1500" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="ino/170.lua">
+<vocation id="340"/>	</instant>
+<instant name="Nikudan Yoyo" words="Nikudan Yoyo" lvl="200" mana="2000" aggressive="1" range="5" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="ino/200.lua">
+<vocation id="340"/>	</instant>
+<instant name="Kuge Okuri" words="Kuge Okuri" lvl="250" mana="3000" aggressive="1" range="5" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="ino/250.lua">
+<vocation id="340"/>	</instant>
+<instant name="Ninpo Shingetsu Ichirin" words="Ninpo Shingetsu Ichirin" lvl="300" mana="4000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="5" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="ino/300.lua">
+<vocation id="340"/>	</instant>
+<instant name="Misuteshisu Tenohira" words="Misuteshisu Tenohira" lvl="350" mana="5000" aggressive="1" range="5" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="ino/350.lua">
+<vocation id="340"/>	</instant>
+<instant name="Choshinka" words="Choshinka" lvl="400" mana="6000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="ino/400.lua">
+<vocation id="340"/>	</instant>
+<instant name="Ninpo Shintenshin no Jutsu" words="Ninpo Shintenshin no Jutsu" lvl="450" mana="13500" desc="Jutsu de transferencia de mente, impede o alvo de se mover e usar jutsus" aggressive="1" exhaustion="500" event="script" value="danzou/danzou juinjutsu.lua">
+<vocation id="340"/>	</instant>
+	
+	<!--- Kiba Jutsus -->
+<instant name="Shikyaku No Jutsu" words="shikyaku No Jutsu" aggressive="1" prem="0" selftarget="1" lvl="100" mana="1000"  exhaustion="1500" event="script" value="kiba/shikyaku no jutsu.lua">
+<vocation id="0"/>	</instant>
+<instant name="Canine Claws!" words="canine claws" lvl="40" mana="1000" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/canineclaw.lua">
+<vocation id="0"/>	</instant>
+<instant name="Dynamic Marking" words="dynamic marking" lvl="55" needtarget="1" range="4" mana="3200" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/dynamic.lua">
+<vocation id="0"/>	</instant>
+<instant name="Tsuuga" words="tsuuga" lvl="70" needtarget="1" range="4" mana="3600" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/tsuuga.lua">
+<vocation id="0"/>	</instant>
+<instant name="Dual Tsuuga" words="dual tsuuga" lvl="85" needtarget="1" range="4" mana="4200" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/dualtsuuga.lua">
+<vocation id="0"/>	</instant>
+<instant name="Gatsuuga" words="gatsuuga" lvl="105" needtarget="1" range="3" mana="5200" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/gatsuuga.lua">
+<vocation id="0"/>	</instant>
+<instant name="Piercing Claws" words="piercing claws" lvl="100" needtarget="1" range="3" mana="6200" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="kiba/piercing.lua">
+<vocation id="0"/>	</instant>
+<instant name="Dual Gatsuuga" words="dual gatsuuga" lvl="200" needtarget="1" range="3" mana="7900" aggressive="1"  exhaustion="1200" needlearn="0" event="script" value="kiba/dualgatsuuga.lua">
+<vocation id="0"/>	</instant>
+<instant name="Garouga" words="garouga" lvl="250" needtarget="1" range="3" mana="8200" aggressive="1"  exhaustion="1500" needlearn="0" event="script" value="kiba/garouga.lua">
+<vocation id="0"/></instant>
+	
+
+	<!--- Gaara Jutsus -->
+<instant name="Sabaku Rou" words="sabaku rou" lvl="50" mana="500" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/50.lua">
+<vocation id="40"/>		</instant>
+<instant name="Sabaku Taisou" words="sabaku taisou" lvl="100" mana="1000" aggressive="1" prem="0" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/100.lua">
+<vocation id="40"/>		</instant>
+<instant name="Suna No Tate" words="Suna No Tate" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="gaara/buff.lua">
+<vocation id="40"/>		</instant>
+<instant name="Ryuusa Bakuryu" words="Ryuusa Bakuryu" lvl="170" mana="1500" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/170.lua">
+<vocation id="40"/>		</instant>
+<instant name="Suna Shigure" words="Suna Shigure" lvl="200" mana="2000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/200.lua">
+<vocation id="40"/>		</instant>
+<instant name="Sabaku kyu" words="Sabaku kyu" lvl="250"  mana="3000" aggressive="1" range="5" desc="Jutsu de paralizia ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="0" event="script" value="gaara/trap.lua">
+<vocation id="40"/>		</instant>
+<instant name="Sajin Daitoppa" words="Sajin Daitoppa" lvl="250" mana="3000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/250.lua">
+<vocation id="40"/>		</instant>
+<instant name="sabako mosayko No Jutsu" words="Sabako Mosayko No Jutsu" lvl="300" mana="4000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="gaara/300.lua">
+<vocation id="40"/>		</instant>
+<instant name="Suna no Mesou" words="Suna no Mesou" lvl="300" mana="4000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" direction="1" needtarget="0" exhaustion="500" event="script" value="gaara/300reta.lua">
+<vocation id="40"/>		</instant>
+<instant name="Sabaku Kyusou" words="Sabaku Kyusou" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="gaara/350.lua">
+<vocation id="40"/>		</instant>
+<instant name="Storm Suna No Mesou" words="Storm Suna No Mesou" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="0" exhaustion="500" event="script" value="gaara/350area.lua">
+<vocation id="40"/>		</instant>
+<instant name="Sabaku Shudan" words="Sabaku Shudan" lvl="400" mana="6000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="gaara/400.lua">
+<vocation id="40"/>		</instant>
+<instant name="Saikyou Zettai Bogyo Shukaku no Tate" words="Saikyou Zettai Bogyo Shukaku no Tate" lvl="450" mana="10000" desc="Um Jutsu que utiliza os poderes do shukaku para criar uma incrivel defesa absoluta" aggressive="1" exhaustion="1000" event="script" value="gaara/adsolutedef.lua">
+<vocation id="40"/>		</instant>
+	
+	
+<!--- Shikamaru Jutsus -->
+<instant name="Kage Shibari No Jutsu!" words="Kage Shibari No Jutsu" lvl="50" mana="500" aggressive="1" desc="Jutsu de danos em area" exhaustion="500" needlearn="0" event="script" value="shikamaru/50.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kage Oni Shibari No Jutsu" words="Kage Oni Shibari No Jutsu" lvl="100" aggressive="1" mana="1000" desc="Jutsu de danos em area" exhaustion="500" event="script" value="shikamaru/100.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kage Noshuku sa reta" words="Kage Noshuku Sa Reta" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="shikamaru/buff.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kage Nui" words="Kage Nui" lvl="170" mana="1500" exhaustion="500" range="4" aggressive="1"  needtarget="1" desc="Jutsu de danos ao alvo targetado" event="script" value="shikamaru/170.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kage Kubi Shibari" words="Kage Kubi Shibari" lvl="200" mana="2000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="shikamaru/200.lua">
+<vocation id="70"/>		</instant>
+<instant name="Hiden Kageoni" words="Hiden Kageoni" lvl="250" mana="3000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de paralizia ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="shikamaru/250trap.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kagemane Shibari No Jutsu" words="Kagemane Shibari No Jutsu" lvl="300" mana="4000" aggressive="1" desc="Jutsu de danos frotal{Reta}" direction="1" exhaustion="500" event="script" value="shikamaru/300reta.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kagemani Ni Kubi" words="Kagemani Ni Kubi" lvl="300" mana="4000" aggressive="1" desc="jutsu de danos ao alvo targetado" range="4" exhaustion="500" needtarget="1" event="script" value="shikamaru/300.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kagenoshuku Renbu" words="Kagenoshuku Renbu" lvl="350" mana="5000" aggressive="1" range="4" exhaustion="500" needtarget="1" desc="Jutsu de danos ao alvo targetado" event="script" value="shikamaru/350.lua">
+<vocation id="70"/>		</instant>
+<instant name="Kagemane Kubi Noshuku" words="Kagemane Kubi Noshuku" lvl="400" mana="6000" aggressive="1" range="4" exhaustion="500" needtarget="1" desc="Jutsu de danos ao alvo targetado"  event="script" value="shikamaru/400.lua">
+<vocation id="70"/>		</instant>
+<instant name="Hidden Trap" words="Hidden Trap" lvl="450"  mana="7000" aggressive="1" range="4" exhaustion="800" desc="Jutsu de danos em area" event="script" value="shikamaru/tarja.lua">
+<vocation id="70"/>	</instant>
+
+<!--- Hinata Jutsus -->
+<instant name="Juuken" words="Juuken" lvl="50" needtarget="1" range="3" mana="500" aggressive="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hinata/50.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Hakkeshou Kaiten" words="Hakkeshou Kaiten" lvl="100" mana="1000" aggressive="1" desc="Jutsu de danos em area" exhaustion="500" event="script" value="hinata/100.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Byakugan" words="Byakugan" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="hinata/byakugan.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Juuken Kushou" words="Juuken Kushou" lvl="170" needtarget="1" range="2" mana="1500" aggressive="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hinata/170.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Juhou Soshiken" words="Juhou Soshiken" lvl="200" mana="2000" aggressive="1" range="2" desc="Jutsu de danos ao alvo targetado selando tambem pontos vitais de chakra{removendo chakra}" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="hinata/200.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant> 
+<instant name="Celestic Hakkeshou Kaiten" words="Celestic Hakkeshou Kaiten" lvl="250" mana="3000" desc="Jutsu de danos em area" aggressive="1"  exhaustion="500" event="script" value="hinata/250.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Celestic Hakkeshou Dai Kaiten" words="Celestic Hakkeshou Dai Kaiten" lvl="300" mana="4000" desc="Jutsu de danos em area" aggressive="1"  exhaustion="500" event="script" value="hinata/300.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Noen Shugo Shou" words="Noen Shugo Shou" lvl="350" mana="5000" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="hinata/350.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>
+<instant name="Noen Jokiryu No Jutsu" words="Noen Jokiryu No Jutsu" lvl="400" mana="6000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="3" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="hinata/400.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant> 
+<instant name="!Byakugan" words="!Byakugan" lvl="425" mana="10000" aggressive="1"  desc="Jutsu de procura, ele encontra todos os players numa distancia 200 sqm estando 1 andar acima ou abaixo e fora de area protegida, o player que for rastreado ira notar um efeito nele mesmo" exhaustion="0" needlearn="0" event="script" value="hinata/procurar.lua">
+<vocation id="50"/>		<vocation id="80"/>		<vocation id="310"/></instant>
+<instant name="Juukenhou Hakke:Sanjuuni Shou" words="Juukenhou Hakke Sanjuuni Shou" lvl="450" mana="3000" aggressive="1" range="4" desc="Jutsu de paralizia em area" blockwalls="1" needtarget="0" exhaustion="500" event="script" value="hinata/trap.lua">
+<vocation id="50"/>		<vocation id="80"/>		</instant>  
+<instant name="Juukenhou Hakkeshou Kaiten" words="Juukenhou Hakkeshou Kaiten" lvl="450" mana="5000" aggressive="1" range="4" desc="Jutsu de repulsão com a remoção de target" blockwalls="1" needtarget="0" exhaustion="800" event="script" value="hinata/repulsao.lua">
+<vocation id="80"/>		</instant>  
+
+	<!--- Tenten Jutsus -->
+<instant name="Senbows No Jutsu" words="senbows No Jutsu" lvl="50" mana="400" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="tenten/senbows.lua">
+<vocation id="90"/>		</instant>
+<instant name="Sou Shuu Jin" words="sou shuu jin" lvl="100" mana="1500" aggressive="1" range="4" casterTargetOrDirection="1" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="tenten/sou shuu jin.lua">
+<vocation id="90"/>		</instant>
+<instant name="Souryuu Kyuuheki" words="Souryuu Kyuuheki" aggressive="1" selftarget="1" lvl="100" mana="1000" exhaustion="0" desc="BUFF" event="script" value="tenten/buff.lua">
+<vocation id="90"/>		</instant>
+<instant name="Soushouryuu" words="Soushouryuu" lvl="170" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="tenten/170.lua">
+<vocation id="90"/>		</instant>
+<instant name="Bashousen No Kai" words="Bashousen No Kai" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="tenten/200.lua">
+<vocation id="90"/>		</instant>
+<instant name="Buki No Nami" words="Buki No Nami" lvl="250" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de target com danos em area" event="script" value="tenten/250.lua">
+<vocation id="90"/>		</instant>
+<instant name="Dai Buki No Nami" words="Dai buki No nami" lvl="300" mana="4000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de target com danos em area" event="script" value="tenten/300.lua">
+<vocation id="90"/>		</instant>
+<instant name="Souryuu Tensakai" words="Souryuu Tensakai" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="500" event="script" value="tenten/350.lua">
+<vocation id="90"/>		</instant>
+<instant name="Sou Jin Souryuu Tensakai" words="Sou Jin Souryuu Tensakai" lvl="400" mana="6000" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="tenten/400.lua">
+<vocation id="90"/>		</instant>
+<instant name="Runa Trap" words="Runa Trap" lvl="375" mana="13500" exhaustion="1000" blockwalls="1" desc="Pergaminho de armadilha" event="script" value="tenten/armadilha.lua">
+<vocation id="90"/>		</instant>
+<instant name="Runa Explosiva" words="Runa Explosiva" lvl="375" mana="13500" exhaustion="1000" blockwalls="1" desc="Pergaminho bomba" event="script" value="tenten/bomba.lua">
+<vocation id="90"/>		</instant>
+	
+<!--- shisui Jutsus -->	
+<instant name="Katon Endan" words="Katon Endan" lvl="50" mana="500" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="shisui/katon endan.lua">
+<vocation id="260"/>	</instant>
+<instant name="Karyuu Endan" words="Karyuu Endan" lvl="100" mana="1000" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="shisui/karyuu endan.lua">
+<vocation id="260"/>	</instant>
+<instant name="Kotoamatsukami" words="Kotoamatsukami" lvl="170" mana="1500" aggressive="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="shisui/170.lua">
+<vocation id="260"/>	</instant>
+<instant name="Katon Ryuen Goka" words="Katon Ryuen Goka" lvl="200" mana="2000" aggressive="1" range="3" desc="Jutsu de target com danos em area" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="shisui/200.lua">
+<vocation id="260"/>	</instant>
+<instant name="Katon Kairyudan No Jutsu" words="Katon Kairyudan No Jutsu" lvl="250" desc="Jutsu de danos frontline{Reta}" mana="3000" aggressive="1" blockwalls="1" direction="1" exhaustion="500" event="script" value="shisui/250.lua">
+<vocation id="260"/>	</instant>
+<instant name="Katon karyu endan" words="Katon Karyu Endan" lvl="300" mana="4000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="5" needtarget="1" exhaustion="500" event="script" value="shisui/300.lua">
+<vocation id="260"/>	</instant>
+<instant name="Susanoo danmaku" words="Susanoo Danmaku" lvl="350" mana="5000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="shisui/350.lua">
+<vocation id="260"/>	</instant>
+<instant name="Shunshin No Shisui" words="Shunshin No Shisui" lvl="400" mana="4500" aggressive="1" desc="Jutsu de danos em area" range="4" blockwalls="0" needtarget="0" exhaustion="500" event="script" value="shisui/400area.lua">
+<vocation id="260"/>	</instant>
+<instant name="Susanoo tsukumo" words="Susanoo Tsukumo" lvl="400" mana="6000" aggressive="1" range="5" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="shisui/400.lua">
+<vocation id="260"/>	</instant>
+<instant name="Mugen Shinkarasu" words="Mugen Shinkarasu" lvl="425"  mana="2750" prem="0" blockwalls="1" desc="Dispersao de corvos, habilidade que permite invocar corvos e es esconder entre eles" exhaustion="1100" needlearn="0" event="script" value="shisui/kuchyose corvo2.lua">
+<vocation id="260"/>	<vocation id="100"/>	</instant>
+<instant name="Mugen Kotoamatsukami" words="Mugen Kotoamatsukami" lvl="475" mana="15000" aggressive="1" desc="Jutsu ocular dimensional" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="shisui/dimensao.lua">
+<vocation id="260"/>	</instant>
+
+<!-- desativados -->
+<instant name="Mangekyou Sharingannn" words="corvo2" lvl="250" mana="2750" prem="0" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="shisui/kuchyose corvo3.lua">
+<vocation id="0"/>
+</instant>
+
+<!-- sasori Jutsu -->  
+<instant name="Dokukiri Renpatsu Posion" words="Dokukiri Renpatsu Posion" lvl="50" mana="500" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de target com danos em area" event="script" value="sasori/50.lua">
+<vocation id="0"/>	</instant>
+<instant name="Gishu Senbon" words="Gishu Senbon" lvl="100" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sasori/100.lua">
+<vocation id="0"/>	</instant>
+<instant name="Chakura no Ito" words="Chakura no Ito" aggressive="1" selftarget="1" lvl="100" desc="BUFF" mana="1500" exhaustion="0" event="script" value="sasori/buff.lua">
+<vocation id="0"/>	</instant>
+<instant name="Shikomi Kugutsu Shinshin Happa" words="Shikomi Kugutsu Shinshin Happa" lvl="170" mana="100" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="sasori/170.lua">
+<vocation id="0"/>	</instant>
+<instant name="Satetsu Shigure" words="Satetsu Shigure" lvl="200" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sasori/200.lua">
+<vocation id="0"/>	</instant>
+<instant name="Shippo Tetsu Rendan" words="Shippo Tetsu Rendan" lvl="250" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sasori/250.lua">
+<vocation id="0"/>	</instant>
+<instant name="Hitokugutsu" words="Hitokugutsu" lvl="300" mana="3000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="sasori/300.lua">
+<vocation id="0"/>	</instant>
+<instant name="Kugutsu Kesshu" words="Kugutsu kesshu" lvl="350" mana="4500" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="sasori/350.lua">
+<vocation id="0"/>	</instant>
+<instant name="Satetsu Kesshu" words="Satetsu Kesshu" lvl="400" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sasori/400.lua">
+<vocation id="0"/>	</instant>
+<instant name="Kuchiyose: Kugutsu" words="Kuchiyose: Kugutsu" lvl="375" mana="7750" blockwalls="1" exhaustion="1000"  desc="Invocação do corpo marionete do kazegake" event="script" value="sasori/kuchyose kazekage.lua">
+<vocation id="0"/>	</instant>
+
+	<!--- Itachi Jutsus -->
+<instant name="Katon Dragon Furie" words="Katon Dragon furie" lvl="50" mana="500" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="3" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="itachi/dragaodefogo.lua">
+<vocation id="100"/>	 <vocation id="130"/> 	<vocation id="140"/>	 <vocation id="142"/>		</instant> 
+<instant name="Katon Dragon No Jutsu" words="Katon Dragon No Jutsu" lvl="100" mana="1000" aggressive="1" desc="Jutsu de danos em area" exhaustion="500" needtarget="0" event="script" value="itachi/itachidragonnojutsu.lua">
+<vocation id="100"/> 	<vocation id="130"/>	 <vocation id="140"/> 	<vocation id="142"/>	</instant>	
+<instant name="Katon:Hosenka Tsumaberi" words="Katon:Hosenka Tsumaberi" lvl="170" mana="1500" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="itachi/170.lua">
+<vocation id="100"/>	<vocation id="140"/>	<vocation id="130"/>	</instant>
+<instant name="Enton:Fuumetsu Mangekyou" words="Enton:Fuumetsu" lvl="225" mana="2500" aggressive="1" blockwalls="1" desc="Jutsu de defesa em area[Causa danos a quem se aproxima]" exhaustion="500" event="script" value="itachi/auraspell.lua">
+<vocation id="100"/>	</instant>
+<instant name="Enton:Tsukuyomi" words="Enton:Tsukuyomi" lvl="250" mana="3000" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" exhaustion="500" event="script" value="itachi/250.lua">
+<vocation id="100"/>	</instant>
+<instant name="Katon:Hosenka no Jutsu" words="Katon:Hosenka no Jutsu" lvl="300" mana="4000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="itachi/300.lua">
+<vocation id="100"/>	</instant>
+<instant name="Enton:Susano Kogeki" words="Enton:Susano Kogeki" lvl="350" mana="5000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="itachi/350.lua">
+<vocation id="100"/>	</instant>
+<instant name="Enton:Yasaka Magatama" words="Enton:Yasaka No Magatama" lvl="400" mana="6000" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" blockwalls="1" exhaustion="500" event="script" value="itachi/400.lua">
+<vocation id="100"/>	</instant>
+<instant name="Eterno Tsukuyomi" words="Eterno Tsukuyomi" lvl="375" desc="Jutsu ocular dimensional, leva seu alvo para um genjutsu" mana="15000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="itachi/dimensaoitachi.lua">
+<vocation id="100"/>  </instant>
+<instant name="Izanami" words="Izanami" lvl="475"  mana="10000" aggressive="1" range="5" desc="Genjutsu que prende seu subconciente em outra dimensao deixando seu corpo exposto e paralizado" blockwalls="1" needtarget="1" exhaustion="1000" needlearn="0" event="script" value="itachi/izanami.lua">
+<vocation id="100"/>	</instant>
+
+<!-- desativados -->
+<instant name="Tsukuyomi1" words="Tsukuyomi1" lvl="650" mana="15000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="itachi/desativado1.lua">
+<vocation id="100"/>	</instant>
+<instant name="Susanoo atack" words="Susanoo atack" lvl="700" mana="20000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="itachi/susanoatak.lua">
+<vocation id="100"/>		</instant>
+<instant name="Doton Dragon Furie" words="Doton Dragon furie" lvl="100" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="itachi/dragaodelama.lua">
+<vocation id="100"/>		</instant>
+<instant name="Fuumetsu Shuriken" words="Fuumetsu Shuriken" lvl="600" mana="15000" prem="0" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="itachi/desativado.lua">
+<vocation id="100"/>	</instant>
+
+<!-- Killer Bee Jutsus -->
+<instant name="Raiton:Weep" words="Raiton:Weep" lvl="50" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="killer/raitonweep.lua">
+<vocation id="110"/>	<vocation id="200"/>		</instant>
+<instant name="Raiton:Shibari" words="Raiton:Shibari" lvl="100" mana="500" exhaustion="500" desc="Jutsu de danos em area" event="script" value="killer/raitonshibari.lua">
+<vocation id="110"/>	<vocation id="200"/>	</instant>
+<instant name="Raiton:Yoroi" words="Raiton:Yoroi" aggressive="1" selftarget="1" lvl="100" desc="BUFF" mana="1500" exhaustion="0" event="script" value="killer/raitonyoroi.lua">
+<vocation id="110"/>	</instant>
+<instant name="Raiton:fang" words="Raiton:Fang" lvl="170" mana="1500" aggressive="1" range="4" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="killer/170.lua">
+<vocation id="110"/>	</instant>
+<instant name="Raiton:Chinbou" words="Raiton:Chinbou" lvl="200" mana="2000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="2" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="killer/200.lua">
+<vocation id="110"/>	</instant>
+<instant name="Raiton:Lariat" words="Raiton:Lariat" lvl="250" mana="3000" aggressive="1" range="2" blockwalls="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" exhaustion="500" event="script" value="killer/250.lua">
+<vocation id="110"/>	<vocation id="200"/>	</instant>
+<instant name="Raiton:Double Lariat" words="Raiton:Double Lariat" lvl="300" mana="4000" aggressive="1" range="2" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="killer/300.lua">
+<vocation id="110"/>	<vocation id="200"/>	</instant>
+<instant name="Raiton:Flash Sword" words="Raiton:Flash Sword" lvl="350" mana="5000" aggressive="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="killer/350.lua">
+<vocation id="110"/>		</instant>
+<instant name="Raiton:Hachibi Energy" words="Raiton:Hachibi Energy" lvl="400" mana="6000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="killer/400.lua">
+<vocation id="110"/>		</instant>
+
+<!-- Raikage -->
+<instant name="Raiton:Flash" words="Raiton:Flash" lvl="100" mana="1500" aggressive="1" selftarget="1" exhaustion="0" blockwalls="1" desc="BUFF" event="script" value="raikage/raiton flash.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Raiger Bomb" words="Raiton:Raiger Bomb" lvl="170" mana="1000" exhaustion="500" direction="1" desc="Jutsu de danos frontal{Reta}" event="script" value="raikage/170.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Smash No kudaru" words="Raiton:Smash No kudaru" lvl="170" mana="1500" exhaustion="500" needtarget="1" desc="Jutsu de ao alvo targetado" event="script" value="raikage/170target.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Soturo Shiden" words="Raiton:Soturo Shiden" lvl="200" mana="2000" exhaustion="500" range="3" needtarget="1" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="raikage/200.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Renger Punch" words="Raiton:Renger Punch" lvl="350" mana="5000" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="raikage/350.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Ningu Sutoreto" words="Raiton:Ningu Sutoreto" lvl="400" mana="6000" aggressive="1" range="3" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="raikage/400.lua">
+<vocation id="200"/>	</instant>
+<instant name="Raiton:Punch Smash" words="Raiton:Punch Smash" lvl="425" mana="7000" aggressive="1" range="3" blockwalls="1" needtarget="0" exhaustion="0" desc="Jutsu que remove trap's" event="script" value="raikage/doton punch.lua">
+<vocation id="200"/>	<vocation id="110"/>	</instant>
+<instant name="Raiton:Raiger Furie" words="Raiton:Raiger Furie" lvl="450" mana="7000" aggressive="1" selftarget="1" exhaustion="0" desc="Jutsu que aumemta sua força e sua vecolidade" event="script" value="raikage/renger furie.lua">
+<vocation id="200"/>	</instant>
+<instant name="Speed Raiton" words="Speed Raiton" lvl="425" mana="4000" aggressive="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="raikage/speed raiton.lua">
+<vocation id="200"/>
+</instant>
+<!-- desativados -->
+<instant name="Raiton No kudaru" words="raiton No kudaru" lvl="30" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="killer/raitonkudaru.lua">
+<vocation id="110"/>		</instant>		   
+<instant name="Dance Sword" words="dance sword" lvl="105" needtarget="1" range="3" mana="1050" aggressive="1"  exhaustion="0" needlearn="0" event="script" value="killer/dancesword.lua">
+<vocation id="110"/>		</instant>	  
+ 
+<!--- onoki jutsus -->
+<instant name="Doton:Suisho Koryu" words="Doton:Suisho Koryu" lvl="50" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/doton suisho koryu.lua">
+<vocation id="390"/>	<vocation id="410"/>	</instant>	
+<instant name="Doton:Genkai" words="Doton:Genkai" lvl="100" mana="1500" selftarget="1" aggressive="1" exhaustion="0" desc="BUFF" event="script" value="onoki/doton genkai.lua">
+<vocation id="390"/>	</instant>
+<instant name="Doton:Tenkai Shounem" words="Doton:Tenkai Shounem" lvl="170" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/170.lua">
+<vocation id="390"/>	<vocation id="410"/>	</instant>	
+<instant name="Doton:Jinton Genkai kujontsu" words="Doton:Jinton Genkai kujontsu" lvl="200" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/200.lua">
+<vocation id="390"/>	</instant>	
+<instant name="Doton:Kajitsu Komyo" words="Doton:Kajitsu Komyo" lvl="250" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/250.lua">
+<vocation id="390"/>	</instant>	
+<instant name="Doton:Kajitsu Tsuisei" words="Doton:Kajitsu Tsuisei" lvl="300" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de target com danos em area" event="script" value="onoki/300.lua">
+<vocation id="390"/>	</instant>	
+<instant name="Doton:tenkeishin hiruken" words="Doton:Tenkeishin Diruken" lvl="325" mana="1700" aggressive="1" range="5" blockwalls="1" needtarget="1" exhaustion="1000" desc="Jutsu de Paralizia ao alvo targetado" event="script" value="onoki/tenkeishin doton hiruken.lua">
+<vocation id="390"/>	</instant>	   
+<instant name="Doton:Kajugan" words="Doton:Kajugan" lvl="350" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/350.lua">
+<vocation id="390"/>	<vocation id="410"/>	</instant>	
+<instant name="Doton:Kuchyose Goremu" words="Doton:Kuchyose Goremu" lvl="350" mana="7750" blockwalls="1" exhaustion="1000"  desc="Invocação de golem" event="script" value="onoki/kuchyose.lua">
+<vocation id="390"/>	</instant>
+<instant name="Doton:Jinton Genkai Hakuri" words="Doton:Jinton Genkai Hakuri" lvl="400" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/400.lua">
+<vocation id="390"/>	<vocation id="410"/>	</instant>	
+<instant name="Doton:Diruken Kajitsu" words="Doton:Diruken Kajitsu" allowfaruse="1" lvl="1" mana="2500" direction="1" exhaustion="1000" blocktype="all" script="onoki/barreira.lua">
+<vocation id="390"/>	</instant>
+
+<instant name="Doton Kajitsuki" words="Doton Kajitsuki" lvl="250" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="onoki/doton kajitsuki.lua">
+<vocation id="390"/>
+</instant>	
+
+ <!-- mu jutsu-->	
+<instant name="Kanchi No Jutsu" words="Kanchi No Jutsu" lvl="100" aggressive="1" selftarget="1" exhaustion="0" needlearn="0" blockwalls="1" event="script" value="mu/Muu.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl100" words="lvl100" lvl="100" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl100.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl150" words="lvl150" lvl="150" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl150.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl200" words="lvl200" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl200.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl250" words="lvl250" lvl="250" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl250.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl300" words="lvl300" lvl="300" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl300.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl400" words="lvl400" lvl="400" mana="4000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl400.lua">
+<vocation id="410"/>		</instant>
+<instant name="lvl600" words="lvl600" lvl="600" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/lvl600.lua">
+<vocation id="410"/>		</instant>
+<instant name="invi" words="invi" lvl="150" mana="1500" aggressive="1" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="mu/invi.lua">
+<vocation id="410"/>		</instant>
+<instant name="Doton Dai Noboru" words="Doton Dai Noboru" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/doton dai noboru.lua">
+<vocation id="410"/>		</instant>	
+<instant name="Doton Shiboru Tenohira" words="Doton Shiboru Tenohira" lvl="300" mana="7000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="mu/doton shiboru tenohira.lua">
+<vocation id="410"/>		</instant>	
+
+ 	
+<!--- Kakashi Jutsus -->
+<instant name="Raiton:Raikiri" words="Raiton:Raikiri" lvl="50" mana="500" aggressive="1" range="2" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/raikiri.lua">
+<vocation id="120"/>	</instant>
+<instant name="Suiton:Suiryudan No Jutsu" words="Suiton:Suiryudan No Jutsu" lvl="100" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/suitondragon.lua">
+<vocation id="120"/>	</instant>
+<instant name="Doton Prision" words="Doton Prision" lvl="200" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Trap" event="script" value="kakashi/prision.lua">
+<vocation id="120"/> 	</instant>
+<instant name="Suiton:Daibakufu no Jutsu" words="Suiton:Daibakufu no Jutsu" lvl="170" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakashi/170.lua">
+<vocation id="120"/>	</instant>  
+<instant name="Raiton:Concentrate Raikiri" words="Raiton:Concentrate Raikiri" lvl="200" mana="1500" aggressive="1"  exhaustion="500" desc="Jutsu de danos em area" event="script" value="kakashi/200.lua">
+<vocation id="120"/>	</instant>
+<instant name="Raiton:Master Raikiri" words="Raiton:Master Raikiri" lvl="200" mana="1500" aggressive="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/200target.lua">
+<vocation id="120"/>	</instant>
+<instant name="Suiton:Suikodan No Jutsu" words="Suiton:Suikodan No Jutsu" lvl="300" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/300.lua">
+<vocation id="120"/>	</instant>
+<instant name="Kuchyose No Jutsu:Niken" words="Kuchyose No Jutsu:Niken" lvl="275" mana="5900" blockwalls="1" exhaustion="1000" event="script" value="kakashi/ninken.lua">
+<vocation id="120"/>	</instant>
+<instant name="Raiton:Raiton Shibari" words="Raiton:Master Shibari" lvl="350" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/350.lua">
+<vocation id="120"/>	</instant>
+<instant name="Raiton:Shiden" words="Raiton:Shiden" lvl="400" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="kakashi/400.lua">
+<vocation id="120"/>	</instant>
+
+	<!-- desativados -->
+<instant name="Suiton Suikodan No Jutsu1" words="Suiton Suikodan No Jutsu1" lvl="275" mana="3000" exhaustion="500" direction="1" desc="Jutsu de danos frontal {Reta}" event="script" value="kakashi/275.lua">
+<vocation id="120"/>  </instant>
+<instant name="Mangekyou Kamui" words="Mangekyou Kamui" lvl="170" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakashi/desativado.lua">
+<vocation id="120"/>	</instant>  
+<instant name="Katon Dragon Furie No Jutsu" words="Katon Dragon furie No Jutsu" lvl="200" mana="2000" prem="0" exhaustion="500" direction="1" event="script" value="kakashi/katondragon.lua">
+<vocation id="120"/>	</instant>
+<instant name="Suiton Suijinheki No Jutsu" words="suiton suijinheki No Jutsu" lvl="210" mana="2100" aggressive="1" range="7" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="kakashi/suitonsujin.lua">
+<vocation id="120"/>	</instant>
+	
+<!-- guren Jutsus -->
+<instant name="Shoton:Kurenai No Kajitsu" words="Shoton:kurenai No kajitsu" lvl="50" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/50.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Karyuu No Jutsu" words="Shoton:Karyuu No Jutsu" lvl="100" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/100.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Shishou Tenketsu" words="Shoton:Shishou Tenketsu" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="0" desc="BUFF" event="script" value="guren/buff.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Suisho Rokkakuchu" words="Shoton:Suisho Rokkakuchu" lvl="170" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/170.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Karyuu Ryuken" words="Shoton:Karyuu Ryuken" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/200.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Isshi Komyo" words="Shoton:Isshi Komyo" lvl="250" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/250.lua">
+<vocation id="300"/>	</instant> 
+<instant name="Shoton:Kessho Gokakuro" words="Shoton:Kessho Gokakuro" lvl="300" mana="4000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/300.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Suishou Rokkakuchu" words="Shoton:Suishou Rokkakuchu" lvl="300" mana="4000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="500" desc="Jutsu de danos em area" event="script" value="guren/300area.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Suishoheki Hachi No Jin" words="Shoton:Suishoheki Hachi No Jin" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado"  event="script" value="guren/350.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Suisho Kyumio Roi Rokkakuchu" words="Shoton:Suisho Kyumio Roi Rokkakuchu" lvl="400" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="guren/400.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Jade Crystal Prision Technique" words="Shoton:Jade Crystal Prision Technique" lvl="425" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" desc="Jutsu de prisao de crystal" event="script" value="guren/jade crystal prision.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Jade Prision" words="Shoton:Jade Prision" lvl="425" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="0" desc="Jutsu de prisao de crystal" event="script" value="guren/prisaoshoton.lua">
+<vocation id="300"/>	</instant>
+<instant name="Shoton:Shouton Suishou Douka" words="Shoton:Shouton Suishou Douka" lvl="450" mana="10000" aggressive="1" range="4" blockwalls="1" exhaustion="1500" desc="Jutsu de cura instantanea de crystal" event="script" value="guren/block.lua">
+<vocation id="300"/>	</instant>
+
+	<!-- desativados -->
+<instant name="crystal encampment" words="crystal encampment" lvl="300" mana="7000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="guren/crystal encampment wall.lua">
+<vocation id="300"/>
+</instant>
+
+<!--haku Jutsus-->
+<instant name="Release Rokkasshou" words="Hyoton:Release Rokkasshou" lvl="50" mana="500" aggressive="1" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/50.lua">
+<vocation id="290"/>	</instant>
+<instant name="Ice Release" words="Hyoton:Ice Release" lvl="100" mana="1000" aggressive="1" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/100.lua">
+<vocation id="290"/>	</instant>
+<instant name="Hyoton Hyouro" words="Hyoton:Hyouro" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="0" desc="BUFF" event="script" value="haku/buff.lua">
+<vocation id="290"/>	</instant>
+<instant name="Makyou Kairyudan" words="Hyoton:Makyou Kairyudan" lvl="170" mana="1500" aggressive="1" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/170.lua">
+<vocation id="290"/>	</instant>
+<instant name="Messatsu Suisho" words="Hyoton:Messatsu Suisho" lvl="200" mana="2000" exhaustion="500" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" script="haku/200.lua">
+<vocation id="290"/>	</instant>
+<instant name="Kaisshou Hyouro" words="Hyoton:Kaisshou Hyouro" lvl="250" mana="3000" needtarget="1" aggressive="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/250.lua">
+<vocation id="290"/>	</instant>
+<instant name="Sensen Zanbu" words="Hyoton:Sensen Zanbu" lvl="300" mana="4000" needtarget="1" aggressive="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/300.lua">
+<vocation id="290"/>	</instant>	
+<instant name="Hyoton Tsubame Fubuki" words="Hyoton:Tsubame Fubuki" lvl="300" mana="4000" needtarget="0" aggressive="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="haku/300 area.lua">
+<vocation id="290"/>	</instant>	
+<instant name="Makyo Hyosho" words="Hyoton:Makyo Hyosho" lvl="325" mana="4000" exhaustion="1000" needtarget="0" aggressive="1" desc="Habilidade especial que lhe permite criar uma grande area de crystais de gelo ao seu redor" event="script" value="haku/325.lua">
+<vocation id="290"/>	</instant>
+<instant name="Hissatsu Hyoso" words="Hyoton:Hissatsu Hyoso" lvl="350" mana="5000" needtarget="1" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="haku/350.lua">
+<vocation id="290"/>	</instant> 
+<instant name="Zanbu Makyo Hyoso" words="Hyoton:Zanbu Makyo Hyoso" lvl="350" mana="5000" needtarget="0" aggressive="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="haku/350area.lua">
+<vocation id="290"/>	</instant> 
+<instant name="Makyou Hyoushou" words="Hyoton:Makyou Hyoushou" lvl="400" mana="6000" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" blockwalls="1" script="haku/400.lua">
+<vocation id="290"/>	</instant>
+<instant name="Hissatsu Prision" words="Hyoton:Hissatsu Prision" lvl="425" mana="1000" aggressive="1" range="4" blockwalls="1" desc="Jutsu de prisao de gelo" needtarget="1" exhaustion="500" event="script" value="haku/425.lua">
+<vocation id="290"/>	</instant>
+	
+	
+<!-- Tobirama Jutsus -->
+<instant name="Suiton Dragon No Jutsu Max" words="Suiton:Dragon No Jutsu Max" lvl="50" mana="500" exhaustion="500" blockwalls="1" desc="Jutsu de danos em area" script="tobirama/50.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Mezokami" words="Suiton:Mezokami" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="0" desc="BUFF" script="tobirama/buff.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Suiryuu Dan No Jutsu" words="Suiton:Suiryuu Dan No Jutsu" lvl="170" mana="1500" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="tobirama/170.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Mizuarare" words="Suiton:Mizuarare" lvl="200" mana="2000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="tobirama/200.lua">
+<vocation id="250"/>	<vocation id="350"/>	</instant>
+<instant name="Suiton: Suishoha" words="Suiton:Suishoha No Jutsu" lvl="250" mana="3000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="tobirama/250.lua">
+<vocation id="250"/>	</instant>
+<instant name="Shinjei Suiton Mikuzami" words="Suiton:Shinjei Mikuzami" lvl="300" mana="4000" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" exhaustion="500" event="script" value="tobirama/300.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Ranbu Saishou" words="Suiton:Ranbu Saishou" lvl="350" mana="5000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="tobirama/350.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Suijinheki" words="Suiton:Suijinheki" lvl="400" mana="6000" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="tobirama/400.lua">
+<vocation id="250"/>	</instant>
+<instant name="Suiton Prision" words="Suiton:Prision" lvl="415" mana="7000" desc="Jutsu de paralizia ao alvo targetado"  needtarget="1"  aggressive="1" exhaustion="0" event="script" value="tobirama/suitonprision.lua">
+<vocation id="250"/>	<vocation id="350"/>	</instant>
+<instant name="Kokuangyou no jutsu" words="Kokuangyou No Jutsu" lvl="475" mana="15000" desc="Genjutsu, Escuridão absoluta" needtarget="1" range="4" blockwalls="1" exhaustion="1000" event="script" value="tobirama/tobirama dimen.lua">
+<vocation id="250"/>	</instant>
+
+<!-- <instant name="Dragon Shousai Dengai" words="Dragon Shousai Dengai" lvl="400" mana="15000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="tobirama/Dragon Shousai Dengai.lua"> -->
+<!-- <vocation id="250"/> -->
+<!-- </instant> -->
+
+<!--suigetsu Jutsus-->
+<instant name="Suiton Shiuhen Kousa" words="Suiton:Shiuhen Kousa" lvl="50" mana="500" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="suigetsu/suiton shiuhen kousa.lua">
+<vocation id="350"/>	</instant>
+<instant name="Suiton Suiro No Jutsu" words="Suiton:Suiro No Jutsu" lvl="100" mana="1000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="suigetsu/suiro no jutsu.lua">
+<vocation id="350"/>	</instant>
+<instant name="suiton mizugakyo" words="Suiton:Mizugakyo" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="0" desc="BUFF" event="script" value="suigetsu/suiton mizugakyo.lua">
+<vocation id="350"/>	</instant>
+<instant name="suiryudan saishou" words="Suiton:Suiryudan Saishou No Jutsu" lvl="170" mana="1500" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="suigetsu/170.lua">
+<vocation id="350"/>	</instant>
+<instant name="Suiton Mizuddepo Nicho" words="Suiton:Mizuddepo Nicho" lvl="250" mana="3000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="suigetsu/250.lua">
+<vocation id="350"/>	</instant>
+<instant name="Horyu Raika no Jutsu" words="Suiton:Horyu Raika no Jutsu" lvl="300" mana="4000"  needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="suigetsu/300.lua">
+<vocation id="350"/>	</instant>
+<instant name="Soshen Suiton Muzikami" words="Suiton:Soshen Muzikamiu No Jutsu" lvl="350" mana="5000" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="suigetsu/350.lua">
+<vocation id="350"/>	</instant>
+<instant name="Suiton Suijin Saiishou" words="Suiton:Suijin Saiishou No Jutsu" lvl="400" mana="6000" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="suigetsu/400.lua">
+<vocation id="350"/>	</instant>
+<instant name="Suiton:Suika no Jutsu" words="Suiton:Suika No Jutsu" aggressive="1"  lvl="450" desc="Jutsu de imunidade, ao ativado voce ficara imune a qualquer arma por alguns segundos" mana="8000" exhaustion="900" event="script" value="suigetsu/suika no jutsu.lua">
+<vocation id="350"/>	</instant>
+<instant name="Suiton Gosuiwan No Jutsu" words="Suiton:Gosuiwan No Jutsu" aggressive="1" selftarget="1" lvl="425" mana="6500" exhaustion="0" desc="BUFF" event="script" value="suigetsu/buff gosuiwan.lua">
+<vocation id="350"/>	</instant>
+	
+<instant name="Suiton Suigadan No Jutsu" words="Suiton:Suigadan No Jutsu" lvl="300" mana="4000" needtarget="0" range="4" desc="Jutsu de danos em area" blockwalls="1" exhaustion="500" vent="script" value="suigetsu/300area.lua">
+<vocation id="0"/>	</instant>
+<!-- <instant name="Suiton suiryudan" words="Suiton Suiryudan" lvl="200" mana="2000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" event="script" value="suigetsu/suiton suiryudan.lua"> -->
+<!-- <vocation id="0"/> -->
+<!-- </instant> -->
+
+kisame Jutsus
+<instant name="Suiton Shiuhen Kousa" words="Suiton Shiuhen Kousa" lvl="50" mana="500" prem="0" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="kisame/suiton shiuhen kousa.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Suiton Suiro No Jutsu" words="Suiton Suiro No Jutsu" lvl="100" mana="1000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" event="script" value="kisame/suiro no jutsu.lua">
+<vocation id="160"/>
+</instant>
+<instant name="suiton mizugakyo" words="Suiton Mizugakyo" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="300" desc="BUFF" event="script" value="kisame/suiton mizugakyo.lua">
+<vocation id="160"/>
+</instant>
+<instant name="suiryudan saishou" words="Suiryudan Saishou No Jutsu" lvl="170" mana="1500" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" event="script" value="kisame/170.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Suiton Mizuddepo Nicho" words="Suiton Mizuddepo Nicho" lvl="250" mana="2000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" event="script" value="kisame/250.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Horyu Raika no Jutsu" words="Horyu Raika no Jutsu" lvl="300" mana="4500" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" needlearn="0" desc="Jutsu de danos ao alvo targetado" event="script" value="kisame/300.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Suiton Suigadan No Jutsu" words="Suiton Suigadan No Jutsu" lvl="300" mana="4500" prem="0" needtarget="0" range="4" desc="Jutsu de danos em area" blockwalls="1" exhaustion="500" event="script" value="kisame/300area.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Soshen Suiton Muzikami" words="Soshen Suiton Muzikamiu No Jutsu" lvl="350" mana="6000" prem="0" needtarget="1" range="4" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="600" needlearn="0" event="script" value="kisame/350.lua">
+<vocation id="160"/>
+</instant>
+<instant name="Suiton Suijin Saiishou" words="Suijin Saiishou No Jutsu" lvl="400" mana="7000" prem="0" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="600" needlearn="0" event="script" value="kisame/400.lua">
+<vocation id="160"/>
+</instant>
+
+<!--hidan Jutsus-->
+<instant name="Shinkisei" words="Shinkisei" lvl="50" mana="500" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="hidan/50.lua">
+<vocation id="360"/>	</instant>
+<instant name="Jashin Shiki" words="Jashin Shiki" lvl="100" mana="1000" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" event="script" value="hidan/100.lua">
+<vocation id="360"/>	</instant>
+<instant name="Shijihyouketsu" words="Shijihyouketsu" lvl="100" aggressive="1" selftarget="1" mana="1000" exhaustion="0" desc="BUFF" event="script" value="hidan/buff.lua">
+<vocation id="360"/>	</instant>
+<instant name="Jashin Shijinhyuke" words="Jashin Shijinhyuke" lvl="170" mana="1000" needtarget="0" range="3" blockwalls="1" desc="Jutsu de danos em area" exhaustion="500" needlearn="0" event="script" value="hidan/170.lua">
+<vocation id="360"/>	</instant>
+<instant name="Shiki Hyouki" words="Shiki Hyouki" lvl="200" mana="1500" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="hidan/200.lua">
+<vocation id="360"/>	</instant>
+<instant name="Shikijinsho" words="Shikijinsho" lvl="250" mana="2500" needtarget="1" range="3" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="hidan/250.lua">
+<vocation id="360"/>	</instant>
+<instant name="Jashin Hyuoki" words="Jashin Hyuoki" lvl="300" mana="3000" needtarget="0" direction="1" desc="Jutsu de danos frontal[Reta]" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="hidan/300reta.lua">
+<vocation id="360"/>	</instant>
+<instant name="Jinketsu Jashin Hyuoki" words="Jinketsu Jashin Hyuoki" lvl="300" mana="3000" needtarget="1" direction="1" desc="Jutsu de danos ao alvo targetado" range="3" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="hidan/300.lua">
+<vocation id="360"/>	</instant>
+<instant name="Jashin Shijinhyuke Explosion" words="Jashin Shijinhyuke Explosion" lvl="350" mana="4500" needtarget="0" desc="Jutsu de danos em area" range="3" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="hidan/350.lua">
+<vocation id="360"/>	</instant>
+<instant name="Shikishinsei" words="Shikishinsei" lvl="400" mana="4500" needtarget="1" range="3" blockwalls="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" event="script" value="hidan/400.lua">
+<vocation id="360"/>	</instant>
+<instant name="Mugen Shikijashin" words="Mugen Shikijashin" lvl="450" mana="9000" needtarget="1" desc="Jutsu de maldição que transfere todos seu danos para seu alvo" aggressive="1" exhaustion="500" needlearn="0" event="script" value="hidan/especial.lua">
+<vocation id="360"/>	</instant>
+<instant name="Mugen Shikijashin1" words="Mugen Shikijashin1" lvl="450" mana="9000" needtarget="1" desc="Jutsu de maldição que transfere todos seu danos para seu alvo" aggressive="1" exhaustion="500" needlearn="0" event="script" value="hidan/imortaly.lua">
+<vocation id="0"/>	</instant>
+
+
+  <!--- MINATO Jutsus -->							
+<instant name="Rasenrengan" words="Rasenrengan" lvl="50" mana="700" aggressive="1" needtarget="1" range="2" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="minato/50.lua">
+<vocation id="180"/>	</instant>
+<instant name="Fuuton Sohenka No Jutsu" words="Fuuton Sohenka No Jutsu" lvl="100" mana="1000" aggressive="1" needtarget="0" range="4" exhaustion="500" desc="Jutsu de danos em area" blockwalls="1" event="script" value="minato/100.lua">
+<vocation id="180"/>	</instant>
+<instant name="Yellow flash" words="Yellow flash" lvl="100" mana="1000" aggressive="1" selftarget="1" desc="BUFF" exhaustion="0"  blockwalls="1" event="script" value="minato/buff.lua">
+<vocation id="180"/>	</instant>
+<instant name="Chodan Rasengan" words="Chodan Rasengan" lvl="200" mana="2000" needtarget="1" range="3" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="minato/200.lua">
+<vocation id="180"/>	</instant>
+<instant name="Hiraishin Rasengan" words="Hiraishin Rasengan" lvl="200" mana="2000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado teleportando para cima do alvo" event="script" value="minato/200 extra.lua">
+<vocation id="180"/>	</instant>
+<instant name="fuin kaisho" words="Fuin kaisho" lvl="250" mana="3000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="minato/250.lua">
+<vocation id="180"/>	</instant>
+<conjure name="Hiraishin Kunai" words="Hiraishin kunai" conjureId="10510" conjureCount="1" soul="30" desc="Jutsu de criaçao da kunai de teleport" aggressive="1" lvl="270" manapercent="70" enabled="1" function="conjureItem">
+<vocation id="180"/>	<vocation id="250"/>	</conjure>
+<instant name="Hiraishin Ni No Dan" words="Hiraishin Ni No Dan" lvl="300" mana="4000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="minato/300.lua">
+<vocation id="180"/>	</instant>
+<instant name="flash rasengan" words="Flash Rasengan" lvl="350" mana="5000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="minato/350.lua">
+<vocation id="180"/>	</instant> 
+<instant name="Jikuukan Kekkai" words="Jikuukan Kekkai" lvl="385" mana="5000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de paralizia no alvo targetado" event="script" value="minato/385.lua">
+<vocation id="180"/>	</instant>
+<instant name="Taikyoku Rasengan" words="Taikyoku Rasengan" lvl="400" mana="6000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="minato/400.lua">
+<vocation id="180"/>	</instant> 
+<instant name="Hakke no Fuin Shiki" words="Hakke no Fuin Shiki" lvl="435" mana="9000" aggressive="1" needtarget="1" range="2" exhaustion="500" blockwalls="1" desc="Jutsu de selamento de pontos vitais, selando 80% do chakra do alvo" event="script" value="minato/435.lua">
+<vocation id="180"/>	</instant>
+<instant name="dai taju kagebunshin no jutsu" words="dai taju kagebunshin no jutsu" lvl="435" mana="9000" aggressive="1" needtarget="1" range="2" exhaustion="500" blockwalls="1" desc="Jutsu de selamento de pontos vitais, selando 80% do chakra do alvo" event="script" value="minato/bunshinfuga.lua">
+<vocation id="180"/>	</instant>
+
+
+<instant name="Hiraishin" words="Hiraishin" lvl="350" mana="5000" aggressive="1" exhaustion="1000" blockwalls="1" desc="Jutsu de marcação de kunai" event="script" value="minato/especial350.lua">
+<vocation id="0"/>	</instant>
+<!-- <instant name="Hiraishin Dorai" words="Hiraishin Dorai" lvl="350" mana="6700" aggressive="1" exhaustion="3500" desc="manda o jutsu para outro local" needlearn="0" blockwalls="1" event="script" value="minato/hiraishinseal.lua"> -->
+<!-- </instant> -->
+<!-- <instant name="Keiyako Fuuin" words="Keiyako Fuuin" lvl="350" mana="6700" aggressive="1" exhaustion="3500" desc="Remove o contrato com a invocação do inimigo" needlearn="0" blockwalls="1" event="script" value="minato/hiraishinseal.lua"> -->
+<!-- </instant> -->
+<!-- <instant name="fuuton Rasengan" words="Fuuton Rasengan" lvl="170" mana="1500" prem="0" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="minato/rasenshuriken minato.lua"> -->
+<!-- </instant> -->
+<!-- <instant name="Ultimate Rasengan" words="Ultimate Rasengan" lvl="300" mana="9000" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="minato/ultimate rasengan.lua"> -->
+<!-- </instant> -->
+<!-- <instant name="Hokage Seal" words="Hokage Seal" lvl="550" mana="15000" prem="0" desc="Habilidade especial que lhe dara uma grande quantia de poder porem ao final voce perdera 70% da vida" needtarget="1"  aggressive="1" exhaustion="500" needlearn="0" event="script" value="minato/hokageseal.lua"> -->
+<!-- </instant> -->
+
+<!-- orochimaru Jutsu -->
+<instant name="Senei jashu" words="Senei jashu" lvl="50" mana="6000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="orochimaru/50.lua">
+<vocation id="210"/>	</instant>
+<instant name="snake Kawasaki" words="Snake Kawasaki" lvl="50" mana="6000" needtarget="0" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="orochimaru/100.lua">
+<vocation id="210"/>	</instant>
+<instant name="Shiro Kikai Hebi" words="Shiro Kikai Hebi" aggressive="1" selftarget="1" lvl="100" mana="1500" exhaustion="0" desc="BUFF" event="script" value="orochimaru/buff.lua">
+<vocation id="210"/>	</instant>
+<instant name="Big snake atack" words="Big Snake Atack" lvl="170" mana="1500" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="orochimaru/170.lua">
+<vocation id="210"/>	</instant>
+<instant name="Posion Max" words="Posion Max" lvl="200" mana="2000" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" script="orochimaru/200.lua">
+<vocation id="210"/>	</instant>
+<instant name="Kokoni Arazu No Jutsu" words="Kokoni Arazu No Jutsu" lvl="250" mana="3000" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" script="orochimaru/250.lua">
+<vocation id="210"/>	</instant>
+<conjure name="Create Edo Pergaminho" words="Create Edo Pergaminho" conjureId="14459" conjureCount="1" aggressive="1" lvl="270" manapercent="30" desc="Jutsu de criaçao de pergaminhos para selamento de corpos" enabled="1" function="conjureItem">
+<vocation id="210"/>	<vocation id="250"/>	</conjure>
+<instant name="Shiro Snake" words="Byakko Hebi" lvl="300" mana="4000" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" script="orochimaru/300.lua">
+<vocation id="210"/>	</instant>
+<instant name="Senei Tajashu" words="Senei Tajashu" lvl="350" mana="5000" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" script="orochimaru/350.lua">
+<vocation id="210"/>	</instant>
+<instant name="Yamata no Jutsu" words="Yamata no Jutsu" lvl="400" mana="6000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="orochimaru/400.lua">
+<vocation id="210"/>	</instant>
+<instant name="Kanashibari No Jutsu" words="Kanashibari No Jutsu" lvl="325" mana="4500" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de paralizia ao alvo targetado" event="script" value="orochimaru/snake paralyze.lua">
+<vocation id="210"/>	</instant>
+<instant name="Kuchyose:Senju Kyodaijya" words="Kuchyose:Senju Kyodaijya" lvl="225" mana="7750" blockwalls="1" exhaustion="1000" event="script" value="sasuke/kuchyosejya.lua">
+<vocation id="210"/>	</instant>
+
+<!--hashirama Jutsus-->
+<instant name="Mokuton:Sawabi Eisou" words="Sawabi Eisou" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" lvl="50" mana="500" exhaustion="500" script="hashirama/50.lua">
+<vocation id="280"/>		</instant>
+<instant name="Mokuton:Shin Suishu" words="Shin Suishu" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" lvl="100" mana="1000" exhaustion="500" script="hashirama/100.lua">
+<vocation id="280"/>		</instant>
+<instant name="Sozo Saisei" words="Sozo Saisei" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="hashirama/sozo saisei.lua">
+<vocation id="280"/>	<vocation id="330"/>		</instant>
+<instant name="Mokuton Kajukai Korin" words="Mokuton Kajukai Korin" aggressive="1" lvl="170" desc="Jutsu de danos ao alvo targetado" needtarget="1" mana="1500" exhaustion="500" script="hashirama/170target.lua">
+<vocation id="280"/>		</instant>
+<instant name="Mokuton Daijurin" words="Mokuton Daijurin" aggressive="1" lvl="200" desc="Jutsu de target com danos em area" needtarget="1" mana="2000" exhaustion="500" script="hashirama/200.lua">
+<vocation id="280"/>		</instant>
+<instant name="Senpou Mokuton Shin Susenju" words="Senpou Mokuton Shin Susenju" aggressive="1" lvl="200" desc="Jutsu de danos ao alvo targetado" needtarget="1" mana="2000" exhaustion="500" script="hashirama/200target.lua">
+<vocation id="280"/>		</instant>
+<instant name="senpo shin suishu" words="Senpo Shin Suishu" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" lvl="250" mana="3000" exhaustion="500" script="hashirama/250.lua">
+<vocation id="280"/>		</instant>
+<instant name="Senpo Mokuton Susenju" words="Senpo Mokuton Susenju" lvl="300" mana="4000" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" exhaustion="500" blockwalls="1" script="hashirama/300.lua">
+<vocation id="280"/>		</instant>
+<instant name="Mokuton Shichuro" words="Mokuton Shichuro" lvl="325" mana="5000" desc="Trap que pode ser usada em monstros" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="hashirama/mokuton shichuro.lua">
+<vocation id="280"/>	<vocation id="140"/>	</instant>
+<instant name="Mokuton: Hijutsu Jubaku Eisou" words="Hijutsu Jubaku Eisou" lvl="350" mana="5000" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" exhaustion="500" blockwalls="1" script="hashirama/350.lua">
+<vocation id="280"/>	<vocation id="140"/>	</instant>
+<instant name="Mokuton HiJutsu:Jukai Koutan" words="Mokuton Hijutsu Jukai Koutan" lvl="350" desc="Jutsu de trap em area" mana="3000" exhaustion="500" needtarget="0" event="script" value="hashirama/jukai koutan.lua">
+<vocation id="280"/>	 <vocation id="140"/> 	</instant>
+<instant name="Senpou Shichuro Daijurin" words="Senpou Shichuro Daijurin" lvl="400" desc="Jutsu de danos ao alvo targetado" mana="6000" needtarget="1" range="5" blockwalls="1" exhaustion="500" event="script" value="hashirama/400.lua">
+<vocation id="280"/>		</instant>	
+<instant name="Mokuton Mokujin No Jutsu" words="Mokuton Mokujin No Jutsu" lvl="425" mana="7750" blockwalls="1" desc="Jutsu de invocação do homen de madeira" exhaustion="1000" event="script" value="hashirama/kuchyose.lua">
+<vocation id="280"/>		</instant>
+
+<!-- desativados -->
+<instant name="Senpo Dragon Mokuton" words="Senpo Dragon Mokuton" aggressive="1" needtarget="1" range="4" prem="0" lvl="400" mana="15000" exhaustion="500" script="hashirama/senpo dragon mokuton.lua">
+<vocation id="280"/>  
+</instant>
+
+<!-- Madara Jutsus -->
+<instant name="Mokuton Jukai Heki" words="Mokuton Jukai Heki" lvl="200" mana="2000" needtarget="1" range="3" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="madara/200.lua">
+<vocation id="140"/>		</instant>
+<instant name="Yin Mode:Raiton Tempest" words="Yin Mode Raiton Tempest" lvl="200" mana="1000" prem="0" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="madara/200r.lua">
+<vocation id="140"/>		</instant>
+<instant name="Katon Hibashiri" words="Katon Hibashiri" lvl="250" mana="3000" needtarget="0" exhaustion="500" desc="Jutsu de danos em area" blockwalls="1" script="madara/250.lua">
+<vocation id="140"/>		</instant>
+<instant name="Katon Gouka Mekkyaku" words="Katon Gouka Mekkyaku" lvl="300" mana="4000" aggressive="1"  blockwalls="1" direction="1" exhaustion="500" desc="Jutsu de danos frontal{Reta}" event="script" value="madara/300reta.lua">
+<vocation id="140"/>	<vocation id="260"/>	</instant>
+<instant name="Susano attack" words="Susano Attack" lvl="300" mana="4000" needtarget="1" range="3" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" script="madara/300.lua">
+<vocation id="140"/>		</instant>
+<instant name="Tenso Tsuisei" words="Tenso Tsuisei" lvl="400" mana="6000" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="madara/400.lua">
+<vocation id="140"/>		</instant>
+<instant name="Mokuton: Moku Shouheki No Jutsu" words="Moku Shouheki No Jutsu" lvl="400" mana="2000" desc="Habilidade especial que permite trapar o player alvo por alguns segundos" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="hashirama/mokuton mokujoheki.lua">
+<vocation id="140"/>	<vocation id="142"/>		</instant>
+<instant name="Limbo" words="Limbo" lvl="450" mana="8000" aggressive="1" exhaustion="600"   prem="0" needlearn="0" desc="Invocaçao de clones de outra dimensao que e ativado automaticamente para evitar qualquer habilidade especial em si" blockwalls="1" event="script" value="madara/limbo.lua">
+<vocation id="140"/>		</instant>
+<instant name="Mugen Tsukuyomi Infinity" words="Mugen Tsukuyomi Infinity" lvl="475"  mana="15000" aggressive="1" desc="Jutsu olho da lua, pondo todos em um genjutsu impedindo de se mover tendo sua vida e mana drenadas" prem="0" exhaustion="600" needlearn="0" blockwalls="1" event="script" value="madara/tsukuyomi infinity.lua">
+<vocation id="140"/> <vocation id="310"/>		</instant>
+
+  <!-- desativados -->
+<instant name="Kuchyose Juubi" words="Kuchyose Juubi" lvl="450" mana="6000" blockwalls="1" exhaustion="1000" event="script" value="madara/juubi.lua">
+<vocation id="0"/>		</instant>
+<instant name="!rikudou mode" words="!Rikudou mode" lvl="500" mana="10000" aggressive="1" prem="0" exhaustion="2000" blockwalls="1" desc="Transformaçao rikudou, adquirindo poderes sabios" event="script" value="madara/rikudoumodee.lua">
+<vocation id="0"/>		</instant>
+<instant name="Housenka No Jutsu" words="Housenka No Jutsu" lvl="170" mana="1500" needtarget="1" range="4" blockwalls="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="madara/170.lua">
+<vocation id="0"/>		</instant>
+<instant name="Katon Rosenkka No Jutsu" words="Katon Rosenkka No Jutsu" lvl="170" mana="2000" prem="0" needtarget="1" range="4" blockwalls="1" exhaustion="500" event="script" value="madara/katonrosenka.lua">
+<vocation id="0"/>
+</instant>
+
+<!--rikudou madara -->
+<instant name="Gudoodama" words="Gudoodama" lvl="170" mana="1000" aggressive="1" needtarget="1" prem="0" desc="Jutsu de danos ao alvo targetado" range="5" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="madara/170r.lua">
+<vocation id="0"/>		</instant>
+<instant name="Tengai Ryusei" words="Tengai Ryusei" lvl="300" mana="3500" prem="0" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" blockwalls="1" exhaustion="500" needlearn="0" event="script" value="madara/300r.lua">
+<vocation id="0"/>		</instant>
+<instant name="Gakido Kyukan" words="Gakido Kyukan" lvl="400" mana="4500" aggressive="1" prem="0" needtarget="1" range="3" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="madara/400r.lua">
+<vocation id="0"/>		</instant>
+<instant name="Rikudou Kai!!" words="Rikudou Kai!" lvl="400" mana="1000" aggressive="1" prem="0" desc="Habilidade que lhe faz reverter a forma sabio dos 6 caminhos" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="madara/removerikudou.lua">
+<vocation id="142"/>		</instant>
+
+
+<instant name="tpf" words="tpf" lvl="350" mana="6000" exhaustion="0" needtarget="0" needlearn="0" event="script" value="haku/trapf.lua">
+<vocation id="0"/>
+</instant>
+
+	
+  <!-- deidara jutsus -->
+<instant name="Katsu Protect" words="katsu Protect" lvl="100" mana="500" selftarget="1" exhaustion="0" des="BUFF" event="script" value="deidara/buff.lua">
+<vocation id="240"/>	</instant>
+<instant name="C1:Gokiburi" words="C1:Gokiburi" lvl="100" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/100.lua">
+<vocation id="240"/>	</instant>
+<instant name="C2:Tori" words="C2:Tori" lvl="170" mana="1500" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/170.lua">
+<vocation id="240"/>	</instant>
+<instant name="C1:Kumo" words="C1:Kumo" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/200.lua">
+<vocation id="240"/>	</instant>
+<instant name="C1:Batto" words="C1:Batto" lvl="250" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/250.lua">
+<vocation id="240"/>	</instant>
+<instant name="C3:Nendoshin" words="C3:Nendoshin" lvl="300" mana="4000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/300.lua">
+<vocation id="240"/>	</instant>
+<instant name="C3:Karura" words="C3:Karura" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="0" desc="jutsu de danos em area" exhaustion="500" event="script" value="deidara/350.lua">
+<vocation id="240"/>	</instant>
+<instant name="C4:Karura" words="C4:Karura" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/350target.lua">
+<vocation id="240"/>	</instant>
+<instant name="C0:Kyukyoku Geijutsu" words="C0:Kyukyoku Geijutsu" lvl="400" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="deidara/400.lua">
+<vocation id="240"/>	</instant>
+<instant name="Nendo Spider" words="Nendo Spider" lvl="350" mana="5000" aggressive="1" desc="Uma aranha de argila" exhaustion="500" event="script" value="deidara/Kuchyose Spider.lua">
+<vocation id="240"/>	</instant>
+<instant name="Nendo Own" words="Nendo Owl" lvl="400" mana="6000" aggressive="1" desc="Uma coruja de argila" exhaustion="500" event="script" value="deidara/Kuchyose Owl.lua">
+<vocation id="240"/>	</instant>
+<instant name="Nendo Bird" words="Nendo Bird" lvl="450" mana="8000" aggressive="1" desc="Um passaro de argila" exhaustion="500" event="script" value="deidara/Kuchyose Bird.lua">
+<vocation id="240"/>	</instant>
+<instant name="Katsu" words="Katsu" lvl="475" mana="10000" aggressive="1" desc="Explode todos os summon de argila" exhaustion="500" event="script" value="deidara/katsu.lua">
+<vocation id="240"/>	</instant>
+<instant name="Nendo Spiders Katsu" words="Nendo Spiders Katsu" lvl="475" mana="10000" aggressive="1" desc="Explode todos os summon de argila" exhaustion="500" event="script" value="deidara/Nendo Spiders.lua">
+<vocation id="240"/>	</instant>
+
+     <!-- kakuzu jutsus -->
+<instant name="Katon Jiongu" words="Katon Jiongu" lvl="100" mana="500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/100.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu Harishigoto" words="Jiongu Harishigoto" lvl="100" aggressive="1" selftarget="1" mana="1000" exhaustion="0" des="BUFF" event="script" value="kakuzu/buff.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu Moji" words="Jiongu Moji" lvl="170" mana="1500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/170.lua">
+<vocation id="430"/>	</instant>
+<instant name="Raiton Gian" words="Raiton Gian" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/200.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu Gouken" words="Jiongu Gouken" lvl="250" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/250.lua">
+<vocation id="430"/>	</instant>
+<instant name="Zukokku" words="Zukokku" lvl="300" mana="4000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/300.lua">
+<vocation id="430"/>	</instant>
+<instant name="Katon Atsuga" words="Katon Atsuga" lvl="350" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/350.lua">
+<vocation id="430"/>	</instant>
+<instant name="Fuuton Atsuga" words="Fuuton Atsuga" lvl="400" mana="6000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kakuzu/400.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu Shinzoma" words="Jiongu Shinzoma" lvl="415" mana="2500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de paralizia" exhaustion="500" event="script" value="kakuzu/lyze.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu" words="Jiongu" lvl="425" mana="4500" aggressive="1" range="5" blockwalls="1" needtarget="0" desc="invocação" exhaustion="500" event="script" value="kakuzu/kuchyosehearths.lua">
+<vocation id="430"/>	</instant>
+<instant name="Jiongu Moji Retsu" words="Jiongu Moji Retsu" lvl="475" mana="4500" aggressive="1" selftarget="1" blockwalls="1" needtarget="0" desc="puxar os sumon" exhaustion="500" event="script" value="kakuzu/hearths.lua">
+<vocation id="430"/>	</instant>
+
+<!-- hiruzen jutsus -->
+<instant name="Dairendan" words="Dairendan" lvl="100" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/100.lua">
+<vocation id="420"/>	</instant>
+<instant name="Doton Jinkai Koutetsu" words="Doton Jinkai Koutetsu" lvl="100" aggressive="1" selftarget="1" mana="500" exhaustion="0" des="BUFF" event="script" value="hiruzen/buff.lua">
+<vocation id="420"/>	</instant>
+<instant name="Raiton Karyuu No Houkou" words="Raiton Karyuu No Houkou" lvl="170" mana="1500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/170.lua">
+<vocation id="420"/>	</instant>
+<instant name="Katon Dairendan" words="Katon Dairendan" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/200.lua">
+<vocation id="420"/>	</instant>
+<instant name="Goton Dairendan no Jutsu" words="Goton Dairendan no Jutsu" lvl="250" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/250.lua">
+<vocation id="420"/>	</instant>
+<instant name="Fuma Shuriken" words="Fuma Shuriken" lvl="300" mana="4000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/300.lua">
+<vocation id="420"/>	</instant>
+<instant name="Suiton:Saisho Suijinheki" words="Suiton:Saisho Suijinheki" lvl="350" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/350.lua">
+<vocation id="420"/>	</instant>
+<instant name="Doton Kawara" words="Doton Kawara" lvl="400" mana="6000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="hiruzen/400.lua">
+<vocation id="420"/>	</instant>
+<instant name="Bijuu Shiki Fuujin" words="Bijuu Shiki Fuujin" lvl="450" mana="4500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="Jutsu utilizado para selar/impedir o uso da bijuu do alvo" exhaustion="500" event="script" value="hiruzen/shiki fuujin bijuu.lua">
+<vocation id="420"/>	</instant>
+<instant name="Kekkei Shiki Fuujin" words="Kekkei Shiki Fuujin" lvl="475" mana="4500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="Jutsu utilizado para selar/impedir os Jutsus de ataque do alvo" exhaustion="500" event="script" value="hiruzen/shiki fuujin.lua">
+<vocation id="420"/>	</instant>
+<instant name="Kongo Roheki" words="Kongo Roheki" lvl="415" mana="7000" desc="Jutsu de paralizia ao alvo targetado"  needtarget="1"  aggressive="1" exhaustion="0" event="script" value="hiruzen/Kongo Roheki.lua">
+<vocation id="420"/>    </instant>
+
+<!--- obito Jutsus-->
+<instant name="Kamui Protect" words="Kamui Protect" selftarget="1" lvl="100" mana="1000" exhaustion="0" aggressive="1" desc="BUFF" event="script" value="obito/buff.lua">
+<vocation id="130"/>	</instant>
+<instant name="Mokuton Sashiki no Jutsu" words="Mokuton Sashiki no Jutsu" lvl="200" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="obito/200.lua">
+<vocation id="130"/>	</instant>
+<instant name="Katon Sohenka No Jutsu" words="Katon Sohenka No Jutsu" lvl="250" mana="3000" aggressive="1" desc="Jutsu de danos em area" exhaustion="500" event="script" value="obito/250.lua">
+<vocation id="130"/>	</instant>
+<instant name="Daisorin" words="Daisorin" lvl="300" mana="4000" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" exhaustion="500" event="script" value="obito/300.lua">
+<vocation id="130"/>	</instant>
+<instant name="Katon Rosenka No Jutsu" words="Katon Rosenka No Jutsu" lvl="350" mana="5000" prem="0" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" blockwalls="1" exhaustion="500" event="script" value="obito/350.lua">
+<vocation id="130"/>	</instant>
+<instant name="Kamui" words="Kamui" lvl="375" aggressive="1" mana="5000" exhaustion="800" desc="Jutsu dimensional" blockwalls="1" event="script" value="obito/kamui me2.lua">
+<vocation id="130"/>	<vocation id="120"/>	</instant>
+<instant name="Katon bakufu ranbu" words="Katon Bakufu Ranbu" lvl="400" mana="6000" aggressive="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" exhaustion="500" blockwalls="1" event="script" value="obito/400.lua">
+<vocation id="130"/>	</instant>
+<instant name="Kuchyose Gedo Mazo" words="Kuchyose Gedo Mazo" lvl="400" mana="7000" blockwalls="1" exhaustion="1000" event="script" value="obito/gedou.lua">
+<vocation id="130"/>	<vocation id="140"/>		</instant>
+<instant name="Izanagi" words="Izanagi" lvl="425" mana="4500" aggressive="1" desc="Habilidade especial que lhe permite sacrificar um sharingan para salvar um ponto e voltar a vida apos a morte com 80 de hp%" exhaustion="1000" event="script" value="obito/izanagi.lua">
+<vocation id="130"/>	<vocation id="370"/>	</instant>
+<instant name="Kamui Muzan" words="Kamui Muzan" lvl="450" aggressive="1"  mana="9000" exhaustion="800" desc="Jutsu que lhe permite ficar imune a todos os danos" blockwalls="1" event="script" value="obito/kamui muzan.lua">
+<vocation id="130"/>	</instant>
+
+<!-- desativados -->
+<instant name="Kyukan No Jutsu" words="Kyukan No Jutsu" lvl="350" mana="5000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de paralizia" blockwalls="1" event="script" value="obito rikudou/lyze.lua">
+<vocation id="0"/>	</instant>
+<instant name="Kamui0" words="Kamui0" lvl="170" mana="1000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="obito/170.lua">
+<vocation id="0"/>		</instant> 
+<instant name="Katon katohenke No Jutsu" words="Katon katohenke No Jutsu" lvl="200" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="obito/katon katohenke no jutsu.lua">
+<vocation id="0"/>	</instant>
+<instant name="Sharingan: Mangekyou Kamui No Justu" words="mangekyou kamui No Jutsu" lvl="425" mana="4250" aggressive="1" exhaustion="0" needtarget="1" range="4" needlearn="0" event="script" value="obito/obitomundo.lua">
+<vocation id="0"/>	</instant>
+<instant name="Kamui In" words="kamui in" lvl="425" mana="4250" prem="0" aggressive="1" exhaustion="0" needtarget="1" range="3" needlearn="0" event="script" value="obito/kamui in.lua">
+<vocation id="0"/>	</instant>
+<instant name="fishury" words="Fishury" lvl="300" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" blockwalls="1" event="script" value="obito/fishury.lua">
+<vocation id="0"/>	</instant>
+<instant name="!Aura" words="Kairin Chakura No Rikudou" lvl="100" mana="1500" aggressive="1" exhaustion="0" desc="BUFF" needlearn="0" blockwalls="1" event="script" value="obito rikudou/kairin chakura no rikudou.lua">
+<vocation id="0"/>	<vocation id="142"/>		</instant>
+<instant name="Rikudou Kai!!" words="Rikudou Kai" lvl="400" mana="10000" aggressive="1" desc="Habilidade que lhe faz reverter a forma jinchuuriki" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="obito rikudou/removerikudou.lua">
+<vocation id="132"/> </instant>
+<instant name="Gudo Shizukan" words="Gudo Shizukan" lvl="170" mana="1000" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="obito rikudou/170.lua">
+<vocation id="0"/>		</instant>
+<instant name="Gedo Gokakyu No Jutsu" words="Gedo Gokakyu No Jutsu" lvl="200" mana="2000" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="obito rikudou/200.lua">
+<vocation id="0"/>		</instant>
+<instant name="Gudodama" words="Gudodama" lvl="300" mana="3500" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="obito rikudou/300.lua">
+<vocation id="0"/>		</instant>
+ <instant name="Gakidou Kyukan" words="Gakidou Kyukan" lvl="400" mana="4500" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" needlearn="0" blockwalls="1" event="script" value="obito rikudou/400.lua">
+<vocation id="0"/>		</instant>
+
+<!-- danzou jutsus -->
+<instant name="Shinku buredo" words="Shinku buredo" lvl="50" mana="500" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/50.lua">
+<vocation id="370"/>	</instant>
+<instant name="Fuuton Kyodai" words="Fuuton Kyodai" lvl="100" mana="500" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/100.lua">
+<vocation id="370"/>	</instant>
+<instant name="Mototoshi chi" words="Mototoshi chi" lvl="100" mana="1500" aggressive="1" exhaustion="0" desc="BUFF" needlearn="0" blockwalls="1" event="script" value="danzou/buff.lua">
+<vocation id="370"/>	</instant>
+<instant name="Shokan tekunikku Baku" words="Shokan tekunikku Baku" lvl="170" mana="1000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="danzou/170.lua">
+<vocation id="370"/>	</instant>
+<instant name="Mokuton Senboru Kyodai" words="Mokuton Senboru Kyodai" lvl="200" mana="1000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/200.lua">
+<vocation id="370"/>	</instant>
+<instant name="Mokuton:Jihatsu Tekina" words="Jihatsu Tekina" lvl="250" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/250.lua">
+<vocation id="370"/>	</instant>
+<instant name="Mokuton:Tekina No Shokan" words="Tekina No Shokan" lvl="300" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/300.lua">
+<vocation id="370"/>	</instant>
+<instant name="Shinboru No Gyaku Gijutsu" words="Shinboru No Gyaku Gijutsu" lvl="350" mana="7000" aggressive="1" needtarget="1" range="4" exhaustion="0" blockwalls="1" desc="Jutsu de paralizia" event="script" value="danzou/shinboru no gyaku gijutsu.lua">
+<vocation id="370"/>	</instant>
+<instant name="Kaze kaiho:Shinku kyu" words="Shinku Kyu" lvl="350" mana="7000" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="danzou/350.lua">
+<vocation id="370"/>	</instant>
+ <instant name="Kaze kaiho:Oki Shinku Kyu" words="Oki Shinku Kyu" lvl="400" mana="7000" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="danzou/400.lua">
+<vocation id="370"/>	</instant>
+<instant name="Gyaku Juinjutsu" words="Gyaku Juinjutsu" lvl="450" mana="13500" desc="Jutsu de selamento, muta o alvo targetado" aggressive="1" exhaustion="500" event="script" value="danzou/danzou juinjutsu.lua">
+<vocation id="370"/>	</instant>
+
+<!-- Otsuki Kaguya jutsus -->
+<instant name="Amaisu" words="Amaisu" lvl="50" mana="500" aggressive="1" needtarget="1" range="3" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="kaguya/50.lua">
+<vocation id="310"/>	</instant>
+<instant name="Koutetsu Hirasaka" words="Koutetsu Hirasaka" lvl="100" mana="1000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="kaguya/100.lua">
+<vocation id="310"/>	</instant>
+<instant name="Tomogoroshi" words="Tomogoroshi" lvl="100" mana="1500" aggressive="1" selftarget="1" exhaustion="0" blockwalls="1" desc="BUFF" event="script" value="kaguya/buff.lua">
+<vocation id="310"/>	</instant>
+<instant name="Tomogoroshi Tsoushou" words="Tomogoroshi Tsoushou" lvl="170" mana="1000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="kaguya/170.lua">
+<vocation id="310"/>	</instant>
+<instant name="Yomotsu Hirasaka" words="Yomotsu Hirasaka" lvl="200" mana="2000" aggressive="1" needtarget="1" range="7" exhaustion="500" blockwalls="1" desc="Jutsu de danos ao alvo targetado" event="script" value="kaguya/200.lua">
+<vocation id="310"/>	</instant>
+<instant name="Sawarabi No Mai" words="Sawarabi No Mai" lvl="250" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="kaguya/250.lua">
+<vocation id="310"/>	</instant>
+<instant name="Shikotsumyaku" words="Shikotsumyaku" lvl="300" mana="3000" aggressive="1" needtarget="1" range="4" exhaustion="500" desc="Jutsu de danos ao alvo targetado" blockwalls="1" event="script" value="kaguya/300.lua">
+<vocation id="310"/>	</instant>
+<instant name="Yomotsu Kami No Ai" words="Yomotsu Kami No Ai" lvl="350" mana="3500" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" blockwalls="1" event="script" value="kaguya/350.lua">
+<vocation id="310"/>	</instant>
+ <instant name="Tomogoroshi No Haikotsu" words="Tomogoroshi No Haikotsu" lvl="400" mana="4500" aggressive="1" needtarget="1" desc="Jutsu de danos ao alvo targetado" range="4" exhaustion="500" blockwalls="1" event="script" value="kaguya/400.lua">
+<vocation id="310"/>	</instant>
+<instant name="Omotsu No Zetsu" words="Omotsu No Zetsu" lvl="415" desc="Habilidade de paralizia corporal" mana="2000" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="kaguya/omotsu no zetsu.lua">
+<vocation id="310"/>	</instant>
+<instant name="Ame No Minaka" words="Ame No Minaka:Hyo" lvl="475" mana="7100" aggressive="1" desc="Jutsu de teletransporte levando todos para dimensao de gelo" exhaustion="500" needtarget="0" event="script" value="kaguya/amenominaka.lua">
+<vocation id="310"/>	</instant>
+<instant name="Ame No Minaka" words="Ame No Minaka:Yo" lvl="475" mana="7100" aggressive="1" desc="Jutsu de teletransporte levando todos para dimensao de lava" exhaustion="500" needtarget="0" event="script" value="kaguya/amenominakafogo.lua">
+<vocation id="310"/>	</instant>
+
+  <!--- sai Jutsus -->
+<instant name="Ninpo choujuu giga" words="Ninpo choujuu giga" lvl="50" mana="500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" desc="Jutsu de danos ao alvo targetado" event="script" value="sai/50.lua">
+<vocation id="270"/>	</instant>
+<instant name="Ninpo Nezumi" words="Ninpo Nezumi" lvl="100" mana="1200" exhaustion="500" direction="1" desc="Jutsu de danos Frontline{Reta}" event="script" value="sai/100.lua">
+<vocation id="270"/>	</instant>
+<instant name="!Ninpo Protect" words="Ninpo Protect" lvl="100" mana="1500" aggressive="1" selftarget="1" exhaustion="0" desc="BUFF" blockwalls="1" event="script" value="sai/buff.lua">
+<vocation id="270"/>	</instant>
+<instant name="Sumi Snakes Shower" words="Sumi Snakes Shower" lvl="170" mana="1000" aggressive="1" range="2" desc="Jutsu de danos em area" blockwalls="1" needtarget="0" exhaustion="500" event="script" value="sai/170area.lua">
+<vocation id="270"/>	</instant>
+<instant name="Sumi Choujuu Shower" words="Sumi Choujuu Shower" lvl="170" mana="1000" aggressive="1" range="4" desc="Jutsu de danos ao alvo targetado" blockwalls="1" needtarget="1" exhaustion="500" event="script" value="sai/170.lua">
+<vocation id="270"/>	</instant>
+<instant name="Ninpo Ice" words="Ninpo Ice" lvl="200" mana="1500" aggressive="1" needtarget="1" range="4" desc="Jutsu de danos ao alvo targetado" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="sai/200.lua">
+<vocation id="270"/>	</instant>
+<instant name="Ninpo Choujuu Best" words="Ninpo Choujuu Best" lvl="250" mana="2500" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="sai/250.lua">
+<vocation id="270"/>	</instant>
+<instant name="Kuchyose Nezumi" words="Kuchyose Nezumi" lvl="250" mana="2500" blockwalls="1" exhaustion="1000" event="script" value="sai/nezumi.lua">
+<vocation id="270"/>	</instant>
+<instant name="Sumi Ryuu No Jutsu" words="Sumi Ryuu No Jutsu" lvl="300" mana="3000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="4" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="sai/300.lua">
+<vocation id="270"/>	</instant>
+<instant name="Koshi Tandan" words="Koshi Tandan" lvl="350" mana="4500" aggressive="1" desc="Jutsu de danos ao alvo targetado" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="sai/350.lua">
+<vocation id="270"/>	</instant>
+<instant name="Black Choujuu Giga" words="Black Choujuu Giga" lvl="400" mana="4500" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="4" exhaustion="500" blockwalls="1" event="script" value="sai/400.lua">
+<vocation id="270"/>	</instant>
+<instant name="Kuchyose Choujuu Giga" words="Kuchyose Choujuu Giga" lvl="350" mana="6900" blockwalls="1" exhaustion="1000" event="script" value="sai/giga.lua">
+<vocation id="270"/>	</instant>
+<!-- <instant name="Ninpo Regen" words="Ninpo Regen" lvl="275" mana="2000" aggressive="1" desc="Jutsu de cura em area" needtarget="0" range="4" exhaustion="500" needlearn="0" blockwalls="1" event="script" value="sai/ninpo regen.lua"> -->
+<!-- <vocation id="270"/> -->
+<!-- </instant> -->
+
+<!-- mifune jutsus -->
+<instant name="Ningen Kurosawa" words="Ningen Kurosawa" lvl="100" mana="1500" aggressive="1" selftarget="1" exhaustion="0" desc="BUFF" blockwalls="1" event="script" value="mifune/buff.lua">
+<vocation id="450"/>	</instant>
+<instant name="Kurosawa" words="Kurosawa" lvl="170" mana="1500" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/170.lua">
+<vocation id="450"/>	</instant>
+<instant name="Samurai Sabre Technique" words="Samurai Sabre Technique" lvl="200" mana="3000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/200.lua">
+<vocation id="450"/>	</instant>
+<instant name="Samurai Iaido" words="Samurai Iaido" lvl="250" mana="3000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/250.lua">
+<vocation id="450"/>	</instant>
+<instant name="Kurosawa Iaido" words="Kurosawa Iaido" lvl="300" mana="4000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/300.lua">
+<vocation id="450"/>	</instant>
+<instant name="Kurosawa Iaigiri" words="Kurosawa Iaigiri" lvl="350" mana="5000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/350.lua">
+<vocation id="450"/>	</instant>
+<instant name="Tengai Shigentsu Iaigiri" words="Tengai Shigentsu Iaigiri" lvl="400" mana="6000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="500" blockwalls="1" event="script" value="mifune/400.lua">
+<vocation id="450"/>	</instant>
+<instant name="Samurai Iaido Kurosawa" words="Samurai Iaido Kurosawa" lvl="450" mana="8000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="1000" blockwalls="1" event="script" value="mifune/especial.lua">
+<vocation id="450"/>	</instant>
+<instant name="Samurai Iaigiri Kurosawa" words="Samurai Iaigiri Kurosawa" lvl="450" mana="8000" desc="Jutsu de danos ao alvo targetado" aggressive="1" needtarget="1" range="3" exhaustion="700" blockwalls="1" event="script" value="mifune/fullhit.lua">
+<vocation id="450"/>	</instant>
+
+<!-- nagato jutsus -->
+<instant name="Gofu Kekkai" words="Gofu Kekkai" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="nagato/buff.lua">
+<vocation id="460"/>	</instant>
+<instant name="Kaiwan No Hiya" words="Kaiwan No Hiya" lvl="170" mana="1500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="nagato/170.lua">
+<vocation id="460"/>	</instant>
+<instant name="Chikushodo" words="Chikushodo" lvl="200" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="nagato/200.lua">
+<vocation id="460"/>	</instant>
+<instant name="Futon Bakusui Shoha" words="Futon Bakusui Shoha" lvl="250" mana="3000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="nagato/250.lua">
+<vocation id="460"/>	</instant>
+<instant name="Naraka" words="Naraka" lvl="300" mana="4000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos, a cada danos causado o usuario cura 1% de vida" exhaustion="500" event="script" value="nagato/300.lua">
+<vocation id="460"/>	</instant>
+<instant name="Chibaku Tensei" words="Chibaku Tensei" lvl="350" mana="5000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="nagato/350.lua">
+<vocation id="460"/>	</instant>
+<instant name="Shinsei Chibaku Tensei" words="Shinsei Chibaku Tensei" lvl="400" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="nagato/400.lua">
+<vocation id="460"/>	</instant>
+<instant name="Kuchyose Pain" words="Kuchyose Pain" lvl="425" mana="2500" blockwalls="1" exhaustion="1000" event="script" value="nagato/pain.lua">
+<vocation id="460"/>	</instant>
+ <instant name="Rinne Tensei" words="Rinne Tensei" lvl="500" mana="5140" aggressive="1" needtarget="1" desc="Habilidade que permite reviver alguem" params="1" exhaustion="0" event="script" value="nagato/rinnetensei.lua">
+<vocation id="460"/>	 </instant>
+<instant name="Shinra Tensei" words="Shinra Tensei" lvl="325" aggressive="1" mana="2500" blockwalls="1" exhaustion="1000" event="script" value="nagato/shinratensei.lua">
+<vocation id="460"/>	</instant>
+
+
+<!-- konan jutsus -->
+<instant name="Kami Yari" words="Kami Yari" lvl="100" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/100.lua">
+<vocation id="440"/>	</instant>
+<instant name="Origami no Jutsu" words="Origami no Jutsu" aggressive="1" selftarget="1" lvl="100" mana="1500" desc="BUFF" exhaustion="0" event="script" value="konan/buff.lua">
+<vocation id="440"/>	</instant>
+<instant name="Dai Origami no Jutsu" words="Dai Origami no Jutsu" lvl="170" mana="1500" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/170.lua">
+<vocation id="440"/>	</instant>
+<instant name="Kami no Tsubasa" words="Kami no Tsubasa" lvl="200" mana="2000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/200.lua">
+<vocation id="440"/>	</instant>
+<instant name="Dai Kami Yari" words="Dai Kami Yari" lvl="250" mana="3000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/250.lua">
+<vocation id="440"/>	</instant>
+<instant name="Kami Enko" words="Kami Enko" lvl="300" mana="4000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/300.lua">
+<vocation id="440"/>	</instant>
+<instant name="Shikigami no Mai" words="Shikigami no Mai" lvl="350" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/350.lua">
+<vocation id="440"/>	</instant>
+<instant name="Hijutsu: Kami no Shisha no Jutsu" words="Hijutsu: Kami no Shisha no Jutsu" lvl="350" mana="5000" aggressive="1" range="5" blockwalls="1" needtarget="0" desc="jutsu de danos em area" exhaustion="500" event="script" value="konan/350area.lua">
+<vocation id="440"/>	</instant>
+<instant name="Kibaku Kami" words="Kibaku Kami" lvl="400" mana="6000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="konan/400.lua">
+<vocation id="440"/>	</instant>
+<instant name="Dai Kami Enko" words="Dai Kami Enko" lvl="425" aggressive="1" needtarget="0" mana="2500" blockwalls="1" exhaustion="1000" event="script" value="konan/traparea.lua">
+<vocation id="440"/>	</instant>
+
+<!-- kabuto jutsus -->
+<instant name="Tessenka no Mai:Orochimaru" words="Tessenka no Mai:Orochimaru" lvl="170" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kabuto/170.lua">
+<vocation id="470"/>	</instant>
+<instant name="Senpo Hakugeki no Jutsu" words="Senpo Hakugeki no Jutsu" lvl="200" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kabuto/200.lua">
+<vocation id="470"/>	</instant>
+<instant name="Kuron Hebi" words="Kuron Hebi" lvl="300" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kabuto/300.lua">
+<vocation id="470"/>	</instant>
+<instant name="Senpou Senei Tajashu" words="Senpou Senei Tajashu" lvl="350" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kabuto/350.lua">
+<vocation id="470"/>	</instant>
+<instant name="Mateki:Genreiha" words="Mateki:Genreiha" lvl="400" mana="1000" aggressive="1" range="5" blockwalls="1" needtarget="1" desc="jutsu de danos ao alvo targetado" exhaustion="500" event="script" value="kabuto/400.lua">
+<vocation id="470"/>	</instant>
+
+	<!---monster spell-->
+<instant name="katsu bakurei" words="katsu bakurei" lvl="250" mana="3000" aggressive="1" needtarget="1" range="4" exhaustion="0" needlearn="0" blockwalls="1" event="script" value="summons/big katsu.lua">
+<vocation id="0"/>
+</instant>
+<instant name="explosion c4" words="katsu c4" lvl="250" mana="2500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="summons/explosion c3.lua">
+<vocation id="0"/>
+</instant>
+<instant name="explosive bird" words="explosive bird" lvl="170" mana="1750" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="summons/deidaraexplo.lua">
+ <vocation id="0"/>
+</instant>
+<instant name="Final katsu" words="final katsu" lvl="300" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="500" needlearn="0" event="script" value="summons/final katsu.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Suna Shigure" words="suna shigureeeee" lvl="250" mana="2000" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="summons/sunashigure.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Suna Prision No Jutsu" words="suna prision" lvl="45" mana="4500" prem="0" blockwalls="1" exhaustion="2000" groups="3,2000" icon="127" needlearn="0" event="script" value="gaara/trap.lua">
+<vocation id="0"/>
+ </instant>
+ <instant name="areaminato" words="areaminato" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areaminato.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Sabaku Sousou" words="sabaku sousou" lvl="70" mana="3100" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="summons/sabaku sousou.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Gokusa Maisou" words="gokusa maisou" lvl="120" mana="4500" aggressive="1" range="4" blockwalls="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="summons/gokusa maisou.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Katon Gamabunta Ryukaa" words="Katon NoRyukaa" allowfaruse="1" lvl="65" mana="120" direction="1" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/fireball.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="fogohittarget" words="fogo hit target" allowfaruse="1" needtarget="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/fogareu.lua">     
+<vocation id="0"/>
+</instant>
+
+<instant name="soaguadezabuza" words="so agua de zabuza" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/soaguadezabuza.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadohidan" words="area do hidan" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadohidan.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadoslayer" words="areadoslayer" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areaslayer.lua">
+<vocation id="0"/>
+</instant>
+<instant name="areadakyuubi" words="areadakyuubi" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areakyuubi.lua">
+<vocation id="0"/>
+</instant>
+<instant name="retadoslayer" words="retadoslayer" allowfaruse="1" lvl="65" mana="120" prem="0" direction="1" exhaustion="1000" blocktype="all" enabled="0" script="summons/retaslayer.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="dozabuzaarea" words="do zabuza area" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/dozabuzaarea.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="soraiodebee" words="so raio de bee" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/soraiodebee.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadefogo" words="areadefogo" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadefogo.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadohashi" words="areadohashi" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadohashi.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadodemon" words="areado demon" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadodemon.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="shiroiarea1" words="shiroiarea1" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/shiroiarea1.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="shiroiarea2" words="shiroiarea2" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/shiroiarea2.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="danzouarea" words="danzou area" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/danzouarea.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="temariarea1" words="temariarea1" allowfaruse="1" lvl="65" mana="120" prem="0" direction="1" exhaustion="1000" blocktype="all" enabled="0" script="summons/temariarea1.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadotobirama" words="areadotobirama" allowfaruse="1" lvl="65" mana="120" prem="0" direction="1" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadotobirama.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="sodorikudou" words="sodorikudou" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/sodorikudou.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadoriku" words="areadoriku" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadoriku.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadoriku2" words="areadoriku2" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadoriku2.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="itachiarea1" words="itachiarea1" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/itachiarea1.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="gelimdoboss" words="gelimdoboss" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/gelimdoboss.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="katomstorm" words="katon storm" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/katon storm.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="rajada" words="rajada" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadodradao.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="dead" words="dead" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadodragao.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="rosinhadoboss" words="rosinhadoboss" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/rosinhadoboss.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadecobra" words="areadecobra" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadecobra.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadahebi" words="areadahebi" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadahebi.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="terrinhadoboss" words="terrinhadoboss" allowfaruse="1" lvl="65" mana="120" prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/terrinhadoboss.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="sodopain" words="sodopain" allowfaruse="1" lvl="65" mana="120"  prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/sodopain.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="kankuroattack" words="kankuroattack" allowfaruse="1" lvl="65" mana="120"  prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/kankuroatack.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="areadokakuzu" words="areadokakuzu" allowfaruse="1" lvl="65" mana="120"  prem="0" exhaustion="1000" blocktype="all" enabled="0" script="summons/areadokakuzu.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="strong atack" words="strongatack" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/strongatack.lua">
+<vocation id="0"/>
+</instant>
+<instant name="tayuyatarget" words="tayuyatarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/tayuyatarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="fuyukitarget" words="fuyukitarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/fuyukitarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="gurentarget" words="gurentarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/gurentarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="anbutarget" words="anbutarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/anbutarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="kentarotarget" words="kentarotarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/kentarotarget.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="targetkakuzu" words="target kakuzu" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/targetkakuzu.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="targetkakuzu1" words="target kakuzu1" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/targetkakuzu1.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="tobiramatarget" words="tobirama target" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/tobiramatarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="enmatarget" words="enmatarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/enmatarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="sarutobitarget" words="sarutobitarget" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/sarutobitarget.lua">
+<vocation id="0"/>
+</instant>
+<instant name="sarutobitarget1" words="sarutobitarget1" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/sarutobitarget1.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="ossokimimaro" words="ossokimimaro" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/ossokimimaro.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="infernal" words="infernal" allowfaruse="1" lvl="65" mana="120" needtarget="0" prem="0" exhaustion="3000" direction="1" blocktype="all" enabled="0" script="summons/infernal.lua">
+<vocation id="0"/>
+</instant>
+
+
+<instant name="helicedefogo" words="helicedefogo" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/helicedefogo.lua">
+<vocation id="0"/>
+</instant>
+<instant name="helicedevento" words="helicedevento" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/helicedevento.lua">
+<vocation id="0"/>
+</instant>
+<instant name="helicederaio" words="helicederaio" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/helicederaio.lua">
+<vocation id="0"/>
+</instant>
+<instant name="Kaguyamorte" words="Kaguyamorte" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/kaguyamorte.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="attackgaara" words="attackgaara" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/gaaraarea.lua">
+<vocation id="0"/>
+</instant>
+<instant name="kankuroarea" words="kankuroarea" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/kankuroarea.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="hagoromoarea" words="hagoromoarea" lvl="0" mana="6000" aggressive="1" range="4" blockwalls="1" needtarget="0" exhaustion="1000" needlearn="0" event="script" value="summons/hagoromoarea.lua">
+<vocation id="0"/>
+</instant>
+
+
+
+
+<instant name="cobrinhas" words="cobrinhas" lvl="200" mana="2000" aggressive="1" range="2" blockwalls="0" needtarget="0" exhaustion="1200" needlearn="0" event="script" value="summons/cobrinhas.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Chouza Akimichi" words="chouzaakimichicode" lvl="250" mana="8100" aggressive="1" blockwalls="1" exhaustion="1000" needlearn="0" event="script" value="summons/chouzaakimichi.lua">
+<vocation id="0"/>  
+</instant>
+
+<instant name="Dark Snake" words="dark snake" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/darksnake.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Zetsu follow" words="zetsufollowcode" lvl="40" mana="1400" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="summons/zetsuteste.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Kisame agua" words="kisameaguacode" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="2500" blocktype="all" enabled="0" script="summons/kisameagua.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Kisame dragon" words="kisamedragoncode" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/kisamedragon.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Fogofogo" words="firefire" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/fogofogo.lua">
+<vocation id="0"/>
+</instant>
+
+ <instant name="VeneNodark" words="veneNo dark" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/venenodark.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="SuitonBomba" words="suitonbomba" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/suitonbomba.lua">
+        <vocation id="0"/>
+  </instant>
+   <instant name="Hagoromo Atk" words="Hagoromo Atk" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/hagoromoatk.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Deidara Um" words="passaroum" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/passaro.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Deidara Dois" words="passarodois" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/passarodois.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Pain Missel" words="misselpain" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/missel.lua">
+        <vocation id="0"/>
+  </instant> 
+  <instant name="paingakido" words="paingakido" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/paingakido.lua">
+        <vocation id="0"/>
+  </instant>  
+  <instant name="painnigendo" words="painnigendo" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/painnigendo.lua">
+        <vocation id="0"/>
+  </instant>  
+  <instant name="painchikushodo" words="painchikushodo" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/painchikushodo.lua">
+        <vocation id="0"/>
+  </instant>  
+  <instant name="painjigokudo" words="painjigokudo" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/painjigokudo.lua">
+        <vocation id="0"/>
+  </instant>  
+  <instant name="paindeva1" words="paindeva1" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/paindeva1.lua">
+        <vocation id="0"/>
+  </instant> 
+  <instant name="paindeva2" words="paindeva2" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/paindeva2.lua">
+        <vocation id="0"/>
+  </instant>
+  <instant name="paindeva3" words="paindeva3" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" enabled="0" script="summons/paindeva3.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Hyuton" words="hyuton" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/hyuton.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Dragon Blast" words="dragaodelama" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/dragaodelama.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Dragon Fire" words="dragaodefogo" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/dragaodefogo.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Great Ball" words="boladerocha" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/boladerocha.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Mordida" words="mordidarocha" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/mordida.lua">
+        <vocation id="0"/>
+  </instant> 
+  
+  <instant name="tubaraum" words="tubaraum" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/tubaraum.lua">
+        <vocation id="0"/>
+  </instant>
+  
+  <instant name="shiroitarget1" words="shiroitarget1" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/shiroitarget1.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="God Kill" words="god kill" allowfaruse="1" lvl="9965" mana="120" needtarget="1" prem="0" exhaustion="50000" script="summons/godkill.lua">
+        <vocation id="0"/>        
+  </instant>
+	 <instant name="Hidan" words="hidanatki" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/hidan.lua">
+        <vocation id="0"/>
+  </instant>
+ <instant name="Suitonagua" words="suitonatkagua" allowfaruse="1" lvl="65" mana="120" needtarget="1" prem="0" exhaustion="3000" blocktype="all" enabled="0" script="summons/suitonagua.lua">
+        <vocation id="0"/>
+        </instant>
+<instant name="Tsuuga Kiba" words="tsuugakibacode" lvl="70" needtarget="1" range="4" mana="3600" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="summons/tsuuga.lua">
+<vocation id="0"/></instant>
+<instant name="Temarivento" words="temariventocode" lvl="70" needtarget="1" range="4" mana="3600" aggressive="1"  exhaustion="1000" needlearn="0" event="script" value="summons/temarivento.lua">
+<vocation id="0"/></instant>
+<instant name="Dual Tsuuga Kiba" words="dual tsuugakibacode" lvl="85" needtarget="1" range="4" mana="4200" aggressive="1"  exhaustion="1500" needlearn="0" event="script" value="summons/dualtsuuga.lua">
+<vocation id="0"/></instant>
+<instant name="Wrath of Nature" words="exevo gran mas teradois" lvl="55" mana="770" prem="0" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/wrath of nature.lua">
+<vocation id="0"/></instant>
+<instant name="Wrath of Naturetres" words="exevo gran mas teratres" lvl="55" mana="770" prem="0" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/wrath of naturetres.lua">
+<vocation id="0"/>	</instant>
+<instant name="Kakashi Raikiri" words="kakashiraikiricode" lvl="55" mana="770" prem="0" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/kakashiraikiri.lua">
+<vocation id="0"/>	</instant>
+<instant name="Anko Cobras" words="ankocobrascode" lvl="55" mana="770" prem="0" selftarget="1" exhaustion="2000" needlearn="0" event="script" value="summons/ankocobras.lua">
+<vocation id="0"/>                </instant>
+<instant name="Garra Follow" words="garra follow" lvl="40" mana="1400" aggressive="1"  exhaustion="2000" needlearn="0" event="script" value="summons/garra.lua">
+<vocation id="0"/></instant>
+<instant name="god kills" words="god kills" lvl="10" manapercent="100"  exhaustion="5200" prem="0" event="script" value="kill.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Kirin Hawk" words="kirin hawk" lvl="200" mana="3000" aggressive="1" needtarget="1" exhaustion="0" needlearn="0" event="script" value="summons/kirinhawk.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Melee obito" words="Melee obito" lvl="10" manapercent="100"  needtarget="1" exhaustion="5200" prem="0" event="script" value="summons/meleeobito.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="Heal Areaa" words="heal areaa" lvl="55" mana="2150" prem="0" aggressive="1" exhaustion="1000" needlearn="0" event="script" value="summons/healareaa.lua">
+<vocation id="0"/>
+</instant>
+
+<instant name="power" words="power" lvl="10" manapercent="100"  exhaustion="5200" prem="0" needtarget="1" event="script" value="summons/juubi.lua">
+<vocation id="0"/>
+</instant>
+
+
+</spells>

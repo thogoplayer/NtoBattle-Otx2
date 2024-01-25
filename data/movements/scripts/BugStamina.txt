@@ -1,0 +1,25 @@
+crie um arquivo na pasta creaturescripts chamado 'StaminaBug.lua' e coloque o seguinte código:
+
+local storage = 5612
+
+function onPrepareDeath(cid, deathList)
+	if isPlayer(cid) then
+		setPlayerStorageValue(cid, storage, getPlayerStamina(cid)) -- Salva a Stamina atual do player
+	end
+	return true		
+end
+
+function onLogin(cid)
+	if isPlayer(cid) then
+		local stamina = getPlayerStorageValue(cid, storage)
+		if not stamina == -1 then
+			local newStamina = stamina-getPlayerStamina(cid) --Pega a stamina salva e calcula a diferença com a atual
+			doPlayerAddStamina(newStamina) -- Adiciona a diferença calculada
+			setPlayerStorageValue(cid, storage, -1) -- Remove o valor da storage
+		end
+	end
+	return true
+end
+Agora adicione essas duas tags ao creaturescripts.xml:﻿
+<event type="login" name="StaminaBugLogin" script="StaminaBug.lua">
+<event type="PrepareDeath" name="StaminaBugPrepareDeath" script="StaminaBug.lua">

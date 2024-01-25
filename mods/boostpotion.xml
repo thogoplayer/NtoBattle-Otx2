@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<mod name="Exp Potion" version="1.0" author="Vodkart" contact="DISCORD: vodkart#6090" enabled="yes">
+<config name="exppotion"><![CDATA[
+
+Potions_Rates = {
+    [18337] = {name = "Skill Booster", skill = SKILL_DISTANCE, storages = {987681, 987682}, minutes = 2, new_rate = 7.5}, -- 50%
+    [18336] = {name = "Taijutsu Booster", skill = SKILL_FIST, storages = {987683, 987684}, minutes = 2, new_rate = 1.5}, -- 50%
+    [18335] = {name = "Ninjutsu Booster", skill = SKILL__MAGLEVEL, storages = {987685, 987686}, minutes = 2, new_rate = 1.5} -- 50%
+}
+
+
+function convertTime(a)
+  if(type(tonumber(a)) == "number" and a > 0) then
+    if (a <= 3599) then
+      local minute = math.floor(a/60)
+      local second = a - (60 * minute)
+      if(second == 0) then
+        return ((minute)..((minute > 1) and " minutos" or " minuto"))
+      else
+        return ((minute ~= 0) and ((minute>1) and minute.." minutos e " or minute.." minuto e ").. ((second>1) and second.." segundos" or second.." segundo") or ((second>1) and second.." segundos" or second.. " segundo"))
+      end
+    else
+      local hour = math.floor(a/3600)
+      local minute = math.floor((a - (hour * 3600))/60)
+      local second = (a - (3600 * hour) - (minute * 60))
+      if (minute == 0 and second > 0) then
+        return (hour..((hour > 1) and " horas e " or " hora e "))..(second..((second > 1) and " segundos" or " segundo"))
+      elseif (second == 0 and minute > 0) then
+        return (hour..((hour > 1) and " horas e " or " hora e "))..(minute..((minute > 1) and " minutos" or " minuto"))
+      elseif (second == 0 and minute == 0) then
+        return (hour..((hour > 1) and " horas" or " hora"))
+      end
+      return (hour..((hour > 1) and " horas, " or " hora, "))..(minute..((minute > 1) and " minutos e " or " minuto e "))..(second..((second > 1) and " segundos" or " segundo"))
+    end
+  end
+end
+]]></config>
+<event type="login" name="ExpPotionLogin" event="script"><![CDATA[
+domodlib('exppotion')
+function onLogin(cid)
+   for _, ret in pairs(Potions_Rates) do
+      if getPlayerStorageValue(cid, ret.storages[1]) - os.time() > 0 then
+         registerCreatureEvent(cid, "ExpPotionThink")
+         local rates = 1
+         doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Você ainda tem "..convertTime(getPlayerStorageValue(cid, ret.storages[1]) - os.time()).." de "..ret.name..".")
+         if ret.skill == SKILL__LEVEL then
+            doPlayerSetExperienceRate(cid, rates + ret.new_rate)
+         else
+            doPlayerSetRate(cid, ret.skill, rates + ret.new_rate)
+         end
+         setPlayerStorageValue(cid, ret.storages[2], 1) -- registro
+      end
+   end
+   return true
+end]]></event>
+<event type="think" name="ExpPotionThink" event="script"><![CDATA[
+domodlib('exppotion')
+function onThink(cid, interval)
+   for _, ret in pairs(Potions_Rates) do
+      if getPlayerStorageValue(cid, ret.storages[2]) > 0 and getPlayerStorageValue(cid, ret.storages[1]) - os.time() <= 0 then
+         doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Sua ".. ret.name .." acabou!")
+         local rates = 1
+         if ret.skill == SKILL__LEVEL then
+            doPlayerSetExperienceRate(cid, rates - ret.new_rate)
+         else
+            doPlayerSetRate(cid, ret.skill, rates - ret.new_rate)
+         end
+         setPlayerStorageValue(cid, ret.storages[2], 0) -- registro
+      end
+   end
+   return true
+end]]></event>
+<talkaction words="!scrolltime;/scrolltime;!tscroll;/tscroll" event="buffer"><![CDATA[
+domodlib('exppotion')
+local str ="# POTIONS INFO #\n\n"
+for _, ret in pairs(Potions_Rates) do
+str = str.."["..ret.name.."] -> "..(getPlayerStorageValue(cid, ret.storages[1]) - os.time() <= 0 and "Não ativo" or "voce tem "..convertTime(getPlayerStorageValue(cid, ret.storages[1]) - os.time()).." de ".. ret.name).."\n"
+end
+return doPlayerPopupFYI(cid, str)  
+]]></talkaction>
+<action itemid="18337;18336;18335" event="script"><![CDATA[
+domodlib('exppotion')
+function onUse(cid, item, fromPosition, itemEx, toPosition)
+    if not Potions_Rates[item.itemid] then return true end
+    local ret = Potions_Rates[item.itemid]
+    if getPlayerStorageValue(cid, ret.storages[1]) - os.time() > 0 then
+        doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Você não pode usar outra "..ret.name..". Você já possui uma Ativa. E Ainda restam: "..convertTime(getPlayerStorageValue(cid, ret.storages[1]) - os.time())..".") return true
+    end
+    local rates = 1
+    doPlayerSendTextMessage(cid, MESSAGE_STATUS_CONSOLE_ORANGE, "Você ativou ".. ret.name .." por "..ret.minutes.." minutos! Durante este tempo, você receberá + ".. string.format("%.1f", ret.new_rate) * 100 .."% de skill Extra de Qualquer Mob. Para saber o tempo, digite: /scrolltime") 
+    setPlayerStorageValue(cid, ret.storages[1], os.time()+ret.minutes*60)
+    setPlayerStorageValue(cid, ret.storages[2], 1)
+    if ret.skill == SKILL__LEVEL then
+        doPlayerSetExperienceRate(cid, rates + ret.new_rate)
+    else
+        doPlayerSetRate(cid, ret.skill, rates + ret.new_rate)
+    end
+    registerCreatureEvent(cid, "ExpPotionThink")
+    doRemoveItem(item.uid)
+    return true
+end]]></action>
+</mod>

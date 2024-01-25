@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Suzuya" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1626" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, I'm buying some items, if you are interested in selling me something say {trade}."/>
+		<parameter key="shop_sellable" value="Akatsuki Fragment,10690,1950; Blue Sphere,10558,450; Blue Sulphur,12267,650; Canine Fang,5467,855; Cyan Leaf,17427,1355; Desert Sulphur,12266,555; Fire Bug,5468,385; Giant Eye,11191,1185; Magic Essence,11155,685; Monther Soil,8305,485; Red Cloth,12384,685; Renegade Essence,6500,485;" />
+	</parameters>
+</npc>

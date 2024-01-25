@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="3Hokage" script="data/npc/scripts/saga/sarutobi.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="366" head="38" body="79" legs="107" feet="114"/>
+	<parameters>
+  <parameter key="message_greet" value="Very good {shinobi}, today he showed his full potential in the arena, you have a bright future."/>
+    </parameters></npc>

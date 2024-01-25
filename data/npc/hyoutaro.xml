@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hyoutaro" script="data/npc/scripts/travel/hayatotravel.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1808" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Welcome, I am in charge of taking you to the paradisiac {island} that belongs to the dominant guild, do you want to go now?." />
+  </parameters>
+</npc>

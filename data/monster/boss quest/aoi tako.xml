@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Aoi Tako" nameDescription="a Aoi Tako[BOSS]" race="blood" experience="41000" speed="550" manacost="0">
+	<health now="4455000" max="4455000"/>
+	<look type="806" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="4"/>
+	</flags> 
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-4000" max="-5000"/>
+		<attack name="gelimdoboss" interval="5000" chance="100" radius="4" target="1" min="-15440" max="-16600">        
+		</attack>
+		<attack name="soaguadezabuza" interval="1000" chance="100" radius="4" target="1" min="-11440" max="-12600">        
+		</attack>	
+		<attack name="Kawarimi no Jutsu" interval="8000" chance="100" radius="4" target="0" min="-300" max="-360">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="4000" max="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		<element raitonPercent="-10"/>
+		<element suitonPercent="30"/>
+		<element fuutonPercent="15"/>
+	</elements>
+</monster>

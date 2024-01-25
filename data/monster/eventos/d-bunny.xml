@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="D-Bunny" nameDescription="a D-Bunny[Animal]" race="blood" experience="1000" speed="500" manacost="0">
+	<health now="35500" max="35500"/>
+	<look type="667" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="5000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="8"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<loot>
+	<item id="5949" countmax="1" chance="1000"/><!-- beach backpack -->
+		<item id="10540" countmax="100" chance="8000"/><!-- small chakra -->
+		<item id="10541" countmax="100" chance="8000"/><!-- small health -->
+		<item id="17163" countmax="1" chance="4000"/><!-- medal d -->
+		<item id="15250" countmax="1" chance="2000"/><!-- scroll -->
+	</loot>
+</monster>
+

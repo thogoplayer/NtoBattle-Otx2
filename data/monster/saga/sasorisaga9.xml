@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sasori " nameDescription="a sasori" saga="9" missao="3" race="blood" experience="9600" speed="700" manacost="0">
+	<health now="1256200" max="1256200"/>
+	<look type="383" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="4"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>
+	<script>
+	<event name="sagadeath"/>
+    </script>
+	<attacks>
+		<attack name="melee" interval="1500" min="-780" max="-900"/>
+		<attack name="Kugutsu Kesshu" interval="2350" chance="100" radius="4" target="1" min="-17480" max="-22480">
+		</attack>
+		<attack name="Satetsu Kesshu" interval="1000" chance="100" radius="4" target="1" min="-9480" max="-12480">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+			<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+	<elements>
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		<immunity invisible="0"/>
+	</immunities>
+</monster>

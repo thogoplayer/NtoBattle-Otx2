@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Ryu Dragon" nameDescription="Ryu Dragon[Animal]" race="blood" experience="17200" speed="450" manacost="0">
+	<health now="245200" max="245200"/>
+	<look type="797" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	
+	<attacks>
+		<attack name="melee" interval="1000" min="-110" max="-140"/>
+		<attack name="Katon Gamabunta Ryukaa" interval="5000" chance="100" radius="2" target="0" min="-9440" max="-12440">
+		</attack>
+		<attack name="sodopain" interval="1000" chance="100" radius="2" target="0" min="-11440" max="-12440">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="11155" countmax="2" chance="6000"/><!-- magic essence -->
+		<item id="10712" countmax="4" chance="7000"/><!-- pill -->
+		<item id="5930" countmax="1" chance="6000"/><!-- frezing star -->
+		<item id="5875" countmax="1" chance="2000"/><!-- frezing star -->
+	</loot>
+
+</monster>

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Genetic Shin" nameDescription="Genetic Shin[Human]" race="blood" experience="17200" speed="650" manacost="0">
+	<health now="205200" max="205200"/>
+	<look type="1858" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-11110" max="-12140"/>
+		<attack name="Strong atack" interval="2000" chance="100" radius="2" target="0" min="-7440" max="-8440">
+		</attack>
+	</attacks>
+
+</monster>

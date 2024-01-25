@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Red Renegade" nameDescription="a Red Renegade[BOSS]" race="blood" experience="14000" speed="650" manacost="0">
+	<health now="2125500" max="2125500"/>
+	<look type="1381" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag boss="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="3"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-9770" max="-10780"/>
+		<attack name="manadrain" interval="1000" chance="10" range="5" min="-622" max="-922">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="tubaraum" interval="3500" chance="100" radius="4" target="0" min="-8440" max="-9440">
+		</attack>
+		<attack name="dozabuzaarea" interval="1000" chance="100" radius="4" target="1" min="-6100" max="-7600">        
+		</attack>
+	</attacks>
+
+	<voices interval="10000" chance="100">
+		<voice sentence="Acha mesmo que alguem como você ira me parar?." yell="1"/>
+	</voices>
+</monster>

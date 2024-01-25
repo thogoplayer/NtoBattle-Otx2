@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Saiken" nameDescription="a Saiken[Bijuu]" race="blood" experience="0" speed="700" manacost="0">
+	<health now="8930000" max="8930000"/>
+	<look type="505" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1500" min="-1280" max="-1700"/>
+		<attack name="manadrain" interval="1000" chance="10" range="7" min="-60" max="-575">
+		<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		
+		<attack name="Ultimatee Bijuu Dama" interval="4000" chance="100"  target="1" min="-11300" max="-12500">
+		</attack>
+		<attack name="Bijuu Dama" interval="5000" chance="100"  target="1" min="-16300" max="-17500">
+		</attack>
+		<attack name="San Toppuu" interval="1000" chance="100"  target="1" min="-7300" max="-8500">
+		</attack>
+		<attack name="Firudorimujinsutikki" interval="3000" chance="100"  target="1" min="-8300" max="-9500">
+		</attack>
+		
+		<attack name="speed" interval="8000" chance="10" radius="4" target="1" speedchange="-800" duration="4000">
+		<attribute key="areaEffect" value="rednote"/>
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		 
+		 
+		 
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		 
+		<immunity paralyze="1"/>
+		 
+		 
+		<immunity invisible="0"/>
+	</immunities>
+	<loot>
+		<item id="10703" countmax="1" chance="4000"/><!-- robuki tail -->
+		<item id="13893" countmax="35" chance="25000"/><!-- yonbi armor -->
+		<item id="2160" countmax="25" chance="25000"/><!-- yonbi armor -->
+		<item id="19185" countmax="1" chance="10000"/><!-- Dungeon Bronze Key -->
+	</loot>
+</monster>

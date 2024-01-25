@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Danzou" nameDescription="a Danzou[BOSS]" race="blood" experience="45000" speed="400" manacost="0">
+	<health now="19455000" max="19455000"/>
+	<look type="25" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-12600" max="-15980"/>
+		<attack name="areadoslayer" interval="1000" chance="100" radius="4" target="0" min="-19440" max="-28600">        
+		</attack>
+		<attack name="retadoslayer" interval="4500" chance="100" radius="4" target="0" min="-27440" max="-35600">        
+		</attack>
+			<attack name="Kawarimi no Jutsu" interval="8000" chance="100" radius="4" target="0" min="-300" max="-360">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="100" min="4000" max="4000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+</monster>

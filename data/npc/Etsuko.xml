@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Etsuko" script="data/npc/scripts/travel/parcel.lua" floorchange="0" access="5" level="1" maglevel="1">
+	<health now="150" max="150"/>
+	<look type="77" head="20" body="39" legs="45" feet="7" addons="3"/>
+	<parameters>
+		<parameter key="module_shop" value="1" />
+		<parameter key="shop_buyable" value="parcel,2595,15;label,2599,5" />
+	</parameters>
+</npc>

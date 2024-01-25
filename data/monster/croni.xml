@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Clone" nameDescription="a clone" race="blood"  speed="0" manacost="300">
+	<health now="50" max="50"/>
+	<look type="192" corpse="0"/>
+	<targetchange interval="2000" chance="0"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="0"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>
+</monster>

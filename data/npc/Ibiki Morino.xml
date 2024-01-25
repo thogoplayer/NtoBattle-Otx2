@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ibiki Morino" script="data/npc/scripts/saga/chuninexame.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="592" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="haHAha, entao achas que tens capacidade de ser um chunin |PLAYERNAME|? Veremos sua capacidade para isso, apenas me responda uma pergunta e podera prosseguir, Qual pais fica konoha?{ajuda}" />
+  </parameters>
+</npc>

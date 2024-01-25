@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Shiro" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="735" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello. Welcome to my store. Do I have any items available? You are interested? {Trade}."/>
+		<parameter key="shop_buyable" value="Haku Mask,12306,158000;Anbu Mask,12333,24000;Anbu Mask,12332,240000;Anbu Mask,12331,240000;Konoha Forehead,2480,172200;Suna Forehead,2481,170000;Puppet Head,12445,190000;" />
+		<parameter key="shop_sellable" value="Haku Mask,12306,8000;Akatsuki Hat,12328,10000;Anbu Mask,12333,9000;Anbu Mask,12332,9000;Anbu Mask,12331,9550;Anbu Leader Mask,15791,15010;Konoha Forehead,2480,7220;Suna Forehead,2481,7000;Puppet Head,12445,12000;Nibi Mask,11677,47210;Jiraya Forehead,3968,17210;Black Anbu Mask,11071,15210;Hanzo Mask,15783,18210;Kakashi Mask,11066,14580;" />
+	</parameters>
+</npc>

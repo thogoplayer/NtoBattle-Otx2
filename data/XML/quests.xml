@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quests>
+<quest name="Saga System" startstorageid="40000" startstoragevalue="-1">
+
+<mission name="0 - Beginning of a journey" storageid="40100" startvalue="0" endvalue="2">
+			<missionstate id="1" description="Talk to Iruka Sensei at Shinobi Academy to help you on your ninja path"/>
+			<missionstate id="2" description="Finished!"/>
+</mission>
+
+<mission name="1 - A traitor in konoha" storageid="40101" startvalue="1" endvalue="6">
+			<missionstate id="1" description="1: Mizuki awaits you in front of the Hokage building, don't delay!"/>
+			<missionstate id="2" description="2: Enter the Hokage building inside her room and look for the forbidden scroll and get it;"/>
+			<missionstate id="3" description="3: Escape to the forest from the south gate of konoha;"/>
+			<missionstate id="4" description="4: Talk to the mizuki and defeat him;"/>
+			<missionstate id="5" description="5: Talk to Iruka Sensei, your path to a gennin is near."/>
+			<missionstate id="6" description="Finished!"/>
+</mission>
+
+<mission name="2 - Training with Kakashi" storageid="40102" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Kakashi awaits you at the southern gate of Konoha to start your training, don't be late !!;"/>
+			<missionstate id="2" description="2: Escape from Kakashi's vision, hide behind bushes;"/>
+			<missionstate id="3" description="3: Prepare to ambush him, hide behind a tree;"/>
+			<missionstate id="4" description="4: Defeat Kakashi"/>
+			<missionstate id="5" description="Finished!"/>
+		</mission>
+
+<mission name="3 - The ninja of the hidden fog" storageid="40103" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Talk to the III Hokage at the top of the Hokage building;"/>
+			<missionstate id="2" description="2: Find and talk to Tazuna (builder), he is waiting for you on the bridge that leads to Kirigakure No Sato;"/>
+			<missionstate id="3" description="3: Defeat Haku, you will find him following the path across the bridge;"/>
+			<missionstate id="4" description="4: Defeat Zabuza."/>
+			<missionstate id="5" description="Finished!"/>
+		</mission>
+
+<mission name="4 - Exame Chunin" storageid="40104" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Talk to Ibiki Morino at Academia Shinoi, he will assist you for the Chunin exam;"/>
+			<missionstate id="2" description="2: Talk to Anko at the entrance to the Chunin Exam area;"/>
+			<missionstate id="3" description="3: Proceed through the forest of death;"/>
+			<missionstate id="4" description="4: Fight orochimaru;"/>
+			<missionstate id="5" description="5: Defeat the teams and collect the 2 scrolls (sun and moon);"/>
+			<missionstate id="6" description="6: Find the Examiner in the Chunin Exam area, prepare for elimination;"/>
+			<missionstate id="7" description="7: Defeat all opponents;"/>
+			<missionstate id="8" description="8: Give the certificate to the Third Hokage."/>
+			<missionstate id="9" description="Finished!"/>
+		</mission>
+
+<mission name="5 - Gaara is a threat" storageid="40105" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Talk to Kakashi, he is waiting for you at the southern gate of Konoha;"/>
+			<missionstate id="2" description="2: Find and Defeat Temari, they were spotted following a path south of the road leading to south forest;"/>
+			<missionstate id="3" description="3: Find and Defeat Kankuro;"/>
+			<missionstate id="4" description="4: Find and Defeat Gaara, was spotted in south forest."/>
+			<missionstate id="5" description="Finished!"/>
+		</mission>
+
+<mission name="6 - Lendarios Sannins" storageid="40106" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Talk to the Jiraya who is in the vicinity of the konoha dp;"/>
+			<missionstate id="2" description="2: Tsunade is currently out of konoha, look for her and help her with whatever she needs;"/>
+			<missionstate id="3" description="3: Help Tsunade to defeat kabuto;"/>
+			<missionstate id="4" description="4: Help Tsunade to defeat Orochimaru."/>
+			<missionstate id="5" description="Finished!"/>
+		</mission>
+
+<mission name="7 - Battle against Sasuke" storageid="40107" startvalue="1" endvalue="3">
+			<missionstate id="1" description="1: Talk to Sasuke at Konoha Hospital;"/>
+			<missionstate id="2" description="2: defeat Sasuke."/>
+			<missionstate id="3" description="Finished!"/>
+		</mission>		
+
+<mission name="8 - Sasuke Rescue" storageid="40108" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Talk to Kakashi, he is waiting for you to leave on a mission in front of the South Gate of Konoha"/>
+			<missionstate id="2" description="2: Talk to Shikamaru to help you on this mission"/>
+			<missionstate id="3" description="3: Take the konoha path to South forest and find and Defeat Jiroubou;"/>
+			<missionstate id="4" description="4: Find and Defeat Kidomaru;"/>
+			<missionstate id="5" description="5: Find and Defeat Sakon;"/>
+			<missionstate id="6" description="6: Find and Defeat Tayuya;"/>
+			<missionstate id="7" description="7: Find and Defeat Kimimaro;"/>
+			<missionstate id="8" description="8: Proceed to the waterfall in the valley at the end, there you will find Sasuke, get ready for battle."/>
+			<missionstate id="9" description="Finished!"/>
+		</mission>
+
+<mission name="9 - Gaara Rescue" storageid="40109" startvalue="1" endvalue="7">
+			<missionstate id="1" description="1: Talk to Tsunade in the Hokage building, a mission is waiting for you;"/>
+			<missionstate id="2" description="2: Talk to Grandma Chiyo, she is in front of the Kazekage building in SunaGakure No Sato;"/>
+			<missionstate id="3" description="3: Find and Defeat Sasori;"/>
+			<missionstate id="4" description="4: Find and Defeat Deidara;"/>
+			<missionstate id="5" description="5: Talk to grandma chiyo;"/>
+			<missionstate id="6" description="6: Healing Ninjutsu: Revive Gaara, press your body to transfer chakra to it"/>
+			<missionstate id="7" description="Finished!"/>
+		</mission>
+
+<mission name="10 - Orochimaru's new hideout" storageid="40110" startvalue="1" endvalue="8">
+			<missionstate id="1" description="1: Find Sai, test your strength by fighting him;"/>
+			<missionstate id="2" description="2: Talk to Yamato who is near the konoha anbu barracks"/>
+			<missionstate id="3" description="3: Go to the Tenchi bridge to meet the spy located on lost island after SunaGakure no Sato"/>
+			<missionstate id="4" description="4: Chat with Kabuto Yakushi"/>
+			<missionstate id="5" description="5: Defeat the Orochimaru"/>
+			<missionstate id="6" description="6: Find Orochimaru's hideout"/>
+			<missionstate id="7" description="7: Find and Defeat Sasuke"/>
+			<missionstate id="8" description="Finished!"/>
+		</mission>
+
+<mission name="11 - Akatsuki was found" storageid="40111" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Chat with Yamato"/>
+			<missionstate id="2" description="2: Defeat Hidan"/>
+			<missionstate id="3" description="3: Defeat Kakuzu"/>
+			<missionstate id="4" description="Finished!"/>
+		</mission>			
+
+<mission name="12 - The rise of the hebi" storageid="40112" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Chat with Orochimaru"/>
+			<missionstate id="2" description="2: Defeat 1000 Ninjas"/>
+			<missionstate id="3" description="3: Defeat Orochimaru"/>
+			<missionstate id="4" description="Finished!"/>
+		</mission>		
+		
+<mission name="13 - Uchiha Ties" storageid="40113" startvalue="1" endvalue="4">
+			<missionstate id="1" description="1: Follow the path to the old Uchiha base"/>
+			<missionstate id="2" description="2: Defeat Deidara"/>
+			<missionstate id="3" description="3: Defeat Itachi"/>
+			<missionstate id="4" description="Finished!"/>
+		</mission>
+		
+<mission name="14 - The host of 8 Tails" storageid="40114" startvalue="1" endvalue="5">
+			<missionstate id="1" description="1: Look for Tobi, he's in hiding in South Forest"/>
+			<missionstate id="2" description="2: Go to KumoGakure and capture the 8 Tails"/>
+			<missionstate id="3" description="3: Defeat Killer Bee"/>
+			<missionstate id="4" description="4: Defeat Hachibi"/>
+			<missionstate id="5" description="Finished!"/>
+		</mission>		
+	
+<mission name="15 - Destruction of konoha" storageid="40115" startvalue="1" endvalue="9">
+			<missionstate id="1" description="1: Chat with Tsunade in the Hokage building"/>
+			<missionstate id="2" description="2: Chat with Fukasaku"/>
+			<missionstate id="3" description="3: Train in the Frog Statues"/>
+			<missionstate id="4" description="4: Chat with Fukasaku"/>
+			<missionstate id="5" description="5: Defeat the Gamabunta"/>
+			<missionstate id="6" description="6: Chat with Fukasaku"/>
+			<missionstate id="7" description="7: Pain destroyed konoha, defeat him"/>
+			<missionstate id="8" description="8: Chat with Nagato"/>
+			<missionstate id="9" description="Finished!"/>
+		</mission>
+	
+</quest>
+
+</quests>

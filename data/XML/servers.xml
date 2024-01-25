@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<servers>
+	<server id="1" name="Shinobi" versionMin="860" versionMax="860" address="127.0.0.1" port="7171"/>
+	<server id="2" name="Legacy" versionMin="860" versionMax="860" address="127.0.0.1" port="7171"/>
+	<server id="3" name="Legend" versionMin="860" versionMax="860" address="127.0.0.1" port="7171"/>
+	<server id="4" name="Mirage" versionMin="860" versionMax="860" address="127.0.0.1" port="7171"/>
+	<server id="5" name="Storm" versionMin="860" versionMax="860" address="127.0.0.1" port="7171"/>
+</servers>

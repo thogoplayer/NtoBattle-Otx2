@@ -1,0 +1,4 @@
+<npc name="Koji" script="data/npc/scripts/sell/loot.lua" access="5" lookdir="1">
+    <health now="1000" max="1000"/>
+<look type="26" head="0" body="86" legs="0" feet="38" addons="1"/>
+</npc>  

@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Beezer" nameDescription="Beezer[Insect]" race="VENOM" experience="5" speed="390" manacost="0">
+	<health now="450" max="450"/>
+	<look type="1001" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<strategy attack="100" defense="0"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="1"/>
+		<flag canpushitems="0"/>
+		<flag canpushcreatures="0"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="90"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>
+	<attacks>
+		<attack name="melee" interval="2000" skill="5" attack="15"/>
+	</attacks>
+		<loot>
+		<item id="2148" countmax="1" chance="20000"/><!-- coin -->
+	</loot>
+	<defenses armor="2" defense="9"/>
+</monster>

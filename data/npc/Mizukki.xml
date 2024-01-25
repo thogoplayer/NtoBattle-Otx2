@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Mizuki " script="data/npc/scripts/saga/mizuki.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="712" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Veio mesmo com o pergaminho ate aqui |PLAYERNAME|. Nao sabia que voce era tao burro a ponto de acreditar em mim, mas e agoooraa estaa pronto para {lutar}?" />
+  </parameters>
+</npc>

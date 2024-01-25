@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Seiji" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1749" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello. Welcome to my store. Do I have any items available? You are interested? {Trade}."/>
+		<parameter key="shop_sellable" value="Senbone,2543,100;kage shuriken raiton,7427,26320;doton shuriken,7426,29625;infernal shuriken,16478,42525;bomb explosive,5452,234;war shuriken,11080,11225;densetsu,2378,18225;densetsu,2381,21225;densetsu,2380,27225;dual slayer,12257,9225;salamander glover,11679,15425;sharp glover,7898,9225;taijutsu chakra glover,12284,17225;lee taijutsu glover,12283,13225;spectro sword,11673,14225;kunai staff,12293,22225;katana,7900,11900;kabutowari,12028,74225;spectro sword,11673,14225;" />
+	</parameters>
+</npc>

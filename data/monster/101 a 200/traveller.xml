@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Traveller" nameDescription="Traveller[Human]" race="blood" experience="980" speed="450" manacost="0">
+	<health now="35250" max="35250"/>
+	<look type="1374" head="0" body="94" legs="79" feet="79" corpse="19259"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-5110" max="-6140"/>
+	</attacks>
+	<loot>
+		<item id="2152" countmax="76" chance="29000"/><!-- dollar -->
+	</loot>
+</monster>

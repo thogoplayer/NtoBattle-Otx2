@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Orochimaru " nameDescription="a orochimaru" saga="4" missao="4"  race="blood" experience="600" speed="400" manacost="0">
+	<health now="225000" max="225000"/>
+	<look type="317" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>
+	    <script>
+	<event name="sagafourmfours"/>
+    </script>
+	<attacks>
+		<attack name="melee" interval="1500" min="-780" max="-900"/>
+		<attack name="manadrain" interval="500" chance="10" range="7" min="-40" max="-85">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</attack>
+		<attack name="mordida" interval="1000" chance="100" radius="4" target="1" min="-2480" max="-3480">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="40" speedchange="450" duration="8000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	
+	<voices interval="5000" chance="10">
+		<voice sentence="Shhhhhh!" yell="1"/>
+		<voice sentence="Hm.hmmm..humm...shhhh.."/>
+	</voices>
+</monster>

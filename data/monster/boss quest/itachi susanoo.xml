@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Itachi Susanoo" nameDescription="a Itachi Susanoo[BOSS]" race="blood" experience="81000" speed="750" manacost="0">
+	<health now="34455000" max="64455000"/>
+	<look type="963" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag boss="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-0" max="-0"/>
+		<attack name="Enton:Yasaka Magatama" interval="8500" chance="100" radius="4" target="0" min="-29440" max="-38440">
+		</attack>
+		<attack name="Katon:Hosenka Tsumaberi" interval="2000" chance="100" radius="4" target="1" min="-4100" max="-5600">        
+		</attack>
+		<attack name="itachiarea1" interval="2500" chance="100" radius="4" target="0" min="-64440" max="-67440">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<voices interval="10000" chance="100">
+		<voice sentence="Ser forte não é tudo isso. Ser forte significa que você se tornará arrogante e egoísta. Mesmo que você nunca tivesse desejado isso.." yell="1"/>
+	</voices>
+		<elements>
+		<element poisonPercent="10"/>
+		<element firePercent="10"/>
+		<element suitonPercent="10"/>
+		<element fuutonPercent="20"/>
+		<element dotonPercent="20"/>
+		<element raitonPercent="10"/>
+		<element mokutonPercent="10"/>
+		<element shotonPercent="10"/>
+		<element sunaPercent="10"/>
+		<element entonPercent="0"/>
+		<element hyotonPercent="10"/>
+		<element yotonPercent="-10"/>
+		<element rantonPercent="20"/>
+		<element bakutonPercent="0"/>
+		<element shakutonPercent="0"/>
+		<element futtonPercent="-15"/>
+		<element jintonPercent="10"/>
+		<element satetsuPercent="10"/>
+		<element taijutsuPercent="10"/>
+		<element yinPercent="0"/>
+		<element yangPercent="0"/>
+	</elements>
+			<loot>
+		<item id="11057" countmax="1" chance="1000"/><!-- jp ienes -->
+	</loot>
+</monster>

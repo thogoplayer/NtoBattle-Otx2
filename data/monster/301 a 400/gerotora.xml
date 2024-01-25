@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Gerotora" nameDescription="Gerotora [Monster]" race="blood" experience="7700" speed="450" manacost="0">
+	<health now="135000" max="135000"/>
+	<look type="570" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-3110" max="-4140"/>
+		<attack name="Katon Gamabunta Ryukaa" interval="5000" chance="60" radius="2" target="0" min="-3440" max="-5440">
+		</attack>
+		<attack name="Katon No Jutsu!" interval="1000" chance="60" radius="2" target="0" min="-6440" max="-6440">
+		</attack>
+	</attacks>
+	<loot>
+		<item id="3968" countmax="1" chance="4000"/><!-- jiraya hat -->
+		<item id="11241" countmax="1" chance="2000"/><!-- jiraya shirt -->
+	</loot>
+</monster>

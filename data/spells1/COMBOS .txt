@@ -1,0 +1,43 @@
+=========================================================lista de combos=======================================================================
+=============================================--------------------------FREE'S------------------------========================================
+auto 100 listas "sai" | setcolor 0 500 500 | isattacking say "Black Choujuu Giga" | isattacking say "Sumi Ryuu No Jutsu" | isattacking say "Sumi Choujuu Shower" | isattacking say "Ninpo Ice " |
+auto 100 listas "jiraya" | setcolor 0 500 500 | isattacking say "Cho Odama Rasengan" | isattacking say "Tsuin Rasengan" | isattacking say "Kebari Senbon" | isattacking say "Katon Gamayu Endan" | 
+auto 100 listas "sasuke" | setcolor 0 500 500 | isattacking say "Big Susano Atack" | isattacking say "Susanoo Kagutsuchi" | isattacking say "Kirin" | isattacking say "Amaterasu"
+auto 100 listas "kankuro" | setcolor 0 500 500 | isattacking say "Dokukiri Kuroari " | isattacking say "Kuroari Hokaku" | isattacking say "Dokukiri Jigoku" | isattacking say "ippatsu Kuroari Explosion" |
+auto 100 listas "suigetsu" | setcolor 0 500 500 | isattacking say "Suijin Saiishou No Jutsu" | isattacking say "Horyu Raika no Jutsu" | isattacking say "Suiton Suiryudan" | isattacking say "Suiryudan Saishou No Jutsu " |
+auto 100 listas "ino" | setcolor 0 500 500 | isattacking say "Choshinka" | isattacking say "Ninpo Shingetsu Ichirin" | isattacking say "Nikudan Yoyo " | isattacking say "Ninpo Hyouka Ryoran " |
+auto 100 listas "hinata" | setcolor 0 500 500 | isattacking say "Noen Jokiryu No Jutsu" | isattacking say "Celestic Hakkeshou Dai Kaiten" | isattacking say "juuken kushou" | isattacking say "Juhou Soshiken" |
+auto 100 listas "naruto" | setcolor 0 500 500 | isattacking say "Senpou Youton Rasenshuriken " | isattacking say "Fuuton Rasenshuriken" | isattacking say "Rasenshuriken" | isattacking say "Kyuubi Punch" |
+auto 100 listas "lee" | setcolor 0 500 500 | isattacking say "Daigouken Shofu" | isattacking say "Ura Renge " | isattacking say "Konoha Renge" | isattacking say "Konoha Daisenpu" |
+auto 100 listas "gaara" | setcolor 0 500 500 | isattacking say "Sabaku Shudan " | isattacking say "Sabako Mosayko No Jutsu" | isattacking say "Ryuusa Bakuryu" | isattacking say "Suna Shigure" | 
+auto 100 listas "haku" | setcolor 0 500 500 | isattacking say "Makyou No Jutsu" | isattacking say "Hissatsu Hyoso " | isattacking say "Makyou Kairyudan" |   isattacking say "Senbone No Jutsu" |
+auto 100 listas "orochimaru" | setcolor 0 500 500 | isattacking say "Yamata no Jutsu" | isattacking say "Byakko Hebi" | isattacking say "Big Snake Atack" | isattacking say "Posion Max"
+auto 100 listas "shikamaru" | setcolor 0 500 500 | isattacking say "Kagemane Kubi Noshuku" | isattacking say "Kagemani Ni Kubi " | isattacking say "Kage Kubi Shibari " | isattacking say "Kage Nui " |
+auto 100 listas "sasori" | setcolor 0 500 500 | isattacking say "Dai Hitokugutsu " | isattacking say "Hitokugutsu" | isattacking say "Satetsu Kesshu" | isattacking say "Satetsu Kaiho" |
+auto 100 listas "hidan" | setcolor 0 500 500 | isattacking say "Shikishinsei" | isattacking say "Jinketsu Jashin Hyuoki" | isattacking say "Shiki Hyouki " | isattacking say "Jashin Shijinhyuke" |
+auto 100 listas "kakashi" | setcolor 0 500 500 | isattacking say "Raiton Shiden " | isattacking say "Suiton Suiryudan Shokai " | isattacking say "Mangekyou Kamui" | isattacking say "Concentrate Raikiri " |
+auto 100 listas "killer bee" | setcolor 0 500 500 | isattacking say "Hachibi Energy" | isattacking say "Double Lariat" | isattacking say "Raiton Fang" | isattacking say "Raiton Chinbou " |
+auto 100 listas "onoki" | setcolor 0 500 500 | isattacking say "Jinton Genkai Hakuri" | isattacking say "Doton Kajitsu Komyo " | isattacking say "Doton Tenkai Shounem" | isattacking say "Jinton Genkai kujontsu" | 
+auto 100 listas "tenten" | setcolor 0 500 500 | isattacking say "Sou Jin Souryuu Tensakai" | isattacking say "Dai buki No nami" | isattacking say "Soushouryuu" | isattacking say "Bashousen No Kai" | 
+auto 100 listas "tenten" | setcolor 0 500 500 | isattacking say "Sou Jin Souryuu Tensakai" | isattacking say "Dai buki No nami" | isattacking say "Soushouryuu" | isattacking say "Bashousen No Kai" | 
+-------------------------------/////////////////========================/////////////////////////===================--------------------------//////////////////////////-------------------=================================
+===========================================-------------------------------Vip's----------------------------=================================================
+auto 100 listas "guy" | setcolor 0 500 500 | isattacking say "Senpo Yagai" | isattacking say "Sekizo" | isattacking say "Hirudora" | isattacking say "Koyubi Kougeki " |
+auto 100 listas "itachi" | setcolor 0 500 500 | isattacking say "yasaka no magatama" | isattacking say "Eterno Tsukuyomi " | isattacking say "Amaterasu" | isattacking say "fuumetsu shuriken" |
+auto 100 listas "minato" | setcolor 0 500 500 | isattacking say "Senpo Taikyoku Rasengan" | isattacking say "Hiraishin Ni No Dan" | isattacking say "Chodan Rasengan " | isattacking say "Kyuubi Punch" |
+auto 100 listas "tobirama" | setcolor 0 500 500 | isattacking say "Suijinshoha No Jutsu" | isattacking say "Shinjei Suiton Mikuzami " | isattacking say "Suijin Saishou No Jutsu" | isattacking say "Suiton Dragon No Jutsu " |
+auto 100 listas "obito rikudou" | setcolor 0 500 500 | isattacking say "Gakidou Kyukan" | isattacking say "Gudodama" | isattacking say "Gudo Shizukan" | isattacking say "Gedo Gokakyu No Jutsu " |
+auto 100 listas "obito" | setcolor 0 500 500 | isattacking say "Katon Bakufu Ranbu" | isattacking say "Daisorin"  | isattacking say "kamui" | isattacking say "Mokuton Sashiki no Jutsu "
+auto 100 listas "tsunade" | setcolor 0 500 500 | isattacking say "Tsuutenkyaku" | isattacking say "Chuusuusei No Mesu kyaku" | isattacking say "Ranshinsho" | isattacking say "Taihou Kyaku No Jutsu" |
+auto 100 listas "hashi" | setcolor 0 500 500 | isattacking say "Senpou Mokuton Shin Susenju" | isattacking say "Senpo Mokuton Susenju" |  isattacking say "Mokuton Suishu" |  isattacking say "Mokuton Daijurin " | 
+auto 100 listas "shisui" | setcolor 0 500 500 | isattacking say "Shunshin No Shisui" | isattacking say "Katon karyu endan" | isattacking say "Katon Ryuen Goka" | isattacking say "Kotoamatsukami" |
+auto 100 listas "guren" | setcolor 0 500 500 | isattacking say "Suisho Kyumio Roi Rokkakuchu " | isattacking say "kessho gokakuro" | isattacking say "Karyuu Ryuken No Shoton" | isattacking say "suisho rokkakuchu " |
+auto 100 listas "danzou" | setcolor 0 500 500 | isattacking say "Oki Shinku Kyu " | isattacking say "Tekina No Shokan" | isattacking say "Mokuton Senboru Kyodai" | isattacking say "Shokan tekunikku Baku" |
+auto 100 listas "kaguya" | setcolor 0 500 500 | isattacking say "Tomogoroshi No Haikotsu" | isattacking say "Shikotsumyaku" | isattacking say "Tomogoroshi Tsoushou" | isattacking say "Yomotsu Hirasaka" |
+auto 100 listas "madara" | setcolor 0 500 500 | isattacking say "Tenso Tsuisei" | isattacking say "Susano Attack" | isattacking say "Housenka No Jutsu" |   isattacking say "Mokuton Jukai Heki" |
+auto 100 listas "madara rikudou" | setcolor 0 500 500 | isattacking say "Gakido Kyukan" | isattacking say "Tengai Ryusei" | isattacking say "Yin Mode Raiton Tempest" |   isattacking say "Gudoodama" |
+auto 100 listas "raikage" | setcolor 0 500 500 | isattacking say "Raiton Ningu Sutoreto " | isattacking say "Double Lariat" | isattacking say "Raiger Bomb" | isattacking say "Raiton Soturo Shiden" | 
+----------////////////=====================///////////////-------------------------------=====================
+=============================================COMBOS BIJUU--------------===================================
+auto 100 listas "Shukaku" | setcolor 0 500 500 | isattacking say "Bijuu Furie"| isattacking say "Bijuu Dama"| isattacking say "Demonic Ichibi " | isattacking say "Fuuton Sasandan" | isattacking say "Fuuton Renkuudan" | isattacking say "Suna Mihui" |
+

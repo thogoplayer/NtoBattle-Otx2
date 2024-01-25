@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Bunshin Yondaime" nameDescription="Minato Bunshin[Bunshin-Boss]" race="blood" experience="0" speed="390" manacost="0">
+	<health now="2221250" max="2221250"/>
+	<look type="243" head="0" body="94" legs="79" feet="79" corpse="0"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+	  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-110" max="-140"/>
+		<attack name="Rasenrengan" interval="1000" chance="100" radius="3" target="1" min="-11440" max="-21440">
+		</attack>
+		<attack name="Hiraishin Rasengan" interval="3500" chance="100" radius="3" target="1" min="-11440" max="-21440">
+		</attack>
+	</attacks>
+</monster>

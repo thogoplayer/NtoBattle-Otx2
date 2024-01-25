@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ebisu Sensei" script="data/npc/scripts/saga/ebisusensei.lua" walkinterval="2000" speed="0" floorchange="0">
+	<health now="100" max="100"/>
+	<look type="786" head="38" body="79" legs="107" feet="114"/>
+	<parameters>
+  <parameter key="message_greet" value="Ola.. Para poder fazer o exame {jounin} deves me entregar algum comprante de um graduado Jounin dizendo que qui tens valor para fazer o Exame. "/>
+    </parameters></npc>

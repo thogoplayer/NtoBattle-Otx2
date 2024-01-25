@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Giant Yoth" nameDescription="Giant Yoth[Evento-Natal-2020]" race="blood" experience="14400" speed="450" manacost="0">
+	<health now="5255650" max="5255650"/>
+	<look type="553" head="0" body="94" legs="79" feet="79" corpse="5527"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> <flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-3110" max="-4140"/>
+	</attacks>
+	<loot>
+		<item id="2688" countmax="15" chance="82661"/><!-- candy -->
+		<item id="6512" countmax="1" chance="60345"/><!-- doll -->
+	</loot>
+</monster>

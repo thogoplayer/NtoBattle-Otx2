@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hyoshimaru" script="data/npc/scripts/itemgold.lua" walkinterval="0" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="1342"/>
+<parameters>
+<parameter key="message_greet" value="Ola Sr. Tenho alguns items para negociar por Barras de oura.{trade}." />
+</parameters>
+</npc>

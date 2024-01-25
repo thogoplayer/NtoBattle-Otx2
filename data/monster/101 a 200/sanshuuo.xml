@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Sanshuuo" nameDescription="Sanshuuo[Demon Puppet]" race="VENOM" experience="800" speed="350" manacost="0">
+	<health now="59250" max="59250"/>
+	<look type="568" head="0" body="94" legs="79" feet="79" corpse="19258"/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="5"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1000" min="-1110" max="-1140"/>
+		<attack name="VeneNodark" interval="1000" chance="100" radius="4" target="1" min="-1640" max="-2200">
+		</attack>
+	</attacks>
+		<loot>
+		<item id="12392" countmax="90" chance="15000"/><!-- sand shurikens -->
+	</loot>
+
+</monster>

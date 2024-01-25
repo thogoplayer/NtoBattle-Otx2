@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<movements>
+	<!-- Stamina tile-->
+	<!-- fonte tile-->
+	<movevent type="StepIn" actionid="8489" event="script" value="stamina.lua"/>
+    <movevent type="StepOut" actionid="8489" event="script" value="stamina.lua"/>﻿
+	<!-- entrada/saida tile-->
+    <movevent type="StepIn" actionid="8977" event="script" value="staminamov.lua"/>﻿

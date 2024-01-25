@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<vocations>
+<vocation id="0" name="None" description="none" needpremium="0" corpseid="17891" gaincap="5" gainhp="5" gainmana="5" gainhpticks="6" gainhpamount="1" gainmanaticks="6" gainmanaamount="1" manamultiplier="4.0" attackspeed="200" soulmax="100" gainsoulticks="120" ratespeed="2.0" basespeed="300" fromvoc="0" attackable="no">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.0" magHealingDamage="1.0" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Naruto -->	
+<vocation id="1" name="Uzumaki Naruto" description="Uzumaki Naruto" needpremium="0" corpseid="17882" gaincap="20" gainhp="200" gainmana="215" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="1">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Sasuke -->
+<vocation id="10" name="Uchiha Sasuke" description="Uchiha Sasuke" needpremium="0" canseelimbo = "1" corpseid="17883" gaincap="20" gainhp="190" gainmana="205" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="10">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Rock Lee -->
+<vocation id="20" name="Rock Lee" description="Rock Lee" needpremium="0" gaincap="20" corpseid="17890" gainhp="200" gainmana="170" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="170" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="20">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Sakura -->
+<vocation id="30" name="Sakura Haruno" description="Sakura Haruno" needpremium="0" corpseid="17884" gaincap="20" gainhp="215" gainmana="225" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="30">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Gaara -->		
+<vocation id="40" name="Gaara" description="Gaara" needpremium="0" gaincap="20" corpseid="17891" gainhp="195" gainmana="195" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="195" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="40">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Neji -->		
+<vocation id="50" name="Neji Hyuga" description="Neji Hyuga" needpremium="0" corpseid="17888" gaincap="20" gainhp="190" gainmana="225" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="50">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kiba -->
+<vocation id="60" name="Kiba Inuzuka" description="Kiba Inuzuka" needpremium="0"  corpseid="17886" gaincap="20" gainhp="185" gainmana="200" gainhpticks="1" gainhpamount="185" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="60">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Shikamaru -->
+<vocation id="70" name="Shikamaru Nara" description="Shikamaru Nara" needpremium="0" corpseid="17885" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="70">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Hinata -->	
+<vocation id="80" name="Hinata Hyuga" description="Hinata Hyuga" needpremium="0" corpseid="17887" gaincap="20" gainhp="210" gainmana="190" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="80">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Tenten -->	
+<vocation id="90" name="Mitsashi Tenten" description="Mitsashi Tenten" needpremium="0" corpseid="10969" gaincap="20" gainhp="225" gainmana="230" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="230" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="90">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Itachi -->					
+<vocation id="100" name="Uchiha Itachi" description="Uchiha Itachi" needpremium="0" corpseid="17900" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="100">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Killer Bee -->
+<vocation id="110" name="Killer Bee" description="Killer Bee" needpremium="0" corpseid="17895" gaincap="20" gainhp="210" gainmana="235" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="235" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="110">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kakashi -->	
+<vocation id="120" name="Hatake Kakashi" description="Hatake kakashi" needpremium="0" corpseid="17893" gaincap="20" gainhp="200" gainmana="175" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="175" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="120">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Obito -->	
+<vocation id="130" name="Uchiha Obito" description="Uchiha Obito" needpremium="0" canseelimbo="1" corpseid="17903" gaincap="20" gainhp="190" gainmana="210" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="210" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="130">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Rikudou Obito -->
+<vocation id="132" name="Rikudou Obito" description="Rikudou Obito" canseelimbo = "1" needpremium="0" corpseid="17903" gaincap="20" gainhp="190" gainmana="210" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="132">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Madara -->	
+<vocation id="140" name="Uchiha Madara" description="Uchiha Madara" needpremium="0" canseelimbo="1" corpseid="10962" gaincap="20" gainhp="215" gainmana="215" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="140">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Rikudou Madara -->
+<vocation id="142" name="Rikudou Madara" description="Rikudou Madara" canseelimbo = "1" needpremium="0" corpseid="10962" gaincap="20" gainhp="215" gainmana="215" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="142">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Nagato -->	
+<vocation id="150" name="Uzumaki Nagato" description="Uzumaki Nagato" needpremium="0" corpseid="10963" gaincap="20" gainhp="200" gainmana="205" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="150">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kisame -->
+<vocation id="160" name="Kisame" description="Kisame" needpremium="0" corpseid="17902" gaincap="20" gainhp="195" gainmana="200" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="160">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kankuro -->
+<vocation id="170" name="Kankuro" description="Kankuro" needpremium="0" corpseid="17894" gaincap="20" gainhp="200" gainmana="195" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="195" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="170">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Minato -->
+<vocation id="180" name="Namikaze Minato" description="Namikaze Minato" needpremium="0" corpseid="17905" gaincap="20" gainhp="200" gainmana="215" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="180">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Jiraya -->
+<vocation id="190" name="Jiraya" description="Jiraya" needpremium="0" corpseid="10774" gaincap="20" gainhp="225" gainmana="200" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="190">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Ay -->
+<vocation id="200" name="Ay" description="Ay" needpremium="0" corpseid="10957" gaincap="20" gainhp="225" gainmana="190" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="200">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Orochimaru -->	
+<vocation id="210" name="Orochimaru" description="Orochimaru" needpremium="0" corpseid="17914" gaincap="20" gainhp="195" gainmana="235" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="235" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="210">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Temari -->
+<vocation id="220" name="Temari" description="Temari" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Yamato -->
+<vocation id="230" name="Yamato" description="Yamato" needpremium="0" corpseid="17911" gaincap="20" gainhp="210" gainmana="220" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="220" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="230">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Deidara -->
+<vocation id="240" name="Deidara" description="Deidara" needpremium="0" corpseid="10999" gaincap="20" gainhp="185" gainmana="195" gainhpticks="1" gainhpamount="185" gainmanaticks="1" gainmanaamount="195" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="240">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Tobirama -->
+<vocation id="250" name="Senju Tobirama" description="Senju Tobirama" needpremium="0" corpseid="10968" gaincap="20" gainhp="200" gainmana="205" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="250">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Shisui -->
+<vocation id="260" name="Uchiha Shisui" description="Uchiha Shisui" needpremium="0" corpseid="17913" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="260">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Sai -->	
+<vocation id="270" name="Sai" description="Sai" needpremium="0" corpseid="17897" gaincap="20" gainhp="195" gainmana="205" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="270">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Hashirama -->	
+<vocation id="280" name="Senju Hashirama" description="Senju Hashirama" needpremium="0" corpseid="17899" gaincap="20" gainhp="225" gainmana="225" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="400" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="280">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Haku -->	
+<vocation id="290" name="Koori Haku" description="Koori Haku" needpremium="0" corpseid="12084" gaincap="20" gainhp="180" gainmana="200" gainhpticks="1" gainhpamount="180" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="290">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Guren -->	
+<vocation id="300" name="Guren" description="Guren" needpremium="0" corpseid="11005" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="300">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kaguya -->	
+<vocation id="310" name="Otsutsuki Kaguya" description="Otsutsuki Kaguya" needpremium="0" corpseid="12075" gaincap="20" gainhp="210" gainmana="230" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="230" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="310">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+		
+<!-- Sasori -->		
+<vocation id="320" name="Akasuna Sasori" description="Akasuna Sasori" needpremium="0" corpseid="11006" gaincap="20" gainhp="190" gainmana="190" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="320">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Tsunade -->
+<vocation id="330" name="Senju Tsunade" description="Senju Tsunade" needpremium="0" corpseid="10939" gaincap="20" gainhp="225" gainmana="225" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="330">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Ino -->
+<vocation id="340" name="Ino Yamanaka" description="Ino Yamanaka" needpremium="0" corpseid="17889" gaincap="20" gainhp="215" gainmana="205" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="340">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Suigetsu -->
+<vocation id="350" name="Suigetsu Hozuki" description="Suigetsu Hozuki" needpremium="0" corpseid="17907" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="350">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Hidan -->
+<vocation id="360" name="Hidan" description="Hidan" needpremium="0" corpseid="11007" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="360">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Danzou -->
+<vocation id="370" name="Danzou Shimura" description="Danzou Shimura" needpremium="0" corpseid="10959" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="370">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Guy -->
+<vocation id="380" name="Might Guy" description="Might Guy" needpremium="0" corpseid="17898" gaincap="20" gainhp="210" gainmana="200" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="380">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Onoki -->
+<vocation id="390" name="Tsuchikage Onoki" description="Tsuchikage Onoki" needpremium="0" corpseid="11008" gaincap="20" gainhp="200" gainmana="220" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="220" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="390">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kurenai -->
+<vocation id="400" name="Kurenai Yuhi" description="Kurenai Yuhi" needpremium="0" corpseid="17891" gaincap="20" gainhp="215" gainmana="235" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="235" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="400">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!--Tsuchikage Mu -->
+<vocation id="410" name="Tsuchikage Mu" description="Tsuchikage Mu" needpremium="0" corpseid="17891" gaincap="20" gainhp="190" gainmana="230" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="230" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="410">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Sarutobi -->
+<vocation id="420" name="Hiruzen Sarutobi" description="Hiruzen Sarutobi" needpremium="0" corpseid="10991" gaincap="20" gainhp="195" gainmana="225" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="420">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kakuzu -->
+<vocation id="430" name="Kakuzu" description="Kakuzu" needpremium="0" corpseid="10952" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="430">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Konan -->
+<vocation id="440" name="Konan" description="Konan" needpremium="0" corpseid="17891" gaincap="20" gainhp="200" gainmana="200" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="440">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Mifune -->
+<vocation id="450" name="Mifune" description="Mifune" needpremium="0" corpseid="17891" gaincap="20" gainhp="190" gainmana="225" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="450">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Nagato -->
+<vocation id="460" name="Uzumaki Nagato" description="Uzumaki Nagato" needpremium="0" corpseid="10963" gaincap="20" gainhp="200" gainmana="205" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="205" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="460">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kabuto -->
+<vocation id="470" name="Yakushi Kabuto" description="Yakushi Kabuto" needpremium="0" corpseid="10938" gaincap="20" gainhp="205" gainmana="225" gainhpticks="1" gainhpamount="205" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="470">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Ashura -->
+<vocation id="480" name="Otsutsuki Ashura" description="Otsutsuki Ashura" needpremium="0" corpseid="17899" gaincap="20" gainhp="225" gainmana="225" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="400" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="280">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Choji -->
+<vocation id="490" name="Akimichi Choji" description="Akimichi Choji" needpremium="0" gaincap="20" corpseid="17890" gainhp="200" gainmana="170" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="170" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="20">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Indra -->	
+<vocation id="500" name="Otsutsuki Indra" description="Otsutsuki Indra" needpremium="0" canseelimbo="1" corpseid="10962" gaincap="20" gainhp="215" gainmana="215" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="140">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Karin -->
+<vocation id="510" name="Uzumaki Karin" description="Uzumaki Karin" needpremium="0" corpseid="17884" gaincap="20" gainhp="215" gainmana="225" gainhpticks="1" gainhpamount="215" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="30">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Kimimaro -->
+<vocation id="520" name="Kaguya Kimimaro" description="Kaguya Kimimaro" needpremium="0" gaincap="20" corpseid="17890" gainhp="200" gainmana="170" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="170" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="20">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Mei -->
+<vocation id="530" name="Terumi Mei" description="Terumi Mei" needpremium="0" corpseid="11008" gaincap="20" gainhp="200" gainmana="220" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="220" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="390">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Shino -->
+<vocation id="540" name="Aburame Shino" description="Aburame Shino" needpremium="0" corpseid="17894" gaincap="20" gainhp="200" gainmana="195" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="195" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="170">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Zabuza -->
+<vocation id="550" name="Momochi Zabuza" description="Momochi Zabuza" needpremium="0" corpseid="17902" gaincap="20" gainhp="195" gainmana="200" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="160">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Ameyuri -->
+<vocation id="560" name="Ringo Ameyuri" description="Ringo Ameyuri" needpremium="0" corpseid="17902" gaincap="20" gainhp="195" gainmana="200" gainhpticks="1" gainhpamount="195" gainmanaticks="1" gainmanaamount="200" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="160">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Darui -->
+<vocation id="570" name="Darui" description="Darui" needpremium="0" corpseid="17895" gaincap="20" gainhp="210" gainmana="235" gainhpticks="1" gainhpamount="210" gainmanaticks="1" gainmanaamount="235" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="110">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Asuma -->
+<vocation id="580" name="Sarutobi Asuma" description="Sarutobi Asuma" needpremium="0" corpseid="17891" gaincap="20" gainhp="190" gainmana="225" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="450">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Fu -->
+<vocation id="590" name="Fu" description="Fu" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Hanzou -->
+<vocation id="600" name="Hanzou" description="Hanzou" needpremium="0" corpseid="17891" gaincap="20" gainhp="190" gainmana="225" gainhpticks="1" gainhpamount="190" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="450">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.1" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Han -->
+<vocation id="610" name="Han" description="Han" needpremium="0" gaincap="20" corpseid="17890" gainhp="200" gainmana="170" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="170" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="20">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Juugo -->
+<vocation id="620" name="Juugo" description="Juugo" needpremium="0" gaincap="20" corpseid="17890" gainhp="200" gainmana="170" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="170" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="20">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>	
+
+<!-- Konohamaru -->	
+<vocation id="630" name="Sarutobi Konohamaru" description="Sarutobi Konohamaru" needpremium="0" corpseid="17882" gaincap="20" gainhp="200" gainmana="215" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="215" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="1">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Roshi -->
+<vocation id="640" name="Roshi" description="Roshi" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Utakata -->
+<vocation id="650" name="Utakata" description="Utakata" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Yagura -->
+<vocation id="660" name="Yagura" description="Yagura" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Yugito Nii -->
+<vocation id="670" name="Yugito Nii" description="Yugito Nii" needpremium="0" corpseid="17908" gaincap="20" gainhp="200" gainmana="190" gainhpticks="1" gainhpamount="200" gainmanaticks="1" gainmanaamount="190" manamultiplier="1.1" attackspeed="500" soulmax="150" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="220">
+<formula meleeDamage="1.0" distDamage="1.1" gloveDamage="1.0" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+<!-- Zetsu -->
+<vocation id="680" name="Zetsu" description="Zetsu" needpremium="0" corpseid="17899" gaincap="20" gainhp="225" gainmana="225" gainhpticks="1" gainhpamount="225" gainmanaticks="1" gainmanaamount="225" manamultiplier="1.1" attackspeed="500" soulmax="400" gainsoulticks="60" ratespeed="2.0" basespeed="300" fromvoc="280">
+<formula meleeDamage="1.0" distDamage="1.0" gloveDamage="1.1" swordDamage="1.0" wandDamage="1.0" magDamage="1.5" magHealingDamage="1.1" defense="1.0" magdefense="1.0" armor="1.0"/>
+<skill fist="1.1" club="1.1" sword="1.1" axe="1.1" distance="1.1" shielding="1.1" fishing="1.1" experience="0.5"/>
+</vocation>
+
+</vocations>

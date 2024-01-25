@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Ino Yamanaka" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1787" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, welcome to my store, we are currently out of stocks to sell so we are looking for adventurers to collect some leaves and flowers, we are buying at a great price, if you are interested in selling say {trade}."/>
+		<parameter key="shop_sellable" value="Lilac Leaf,17429,5200;Blue Leaf,17428,34900;Yellow Leaf,17426,8250;Red Leaf,17425,6580;" />
+	</parameters>
+</npc>

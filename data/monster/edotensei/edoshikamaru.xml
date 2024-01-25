@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="[Edo Tensei]Shikamaru" nameDescription="Shikamaru[Edo-Tensei]" race="blood" experience="0" speed="720" manacost="0">
+	<health now="455000" max="455000"/>
+	<look type="413" head="0" body="94" legs="79" feet="79" corpse=""/>
+	<targetchange interval="5000" chance="8"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+	</flags>  
+	<attacks>
+		<attack name="melee" interval="1500" min="-3000" max="-4000"/>
+	</attacks>
+	<defenses armor="80" defense="80">
+			<defense name="healing" interval="5000" chance="100" min="10000" max="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+	</defenses>
+</monster>

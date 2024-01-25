@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Hiroto" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="1349" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola.Eu sou o Hiroto, Estou tendo algumas replicas de amuletos da hokage gostaria de comprar um? {trade}."/>
+		<parameter key="shop_buyable" value="Replic Hokage Necklace,15485,1500000" />
+	</parameters>
+</npc>

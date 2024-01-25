@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kakashi" script="data/npc/scripts/saga/kkakashi.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="165" head="19" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Ola |PLAYERNAME| precisa de algo? {sim} ou {nao}?" />
+	</parameters>
+</npc>

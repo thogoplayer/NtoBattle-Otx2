@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Turist" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="140" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Ola |PLAYERNAME|. Vendo items belissimos, diga {trade} e vamos fazer um negocio."/>
+		<parameter key="shop_sellable" value="senbow,2547,150;elite shuriken,2546,130;big shuriken,2399,150" />
+		<parameter key="shop_buyable" value="chunin legs,8851,10000;speed boots,2525,100000;chakra boots,7417,500000;elite kunai,2416,350;taijutsu glove,2380,300;katana imperium,2376,100000;kankuru hat,7438,5000;jounin armor,2400,100000;chakra armor,2397,25000;sound glove,2435,70000;leaft jounin protector,7427,100000" />
+	</parameters>
+</npc>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Kuro" script="data/npc/scripts/default.lua" floorchange="0" speed="0">
+	<health now="100" max="100"/>
+	<look type="734" head="57" body="59" legs="40" feet="76" corpse="2212"/>
+	<parameters>
+		<parameter key="module_shop" value="1"/>
+		<parameter key="message_greet" value="Hello, I buy and sell items, if you are interested in something or want to sell me something say {trade}."/>
+		<parameter key="shop_buyable" value="Haku Tunic,12298,124900;Kiba Shirt,12446,97050;Gaara Tunic,10449,99000;" />
+		<parameter key="shop_sellable" value="Anbu Armor,12289,8280;Haku Tunic,12298,9490;Chouji Armor,8852,9980;Kiba Shirt,12446,7000;Orochimaru Tunic,2487,10000;Jiraya Shirt,11241,15585;Sakura Skirt,2483,30000;Dressing Kunoichi,10706,14225;Gaara Tunic,10449,9590;Akatsuki Tunic,10494,13000;" />
+	</parameters>
+</npc>

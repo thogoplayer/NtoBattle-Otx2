@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<weapons>
+           <!-- sword's-->
+	<melee id="10064" event="script" value="sword/gunbai.lua"/>
+	<melee id="11673" event="script" value="sword/gunbai.lua"/>
+	<melee id="10370" event="script" value="sword/gunbai.lua"/>
+	<melee id="10378" event="script" value="sword/chakra blade.lua"/>
+	<melee id="10337" event="script" value="sword/shibuki.lua"/>
+	<melee id="2658" event="script" value="sword/zabuza.lua"/>
+	<melee id="12256" event="script" value="sword/raijin.lua"/>
+	<melee id="12028" event="script" value="sword/kabutowari.lua"/>
+	<melee id="11059" event="script" value="sword/hidan.lua"/>
+	<melee id="11190" event="script" value="sword/bee.lua"/>
+	<melee id="10493" event="script" value="sword/chidorikatana.lua"/>
+	<melee id="12294" event="script" value="sword/sameheda.lua"/>
+	<melee id="10510" event="script" value="sword/hiraishin.lua"/>
+	<melee id="12295" event="script" value="sword/elite kunai.lua"/>
+	<melee id="12293" event="script" value="sword/kunai staff.lua"/>
+	<melee id="2417" event="script" value="sword/ninja sword.lua"/>
+	<melee id="12255" event="script" value="sword/raiton sword.lua"/>
+	<melee id="11160" event="script" value="sword/espadao.lua"/>
+	<melee id="11212" event="script" value="sword/fundadorblade.lua"/>
+	<melee id="3967" event="script" value="sword/samehadaopen.lua"/>
+	
+	      <!-- glover's -->
+	<melee id="11088" event="script" value="glover/furieglove.lua"/>
+	<melee id="2391" event="script" value="glover/magestic.lua"/>
+	<melee id="12288" event="script" value="glover/slayer.lua"/>
+	<melee id="15482" event="script" value="glover/demon.lua"/>
+	<melee id="12257" event="script" value="glover/slayer.lua"/>
+	<melee id="7898" event="script" value="glover/slayer.lua"/>
+	<melee id="11679" event="script" value="glover/salamander.lua"/>
+	<melee id="12316" event="script" value="glover/raikage glover.lua"/>
+	<melee id="15484" event="script" value="glover/kage glover.lua"/>
+	<melee id="15483" event="script" value="glover/red glover.lua"/>
+	<melee id="12261" event="script" value="glover/red glover.lua"/>
+	<melee id="12327" event="script" value="glover/red glover.lua"/>
+	<melee id="12284" event="script" value="glover/taijutsu glover.lua"/>
+	<melee id="12283" event="script" value="glover/taijutsu glover.lua"/>
+	<melee id="12258" event="script" value="glover/taijutsu glover.lua"/>
+	<melee id="12296" event="script" value="glover/taijutsu glover.lua"/>
+	<melee id="12303" event="script" value="glover/sound.lua"/>
+	<melee id="10043" event="script" value="glover/fundadorglover.lua"/>
+	
+	<melee id="10524" level="375" event="function" value="default"> <!-- Kusanagi -->
+		<vocation id="10"/>
+	</melee>
+	
+	      <!-- distance -->
+	<distance id="7430" event="script" value="distance/kagefire.lua"/>
+	<distance id="10512" event="script" value="distance/bashousen.lua"/>
+	<distance id="10490" event="script" value="distance/densetsu.lua"/>
+	<distance id="10707" event="script" value="distance/akatdensetsu.lua"/>
+	<distance id="12254" event="script" value="distance/kunaiexplosive.lua"/>
+	<distance id="7426" event="script" value="distance/dotonshuriken.lua"/>
+	<distance id="12330" event="script" value="distance/kageshuriken.lua"/>
+	<distance id="7427" event="script" value="distance/raitonshuriken.lua"/>
+	<distance id="2389" event="script" value="distance/demonicshuriken.lua"/>
+	<distance id="11452" event="script" value="distance/bomb.lua"/>
+	<distance id="2543" event="script" value="distance/senbone.lua"/>
+	<distance id="2545" event="script" value="distance/shuriken.lua"/>
+	<distance id="16478" event="script" value="distance/infernal shuriken.lua"/>
+	<distance id="11123" event="script" value="distance/barisuta.lua"/>
+	<distance id="16379" event="script" value="distance/kaguya cetro.lua"/>
+	<distance id="11147" event="script" value="distance/kaguya cetro.lua"/>
+	<distance id="10428" event="script" value="distance/fundadorshuriken.lua"/>
+</weapons>

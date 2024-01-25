@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Uchiha Itachi" nameDescription="a Uchiha Itachi[BOSS]" race="blood" experience="67900" speed="550" manacost="0">
+	<health now="34455000" max="34455000"/>
+	<look type="139" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag illusionable="0"/>
+		<flag boss="1"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-5770" max="-6760"/>
+		<attack name="itachiarea1" interval="3500" chance="100" radius="4" target="0" min="-21440" max="-31440">
+		</attack>
+		<attack name="Katon:Hosenka Tsumaberi" interval="1500" chance="100" radius="4" target="1" min="-11100" max="-13600">        
+		</attack>
+			<attack name="Kawarimi no Jutsu" interval="14000" chance="60" radius="4" target="0" min="-300" max="-360">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="4000" chance="40" min="300" max="300">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+	<elements>
+		 
+		 
+		 
+		<element deathPercent="0"/>
+	</elements>
+	<immunities>
+		 
+		 
+		 
+		<immunity paralyze="1"/>
+		<immunity invisible="0"/>
+	</immunities>
+	<voices interval="10000" chance="100">
+		<voice sentence="Ser forte não é tudo isso. Ser forte significa que você se tornará arrogante e egoísta. Mesmo que você nunca tivesse desejado isso.." yell="1"/>
+	</voices>
+</monster>

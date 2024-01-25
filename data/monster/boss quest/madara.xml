@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<monster name="Madara" nameDescription="a Madara[Boss]" race="blood" experience="88790" speed="450" manacost="0">
+	<health now="24455000" max="24455000"/>
+	<look type="227" head="0" body="94" legs="79" feet="79" corpse="19264"/>
+	<targetchange interval="9000" chance="100"/>
+	<strategy attack="90" defense="20"/>
+	<flags>
+		<flag summonable="1"/>
+		<flag attackable="1"/>
+		<flag hostile="1"/>
+		<flag boss="1"/>
+		<flag illusionable="0"/>
+		<flag convinceable="1"/>
+		<flag pushable="0"/>
+		<flag canpushitems="1"/>
+		<flag canpushcreatures="1"/>
+		<flag targetdistance="1"/>
+		<flag staticattack="65"/>
+		<flag passive="0" /> 
+		<flag runonhealth="0"/>
+		<flag skull="5"/>
+	</flags>  
+  <script>
+    <event name="tpquests"/>
+  </script>
+	<attacks>
+		<attack name="melee" interval="1000" min="-5900" max="-6000"/>
+		<attack name="Susano attack" interval="6000" chance="100" radius="4" target="1" min="-13440" max="-15600">
+		</attack>	
+		<attack name="Katon Kairyudan No Jutsu" interval="1200" chance="100" radius="4" target="1" min="-11440" max="-12600">
+		</attack>	
+		<attack name="katomstorm" interval="3300" chance="100" radius="4" target="1" min="-17040" max="-18260">
+		</attack>
+			<attack name="Kawarimi no Jutsu" interval="19000" chance="70" radius="4" target="0" min="-5300" max="-6360">
+		</attack>
+	</attacks>
+	<defenses armor="80" defense="80">
+		<defense name="healing" interval="2000" chance="100" min="10000" max="10000">
+			<attribute key="areaEffect" value="blueshimmer"/>
+	</defense>
+		<defense name="speed" interval="4000" chance="10" speedchange="450" duration="3000">
+			<attribute key="areaEffect" value="redshimmer"/>
+		</defense>
+	</defenses>
+		<elements>
+		<element poisonPercent="10"/>
+		<element firePercent="10"/>
+		<element suitonPercent="10"/>
+		<element fuutonPercent="10"/>
+		<element dotonPercent="10"/>
+		<element raitonPercent="10"/>
+		<element mokutonPercent="10"/>
+		<element shotonPercent="10"/>
+		<element sunaPercent="10"/>
+		<element entonPercent="10"/>
+		<element hyotonPercent="10"/>
+		<element yotonPercent="10"/>
+		<element rantonPercent="10"/>
+		<element bakutonPercent="10"/>
+		<element shakutonPercent="10"/>
+		<element futtonPercent="10"/>
+		<element jintonPercent="10"/>
+		<element satetsuPercent="10"/>
+		<element taijutsuPercent="10"/>
+		<element yinPercent="10"/>
+		<element yangPercent="10"/>
+	</elements>
+	<voices interval="10000" chance="100">
+		<voice sentence="Eu uchiha madara irei acabar com todos.." yell="1"/>
+	</voices>
+		<loot>
+		<item id="10064" countmax="1" chance="1000"/><!-- gunbai -->
+	</loot>
+</monster>

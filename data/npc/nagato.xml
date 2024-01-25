@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc name="Nagato" script="data/npc/scripts/saga/nagato.lua" walkinterval="2000" speed="0" floorchange="0">
+<health now="100" max="100"/>
+<look type="265" head="88" body="113" legs="95" feet="115" addons="0"/>
+  <parameters>
+    <parameter key="message_greet" value="Nos somos apenas homens,atraidos para agir em nome da vinganca que julgamos ser a justica,gerando mais vinganca...
+	Forjando o primeiro elo da cadeia de ódio.
+	Aceitar a morte de alguem e dificil.Nos nos convencemos de que essa pessoa nao podia morrer.Voce pode tentar encontrar um significado da morte,
+	mas so ha dor.Um odio insuportável.
+	Mortes sem sentido... Odio eterno e dor que nao passa, ainda acredito que um dia haja {paz} neste mundo,estarei lhe obserbando |PLAYERNAME| quando este dia chegar!" />
+  </parameters>
+</npc>
