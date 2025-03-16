@@ -444,6 +444,16 @@ Attr_ReadValue Item::readAttr(AttrTypes_t attr, PropStream& propStream)
 			break;
 		}
 
+		case ATTR_RARITYNAME:
+		{
+			std::string rarity;
+			if(!propStream.getString(rarity))
+				return ATTR_READ_ERROR;
+
+			setAttribute("rarity", rarity);
+			break;
+		}
+
 		case ATTR_ARTICLE:
 		{
 			std::string article;
@@ -1450,6 +1460,32 @@ std::string Item::getDescription(const ItemType& it, int32_t lookDistance, const
 					s << ", ";
 
 				s << "speed " << std::showpos << (int32_t)(it.abilities->speed / 2) << std::noshowpos;
+			}
+			
+			if(it.abilities->manaGain)
+			{
+				if(begin)
+				{
+					begin = false;
+					s << " (";
+				}
+				else
+					s << ", ";
+
+				s << "mana gain " << std::showpos << (int32_t)(it.abilities->manaGain) << std::noshowpos;
+			}
+			
+			if(it.abilities->manaTicks)
+			{
+				if(begin)
+				{
+					begin = false;
+					s << " (";
+				}
+				else
+					s << ", ";
+
+				s << "mana ticks " << std::showpos << (int32_t)(it.abilities->manaTicks) << std::noshowpos;
 			}
 
 			if(it.abilities->invisible)

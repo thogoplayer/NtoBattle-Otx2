@@ -167,7 +167,7 @@ void ProtocolGame::spectate(const std::string& name, const std::string& password
 
 void ProtocolGame::sendFeatures()
 {
-	if (!otclientV8)
+/* 	if (!otclientV8)
 		return;
 
 	std::map<GameFeature, bool> features;
@@ -192,7 +192,25 @@ void ProtocolGame::sendFeatures()
 	for (auto& feature : features) {
 		msg->addByte((uint8_t)feature.first);
 		msg->addByte(feature.second ? 1 : 0);
-	}
+	} */
+	
+	if (!otclientV8)
+        return;
+
+    std::map<GameFeature, bool> features;
+
+    if (features.empty())
+        return;
+
+    auto msg = getOutputBuffer(1024);
+    msg->addByte(0x43);
+    msg->add<uint16_t>(features.size());
+    for (auto& feature : features) {
+        msg->addByte((uint8_t)feature.first);
+        msg->addByte(feature.second ? 1 : 0);
+    }
+
+    send(std::move(getCurrentBuffer())); // send this packet immediately
 }
 
 void ProtocolGame::sendPingBack()
@@ -2862,7 +2880,9 @@ void ProtocolGame::sendTextWindow(uint32_t windowTextId, Item* item, uint16_t ma
 	TRACK_MESSAGE(msg);
 	msg->addByte(0x96);
 	msg->add<uint32_t>(windowTextId);
-	msg->addItem(item);
+	//msg->addItem(item);
+	
+	msg->addItemTextWindow(item);
 	if(canWrite)
 	{
 		msg->add<uint16_t>(maxLen);

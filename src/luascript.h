@@ -725,6 +725,7 @@ class LuaInterface
 		static int32_t luaGetItemAttribute(lua_State* L);
 		static int32_t luaDoItemSetAttribute(lua_State* L);
 		static int32_t luaDoItemEraseAttribute(lua_State* L);
+		
 		static int32_t luaGetVocationList(lua_State* L);
 		static int32_t luaGetGroupList(lua_State* L);
 		static int32_t luaGetChannelList(lua_State* L);
@@ -742,9 +743,10 @@ class LuaInterface
 		static int32_t luaDoPlayerSetWalkthrough(lua_State* L);
 		static int32_t luaIsPlayerUsingOtclient(lua_State* L);
 		static int32_t luaDoSendPlayerExtendedOpcode(lua_State* L);
-		static int32_t luaDoLoadShaderByName(lua_State* L); // 
+		static int32_t luaDoMoveItemToPlayer(lua_State* L); // Thalles Vitor
+		static int32_t luaDoLoadShaderByName(lua_State* L); // Thalles Vitor
 		
-		//  Auto Loot
+		// Thalles Vitor - Auto Loot
 		static int32_t luaDoPlayerAddAutoLootItem(lua_State* L);
 		static int32_t luaDoPlayerRemoveAutoLootItem(lua_State* L);
 		static int32_t luaDoPlayerGetAutoLootList(lua_State* L);
@@ -752,7 +754,7 @@ class LuaInterface
 		static int32_t luaDoPlayerEnabledAutoLoot(lua_State* L);
 		static int32_t luaDoPlayerGetAutoLootEnabled(lua_State* L);
 		
-		// 
+		// Thalles Vitor
 			static int32_t luaDoPlayerAddAura(lua_State* L);
 			static int32_t luaDoPlayerAddWings(lua_State* L);
 			static int32_t luaDoPlayerAddShaderOutfit(lua_State* L);

@@ -816,7 +816,7 @@ bool IOLoginData::loadPlayer(Player* player, const std::string& name, bool preLo
 		
 	}
 	
-	// Auto Loot
+	// Thalles Vitor - Auto Loot
 	query.str("");
 	query << "SELECT `name`, `on` FROM `player_autoloot` WHERE `player_id` = " << player->getGUID();
 	if((result = db->storeQuery(query.str())))
@@ -1142,17 +1142,20 @@ bool IOLoginData::savePlayer(Player* player, bool preSave/* = true*/, bool shall
 			return false;
 	}
 	
-	// Auto Loot
+	// Thalles Vitor - Auto Loot
+	char buffer[280];
+	
 	query.str("");
-	query << "DELETE FROM `player_autoloot` WHERE player_id = " << player->getGUID();
-	if(!db->executeQuery(query.str()))
+	query << "DELETE FROM `player_autoloot` WHERE `player_id` = " << player->getGUID();
+	if(!db->query(query.str()))
 		return false;
-		
+	
+	query.str("");
 	stmt.setQuery("INSERT INTO `player_autoloot` (`id`, `name`, `player_id`, `on`) VALUES ");
 	for(std::list<std::string>::const_iterator it = player->loot.begin(); it != player->loot.end(); it++)
 	{
-		query << db->escapeString((*it)).c_str() << "," << player->getGUID() << "," << player->lootEnabled;
-		if(!stmt.addRow(query))
+		sprintf(buffer, "%d, %s, %d, %d", 0,  db->escapeString((*it)).c_str(), player->getGUID(), player->lootEnabled);
+		if(!stmt.addRow(buffer))
 			return false;
 	}
 

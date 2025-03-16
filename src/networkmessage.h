@@ -145,6 +145,7 @@ class NetworkMessage
 		// write functions for complex types
 		void addPosition(const Position& pos);
 		void addItem(uint16_t id, uint8_t count);
+		void addItemTextWindow(const Item* item); // Thalles
 		void addItem(const Item* item);
 		void addItemId(uint16_t itemId);
 

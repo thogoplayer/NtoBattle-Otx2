@@ -2586,6 +2586,9 @@ void LuaInterface::registerFunctions()
 
 	//doSendPlayerExtendedOpcode(cid, opcode, buffer)
 	lua_register(m_luaState, "doSendPlayerExtendedOpcode", LuaInterface::luaDoSendPlayerExtendedOpcode);
+
+	//doMoveItemToPlayer(cid, item)
+	lua_register(m_luaState, "doMoveItemToPlayer", LuaInterface::luaDoMoveItemToPlayer);
 	
 	//doPlayerAddAutoLootItem(cid, item_name)
 	lua_register(m_luaState, "doPlayerAddAutoLootItem", LuaInterface::luaDoPlayerAddAutoLootItem);
@@ -2602,7 +2605,7 @@ void LuaInterface::registerFunctions()
 	//getAutoLootEnabled(cid)
 	lua_register(m_luaState, "getAutoLootEnabled", LuaInterface::luaDoPlayerGetAutoLootEnabled);
 	
-	
+	// Thalles Vitor
 	
 		//doPlayerAddAura(cid, auraId)
 		lua_register(m_luaState, "doPlayerAddAura", LuaInterface::luaDoPlayerAddAura);
@@ -10489,7 +10492,52 @@ int32_t LuaInterface::luaDoSendPlayerExtendedOpcode(lua_State* L)
 	return 1;
 }
 
-// Auto Loot
+int32_t LuaInterface::luaDoMoveItemToPlayer(lua_State* L)
+{
+	//doMoveItemToPlayer(cid, item)
+	ScriptEnviroment* env = getEnv();
+	Item* item = env->getItemByUID(popNumber(L));
+	if(!item)
+	{
+		errorEx(getError(LUA_ERROR_ITEM_NOT_FOUND));
+		lua_pushnil(L);
+		return 1;
+	}
+
+	Player* player = env->getPlayerByUID(popNumber(L));
+	if(!player)
+	{
+		errorEx(getError(LUA_ERROR_PLAYER_NOT_FOUND));
+		lua_pushnil(L);
+		return 1;
+	}
+
+	if (player->getEnabledAutoLoot() == false) {
+		lua_pushboolean(L, false);
+		return 1;
+	}
+
+	for(std::list<std::string>::iterator it = player->loot.begin(); it != player->loot.end(); ++it) {
+		if((*it) == item->getName()) {
+			Container* container = item->getContainer();
+			if (!container) {
+				lua_pushnil(L);
+				return 1;
+			}
+
+			ReturnValue ret = g_game.internalMoveItem(NULL, container, player, INDEX_WHEREEVER, item, item->getSubType(), NULL, FLAG_NOLIMIT);
+			if (ret != RET_NOERROR) {
+				lua_pushboolean(L, false);
+				return 1;
+			}
+		}
+	}
+
+	lua_pushboolean(L, true);
+	return 1;
+}
+
+// Thalles Vitor - Auto Loot
 int32_t LuaInterface::luaDoPlayerAddAutoLootItem(lua_State* L)
 {
 	//doPlayerAddAutoLootItem(cid, item_name)
@@ -11601,6 +11649,7 @@ int32_t LuaInterface::luaGetItemInfo(lua_State* L)
 	setFieldBool(L, "closingDoor", item->closingDoor);
 	setField(L, "name", item->name.c_str());
 	setField(L, "plural", item->pluralName.c_str());
+	setField(L, "rarity", item->rarity.c_str());
 	setField(L, "article", item->article.c_str());
 	setField(L, "description", item->description.c_str());
 	setField(L, "runeSpellName", item->runeSpellName.c_str());

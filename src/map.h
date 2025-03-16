@@ -167,7 +167,7 @@ class Map
 		virtual ~Map() {}
 
 		static constexpr int32_t maxClientViewportX = 15; // +1 cuz otc is retarded
-		static constexpr int32_t maxClientViewportY = 10;
+		static constexpr int32_t maxClientViewportY = 11;
 		static constexpr int32_t maxViewportX = maxClientViewportX + 2;
 		static constexpr int32_t maxViewportY = maxClientViewportY + 2;
 

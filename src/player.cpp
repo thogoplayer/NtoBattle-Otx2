@@ -70,7 +70,7 @@ Player::Player(const std::string& _name, ProtocolGame_ptr p):
 	pvpBlessing = pzLocked = isConnecting = addAttackSkillPoint = requestedOutfit = outfitAttributes = sentChat = false;
 	saving = true;
 	
-	// Auto Loot
+	// Thalles Vitor - Auto Loot
 	lootEnabled = false;
 
 	is_spectating = false;
@@ -1342,7 +1342,7 @@ void Player::sendCancelMessage(ReturnValue message) const
 			break;
 
 		case RET_HOUSEPROTECTED:
-			sendCancel("Essa casa estï¿½ protegida, vocï¿½ nï¿½o pode mover ou jogar items!");
+			sendCancel("Essa casa está protegida, você não pode mover ou jogar items!");
 			break;
 
 		case RET_CREATUREDOESNOTEXIST:
@@ -6084,7 +6084,7 @@ void Player::sendCritical() const
 		g_game.addAnimatedText(getPosition(), COLOR_DARKRED, "CRITICAL!");
 }
 
-// Auto Loot
+// Thalles Vitor - Auto Loot
 void Player::addAutoLootItem(const std::string& name)
 {
     loot.push_front(name);

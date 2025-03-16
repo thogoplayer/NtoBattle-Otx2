@@ -169,7 +169,7 @@ class ItemType
 		uint32_t shootRange, charges, decayTime, attackSpeed, wieldInfo, minReqLevel, minReqMagicLevel,
 			worth, levelDoor, date;
 
-		std::string name, pluralName, article, description, text, writer, runeSpellName, vocationString;
+		std::string name, pluralName, rarity, article, description, text, writer, runeSpellName, vocationString;
 
 		Condition* condition;
 		Abilities* abilities;

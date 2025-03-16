@@ -114,6 +114,7 @@ enum AttrTypes_t
 	ATTR_SCRIPTPROTECTED = 42,
 	ATTR_DUALWIELD = 43,
 	ATTR_CRITICALHITCHANCE = 44,
+	ATTR_RARITYNAME = 45,
 	ATTR_ATTRIBUTE_MAP = 128
 };
 
@@ -251,6 +252,7 @@ class Item : virtual public Thing, public ItemAttributes
 
 		std::string getName() const;
 		std::string getPluralName() const;
+		std::string getRarityName() const;
 		std::string getArticle() const;
 
 		bool isScriptProtected() const;
@@ -384,6 +386,20 @@ inline std::string Item::getPluralName() const
 
 	return items[id].pluralName;
 }
+
+inline std::string Item::getRarityName() const
+{
+	bool ok;
+	std::string v = getStringAttribute("rarity", ok);
+	if(ok) //{
+		return v;
+	//} else {
+	//	return "commum";
+	//}
+
+	return items[id].rarity;
+}
+
 
 inline std::string Item::getArticle() const
 {

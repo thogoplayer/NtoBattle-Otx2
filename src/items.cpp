@@ -286,9 +286,10 @@ int32_t Items::loadFromOtb(std::string file)
 					if(!props.getShort(serverId))
 						return ERROR_INVALID_FORMAT;
 
-					if(serverId > 20000 && serverId < 20100)
-						serverId = serverId - 20000;
-					else if(lastId > 99 && lastId != serverId - 1)
+					/* if(serverId > 20000 && serverId < 20100)
+						serverId = serverId - 20000; */
+					
+					if(lastId > 99 && lastId != serverId - 1)
 					{
 						static ItemType dummyItemType;
 						while(lastId != serverId - 1)
@@ -550,14 +551,15 @@ void Items::parseItemNode(xmlNodePtr itemNode, uint32_t id)
 {
 	int32_t intValue;
 	std::string strValue;
-	if(id > 20000 && id < 20100)
+	
+	/* if(id > 20000 && id < 20100)
 	{
 		id -= 20000;
 		ItemType* iType = new ItemType();
 
 		iType->id = id;
 		items.addElement(iType, iType->id);
-	}
+	} */
 
 	bool override = readXMLString(itemNode, "override", strValue) && booleanString(strValue);
 	ItemType& it = Item::items.getItemType(id);

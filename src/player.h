@@ -766,7 +766,7 @@ class Player : public Creature, public Cylinder
 
 		void sendCritical() const;
 		
-		// Auto Loot
+		// Thalles Vitor - Auto Loot
 		void addAutoLootItem(const std::string& name);
 		void removeAutoLootItem(const std::string& name);
 
@@ -1067,7 +1067,7 @@ class Player : public Creature, public Cylinder
 		WarMap warMap;
 		
 		public:
-		// Auto Loot
+		// Thalles Vitor - Auto Loot
 			std::list<std::string> loot;
 			bool lootEnabled;
 

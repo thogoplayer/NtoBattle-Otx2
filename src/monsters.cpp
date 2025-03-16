@@ -226,7 +226,7 @@ void MonsterType::dropLoot(Container* corpse)
 	std::stringstream ss;
 	ss << "Loot of " << nameDescription << ": " << corpse->getContentDescription() << ".";
 
-	// Auto Loot
+	// Thalles Vitor - Auto Loot
 	std::list<Item*> waiting_list;
 	for(ContainerIterator it = corpse->begin(); it != corpse->end(); it++)
 	{

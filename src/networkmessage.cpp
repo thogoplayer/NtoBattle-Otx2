@@ -105,9 +105,25 @@ void NetworkMessage::addItem(uint16_t id, uint8_t count)
 	} else if (it.isSplash() || it.isFluidContainer()) {
 		addByte(fluidMap[count & 7]);
 	}
+	
+	addString(""); //esse rare é só pra mudar
 }
 
 void NetworkMessage::addItem(const Item* item)
+{
+	const ItemType& it = Item::items[item->getID()];
+
+	add<uint16_t>(it.clientId);
+	if (it.stackable) {
+		addByte(std::min<uint16_t>(0xFF, item->getItemCount()));
+	} else if (it.isSplash() || it.isFluidContainer()) {
+		addByte(fluidMap[item->getFluidType() & 7]);
+	}
+	addString(item->getRarityName()); // quando comenta essa linha aqui ele funciona só que fica tela preta e a raridade para
+	
+}
+
+void NetworkMessage::addItemTextWindow(const Item* item)
 {
 	const ItemType& it = Item::items[item->getID()];
 
@@ -123,4 +139,3 @@ void NetworkMessage::addItemId(uint16_t itemId)
 {
 	add<uint16_t>(Item::items[itemId].clientId);
 }
-

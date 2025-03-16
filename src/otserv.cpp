@@ -766,7 +766,7 @@ ServiceManager* services)
 	if(!Outfits::getInstance()->loadFromXml())
 		startupErrorMessage("Unable to load outfits!");
 	
-	//
+	// Thalles Vitor
 	std::clog << ">> Loading auras" << std::endl;
 	#if defined(WINDOWS) && !defined(_CONSOLE)
 	SendMessage(GUI::getInstance()->m_statusBar, WM_SETTEXT, 0, (LPARAM)">> Loading auras");
